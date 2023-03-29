@@ -1,1 +1,11 @@
-{}
+variables:
+  library_translation:
+    show: serie
+    artist: künstler
+    video: video
+    item: element
+    movie: film
+key_names:
+  action: Action
+  action_adventure: Action & Abenteuer
+  actors: Schauspieler
