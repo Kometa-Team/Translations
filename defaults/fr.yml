@@ -7,19 +7,24 @@ variables:
     item: article
   library_translation2:
     movie: film
-    artist: artiste
     show: émission
+    artist: artiste
     video: vidéo
+    item: article
   library_translation3:
     movie: film
     show: émission
     artist: artiste
+    video: vidéo
+    item: article
 key_names:
+  action: Action
   action_adventure: Action et Aventure
   actors: Acteurs et Actrices
   adult: Adulte
   adventure: Aventure
   albanian: Albanais
+  animation: Animation
   anime: Animé
   arabic: Arabes
   argentina: Argentine
@@ -27,12 +32,18 @@ key_names:
   australia: Australie
   austria: L'Autriche
   award: Prix
+  bahamas: Bahamas
+  basque: Basque
   belgium: Belgique
+  bengali: Bengali
   biography: Biographie
+  biopic: Biopic
+  book: Book
   bosnian: Bosniaque
   brazil: Brésil
   bulgaria: Bulgarie
   bulgarian: Bulgare
+  canada: Canada
   catalan: Catalans
   chart: Graphique
   children: Enfants
@@ -40,9 +51,12 @@ key_names:
   china: Chine
   chinese: Chinois
   christmas: Noël
+  comic: Comic
   comedy: La Comédie
   competition: Compétition
+  costa_rica: Costa Rica
   country: Pays
+  crime: Crime
   croatia: Croatie
   croatian: Croate
   czech: Tchèques
@@ -65,21 +79,27 @@ key_names:
   fantasy: Fantaisies
   fathers_day: Fête des pères
   filipino: Philippins
+  film_noir: Film Noir
   finland: Finlande
   finnish: Finnois
   food: Aliments
+  france: France
   french: Français
   galician: Galiciens
   game_show: Jeu télévisé
   gangster: Bandit
+  genre: Genre
   georgian: Géorgien
   german: Allemands
   germany: Allemagne
   greece: Grèce
   greek: Grecs
+  halloween: Halloween
   hebrew: Hébreu
+  hindi: Hindi
   history: Historiques
   home_and_garden: Maison et jardin
+  hong_kong: Hong Kong
   horror: Horreur
   hungarian: Hongrois
   hungary: Hongrie
@@ -97,14 +117,20 @@ key_names:
   italy: Italie
   japan: Japon
   japanese: Japonais
+  kannada: Kannada
+  kazakh: Kazakh
   kids: Des gamins
   korea: Corée
   korean: Coréens
+  lgbtq: LGBTQ+
   labor_day: Fête du travail
+  latin: Latin
   latvia: Lettonie
   latvian: Letton
+  luxembourg: Luxembourg
   macedonian: Macédonien
   malay: Malais
+  malayalam: Malayalam
   malaysia: Malaisie
   malaysian: Malaisien
   marathi: Marathe
@@ -130,8 +156,11 @@ key_names:
   norwegian: Norvégiens
   norwegian_bokmål: Norvégien Bokmål
   norwegian_nynorsk: Norvégien Nynorsk
+  pakistan: Pakistan
+  panama: Panama
   persian: Persane
   peru: Pérou
+  philippines: Philippines
   poland: Pologne
   polish: Polonais
   politics: Politique
@@ -140,6 +169,7 @@ key_names:
   portuguese: Portugais
   producers: Producteurs et Productrices
   punjabi: Pendjabi
+  qatar: Qatar
   ratings: Notes
   reality: Réalité
   resolution: Résolution
@@ -158,18 +188,23 @@ key_names:
   serbian: Serbe
   short: Court Métrage
   singapore: Singapour
+  slasher: Slasher
   slovak: Slovaques
   slovenian: Slovène
   soap: Feuilleton
   south_africa: Afrique du Sud
   spain: Espagne
   spanish: Espagnols
+  sport: Sport
+  sri_lanka: Sri Lanka
   st_patricks_day: Le jour de la Saint-Patrick
   stand-up_comedy: Comédie debout
   streaming: Diffusion
+  studio: Studio
   subtitle_language: Langue des sous-titres
   superhero: Super-héros
   suspense: Le Suspense
+  swahili: Swahili
   sweden: Suède
   swedish: Suédois
   switzerland: Suisse
@@ -183,8 +218,10 @@ key_names:
   thanksgiving: Action de grâces
   thriller: Suspense
   travel: Voyager
+  true_story: True Story
   turkey: Turquie
   turkish: Turcs
+  ukraine: Ukraine
   ukrainian: Ukrainien
   united_arab_emirates: Emirats Arabes Unis
   united_kingdom: Royaume-Uni
@@ -192,6 +229,7 @@ key_names:
   universe: Univers
   urdu: Ourdou
   valentines_day: La Saint-Valentin
+  video_game: Video Game
   vietnam: Viêt Nam
   vietnamese: Vietnamien
   war_politics: Guerre & Politique

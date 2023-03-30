@@ -5,6 +5,18 @@ variables:
     artist: artista
     video: video
     item: artículo
+  library_translation2:
+    movie: pelicula
+    show: serie
+    artist: artista
+    video: video
+    item: artículo
+  library_translation3:
+    movie: pelicula
+    show: serie
+    artist: artista
+    video: video
+    item: artículo
 key_names:
   action: Acción
   action_adventure: Acción y Aventura
@@ -20,20 +32,26 @@ key_names:
   australia: Australia
   austria: Austria
   award: Premio
+  bahamas: Bahamas
   basque: Vasco
   belgium: Bélgica
   bengali: Bengalí
   biography: Biografía
   biopic: Biográfica
+  book: Book
   bosnian: Bosnia
   brazil: Brasil
+  bulgaria: Bulgaria
   bulgarian: Búlgaro
   canada: Canadá
   catalan: Catalán
   chart: Gráfico
   children: Niños
+  chile: Chile
+  china: China
   chinese: Chino
   christmas: Navidad
+  comic: Comic
   comedy: Comedia
   competition: Competición
   costa_rica: Costa Rica
@@ -49,15 +67,18 @@ key_names:
   directors: Directores
   documentary: Documental
   dominican_republic: República Dominicana
+  drama: Drama
   dutch: Holandés
   easter: Pascua
   egypt: Egipto
   english: Inglés
   erotica: Erótica
+  estonia: Estonia
   estonian: Estonio
   family: Familia
   fantasy: Fantasía
   fathers_day: Día del Padre
+  filipino: Filipino
   film_noir: Cine Negro
   finland: Finlandia
   finnish: Filandés
@@ -73,19 +94,27 @@ key_names:
   germany: Alemania
   greece: Grecia
   greek: Griego
+  halloween: Halloween
   hebrew: Hebreo
+  hindi: Hindi
   history: Historia
   home_and_garden: Hogar y Jardín
+  hong_kong: Hong Kong
+  horror: Horror
   hungarian: Húngaro
   hungary: Hungría
   iceland: Islandía
   icelandic: Islandés
   independence_day: Día de la Independencía
+  india: India
   indie: Indio
+  indonesia: Indonesia
   indonesian: Indonesio
   iran: Irán
   ireland: Irlanda
+  israel: Israel
   italian: Italiano
+  italy: Italy
   japan: Japón
   japanese: Japonés
   kannada: Canadá
@@ -93,6 +122,7 @@ key_names:
   kids: Niños
   korea: Corea
   korean: Coreano
+  lgbtq: LGBTQ+
   labor_day: Día del Trabajador
   latin: Latino
   latvia: Letonia
@@ -100,6 +130,7 @@ key_names:
   luxembourg: Luxemburgo
   macedonian: Macedónio
   malay: Malayo
+  malayalam: Malayalam
   malaysia: Malasia
   malaysian: Malasio
   marathi: Marati
@@ -142,6 +173,7 @@ key_names:
   ratings: Calificaciones
   reality: Realidad
   resolution: Resolución
+  romance: Romance
   romania: Rumanía
   romanian: Rumano
   romantic_comedy: Comedia Romántica
@@ -156,6 +188,7 @@ key_names:
   serbian: Serbio
   short: Corto
   singapore: Singapur
+  slasher: Slasher
   slovak: Eslovaco
   slovenian: Esloveno
   soap: Telenovela
@@ -163,11 +196,14 @@ key_names:
   spain: España
   spanish: Español
   sport: Deporte
+  sri_lanka: Sri Lanka
   st_patricks_day: Día de San Patricio
   stand-up_comedy: Comedia en Vivo
+  streaming: Streaming
   studio: Estudio
   subtitle_language: Idioma Subtítulos
   superhero: Superhéroe
+  suspense: Suspense
   swahili: Suajilí
   sweden: Suecia
   swedish: Sueco
@@ -175,11 +211,14 @@ key_names:
   sword_sorcery: Espada y Hechicería
   tv_movie: Telefilme
   talk_show: Programa de Entrevistas
+  tamil: Tamil
   telugu: Télugu
   thai: Tailandés
   thailand: Thailandia
   thanksgiving: Acción de Gracias
+  thriller: Thriller
   travel: Viajar
+  true_story: True Story
   turkey: Turquía
   turkish: Turco
   ukraine: Ucrania
@@ -188,7 +227,9 @@ key_names:
   united_kingdom: Reino Unido
   united_states_of_america: Estados Unidos de América
   universe: Universo
+  urdu: Urdu
   valentines_day: Día de San Valentín
+  video_game: Video Game
   vietnam: Vietnam
   vietnamese: Vietnamita
   war_politics: Guerra y Política

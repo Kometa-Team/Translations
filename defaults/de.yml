@@ -18,21 +18,27 @@ variables:
     video: videos
     item: elementen
 key_names:
+  action: Action
   action_adventure: Action & Abenteuer
   actors: Schauspieler
   adult: Erwachsen
   adventure: Abenteuer
   albanian: Albanisch
+  animation: Animation
+  anime: Anime
   arabic: Arabisch
   argentina: Argentinien
   audio_language: Audiosprache
   australia: Australien
   austria: Österreich
   award: Auszeichnung
+  bahamas: Bahamas
   basque: Baskisch
   belgium: Belgien
   bengali: Bengalisch
   biography: Biografie
+  biopic: Biopic
+  book: Book
   bosnian: Bosnisch
   brazil: Brasilien
   bulgaria: Bulgarien
@@ -41,10 +47,14 @@ key_names:
   catalan: Katalanisch
   chart: Rangliste
   children: Kinder
+  chile: Chile
+  china: China
   chinese: Chinesisch
   christmas: Weihnachten
+  comic: Comic
   comedy: Komödie
   competition: Wettbewerb
+  costa_rica: Costa Rica
   country: Land
   crime: Verbrechen
   croatia: Kroatien
@@ -57,15 +67,19 @@ key_names:
   directors: Regisseure
   documentary: Dokumentation
   dominican_republic: Dominikanische Republik
+  drama: Drama
   dutch: Niederländisch
   easter: Ostern
   egypt: Ägypten
   english: Englisch
+  erotica: Erotica
   estonia: Estland
   estonian: Estnisch
   family: Familie
+  fantasy: Fantasy
   fathers_day: Vatertag
   filipino: Philippinisch
+  film_noir: Film Noir
   finland: Finnland
   finnish: Finnisch
   food: Essen
@@ -73,29 +87,42 @@ key_names:
   french: Französisch
   galician: Galicisch
   game_show: Spielshow
+  gangster: Gangster
+  genre: Genre
   georgian: Georgisch
   german: Deutsch
   germany: Deutschland
   greece: Griechenland
   greek: Griechisch
+  halloween: Halloween
   hebrew: Hebräisch
+  hindi: Hindi
   history: Historie
   home_and_garden: Heim und Garten
+  hong_kong: Hong Kong
+  horror: Horror
   hungarian: Ungarisch
   hungary: Ungarn
   iceland: Island
   icelandic: Isländisch
   independence_day: Amerikanischer Unabhängigkeitstag
   india: Indien
+  indie: Indie
   indonesia: Indonesien
   indonesian: Indonesisch
+  iran: Iran
   ireland: Irland
+  israel: Israel
   italian: Italienisch
   italy: Italien
+  japan: Japan
   japanese: Japanisch
+  kannada: Kannada
   kazakh: Kazachisch
   kids: Kinder
+  korea: Korea
   korean: Koreanisch
+  lgbtq: LGBTQ+
   labor_day: Tag der Arbeit
   latin: Lateinisch
   latvia: Lettland
@@ -103,14 +130,22 @@ key_names:
   luxembourg: Luxemburg
   macedonian: Mazedonisch
   malay: Malaiisch
+  malayalam: Malayalam
+  malaysia: Malaysia
   malaysian: Malaysisch
+  marathi: Marathi
   martial_arts: Kampfkünste
   memorial_day: Volkstrauertag
   mexico: Mexiko
+  mind_bend: Mind-Bend
+  mind_fuck: Mind-Fuck
   mini_series: Mini-Serien
   morocco: Marokko
   mothers_day: Muttertag
   music: Musik
+  musical: Musical
+  mystery: Mystery
+  nepal: Nepal
   netherlands: Niederlande
   network: Netzwerk
   new_years_day: Neujahrstag
@@ -121,14 +156,20 @@ key_names:
   norwegian: Norwegisch
   norwegian_bokmål: Bokmål
   norwegian_nynorsk: Nynorsk
+  pakistan: Pakistan
+  panama: Panama
   persian: Persisch
+  peru: Peru
   philippines: Philippinen
   poland: Polen
   polish: Polnisch
   politics: Politik
+  portugal: Portugal
   portugese: Portugiesisch
   portuguese: Portugiesisch
   producers: Produzenten
+  punjabi: Punjabi
+  qatar: Qatar
   ratings: Bewertungen
   reality: Realität
   resolution: Auflösung
@@ -140,16 +181,26 @@ key_names:
   russia: Russland
   russian: Russisch
   saudi_arabia: Saudi-Arabien
+  sci-fi_&_fantasy: Sci-Fi & Fantasy
+  science_fiction: Science Fiction
   seasonal: Saisonal
   serbia: Serbien
   serbian: Serbisch
   short: Kurz
   singapore: Singapur
+  slasher: Slasher
   slovak: Slowakisch
   slovenian: Slowenisch
+  soap: Soap
   south_africa: Südafrika
   spain: Spanien
   spanish: Spanisch
+  sport: Sport
+  sri_lanka: Sri Lanka
+  st_patricks_day: St. Patrick's Day
+  stand-up_comedy: Stand-Up Comedy
+  streaming: Streaming
+  studio: Studio
   subtitle_language: Untertitelsprache
   superhero: Superheld
   suspense: Spannung
@@ -159,20 +210,31 @@ key_names:
   switzerland: Schweiz
   sword_sorcery: Schwert & Zauberei
   tv_movie: TV Film
+  talk_show: Talk Show
   tamil: Tamilisch
+  telugu: Telugu
+  thai: Thai
+  thailand: Thailand
   thanksgiving: Erntedankfest
+  thriller: Thriller
   travel: Reise
+  true_story: True Story
   turkey: Türkei
   turkish: Türkisch
+  ukraine: Ukraine
   ukrainian: Ukrainisch
   united_arab_emirates: Vereinigte Arabische Emirate
   united_kingdom: Vereinigtes Königreich
   united_states_of_america: Vereinigte Staaten von Amerika
   universe: Universum
+  urdu: Urdu
   valentines_day: Valentinstag
+  video_game: Video Game
+  vietnam: Vietnam
   vietnamese: Vietnamesisch
   war_politics: Krieg & Politik
   welsh: Walisisch
+  western: Western
   writers: Autoren
   year: Jahr
 collections:

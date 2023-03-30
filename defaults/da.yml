@@ -5,6 +5,18 @@ variables:
     artist: kunster
     video: video
     item: artikel
+  library_translation2:
+    movie: film
+    show: serie
+    artist: kunster
+    video: video
+    item: artikel
+  library_translation3:
+    movie: film
+    show: serie
+    artist: kunster
+    video: video
+    item: artikel
 key_names:
   action: Aktion
   action_adventure: Aktion & Eventyr
@@ -12,27 +24,37 @@ key_names:
   adult: Voksen
   adventure: Eventyr
   albanian: Albansk
+  animation: Animation
+  anime: Anime
   arabic: Arabisk
+  argentina: Argentina
   audio_language: Lydsprog
   australia: Australien
   austria: Østrig
   award: Pris
+  bahamas: Bahamas
   basque: Baskisk
   belgium: Belgien
   bengali: Bengalsk
   biography: Biografi
+  biopic: Biopic
+  book: Book
   bosnian: Bosnien
   brazil: Brasilien
   bulgaria: Bulgarien
   bulgarian: Bulgarsk
+  canada: Canada
   catalan: Catalansk
   chart: Hitliste
   children: Børn
+  chile: Chile
   china: Kina
   chinese: Kinesisk
   christmas: Jule
+  comic: Comic
   comedy: Komedie
   competition: Konkurrence
+  costa_rica: Costa Rica
   country: Land
   crime: Krimi
   croatia: Kroatien
@@ -45,6 +67,7 @@ key_names:
   directors: Instruktør
   documentary: Dokumentar
   dominican_republic: Den Dominikanske Republik
+  drama: Drama
   dutch: Hollandsk
   easter: Påske
   egypt: Egypten
@@ -56,19 +79,27 @@ key_names:
   fantasy: Fantasi
   fathers_day: Fars dag
   filipino: Filippinsk
+  film_noir: Film Noir
+  finland: Finland
   finnish: Finsk
   food: Mad
   france: Frankrig
   french: Fransk
   galician: Galicisk
+  game_show: Game Show
+  gangster: Gangster
+  genre: Genre
   georgian: Georgisk
   german: Tysk
   germany: Tyskland
   greece: Grækenland
   greek: Græsk
+  halloween: Halloween
   hebrew: Hebraisk
+  hindi: Hindi
   history: Historie
   home_and_garden: Hjem og Have
+  hong_kong: Hong Kong
   horror: Gyser
   hungarian: Ungarsk
   hungary: Ungarn
@@ -76,46 +107,71 @@ key_names:
   icelandic: Islandsk
   independence_day: Uafhængighedsdagen
   india: Indien
+  indie: Indie
   indonesia: Indonesien
   indonesian: Indonesisk
+  iran: Iran
   ireland: Irland
+  israel: Israel
   italian: Italiensk
   italy: Italien
+  japan: Japan
   japanese: Japansk
+  kannada: Kannada
   kazakh: Kasakhisk
   kids: Børn
+  korea: Korea
   korean: Koreansk
+  lgbtq: LGBTQ+
   labor_day: Labor Day
+  latin: Latin
   latvia: Letland
   latvian: Lettisk
+  luxembourg: Luxembourg
   macedonian: Makedonsk
   malay: Malaysisk
+  malayalam: Malayalam
+  malaysia: Malaysia
   malaysian: Malaysia
+  marathi: Marathi
   martial_arts: Kampsport
+  memorial_day: Memorial Day
+  mexico: Mexico
+  mind_bend: Mind-Bend
+  mind_fuck: Mind-Fuck
   mini_series: Mini-Serie
   morocco: Marokko
   mothers_day: Mors dag
   music: Musik
   musical: Musikalsk
   mystery: Mysterie
+  nepal: Nepal
   netherlands: Holland
   network: Netværk
   new_years_day: Nytårsdag
+  new_zealand: New Zealand
   news: Nyheder
   news_politics: Nyheder & Politik
   norway: Norge
   norwegian: Norsk
   norwegian_bokmål: Norsk Bokmål
   norwegian_nynorsk: Norsk Nynorsk
+  pakistan: Pakistan
+  panama: Panama
   persian: Persisk
+  peru: Peru
   philippines: Filippinerne
   poland: Polen
   polish: Polsk
   politics: Politik
+  portugal: Portugal
   portugese: Portugisisk
   portuguese: Portugisisk
   producers: Producenter
+  punjabi: Punjabi
+  qatar: Qatar
   ratings: Bedømmelser
+  reality: Reality
   resolution: Opløsning
   romance: Romantik
   romania: Rumænien
@@ -126,10 +182,12 @@ key_names:
   russian: Russisk
   saudi_arabia: Saudi Arabien
   sci-fi_&_fantasy: Sci-Fi & Fantasi
+  science_fiction: Science Fiction
   seasonal: Sæson
   serbia: Serbien
   serbian: Serbisk
   short: Kort
+  singapore: Singapore
   slasher: Splatter
   slovak: Slovakisk
   slovenian: Slovensk
@@ -137,28 +195,46 @@ key_names:
   south_africa: Sydafrika
   spain: Spanien
   spanish: Spansk
+  sport: Sport
+  sri_lanka: Sri Lanka
+  st_patricks_day: St. Patrick's Day
   stand-up_comedy: Stand-Up Komedie
+  streaming: Streaming
   studio: Studie
   subtitle_language: Undertekstsprog
   superhero: Superhelt
   suspense: Spænding
+  swahili: Swahili
   sweden: Sverige
   swedish: Svensk
   switzerland: Schweiz
   sword_sorcery: Sværd & Magi
   tv_movie: TV Film
   talk_show: Talkshow
+  tamil: Tamil
+  telugu: Telugu
+  thai: Thai
+  thailand: Thailand
+  thanksgiving: Thanksgiving
+  thriller: Thriller
   travel: Rejse
+  true_story: True Story
   turkey: Tyrkiet
   turkish: Tyrkisk
+  ukraine: Ukraine
   ukrainian: Ukrainsk
   united_arab_emirates: Forenede Arabiske Emirater
+  united_kingdom: United Kingdom
   united_states_of_america: Amerikas Forenede Stater
   universe: Univers
+  urdu: Urdu
   valentines_day: Valentinsdag
+  video_game: Video Game
+  vietnam: Vietnam
   vietnamese: Vietnamesisk
   war_politics: Krig & Politik
   welsh: Walisisk
+  western: Western
   writers: Forfattere
   year: År
 collections:

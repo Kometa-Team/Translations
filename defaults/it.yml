@@ -25,6 +25,8 @@ key_names:
   belgium: Belgio
   bengali: Bengalese
   biography: Biografia
+  biopic: Biopic
+  book: Book
   bosnian: Bosniaco
   brazil: Brasile
   bulgaria: Bulgaria
@@ -37,6 +39,7 @@ key_names:
   china: Cina
   chinese: Cinese
   christmas: Natale
+  comic: Comic
   comedy: Commedia
   competition: Concorso
   costa_rica: Costa Rica
@@ -64,12 +67,14 @@ key_names:
   fantasy: Fantasia
   fathers_day: La Festa del Papà
   filipino: Filippino
+  film_noir: Film Noir
   finland: Finlandia
   finnish: Finlandese
   food: Cibo
   france: Francia
   french: Francese
   galician: Galiziano
+  game_show: Game Show
   gangster: Gangster
   genre: Genere
   georgian: Georgiano
@@ -100,18 +105,23 @@ key_names:
   italy: Italia
   japan: Giappone
   japanese: Giapponese
+  kannada: Kannada
   kazakh: Kazako
   kids: Bambini
   korea: Corea
   korean: Coreano
+  lgbtq: LGBTQ+
   labor_day: La Festa del Lavoro
   latin: Latino
   latvia: Lettonia
   latvian: Lettone
   luxembourg: Lussemburgo
   macedonian: Macedone
+  malay: Malay
+  malayalam: Malayalam
   malaysia: Malesia
   malaysian: Malese
+  marathi: Marathi
   martial_arts: Arti marziali
   memorial_day: Giorno della Memoria
   mexico: Messico
@@ -132,6 +142,8 @@ key_names:
   news_politics: Notizie e Politica
   norway: Norvegia
   norwegian: Norvegese
+  norwegian_bokmål: Norwegian Bokmål
+  norwegian_nynorsk: Norwegian Nynorsk
   pakistan: Pakistan
   panama: Panama
   persian: Persiano
@@ -144,6 +156,7 @@ key_names:
   portugese: Portoghese
   portuguese: Portoghese
   producers: Produttori
+  punjabi: Punjabi
   qatar: Qatar
   ratings: Valutazioni
   reality: Realtà
@@ -163,8 +176,10 @@ key_names:
   serbian: Serbo
   short: Breve
   singapore: Singapore
+  slasher: Slasher
   slovak: Slovacco
   slovenian: Sloveno
+  soap: Soap
   south_africa: Sudafrica
   spain: Spagna
   spanish: Spagnolo
@@ -191,6 +206,7 @@ key_names:
   thanksgiving: Ringraziamento
   thriller: Thriller
   travel: Viaggio
+  true_story: True Story
   turkey: Tacchino
   turkish: Turchia
   ukraine: Ucraina
@@ -201,6 +217,7 @@ key_names:
   universe: Universo
   urdu: Urdu
   valentines_day: San Valentino
+  video_game: Video Game
   vietnam: Vietnam
   vietnamese: Vietnamita
   war_politics: Guerra e Politica

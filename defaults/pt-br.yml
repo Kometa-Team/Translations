@@ -13,15 +13,20 @@ key_names:
   adventure: Aventura
   albanian: Albanês
   animation: Animação
+  anime: Anime
   arabic: Árabe
+  argentina: Argentina
   audio_language: Idioma de áudio
   australia: Austrália
   austria: Áustria
   award: Prêmio
+  bahamas: Bahamas
   basque: Basco
   belgium: Bélgica
+  bengali: Bengali
   biography: Biografia
   biopic: Filme biográfico
+  book: Book
   bosnian: Bósnia
   brazil: Brasil
   bulgaria: Bulgária
@@ -30,11 +35,16 @@ key_names:
   catalan: Catalão
   chart: Lista
   children: Crianças
+  chile: Chile
+  china: China
   chinese: chinês
   christmas: Natal
+  comic: Comic
   comedy: Comédia
   competition: Competição
+  costa_rica: Costa Rica
   country: País
+  crime: Crime
   croatia: Croácia
   croatian: Croata
   czech: Tcheco
@@ -45,6 +55,7 @@ key_names:
   directors: Diretores
   documentary: Documentário
   dominican_republic: República Dominicana
+  drama: Drama
   dutch: Holandês
   easter: Páscoa
   egypt: Egito
@@ -55,6 +66,8 @@ key_names:
   family: Família
   fantasy: Fantasia
   fathers_day: Dia dos Pais
+  filipino: Filipino
+  film_noir: Film Noir
   finland: Finlândia
   finnish: Finlandês
   food: Comida
@@ -69,19 +82,25 @@ key_names:
   germany: Alemanha
   greece: Grécia
   greek: Grego
+  halloween: Halloween
   hebrew: Hebraico
+  hindi: Hindi
   history: História
   home_and_garden: Casa e Jardim
+  hong_kong: Hong Kong
+  horror: Horror
   hungarian: Húngaro
   hungary: Hungria
   iceland: Islândia
   icelandic: Islandês
   independence_day: Dia da Independência
   india: Índia
+  indie: Indie
   indonesia: Indonésia
   indonesian: Indonésio
   iran: Irã
   ireland: Iraniano
+  israel: Israel
   italian: Italiano
   italy: Itália
   japan: Japão
@@ -91,6 +110,7 @@ key_names:
   kids: Crianças
   korea: Coréia
   korean: Coreano
+  lgbtq: LGBTQ+
   labor_day: Dia do Trabalho
   latin: latim
   latvia: Letônia
@@ -101,13 +121,21 @@ key_names:
   malayalam: Malaiala
   malaysia: Malásia
   malaysian: Malaio
+  marathi: Marathi
   martial_arts: Artes marciais
   memorial_day: Dia da Recordação
+  mexico: Mexico
+  mind_bend: Mind-Bend
+  mind_fuck: Mind-Fuck
+  mini_series: Mini-Series
   morocco: Marrocos
   mothers_day: Dia das Mães
   music: Música
+  musical: Musical
   mystery: Mistério
+  nepal: Nepal
   netherlands: Holanda
+  network: Network
   new_years_day: 1º dia do Ano
   new_zealand: Nova Zelândia
   news: Notícia
@@ -119,17 +147,21 @@ key_names:
   pakistan: Paquistão
   panama: Panamá
   persian: Persa
+  peru: Peru
   philippines: Filipinos
   poland: Polônia
   polish: Polonês
   politics: Político
+  portugal: Portugal
   portugese: Português
   portuguese: Português
   producers: Produtores
+  punjabi: Punjabi
   qatar: Catar
   ratings: Classificações
   reality: Realidade
   resolution: Resolução
+  romance: Romance
   romania: Romênia
   romanian: Romeno
   romantic_comedy: Comédia romântica
@@ -144,6 +176,7 @@ key_names:
   serbian: Sérvio
   short: Curto
   singapore: Cingapura
+  slasher: Slasher
   slovak: Eslovaco
   slovenian: esloveno
   soap: Sabão
@@ -151,11 +184,14 @@ key_names:
   spain: Espanha
   spanish: Espanhol
   sport: Esporte
+  sri_lanka: Sri Lanka
   st_patricks_day: Dia de São Patrício
   stand-up_comedy: Comédia em Pé
+  streaming: Streaming
   studio: Estúdio
   subtitle_language: Idioma das legendas
   superhero: Super heroi
+  suspense: Suspense
   swahili: suaíli
   sweden: Suécia
   swedish: Sueco
@@ -164,19 +200,24 @@ key_names:
   tv_movie: Filme para TV
   talk_show: Programa de entrevista
   tamil: Tâmil
+  telugu: Telugu
   thai: Tailandês
   thailand: Tailândia
   thanksgiving: Ação de Graças
   thriller: Filme de ação
   travel: Viagem
+  true_story: True Story
   turkey: Turquia
+  turkish: Turkish
   ukraine: Ucrânia
   ukrainian: Ucraniano
   united_arab_emirates: Emirados Árabes Unidos
   united_kingdom: Reino Unido
   united_states_of_america: Estados Unidos da América
   universe: Universo
+  urdu: Urdu
   valentines_day: Dia de São Valentim
+  video_game: Video Game
   vietnam: Vietnã
   vietnamese: Vietnamita
   war_politics: Guerra e Política
