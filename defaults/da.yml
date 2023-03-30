@@ -1,0 +1,412 @@
+variables:
+  library_translation:
+    movie: film
+    show: serie
+    artist: kunster
+    video: video
+    item: artikel
+key_names:
+  action: Aktion
+  action_adventure: Aktion & Eventyr
+  actors: Skuespillere
+  adult: Voksen
+  adventure: Eventyr
+  albanian: Albansk
+  arabic: Arabisk
+  audio_language: Lydsprog
+  australia: Australien
+  austria: Østrig
+  award: Pris
+  basque: Baskisk
+  belgium: Belgien
+  bengali: Bengalsk
+  biography: Biografi
+  bosnian: Bosnien
+  brazil: Brasilien
+  bulgaria: Bulgarien
+  bulgarian: Bulgarsk
+  catalan: Catalansk
+  chart: Hitliste
+  children: Børn
+  china: Kina
+  chinese: Kinesisk
+  christmas: Jule
+  comedy: Komedie
+  competition: Konkurrence
+  country: Land
+  crime: Krimi
+  croatia: Kroatien
+  croatian: Kroatisk
+  czech: Tjekkisk
+  czech_republic: Tjekkiet
+  danish: Dansk
+  decade: Årti
+  denmark: Danmark
+  directors: Instruktør
+  documentary: Dokumentar
+  dominican_republic: Den Dominikanske Republik
+  dutch: Hollandsk
+  easter: Påske
+  egypt: Egypten
+  english: Engelsk
+  erotica: Erotik
+  estonia: Estland
+  estonian: Estisk
+  family: Familie
+  fantasy: Fantasi
+  fathers_day: Fars dag
+  filipino: Filippinsk
+  finnish: Finsk
+  food: Mad
+  france: Frankrig
+  french: Fransk
+  galician: Galicisk
+  georgian: Georgisk
+  german: Tysk
+  germany: Tyskland
+  greece: Grækenland
+  greek: Græsk
+  hebrew: Hebraisk
+  history: Historie
+  home_and_garden: Hjem og Have
+  horror: Gyser
+  hungarian: Ungarsk
+  hungary: Ungarn
+  iceland: Island
+  icelandic: Islandsk
+  independence_day: Uafhængighedsdagen
+  india: Indien
+  indonesia: Indonesien
+  indonesian: Indonesisk
+  ireland: Irland
+  italian: Italiensk
+  italy: Italien
+  japanese: Japansk
+  kazakh: Kasakhisk
+  kids: Børn
+  korean: Koreansk
+  labor_day: Labor Day
+  latvia: Letland
+  latvian: Lettisk
+  macedonian: Makedonsk
+  malay: Malaysisk
+  malaysian: Malaysia
+  martial_arts: Kampsport
+  mini_series: Mini-Serie
+  morocco: Marokko
+  mothers_day: Mors dag
+  music: Musik
+  musical: Musikalsk
+  mystery: Mysterie
+  netherlands: Holland
+  network: Netværk
+  new_years_day: Nytårsdag
+  news: Nyheder
+  news_politics: Nyheder & Politik
+  norway: Norge
+  norwegian: Norsk
+  norwegian_bokmål: Norsk Bokmål
+  norwegian_nynorsk: Norsk Nynorsk
+  persian: Persisk
+  philippines: Filippinerne
+  poland: Polen
+  polish: Polsk
+  politics: Politik
+  portugese: Portugisisk
+  portuguese: Portugisisk
+  producers: Producenter
+  ratings: Bedømmelser
+  resolution: Opløsning
+  romance: Romantik
+  romania: Rumænien
+  romanian: Rumænsk
+  romantic_comedy: Romantisk komedie
+  romantic_drama: Romantisk drama
+  russia: Rusland
+  russian: Russisk
+  saudi_arabia: Saudi Arabien
+  sci-fi_&_fantasy: Sci-Fi & Fantasi
+  seasonal: Sæson
+  serbia: Serbien
+  serbian: Serbisk
+  short: Kort
+  slasher: Splatter
+  slovak: Slovakisk
+  slovenian: Slovensk
+  soap: Sæbe
+  south_africa: Sydafrika
+  spain: Spanien
+  spanish: Spansk
+  stand-up_comedy: Stand-Up Komedie
+  studio: Studie
+  subtitle_language: Undertekstsprog
+  superhero: Superhelt
+  suspense: Spænding
+  sweden: Sverige
+  swedish: Svensk
+  switzerland: Schweiz
+  sword_sorcery: Sværd & Magi
+  tv_movie: TV Film
+  talk_show: Talkshow
+  travel: Rejse
+  turkey: Tyrkiet
+  turkish: Tyrkisk
+  ukrainian: Ukrainsk
+  united_arab_emirates: Forenede Arabiske Emirater
+  united_states_of_america: Amerikas Forenede Stater
+  universe: Univers
+  valentines_day: Valentinsdag
+  vietnamese: Vietnamesisk
+  war_politics: Krig & Politik
+  welsh: Walisisk
+  writers: Forfattere
+  year: År
+collections:
+  bafta_best:
+    name: BAFTA Bedste Film
+    summary: British Academy of Film and Television Arts vindere af bedste film.
+  bafta_year:
+    name: BAFTA <<key_name>>
+    summary: <<key_name>> BAFTA Priser.
+  cannes_best:
+    name: Cannes Vindere Af De Gyldne Palmer
+    summary: Vindere af Cannes Gyldne Palmer.
+  cannes_year:
+    name: Cannes <<key_name>>
+    summary: <<key_name>> Cannes Priser.
+  choice_year:
+    name: Critics Choice Awards <<key_name>>
+    summary: <<key_name>> Critics Choice Awards.
+  emmy_year:
+    name: Emmy <<key_name>>
+    summary: <<key_name>> Emmy Vindere.
+  golden_picture:
+    name: Golden Globes Vindere af Bedste Film
+    summary: Golden Globes Vindere af Bedste Film.
+  golden_director:
+    name: Golden Globes Vindere af Bedste Instruktør
+    summary: Golden Globes Vindere af Bedste Instruktør.
+  golden_year:
+    name: Golden Globe <<key_name>>
+    summary: <<key_name>> Golden Globe Vindere.
+  oscars_picture:
+    name: Oscar Vindere Af Bedste Film
+    summary: Akademiets Pris for Bedste Film er en af Akademiets Priser der gives
+      årligt af Academy of Motion Picture Arts and Sciences siden debuten i 1929.
+  oscars_director:
+    name: Oscar Vindere Af Bedste Instruktør
+    summary: Akademiets Pris for Bedste Instruktør er en af Akademiets Priser der
+      gives årligt af Academy of Motion Picture Arts and Sciences siden debuten i
+      1929.
+  oscars_year:
+    name: Oscar Vindere <<key_name>>
+    summary: Vindere af Oscars i <<key_name>>.
+  berlinale_best:
+    name: Berlins Guldbjørn
+    summary: Op mod 400 film vises hvert år som del af Berlins internationale filmfestival,
+      de fleste premierefilm i verdenen eller europa. Film af alle genrer, længde
+      og format kan deltage. Guldbjørnen (German Goldener Bär) er den højst tildelte
+      pris for den bedste film under festivalen.
+  cesar_best:
+    name: Césarprisen For Bedste Film
+    summary: Césarprisen er Frankrigs nationale filmpris, der har været uddelt siden
+      1975. De nominerede udvælges af medlemmerne af Académie des Arts et Techniques
+      du Cinéma. Filmprisen anses for at være det franske modstykke til Oscaruddelingen.
+  razzie_worst:
+    name: Razzies Golden Raspberry Vindere
+    summary: Razzie eller The Golden Raspberry Award er en prisuddeling, der uddeles
+      til filmbranchens værste præstationer i årets løb.
+  venice_best:
+    name: Guldløven
+    summary: Guldløven er den højeste pris der tildeles ved Filmfestivalen i Venedig.
+      Prisen blev introduceret i 1949 af den organiserende komite og betragtes nu
+      som en af filmindustriens mest fremtrædense priser. I 1970 blev en anden Guldløve
+      introduceret; denne er en ærespris til personer, der har ydet et vigtigt bidrag
+      til filmindustrien.
+  spirit_year:
+    name: Independent Spirit Priser <<key_name>>
+    summary: <<key_name>> Independent Spirit Priser.
+  sundance_best:
+    name: Sundance Grand Jury Vindere
+    summary: Sundance Film Festival (tidligere kendt som Utah/US Film Festival og
+      senere US Film and Video Festival) er en årlig filmfestival, som afholdes af
+      Sundance Institute hver januar-måned i Park City, Salt Lake City, Utah i USA.[1]
+      Festivalen er den største independent-film filmfestival i USA, og amerikanske
+      såvel som internationale film, kortfilm, dokumentarer og spillefilm deltager
+      i adskillige kategorier om at vinde priser, samt at der gives priser til film
+      udenfor kategorierne.
+  sundance_year:
+    name: Sundance Film Festival <<key_name>>
+    summary: Sundance Film Festival fra <<key_name>>.
+  anilist_popular:
+    name: AniList Populært
+    summary: En samling af det meste populære Anime ifølge AniList.
+  anilist_top_rated:
+    name: AniList Bedst Bedømt
+    summary: En samling af det bedst bedømte Anime ifølge AniList.
+  anilist_trending:
+    name: AniList Trends
+    summary: En samling af Anime der trender ifølge AniList.
+  anilist_season:
+    name: AniList Sæson
+    summary: En samling af Anime fra nuværende sæson ifølge AniList.
+  basic_released:
+    name: Nyligt Udgivet
+    summary: En samling af nyligt udgivet <<library_translation>>.
+  basic_episodes:
+    name: Nyligt Udgivne Episoder
+    summary: En samling af nyligt udgivne episoder.
+  flixpatrol:
+    name: <<key_name>> Top <<limit>>
+    summary: Top <<limit>> <<library_translation>> på <<key_name>> ifølge FlixPatrol.
+  imdb_popular:
+    name: IMDb Populært
+    summary: En samling af populære <<library_translation>> ifølge IMDB.
+  imdb_top:
+    name: IMDb Top 250
+    summary: En samling af top 250 <<library_translation>> ifølge IMDB.
+  imdb_lowest:
+    name: IMDb Lavest Bedømt
+    summary: En samling af lavest bedømte <<library_translation>> ifølge IMDB.
+  mal_popular:
+    name: MyAnimeList Populært
+    summary: En samling af mest populære Anime ifølge MyAnimeList.
+  mal_favorited:
+    name: MyAnimeList Favoriseret
+    summary: En samling af det mest favoriserede Anime ifølge MyAnimeList.
+  mal_top:
+    name: MyAnimeList Bedst Bedømt
+    summary: En samling af bedst bedømte Anime ifølge MyAnimeList.
+  mal_airing:
+    name: MyAnimeList Top Aktuelle
+    summary: En samling af bedst bedømte aktuelle Anime ifølge MyAnimeList.
+  mal_season:
+    name: MyAnimeList Sæson
+    summary: En samling af Anime fra nuværende sæson ifølge MyAnimeList.
+  anidb_popular:
+    name: AniDB Populært
+    summary: En samling af populært Anime ifølge AniDB.
+  commonsense_selection:
+    name: Common Sense Selection
+    summary: En samling af Common Sense <<library_translation>>. Common Sense anerkender
+      fremragende underholdning med et officielt stempel for kvalitet og effekt. Common
+      Sense Selections  inkluderer alderssvarende medier med potentiale til at sætte
+      gang i familiesamtaler, underholde familier af enhver art og have en positiv,
+      varig effekt på samfundet.
+  stevenlu_popular:
+    name: StevenLu's Populære Film
+    summary: En samling af populære film ifølge StevenLu.
+  pirated_popular:
+    name: Top 10 Piratkopierede Film
+    summary: Denne uges top 10 mest piratkopierede film ifølge TorrentFreak.com.
+  tautulli_popular:
+    name: Plex Populært
+    summary: En samling af populære <<library_translation>> på Plex.
+  tautulli_watched:
+    name: Plex Sete
+    summary: En samling af mest sete <<library_translation>> på Plex.
+  tmdb_airing:
+    name: TMDb Aktuelt I Dag
+    summary: En samling af serier med afsnit der vises i dag.
+  tmdb_air:
+    name: TMDb Aktuelt
+    summary: En samling af serier der stadig kommer nye afsnit af.
+  tmdb_popular:
+    name: TMDb Populært
+    summary: En samling af populære <<library_translation>> ifølge TMDb.
+  tmdb_top:
+    name: TMDb Bedst Bedømt
+    summary: En samling af bedst bedømte <<library_translation>> ifølge TMDb.
+  tmdb_trending:
+    name: TMDb Trends
+    summary: En samling af <<library_translation>> der trender på TMDb.
+  trakt_collected:
+    name: Trakt Samlet
+    summary: En samling af Trakts ugentlige samlet liste.
+  trakt_popular:
+    name: Trakt Populært
+    summary: En samling af Trakts ugentlige populære liste.
+  trakt_recommended:
+    name: Trakt Anbefalet
+    summary: En samling af Trakts ugentligt anbefalet liste.
+  trakt_trending:
+    name: Trakt Trends
+    summary: En samling af Trakts ugentlige trender liste.
+  trakt_watched:
+    name: Trakt Sete
+    summary: En samling af Trakts ugentlige sete liste.
+  separator:
+    name: <<key_name>> Samlinger
+    summary: Sektion adskiller for <<key_name>> Samlinger.
+  actor:
+    name: <<key_name>>
+    summary: <<library_translationU>> med <<key_name>>.
+  audio_language:
+    name: <<key_name>> Lyd
+    summary: <<library_translationU>> med <<key_name>> lydsprog.
+  audio_language_other:
+    name: Anden Lyd
+    summary: <<library_translationU>> i andet ualmindeligt lydsprog.
+  collectionless:
+    name: Uden Samling
+    summary: En samling af <<library_translationU>> brugt for at få Plex til af vise
+      artikler korrekt.
+  content_rating:
+    name: <<key_name>> <<library_translationU>>s
+    summary: <<library_translationU>> som er bedømt <<key_name>>.
+  content_rating_cs:
+    name: Alder <<key_name>>+ <<library_translationU>>
+    summary: <<library_translationU>> som er bedømt <<key_name>> ifølge Common Sense
+      Rating System.
+  content_rating_other:
+    name: Ikke bedømte <<library_translationU>>
+    summary: <<library_translationU>> som ikke er bedømt eller anden ualmindlig bedømmelse.
+  country:
+    name: <<key_name>>
+    summary: <<library_translationU>> optaget i <<key_name>>.
+  country_other:
+    name: Andet Land
+    summary: <<library_translationU>> optaget i andet ualmindeligt land.
+  decade:
+    name: Bedste fra <<key_name>>
+    summary: Top <<limit>> <<library_translation>> fra <<key_name>>.
+  director:
+    name: <<key_name>> (Instruktør)
+    summary: <<library_translationU>> instrueret af <<key_name>>.
+  genre:
+    name: <<key_name>> <<library_translationU>>s
+    summary: <<library_translationU>> som har genren <<key_name>>.
+  network:
+    name: <<key_name>>
+    summary: <<library_translationU>> vist på <<key_name>>.
+  producer:
+    name: <<key_name>> (Producent)
+    summary: <<library_translationU>> produceret af <<key_name>>.
+  resolution:
+    name: <<key_name>> <<library_translationU>>
+    summary: <<library_translationU>> som har opløsningen <<key_name>>.
+  resolution_other:
+    name: Anden Opløsning <<library_translationU>>
+    summary: <<library_translationU>> som har en anden ualmindelig opløsning.
+  seasonal:
+    name: <<key_name>> <<library_translationU>>
+    summary: En samling af <<key_name>> <<library_translation>> der har relation til
+      sæsonen.
+  streaming:
+    name: <<key_name>> <<library_translationU>>
+    summary: <<library_translationU>> der streamer på <<key_name>>.
+  studio:
+    name: <<key_name>>
+    summary: <<library_translationU>> produceret af <<key_name>>.
+  subtitle_language:
+    name: <<key_name>> Undertekster
+    summary: <<library_translationU>> med <<key_name>> undertekster.
+  subtitle_language_other:
+    name: Andre Undertekster
+    summary: <<library_translationU>> med andre ualmindelige undertekster.
+  writer:
+    name: <<key_name>> (Forfatter)
+    summary: <<library_translationU>> skrevet af <<key_name>>.
+  year:
+    name: Bedste i <<key_name>>
+    summary: <<library_translationU>> udgivet i <<key_name>>.

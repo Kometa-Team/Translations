@@ -1,0 +1,454 @@
+variables:
+  library_translation:
+    movie: pelicula
+    show: serie
+    artist: artista
+    video: video
+    item: artículo
+key_names:
+  action: Acción
+  action_adventure: Acción y Aventura
+  actors: Actores
+  adult: Adulto
+  adventure: Aventura
+  albanian: Albania
+  animation: Animación
+  anime: Anime
+  arabic: Arábica
+  argentina: Argentina
+  audio_language: Idioma del Audio
+  australia: Australia
+  austria: Austria
+  award: Premio
+  basque: Vasco
+  belgium: Bélgica
+  bengali: Bengalí
+  biography: Biografía
+  biopic: Biográfica
+  bosnian: Bosnia
+  brazil: Brasil
+  bulgarian: Búlgaro
+  canada: Canadá
+  catalan: Catalán
+  chart: Gráfico
+  children: Niños
+  chinese: Chino
+  christmas: Navidad
+  comedy: Comedia
+  competition: Competición
+  costa_rica: Costa Rica
+  country: País
+  crime: Crimen
+  croatia: Croacia
+  croatian: Croata
+  czech: Checo
+  czech_republic: República Checa
+  danish: Danés
+  decade: Década
+  denmark: Dinamarca
+  directors: Directores
+  documentary: Documental
+  dominican_republic: República Dominicana
+  dutch: Holandés
+  easter: Pascua
+  egypt: Egipto
+  english: Inglés
+  erotica: Erótica
+  estonian: Estonio
+  family: Familia
+  fantasy: Fantasía
+  fathers_day: Día del Padre
+  film_noir: Cine Negro
+  finland: Finlandia
+  finnish: Filandés
+  food: Comida
+  france: Francia
+  french: Francés
+  galician: Gallego
+  game_show: Programa de Juegos
+  gangster: Gánster
+  genre: Género
+  georgian: Georgiano
+  german: Alemán
+  germany: Alemania
+  greece: Grecia
+  greek: Griego
+  hebrew: Hebreo
+  history: Historia
+  home_and_garden: Hogar y Jardín
+  hungarian: Húngaro
+  hungary: Hungría
+  iceland: Islandía
+  icelandic: Islandés
+  independence_day: Día de la Independencía
+  indie: Indio
+  indonesian: Indonesio
+  iran: Irán
+  ireland: Irlanda
+  italian: Italiano
+  japan: Japón
+  japanese: Japonés
+  kannada: Canadá
+  kazakh: Kazajo
+  kids: Niños
+  korea: Corea
+  korean: Coreano
+  labor_day: Día del Trabajador
+  latin: Latino
+  latvia: Letonia
+  latvian: Leton
+  luxembourg: Luxemburgo
+  macedonian: Macedónio
+  malay: Malayo
+  malaysia: Malasia
+  malaysian: Malasio
+  marathi: Marati
+  martial_arts: Artes Marciales
+  memorial_day: Día Conmemorativo
+  mexico: México
+  mind_bend: Curva de la Mente
+  mind_fuck: Destrucción Mental
+  mini_series: Mini Series
+  morocco: Marruecos
+  mothers_day: Día de la Madre
+  music: Musica
+  musical: Musical
+  mystery: Misterio
+  nepal: Nepal
+  netherlands: Países Bajos
+  network: Red
+  new_years_day: Día de Año Nuevo
+  new_zealand: Nueva Zelanda
+  news: Noticias
+  news_politics: Noticias y Política
+  norway: Noruega
+  norwegian: Noruego
+  norwegian_bokmål: Bokmal noruego
+  norwegian_nynorsk: Nynorsk Noruego
+  pakistan: Pakistán
+  panama: Panamá
+  persian: Persa
+  peru: Perú
+  philippines: Filipinas
+  poland: Polonia
+  polish: Polaco
+  politics: Política
+  portugal: Portugal
+  portugese: Portugués
+  portuguese: Portugués
+  producers: Productores
+  punjabi: Panyabí
+  qatar: Catar
+  ratings: Calificaciones
+  reality: Realidad
+  resolution: Resolución
+  romania: Rumanía
+  romanian: Rumano
+  romantic_comedy: Comedia Romántica
+  romantic_drama: Drama Romántico
+  russia: Rusia
+  russian: Ruso
+  saudi_arabia: Arabía Saudí
+  sci-fi_&_fantasy: Ciencia Ficción y Fantasía
+  science_fiction: Ciencia Ficción
+  seasonal: Temporada
+  serbia: Serbia
+  serbian: Serbio
+  short: Corto
+  singapore: Singapur
+  slovak: Eslovaco
+  slovenian: Esloveno
+  soap: Telenovela
+  south_africa: Sudáfrica
+  spain: España
+  spanish: Español
+  sport: Deporte
+  st_patricks_day: Día de San Patricio
+  stand-up_comedy: Comedia en Vivo
+  studio: Estudio
+  subtitle_language: Idioma Subtítulos
+  superhero: Superhéroe
+  swahili: Suajilí
+  sweden: Suecia
+  swedish: Sueco
+  switzerland: Suiza
+  sword_sorcery: Espada y Hechicería
+  tv_movie: Telefilme
+  talk_show: Programa de Entrevistas
+  telugu: Télugu
+  thai: Tailandés
+  thailand: Thailandia
+  thanksgiving: Acción de Gracias
+  travel: Viajar
+  turkey: Turquía
+  turkish: Turco
+  ukraine: Ucrania
+  ukrainian: Ucruaniano
+  united_arab_emirates: Emiratos Árabes Unidos
+  united_kingdom: Reino Unido
+  united_states_of_america: Estados Unidos de América
+  universe: Universo
+  valentines_day: Día de San Valentín
+  vietnam: Vietnam
+  vietnamese: Vietnamita
+  war_politics: Guerra y Política
+  welsh: Galés
+  western: Oeste
+  writers: Escritores
+  year: Año
+collections:
+  bafta_best:
+    name: BAFTA Mejores Películas
+    summary: Ganadores de la Mejor Película de la Academia Británica de las Artes
+      Cinematográficas y de la Televisión.
+  bafta_year:
+    name: BAFTA <<key_name>>
+    summary: Premios BAFTA <<key_name>>.
+  cannes_best:
+    name: Ganadores de la Palma de Oro de Cannes
+    summary: Ganadores de la Palma de Oro de Cannes.
+  cannes_year:
+    name: Cannes <<key_name>>
+    summary: Premios Cannes del <<key_name>>.
+  choice_year:
+    name: Premios a la elección de los críticos <<key_name>>
+    summary: Premios a la elección de los críticos del <<key_name>>.
+  emmy_year:
+    name: Emmys <<key_name>>
+    summary: Ganadores del Emmy de <<key_name>>.
+  golden_picture:
+    name: Globos de Oro Ganadores Mejor Película
+    summary: Ganadores de los Globos de Oro a la Mejor Película.
+  golden_director:
+    name: Globos de Oro Ganadores Mejor Director
+    summary: Ganadores de los Globos de Oro Mejor Director.
+  golden_year:
+    name: Globo de Oro <<key_name>>
+    summary: Ganadores del Globo de Oro de <<key_name>>.
+  oscars_picture:
+    name: Ganadores del Oscar a Mejor película
+    summary: El Premio de la Academia a la Mejor Película es uno de los Premios de
+      la Academia presentados anualmente por la Academia de Artes y Ciencias Cinematográficas
+      desde que los premios debutaron en 1929.
+  oscars_director:
+    name: Ganadores de los Oscar a Mejor Director
+    summary: El Premio de la Academia al Mejor Director es uno de los Premios de la
+      Academia presentados anualmente por la Academia de Artes y Ciencias Cinematográficas
+      desde que los premios debutaron en 1929.
+  oscars_year:
+    name: Ganadores de los Oscar <<key_name>>
+    summary: Ganadores de los Premios de la Academia (Oscar) de <<key_name>>.
+  berlinale_best:
+    name: Osos de Oro de la Berlinale
+    summary: Cada año se proyectan hasta 400 películas como parte de la programación
+      pública de la Berlinale (Festival Internacional de Cine de Berlín), la gran
+      mayoría de las cuales son estrenos mundiales o europeos. Se pueden presentar
+      para su consideración películas de todos los géneros, longitudes y formatos.
+      El Oso de Oro (en alemán Goldener Bär) es el máximo galardón que se otorga a
+      la mejor película proyectada durante este festival.
+  cesar_best:
+    name: Ganadores César Mejor Película
+    summary: El Premio César es el premio cinematográfico nacional de Francia, otorgado
+      por primera vez en 1975. Las nominaciones son seleccionadas por los miembros
+      de la Académie des Arts et Techniques du Cinéma. El nombre del premio proviene
+      del escultor César Baldaccini. Se consideran el equivalente francés de los Premios
+      de la Academia Estadounidense.
+  razzie_worst:
+    name: Ganadores Razzies Frambuesa de Oro
+    summary: El premio Frambuesa de Oro a la peor película es un premio otorgado en
+      los premios anuales a la peor película del año pasado.
+  venice_best:
+    name: Leones de Oro de Venecia
+    summary: El Festival de Cine de Venecia es el festival de cine más antiguo del
+      mundo. Fundado en 1932, el festival se lleva a cabo todos los años desde entonces
+      en Venecia, Italia. Es parte de la Bienal de Venecia, una importante exposición
+      bienal y festival de arte contemporáneo. El Leone d' del festival (León de Oro)
+      se otorga el premio a la mejor película proyectada en el festival.
+  spirit_year:
+    name: Premios Espíritu Independiente <<key_name>>
+    summary: Premios Espíritu Independiente de <<key_name>>.
+  sundance_best:
+    name: Ganadores del Gran Jurado de Sundance
+    summary: El Festival de Cine de Sundance es un festival de cine que se realiza
+      anualmente en el estado de Utah, en los Estados Unidos. Es el festival de cine
+      independiente más grande de los EE. UU. Celebrado en enero, el festival es el
+      principal escaparate de los nuevos trabajos de cineastas independientes estadounidenses
+      e internacionales. El festival comprende secciones competitivas de películas
+      dramáticas y documentales estadounidenses e internacionales, tanto largometrajes
+      como cortometrajes, y un grupo de secciones de exhibición no competitivas.
+  sundance_year:
+    name: Festival de Cine de Sundance <<key_name>>
+    summary: Festival de Cine de Sundance de <<key_name>>.
+  anilist_popular:
+    name: AniList Popular
+    summary: Una colección de los Animes más populares según AniList.
+  anilist_top_rated:
+    name: AniList Los más Valorados
+    summary: Una colección de los Animes más valorados según AniList.
+  anilist_trending:
+    name: AniList Tendencia
+    summary: Una colección de los Animes en tendencia según AniList.
+  anilist_season:
+    name: AniList Temporada
+    summary: Una colección de anime de la temporada actual según AniList.
+  basic_released:
+    name: Estreno Reciente
+    summary: Una colección de novedades de <<library_translation>>s.
+  basic_episodes:
+    name: Nuevos Episodios
+    summary: Una colección de episodios recién estrenados.
+  flixpatrol:
+    name: <<key_name>> Top <<limit>>
+    summary: Top <<limit>> <<library_translation>>s en <<key_name>> según FlixPatrol.
+  imdb_popular:
+    name: IMDb Popular
+    summary: Lista de IMDb Popular en <<library_translation>>s.
+  imdb_top:
+    name: IMDb Top 250
+    summary: Lista de IMDb Top 250 en <<library_translation>>s.
+  imdb_lowest:
+    name: IMDb Peor Valorados
+    summary: Lista de IMDb con la calificación más baja en <<library_translation>>s.
+  mal_popular:
+    name: MyAnimeList Popular
+    summary: Una colección de los Animes más populares según MyAnimeList.
+  mal_favorited:
+    name: MyAnimeList Favoritos
+    summary: Una colección de los Animes favoritos según MyAnimeList.
+  mal_top:
+    name: MyAnimeList Los más Valorados
+    summary: Una colección de los Animes más valorados según MyAnimeList.
+  mal_airing:
+    name: MyAnimeList Top Calificados
+    summary: Una colección de los Animes mejor calificados según MyAnimeList.
+  mal_season:
+    name: MyAnimeList Temporada
+    summary: Una colección de Anime de la temporada actual según MyAnimeList.
+  anidb_popular:
+    name: AniDB Popular
+    summary: Una colección de los Animes más populares según AniDB.
+  commonsense_selection:
+    name: Selección de Common Sense
+    summary: Una selección de Common Sense en <<library_translation>>s. Common Sense
+      reconoce el entretenimiento destacado con un sello oficial de calidad e impacto.
+      Las selecciones de sentido común incluyen medios apropiados para la edad con
+      el potencial de iniciar conversaciones familiares, entretener a familias de
+      todo tipo y tener un efecto positivo y duradero en la sociedad.
+  stevenlu_popular:
+    name: Películas Populares de StevenLu
+    summary: Una colección de las películas más populares de StevenLu.
+  pirated_popular:
+    name: Las 10 mejores películas piratas de la semana
+    summary: Las diez mejores películas piratas semanales según TorrentFreak.com.
+  tautulli_popular:
+    name: Plex Popular
+    summary: Una colección en <<library_translation>>s popular en Plex.
+  tautulli_watched:
+    name: Plex Más Visto
+    summary: Una colección en <<library_translation>>s más visto en Plex.
+  tmdb_airing:
+    name: TMDb Publicado Hoy
+    summary: Una colección de series y episodios que se han estrenado hoy.
+  tmdb_air:
+    name: TMDb En el Aire
+    summary: Una colección de series que todavía están estrenando episodios actualmente.
+  tmdb_popular:
+    name: TMDb Popular
+    summary: Una colección de lo más visto en <<library_translation>>s según TMDb.
+  tmdb_top:
+    name: TMDb Top Rated
+    summary: Una colección de lo más valorado en <<library_translation>>s según TMDb.
+  tmdb_trending:
+    name: TMDb Tendencia
+    summary: Una colección de tendencias en <<library_translation>>s según TMDb.
+  trakt_collected:
+    name: Trakt Recopilación
+    summary: Una colección de la lista más recopilada de la semana en Trakt.
+  trakt_popular:
+    name: Trakt Popular
+    summary: Una colección de la lista popular de la semana en Trakt.
+  trakt_recommended:
+    name: Trakt Recomienda
+    summary: Una colección de la lista recomendada de la semana en Trakt.
+  trakt_trending:
+    name: Trakt Tendencia
+    summary: Una colección de la lista de tendencias de la semana en Trakt.
+  trakt_watched:
+    name: Trakt Visto
+    summary: Una colección de la lista más vista de la semana en Trakt.
+  separator:
+    name: <<key_name>> Colecciones
+    summary: Separador de secciones para las Colecciones de <<key_name>>.
+  actor:
+    name: <<key_name>>
+    summary: <<library_translationU>>s con <<key_name>>.
+  audio_language:
+    name: Audio <<key_name>>
+    summary: <<library_translationU>>s filmado en Idioma <<key_name>>.
+  audio_language_other:
+    name: Otro Audio
+    summary: <<library_translationU>>s filmado en otros idiomas poco comunes.
+  collectionless:
+    name: Collectionless
+    summary: Colección de <<library_translationU>>s utilizado para hacer que Plex
+      muestre los elementos correctamente.
+  content_rating:
+    name: <<key_name>> <<library_translationU>>s
+    summary: <<library_translationU>>s que están clasificados <<key_name>>.
+  content_rating_cs:
+    name: Edad <<key_name>>+ <<library_translationU>>s
+    summary: <<library_translationU>>s que están clasificados <<key_name>> de acuerdo
+      con el Sistema de Calificación Common Sense.
+  content_rating_other:
+    name: No clasificado <<library_translationU>>s
+    summary: <<library_translationU>>s que no están clasificados o cualquier otra
+      clasificación poco común.
+  country:
+    name: <<key_name>>
+    summary: <<library_translationU>>s filmado en <<key_name>>.
+  country_other:
+    name: Otros Países
+    summary: <<library_translationU>>s filmado en otros países poco comunes.
+  decade:
+    name: Lo mejor de <<key_name>>
+    summary: Top <<limit>> <<library_translation>>s de <<key_name>>.
+  director:
+    name: <<key_name>> (Director)
+    summary: <<library_translationU>>s dirigido por <<key_name>>.
+  genre:
+    name: <<key_name>> <<library_translationU>>s
+    summary: <<library_translationU>>s que tiene el género <<key_name>>.
+  network:
+    name: <<key_name>>
+    summary: <<library_translationU>>s emitido en <<key_name>>.
+  producer:
+    name: <<key_name>> (Productor)
+    summary: <<library_translationU>>s producido por <<key_name>>.
+  resolution:
+    name: <<key_name>> <<library_translationU>>s
+    summary: <<library_translationU>>s que tienen resolución <<key_name>>.
+  resolution_other:
+    name: Otra Resolución en <<library_translationU>>s
+    summary: <<library_translationU>>s que tienen otras resoluciones poco comunes.
+  seasonal:
+    name: <<key_name>> <<library_translationU>>s
+    summary: Una colección de <<key_name>> <<library_translation>>s que puede estar
+      relacionado con la temporada.
+  streaming:
+    name: <<key_name>> <<library_translationU>>s
+    summary: <<library_translationU>>s en streaming en <<key_name>>.
+  studio:
+    name: <<key_name>>
+    summary: <<library_translationU>>s producido por <<key_name>>.
+  subtitle_language:
+    name: <<key_name>> Subtítulos
+    summary: <<library_translationU>>s con <<key_name>> Subtítulos.
+  subtitle_language_other:
+    name: Otros Subtitulos
+    summary: <<library_translationU>>s con otros Subtítulos poco comunes.
+  writer:
+    name: <<key_name>> (Escritor)
+    summary: <<library_translationU>>s escrito por <<key_name>>.
+  year:
+    name: Lo mejor de <<key_name>>
+    summary: <<library_translationU>>s lanzado en <<key_name>>.
