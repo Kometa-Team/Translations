@@ -38,7 +38,7 @@ key_names:
   bengali: Bengali
   biography: Biographie
   biopic: Biopic
-  book: Book
+  book: Livre
   bosnian: Bosniaque
   brazil: Brésil
   bulgaria: Bulgarie
@@ -218,7 +218,7 @@ key_names:
   thanksgiving: Action de grâces
   thriller: Suspense
   travel: Voyager
-  true_story: True Story
+  true_story: Histoire vraie
   turkey: Turquie
   turkish: Turcs
   ukraine: Ukraine
@@ -229,7 +229,7 @@ key_names:
   universe: Univers
   urdu: Ourdou
   valentines_day: La Saint-Valentin
-  video_game: Video Game
+  video_game: Jeu Vidéo
   vietnam: Viêt Nam
   vietnamese: Vietnamien
   war_politics: Guerre & Politique
@@ -253,7 +253,7 @@ collections:
     summary: Prix Cannes <<key_name>>.
   choice_year:
     name: Critics Choice Awards <<key_name>>
-    summary: Critics Choice Awards <<key_name>>.
+    summary: <<key_name>> Critics Choice Awards.
   emmy_year:
     name: Emmys <<key_name>>
     summary: Lauréats des Emmy Awards <<key_name>>.
@@ -422,7 +422,7 @@ collections:
     name: <<key_name>>
     summary: <<library_translationU>>s avec <<key_name>>.
   audio_language:
-    name: <<key_name>>
+    name: Audio <<key_name>>
     summary: <<library_translationU>>s tournés en langue <<key_name>>.
   audio_language_other:
     name: Autres audio
@@ -455,7 +455,7 @@ collections:
     name: <<key_name>> (Réalisateur)
     summary: <<library_translationU>>s réalisés par <<key_name>>.
   genre:
-    name: <<key_name>>
+    name: <<key_name>> <<library_translationU>>s
     summary: <<library_translationU>>s qui ont le genre <<key_name>>.
   network:
     name: <<key_name>>
@@ -468,7 +468,7 @@ collections:
     summary: <<library_translationU>>s ayant la résolution <<key_name>>.
   resolution_other:
     name: Autres résolutions de <<library_translationU>>s
-    summary: <<library_translationU>>s qui ont d’autres résolutions inhabituelles
+    summary: <<library_translationU>>s qui ont d’autres résolutions inhabituelles.
   seasonal:
     name: <<library_translationU>>s <<key_name>>
     summary: Une collection de <<library_translation>> <<key_name>> qui peuvent se
@@ -481,7 +481,7 @@ collections:
     summary: <<library_translationU>>s produits par <<key_name>>.
   subtitle_language:
     name: Sous-titres <<key_name>>
-    summary: <<library_translationU>>s  avec sous-titres <<key_name>>.
+    summary: <<library_translationU>>s avec sous-titres <<key_name>>.
   subtitle_language_other:
     name: Autres sous-titres
     summary: <<library_translationU>>s avec d’autres sous-titres inhabituels.
@@ -491,3 +491,35 @@ collections:
   year:
     name: Les meilleurs de <<key_name>>
     summary: <<library_translationU>>s sortis en <<key_name>>.
+  content_ratings_other:
+    name: Autres Catégorisations
+    summary: <<library_translationU>>s non catégorisés ou catégorisés de manière non
+      conventionnelle.
+  decade_other:
+    name: Autres Décades
+    summary: <<library_translationU>>s sortis durant d'autres décades.
+  genre_other:
+    name: Autres Genres
+    summary: <<library_translationU>>s de genres peu communs.
+  network_other:
+    name: Autres Chaînes
+    summary: <<library_translationU>>s diffusés sur des chaines peu connues.
+  network_kids_other:
+    name: Autres Chaines Enfants
+    summary: <<library_translationU>>s diffusés sur d'autres chaines pour enfants.
+  resolutions_other:
+    name: Autres Résolutions
+    summary: <<library_translationU>>s en résolutions peu communes.
+  studio_other:
+    name: Autres Studios
+    summary: <<library_translationU>>s produits par d'autres studios peu connus.
+  studio_animation_other:
+    name: Autres Studios d'Animation
+    summary: <<library_translationU>>s produits par d'autres studios d'animation peu
+      connus.
+  year_other:
+    name: Autres Années
+    summary: <<library_translationU>>s sortis au cours d'autres années.
+  based:
+    name: Basé sur un <<key_name>>
+    summary: <<library_translationU>>s basé sur ou inspiré par <<translated_key_name>>s.
