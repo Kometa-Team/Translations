@@ -5,6 +5,8 @@ variables:
     artist: artist
     video: video
     item: item
+  library_translation2:
+    movie: movie
 key_names:
   action: Action
   action_adventure: Action & Adventure
@@ -255,31 +257,54 @@ collections:
     summary: <<translated_key_name>> Golden Globe Winners.
   oscars_picture:
     name: Oscars Best Picture Winners
-    summary: The Academy Award for Best Picture is one of the Academy Awards presented annually by the Academy of Motion Picture Arts and Sciences since the awards debuted in 1929.
+    summary: The Academy Award for Best Picture is one of the Academy Awards presented
+      annually by the Academy of Motion Picture Arts and Sciences since the awards
+      debuted in 1929.
   oscars_director:
     name: Oscars Best Director Winners
-    summary: The Academy Award for Best Director is one of the Academy Awards presented annually by the Academy of Motion Picture Arts and Sciences since the awards debuted in 1929.
+    summary: The Academy Award for Best Director is one of the Academy Awards presented
+      annually by the Academy of Motion Picture Arts and Sciences since the awards
+      debuted in 1929.
   oscars_year:
     name: Oscars Winners <<translated_key_name>>
     summary: Academy Awards (Oscars) Winners for <<translated_key_name>>.
   berlinale_best:
     name: Berlinale Golden Bears
-    summary: Up to 400 films are shown every year as part of the Berlinale's (Berlin International Film Festival) public programme, the vast majority of which are world or European premieres. Films of every genre, length and format can be submitted for consideration. The Golden Bear (German Goldener Bär) is the highest prize awarded for the best film shown during this festival.
+    summary: Up to 400 films are shown every year as part of the Berlinale's (Berlin
+      International Film Festival) public programme, the vast majority of which are
+      world or European premieres. Films of every genre, length and format can be
+      submitted for consideration. The Golden Bear (German Goldener Bär) is the highest
+      prize awarded for the best film shown during this festival.
   cesar_best:
     name: César Best Film Winners
-    summary: The César Award is the national film award of France, first given out in 1975. The nominations are selected by the members of the Académie des Arts et Techniques du Cinéma. The name of the award comes from the sculptor César Baldaccini. They are considered to be the French equivalent of the American Academy Awards.
+    summary: The César Award is the national film award of France, first given out
+      in 1975. The nominations are selected by the members of the Académie des Arts
+      et Techniques du Cinéma. The name of the award comes from the sculptor César
+      Baldaccini. They are considered to be the French equivalent of the American
+      Academy Awards.
   razzie_worst:
     name: Razzies Golden Raspberry Winners
-    summary: The Golden Raspberry Award for Worst Picture is an award given out at the annual Golden Raspberry Awards to the worst film of the past year.
+    summary: The Golden Raspberry Award for Worst Picture is an award given out at
+      the annual Golden Raspberry Awards to the worst film of the past year.
   venice_best:
     name: Venice Golden Lions
-    summary: The Venice Film Festival is the oldest film festival in the world. Founded 1932, the festival has since taken place every year in Venice, Italy. It is part of the Venice Biennale, a major biennial exhibition and festival for contemporary art. The festival's Leone d'Oro (Golden Lion) prize is awarded to the best film screened at the festival.
+    summary: The Venice Film Festival is the oldest film festival in the world. Founded
+      1932, the festival has since taken place every year in Venice, Italy. It is
+      part of the Venice Biennale, a major biennial exhibition and festival for contemporary
+      art. The festival's Leone d'Oro (Golden Lion) prize is awarded to the best film
+      screened at the festival.
   spirit_year:
     name: Independent Spirit Awards <<translated_key_name>>
     summary: <<translated_key_name>> Independent Spirit Awards.
   sundance_best:
     name: Sundance Grand Jury Winners
-    summary: The Sundance Film Festival is a film festival that takes place annually in the state of Utah, in the United States. It is the largest independent cinema festival in the U.S. Held in January, the festival is the premier showcase for new work from American and international independent filmmakers. The festival comprises competitive sections for American and international dramatic and documentary films, both feature-length films and short films, and a group of non-competitive showcase sections.
+    summary: The Sundance Film Festival is a film festival that takes place annually
+      in the state of Utah, in the United States. It is the largest independent cinema
+      festival in the U.S. Held in January, the festival is the premier showcase for
+      new work from American and international independent filmmakers. The festival
+      comprises competitive sections for American and international dramatic and documentary
+      films, both feature-length films and short films, and a group of non-competitive
+      showcase sections.
   sundance_year:
     name: Sundance Film Festival <<translated_key_name>>
     summary: Sundance Film Festival of <<translated_key_name>>.
@@ -303,7 +328,8 @@ collections:
     summary: A collection of newly-released Episodes.
   flixpatrol:
     name: <<translated_key_name>> Top <<limit>>
-    summary: Top <<limit>> <<library_translation>>s on <<translated_key_name>> according to FlixPatrol.
+    summary: Top <<limit>> <<library_translation>>s on <<translated_key_name>> according
+      to FlixPatrol.
   imdb_popular:
     name: IMDb Popular
     summary: List of IMDb Popular <<library_translation>>s.
@@ -333,7 +359,11 @@ collections:
     summary: A collection of Popular Anime on AniDB.
   commonsense_selection:
     name: Common Sense Selection
-    summary: A collection of Common Sense <<library_translation>>s. Common Sense recognizes outstanding entertainment with an official seal for quality and impact. Common Sense Selections include age-appropriate media with the potential to spark family conversations, entertain families of all kinds, and have a positive, lasting effect on society.
+    summary: A collection of Common Sense <<library_translation>>s. Common Sense recognizes
+      outstanding entertainment with an official seal for quality and impact. Common
+      Sense Selections include age-appropriate media with the potential to spark family
+      conversations, entertain families of all kinds, and have a positive, lasting
+      effect on society.
   stevenlu_popular:
     name: StevenLu's Popular Movies
     summary: A collection of StevenLu's Most Popular Movies.
@@ -354,7 +384,8 @@ collections:
     summary: A collection of shows that are still actively airing episodes.
   tmdb_popular:
     name: TMDb Popular
-    summary: A collection of the most watched <<library_translation>>s according to TMDb.
+    summary: A collection of the most watched <<library_translation>>s according to
+      TMDb.
   tmdb_top:
     name: TMDb Top Rated
     summary: A collection of the top rated <<library_translation>>s according to TMDb.
@@ -393,19 +424,23 @@ collections:
     summary: <<library_translationU>>s based on or inspired by <<translated_key_name>>s.
   collectionless:
     name: Collectionless
-    summary: Collection of <<library_translationU>>s used to make Plex display items correctly.
+    summary: Collection of <<library_translationU>>s used to make Plex display items
+      correctly.
   content_rating:
     name: <<translated_key_name>> <<library_translationU>>s
     summary: <<library_translationU>>s that are rated <<translated_key_name>>.
   content_rating_cs:
     name: Age <<translated_key_name>>+ <<library_translationU>>s
-    summary: <<library_translationU>>s that are rated <<translated_key_name>> according to the Common Sense Rating System.
+    summary: <<library_translationU>>s that are rated <<translated_key_name>> according
+      to the Common Sense Rating System.
   content_rating_other:
     name: Not Rated <<library_translationU>>s
-    summary: <<library_translationU>>s that are Unrated, Not Rated or any other uncommon Ratings.
+    summary: <<library_translationU>>s that are Unrated, Not Rated or any other uncommon
+      Ratings.
   content_ratings_other:
     name: Other Ratings
-    summary: <<library_translationU>>s that are Unrated, Not Rated or any other uncommon Ratings.
+    summary: <<library_translationU>>s that are Unrated, Not Rated or any other uncommon
+      Ratings.
   country:
     name: <<translated_key_name>>
     summary: <<library_translationU>>s filmed in <<translated_key_name>>.
@@ -450,7 +485,8 @@ collections:
     summary: <<library_translationU>>s that have other uncommon resolutions.
   seasonal:
     name: <<translated_key_name>> <<library_translationU>>s
-    summary: A collection of <<translated_key_name>> <<library_translation>>s that may relate to the season.
+    summary: A collection of <<translated_key_name>> <<library_translation>>s that
+      may relate to the season.
   streaming:
     name: <<translated_key_name>> <<library_translationU>>s
     summary: <<library_translationU>>s streaming on <<translated_key_name>>.
