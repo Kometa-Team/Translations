@@ -5,6 +5,11 @@ variables:
     artist: artiste
     video: vidéo
     item: article
+  library_translation2:
+    movie: film
+    artist: artiste
+    show: émission
+    video: vidéo
 key_names:
   action_adventure: Action et Aventure
   actors: Acteurs et Actrices
