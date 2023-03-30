@@ -242,20 +242,20 @@ collections:
     name: BAFTA Best Films
     summary: British Academy of Film and Television Arts Best Film Winners.
   bafta_year:
-    name: BAFTA <<translated_key_name>>
-    summary: <<translated_key_name>> BAFTA Awards.
+    name: BAFTA <<key_name>>
+    summary: <<key_name>> BAFTA Awards.
   cannes_best:
     name: Cannes Golden Palm Winners
     summary: Cannes Golden Palm Winners.
   cannes_year:
-    name: Cannes <<translated_key_name>>
-    summary: <<translated_key_name>> Cannes Awards.
+    name: Cannes <<key_name>>
+    summary: <<key_name>> Cannes Awards.
   choice_year:
-    name: Critics Choice Awards <<translated_key_name>>
-    summary: <<translated_key_name>> Critics Choice Awards.
+    name: Critics Choice Awards <<key_name>>
+    summary: <<key_name>> Critics Choice Awards.
   emmy_year:
-    name: Emmys <<translated_key_name>>
-    summary: <<translated_key_name>> Emmy Winners.
+    name: Emmys <<key_name>>
+    summary: <<key_name>> Emmy Winners.
   golden_picture:
     name: Golden Globes Best Picture Winners
     summary: Golden Globes Best Picture Winners.
@@ -263,8 +263,8 @@ collections:
     name: Golden Globes Best Director Winners
     summary: Golden Globes Best Director Winners.
   golden_year:
-    name: Golden Globe <<translated_key_name>>
-    summary: <<translated_key_name>> Golden Globe Winners.
+    name: Golden Globe <<key_name>>
+    summary: <<key_name>> Golden Globe Winners.
   oscars_picture:
     name: Oscars Best Picture Winners
     summary: The Academy Award for Best Picture is one of the Academy Awards presented
@@ -276,8 +276,8 @@ collections:
       annually by the Academy of Motion Picture Arts and Sciences since the awards
       debuted in 1929.
   oscars_year:
-    name: Oscars Winners <<translated_key_name>>
-    summary: Academy Awards (Oscars) Winners for <<translated_key_name>>.
+    name: Oscars Winners <<key_name>>
+    summary: Academy Awards (Oscars) Winners for <<key_name>>.
   berlinale_best:
     name: Berlinale Golden Bears
     summary: Up to 400 films are shown every year as part of the Berlinale's (Berlin
@@ -304,8 +304,8 @@ collections:
       art. The festival's Leone d'Oro (Golden Lion) prize is awarded to the best film
       screened at the festival.
   spirit_year:
-    name: Independent Spirit Awards <<translated_key_name>>
-    summary: <<translated_key_name>> Independent Spirit Awards.
+    name: Independent Spirit Awards <<key_name>>
+    summary: <<key_name>> Independent Spirit Awards.
   sundance_best:
     name: Sundance Grand Jury Winners
     summary: The Sundance Film Festival is a film festival that takes place annually
@@ -316,8 +316,8 @@ collections:
       films, both feature-length films and short films, and a group of non-competitive
       showcase sections.
   sundance_year:
-    name: Sundance Film Festival <<translated_key_name>>
-    summary: Sundance Film Festival of <<translated_key_name>>.
+    name: Sundance Film Festival <<key_name>>
+    summary: Sundance Film Festival of <<key_name>>.
   anilist_popular:
     name: AniList Popular
     summary: A collection of the most popular Anime according to AniList.
@@ -337,8 +337,8 @@ collections:
     name: New Episodes
     summary: A collection of newly-released Episodes.
   flixpatrol:
-    name: <<translated_key_name>> Top <<limit>>
-    summary: Top <<limit>> <<library_translation>>s on <<translated_key_name>> according
+    name: <<key_name>> Top <<limit>>
+    summary: Top <<limit>> <<library_translation>>s on <<key_name>> according
       to FlixPatrol.
   imdb_popular:
     name: IMDb Popular
@@ -418,30 +418,30 @@ collections:
     name: Trakt Watched
     summary: A collection of Trakt's Weekly Trakt Watched List.
   separator:
-    name: <<translated_key_name>> Collections
-    summary: Section separator for <<translated_key_name>> Collections.
+    name: <<key_name>> Collections
+    summary: Section separator for <<key_name>> Collections.
   actor:
-    name: <<translated_key_name>>
-    summary: <<library_translationU>>s with <<translated_key_name>>.
+    name: <<key_name>>
+    summary: <<library_translationU>>s with <<key_name>>.
   audio_language:
-    name: <<translated_key_name>> Audio
-    summary: <<library_translationU>>s filmed in the <<translated_key_name>> Language.
+    name: <<key_name>> Audio
+    summary: <<library_translationU>>s filmed in the <<key_name>> Language.
   audio_language_other:
     name: Other Audio
     summary: <<library_translationU>>s filmed in other uncommon Languages.
   based:
-    name: Based on a <<translated_key_name>>
-    summary: <<library_translationU>>s based on or inspired by <<translated_key_name>>s.
+    name: Based on a <<key_name>>
+    summary: <<library_translationU>>s based on or inspired by <<key_name>>s.
   collectionless:
     name: Collectionless
     summary: Collection of <<library_translationU>>s used to make Plex display items
       correctly.
   content_rating:
-    name: <<translated_key_name>> <<library_translationU>>s
-    summary: <<library_translationU>>s that are rated <<translated_key_name>>.
+    name: <<key_name>> <<library_translationU>>s
+    summary: <<library_translationU>>s that are rated <<key_name>>.
   content_rating_cs:
-    name: Age <<translated_key_name>>+ <<library_translationU>>s
-    summary: <<library_translationU>>s that are rated <<translated_key_name>> according
+    name: Age <<key_name>>+ <<library_translationU>>s
+    summary: <<library_translationU>>s that are rated <<key_name>> according
       to the Common Sense Rating System.
   content_rating_other:
     name: Not Rated <<library_translationU>>s
@@ -452,29 +452,29 @@ collections:
     summary: <<library_translationU>>s that are Unrated, Not Rated or any other uncommon
       Ratings.
   country:
-    name: <<translated_key_name>>
-    summary: <<library_translationU>>s filmed in <<translated_key_name>>.
+    name: <<key_name>>
+    summary: <<library_translationU>>s filmed in <<key_name>>.
   country_other:
     name: Other Countries
     summary: <<library_translationU>>s filmed in other uncommon Countries.
   decade:
-    name: Best of <<translated_key_name>>
-    summary: Top <<limit>> <<library_translation>>s of the <<translated_key_name>>.
+    name: Best of <<key_name>>
+    summary: Top <<limit>> <<library_translation>>s of the <<key_name>>.
   decade_other:
     name: Other Decades
     summary: <<library_translationU>>s released in other decades.
   director:
-    name: <<translated_key_name>> (Director)
-    summary: <<library_translationU>>s directed by <<translated_key_name>>.
+    name: <<key_name>> (Director)
+    summary: <<library_translationU>>s directed by <<key_name>>.
   genre:
-    name: <<translated_key_name>> <<library_translationU>>s
-    summary: <<library_translationU>>s that have the genre <<translated_key_name>>.
+    name: <<key_name>> <<library_translationU>>s
+    summary: <<library_translationU>>s that have the genre <<key_name>>.
   genre_other:
     name: Other Genres
     summary: <<library_translationU>>s that have other uncommon genres.
   network:
-    name: <<translated_key_name>>
-    summary: <<library_translationU>>s broadcast on <<translated_key_name>>.
+    name: <<key_name>>
+    summary: <<library_translationU>>s broadcast on <<key_name>>.
   network_other:
     name: Other Networks
     summary: <<library_translationU>>s broadcast on other uncommon networks.
@@ -482,11 +482,11 @@ collections:
     name: Other Kids Networks
     summary: <<library_translationU>>s broadcast on other uncommon kids networks.
   producer:
-    name: <<translated_key_name>> (Producer)
-    summary: <<library_translationU>>s produced by <<translated_key_name>>.
+    name: <<key_name>> (Producer)
+    summary: <<library_translationU>>s produced by <<key_name>>.
   resolution:
-    name: <<translated_key_name>> <<library_translationU>>s
-    summary: <<library_translationU>>s that have the resolution <<translated_key_name>>.
+    name: <<key_name>> <<library_translationU>>s
+    summary: <<library_translationU>>s that have the resolution <<key_name>>.
   resolution_other:
     name: Other Resolution <<library_translationU>>s
     summary: <<library_translationU>>s that have other uncommon resolutions.
@@ -494,15 +494,15 @@ collections:
     name: Other Resolutions
     summary: <<library_translationU>>s that have other uncommon resolutions.
   seasonal:
-    name: <<translated_key_name>> <<library_translationU>>s
-    summary: A collection of <<translated_key_name>> <<library_translation>>s that
+    name: <<key_name>> <<library_translationU>>s
+    summary: A collection of <<key_name>> <<library_translation>>s that
       may relate to the season.
   streaming:
-    name: <<translated_key_name>> <<library_translationU>>s
-    summary: <<library_translationU>>s streaming on <<translated_key_name>>.
+    name: <<key_name>> <<library_translationU>>s
+    summary: <<library_translationU>>s streaming on <<key_name>>.
   studio:
-    name: <<translated_key_name>>
-    summary: <<library_translationU>>s produced by <<translated_key_name>>.
+    name: <<key_name>>
+    summary: <<library_translationU>>s produced by <<key_name>>.
   studio_other:
     name: Other Studios
     summary: <<library_translationU>>s produced by other uncommon studios.
@@ -510,17 +510,17 @@ collections:
     name: Other Animation Studios
     summary: <<library_translationU>>s produced by other uncommon animation studios.
   subtitle_language:
-    name: <<translated_key_name>> Subtitles
-    summary: <<library_translationU>>s with <<translated_key_name>> Subtitles.
+    name: <<key_name>> Subtitles
+    summary: <<library_translationU>>s with <<key_name>> Subtitles.
   subtitle_language_other:
     name: Other Subtitles
     summary: <<library_translationU>>s with other uncommon Subtitles.
   writer:
-    name: <<translated_key_name>> (Writer)
-    summary: <<library_translationU>>s written by <<translated_key_name>>.
+    name: <<key_name>> (Writer)
+    summary: <<library_translationU>>s written by <<key_name>>.
   year:
-    name: Best of <<translated_key_name>>
-    summary: <<library_translationU>>s released in <<translated_key_name>>.
+    name: Best of <<key_name>>
+    summary: <<library_translationU>>s released in <<key_name>>.
   year_other:
     name: Other Years
     summary: <<library_translationU>>s released in other years.
