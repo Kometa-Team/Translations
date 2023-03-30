@@ -12,6 +12,8 @@ variables:
     video: vidéo
   library_translation3:
     movie: film
+    show: émission
+    artist: artiste
 key_names:
   action_adventure: Action et Aventure
   actors: Acteurs et Actrices
