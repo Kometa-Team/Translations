@@ -7,6 +7,16 @@ variables:
     item: item
   library_translation2:
     movie: movie
+    show: show
+    artist: artist
+    video: video
+    item: item
+  library_translation3:
+    movie: movie
+    show: show
+    artist: artist
+    video: video
+    item: item
 key_names:
   action: Action
   action_adventure: Action & Adventure
