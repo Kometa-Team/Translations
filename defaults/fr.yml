@@ -39,7 +39,8 @@ key_names:
   aragonese: Aragonais
   argentina: Argentine
   armenian: Armenien
-  asian_american_pacific_islander_heritage_month: Mois du patrimoine des Américains d'origine asiatique et des îles du Pacifique
+  asian_american_pacific_islander_heritage_month: Mois du patrimoine des Américains
+    d'origine asiatique et des îles du Pacifique
   assamese: Assamais
   assassin: Assassin
   audio_language: Langue audio
@@ -473,6 +474,8 @@ key_names:
   zhuang: Zhuang
   zombie_horror: Zombies
   zulu: Zoulou
+  father's_day: Fête des pères
+  st._patricks_day: Le jour de la Saint-Patrick
 collections:
   bafta_best:
     name: BAFTA Meilleurs films
