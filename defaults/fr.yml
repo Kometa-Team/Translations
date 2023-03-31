@@ -18,85 +18,166 @@ variables:
     video: vidéo
     item: article
 key_names:
+  4/20: 4/20
+  abkhazian: Abkhazien
   action: Action
   action_adventure: Action et Aventure
+  actor: Acteur
   actors: Acteurs et Actrices
   adult: Adulte
   adventure: Aventure
+  afar: Afar
+  afrikaans: Afrikaans
+  age: Age
+  airing_today: Diffusés aujourd'hui
+  akan: Akan
   albanian: Albanais
+  amharic: Amharique
   animation: Animation
   anime: Animé
   arabic: Arabes
+  aragonese: Aragonais
   argentina: Argentine
+  armenian: Armenien
+  asian_american_pacific_islander_heritage_month: Mois du patrimoine des Américains d'origine asiatique et des îles du Pacifique
+  assamese: Assamais
+  assassin: Assassin
   audio_language: Langue audio
   australia: Australie
   austria: L'Autriche
+  avaric: Avar
+  avestan: Avestique
   award: Prix
+  aymara: Aymara
+  azerbaijani: Azéri
+  bambara: Bambara
   bahamas: Bahamas
+  based_on...: Basés sur...
+  based_on_a_book: Basés sur un livre
+  based_on_a_comic: Basés sur un comic
+  based_on_a_true_story: Basés sur des faits réels
+  based_on_a_video_game: Basés sur un jeu vidéo
   basque: Basque
+  bashkir: Bachkir
+  belarusian: Biélorusses
   belgium: Belgique
   bengali: Bengali
+  best_director_winners: Gagnants du meilleur directeur
+  best_picture_winner: Gagnant du meilleur film
+  best_picture_winners: Gagnants du meilleur film
+  best_of: Meilleur de
   biography: Biographie
   biopic: Biopic
+  bislama: Bichelamar
+  black_history_month: Mois de l'histoire des Noirs
   book: Livre
   bosnian: Bosniaque
+  bottom_rated: Notes basses
+  box_office: Box-office
+  boys_love: Boys Love
   brazil: Brésil
+  breton: Bretons
   bulgaria: Bulgarie
   bulgarian: Bulgare
+  burmese: Birman
   canada: Canada
+  cars: Voitures
   catalan: Catalans
+  central_khmer: Khmer
+  chamorro: Chamorro
   chart: Graphique
+  chechen: Tchétchènes
+  chichewa: Chewa
   children: Enfants
   chile: Chili
   china: Chine
   chinese: Chinois
   christmas: Noël
-  comic: Comic
+  church_slavic: Slavon d'église
+  chuvash: Tchouvaches
+  collected: Collectés
   comedy: La Comédie
+  comic: Comic
   competition: Compétition
+  con_artist: Escroquerie
+  content_ratings: Évaluation du contenu
+  cornish: Cornique
+  corsican: Corses
   costa_rica: Costa Rica
   country: Pays
+  creature_horror: Créatures
+  cree: Cri
   crime: Crime
   croatia: Croatie
   croatian: Croate
   czech: Tchèques
   czech_republic: République tchèque
   danish: Danois
+  day_of_persons_with_disabilities: Journée mondiale des personnes handicapées
   decade: Décennie
+  demons: Démons
   denmark: Danemark
+  director: Réalisateur
   directors: Réalisateurs
+  divehi: Maldivien
   documentary: Documentaire
   dominican_republic: République Dominicaine
   drama: Dramatiques
+  dzongkha: Dzongkha
   dutch: Néerlandais
   easter: Pâques
+  ecchi: Ecchi
   egypt: Egypte
   english: Anglais
   erotica: Érotique
+  esperanto: Espéranto
   estonia: Estonie
   estonian: Estoniens
+  ewe: Éwé
   family: Famille
+  families: Familles
   fantasy: Fantaisies
+  faroese: Féroïens
   fathers_day: Fête des pères
+  favorited: Favoris
+  fijian: Fijiens
   filipino: Philippins
   film_noir: Film Noir
   finland: Finlande
   finnish: Finnois
   food: Aliments
+  found_footage_horror: Images Trouvées
   france: France
+  franchise: Franchise
   french: Français
+  fulah: Peul
+  gaelic: Gaélique écossais
   galician: Galiciens
+  game: Jeu
   game_show: Jeu télévisé
+  ganda: Ganda
   gangster: Bandit
   genre: Genre
   georgian: Géorgien
   german: Allemands
   germany: Allemagne
+  girls_love: Girl's Love
+  gourmet: Gourmet
+  grand_jury_winners: Grand prix du jury
   greece: Grèce
   greek: Grecs
+  guarani: Guarani
+  gujarati: Goudjarati
+  haitian: Créole haïtien
   halloween: Halloween
+  harem: Harem
+  hausa: Haoussa
   hebrew: Hébreu
+  heist: Braquage
+  hentai: Hentai
+  herero: Héréro
   hindi: Hindi
+  hiri_motu: Hiri Motu
   history: Historiques
   home_and_garden: Maison et jardin
   hong_kong: Hong Kong
@@ -105,122 +186,256 @@ key_names:
   hungary: Hongrie
   iceland: Islande
   icelandic: Islandais
+  ido: Ido
+  igbo: Igbo
   independence_day: Le jour de l'indépendance
   india: Inde
   indie: Indé
   indonesia: Indonésie
   indonesian: Indonésiens
+  interlingua: Interlingue
+  interlingue: Interlingue
+  inuktitut: Inuktitut
+  inupiaq: Inupiaq
   iran: L'Iran
   ireland: Irlande
+  irish: Irlandais
   israel: Israël
   italian: Italiens
   italy: Italie
   japan: Japon
   japanese: Japonais
+  javanese: Javanais
+  kalaallisut: Groenlandais
   kannada: Kannada
+  kanuri: Kanouri
+  kashmiri: Cachemiri
   kazakh: Kazakh
   kids: Des gamins
+  kids_network: Chaines Enfants
+  kikuyu: Kikuyu
+  kinyarwanda: Kinyarwanda
+  kirghiz: Kirghize
+  komi: Komi
+  kongo: Kikongo
   korea: Corée
   korean: Coréens
+  kuanyama: Kuanyama
+  kurdish: Kurde
   lgbtq: LGBTQ+
+  lgbtq+_pride_month: Mois des fiertés
   labor_day: Fête du travail
+  lao: Lao
   latin: Latin
+  latinx_heritage_month: Mois de l'héritage hispanique
   latvia: Lettonie
   latvian: Letton
+  limburgan: Limbourgeois
+  lingala: Lingala
+  lithuanian: Lituanien
+  luba-katanga: Luba-katanga
   luxembourg: Luxembourg
+  luxembourgish: Luxembourgeois
+  lowest_rated: Moins bien notés
   macedonian: Macédonien
+  malagasy: Malgache
   malay: Malais
   malayalam: Malayalam
   malaysia: Malaisie
   malaysian: Malaisien
+  maltese: Maltais
+  mandarin: Mandarin
+  manx: Mannois
+  maori: Maori
   marathi: Marathe
   martial_arts: Arts martiaux
+  marshallese: Marshallais
+  mecha: Mecha
   memorial_day: Jour du souvenir
   mexico: Mexique
+  military: Militaire
   mind_bend: Courbure de l'esprit
   mind_fuck: Baise mentale
+  mind_f**k: Baise mentale
   mini_series: Mini-série
+  mongolian: Mongol
   morocco: Maroc
   mothers_day: Fête des mères
+  movie_chart: Box-office films
   music: Musiques
   musical: Musicale
   mystery: Mystère
+  nauru: Nauruan
+  navajo: Navajo
+  ndonga: Ndonga
   nepal: Népal
+  nepali: Népalais
   netherlands: Pays-Bas
   network: Réseau
+  new_episodes: Nouveaux épisodes
+  new_premieres: Nouvelles Saisons
+  new_year: Nouvelle Année
   new_years_day: Le jour de l'An
   new_zealand: Nouvelle-Zélande
+  newly_released_episodes: Nouveaux épisodes disponibles
+  newly_released: Nouvellement disponibles
   news: Nouvelles
   news_politics: Actualités et politique
+  nominations: Nominations
+  not_rated: Non classé
+  now_playing: En cours
+  north_ndebele: Ndébélé du Nord
+  northern_sami: Same du Nord
   norway: Norvège
   norwegian: Norvégiens
   norwegian_bokmål: Norvégien Bokmål
   norwegian_nynorsk: Norvégien Nynorsk
+  occitan: Occitan
+  ojibwa: Ojibwé
+  on_the_air: En direct
+  oriya: Odia
+  oromo: Oromo
+  ossetian: Ossète
+  other: Autre
+  outdoor_adventure: Aventure en plein air
   pakistan: Pakistan
+  pali: Pali
   panama: Panama
+  parody: Parodie
+  pashto: Pachto
   persian: Persane
+  personal: Personnel
   peru: Pérou
   philippines: Philippines
+  pilots: Pilotes
+  plex_people_watching: Ce que regardent les membres
+  plex_pilots: Pilotes Plex
+  plex_popular: Populaires sur Plex
+  plex_watched: Regardés sur Plex
   poland: Pologne
+  police: Police
   polish: Polonais
   politics: Politique
+  popular: Populaire
   portugal: le Portugal
   portugese: Portugais
   portuguese: Portugais
+  producer: Producteur
   producers: Producteurs et Productrices
+  psychedelic: Psychédélique
+  psychological: Psychologique
+  psychological_horror: Horreur psychologique
   punjabi: Pendjabi
   qatar: Qatar
-  ratings: Notes
+  quechua: Quechua
+  rated: Classé
+  ratings: Classements
   reality: Réalité
+  recommended: Recommandés
+  recently_added: Ajoutés récemment
+  recently_aired: Diffusés récemment
   resolution: Résolution
   romance: Romantiques
   romania: Roumanie
   romanian: Roumains
   romantic_comedy: Comédie romantique
   romantic_drama: Drame romantique
+  romansh: Romanche
+  rundi: Kirondi
   russia: Russie
   russian: Russes
+  samoan: Samoan
+  samurai: Samouraï
+  sango: Sango
+  sanskrit: Sanscrit
+  sardinian: Sarde
   saudi_arabia: Arabie Saoudite
+  school: École
   sci-fi_&_fantasy: Science-fiction et fantaisie
   science_fiction: La science-fiction
+  season: Saison
   seasonal: Saisonnier
   serbia: Serbie
   serbian: Serbe
+  serial_killer: Tueur en série
+  shona: Shona
   short: Court Métrage
+  shoujo: Shōjo
+  shounen: Shōnen
+  sichuan_yi: Yi
+  sindhi: Sindi
   singapore: Singapour
+  sinhala: Cingalais
   slasher: Slasher
+  slice_of_life: Tranche de vie
   slovak: Slovaques
   slovenian: Slovène
   soap: Feuilleton
+  somali: Somali
   south_africa: Afrique du Sud
+  south_ndebele: Ndébélé du Sud
+  southern_sotho: Sotho du Sud
+  space: Espace
   spain: Espagne
   spanish: Espagnols
   sport: Sport
+  spy: Espion
   sri_lanka: Sri Lanka
   st_patricks_day: Le jour de la Saint-Patrick
   stand-up_comedy: Comédie debout
+  stevenlu's_popular_movies: Films populaires selon StevenLu
+  stoner_comedy: Stoner
   streaming: Diffusion
   studio: Studio
+  studio_animation: Studio d'Animation
+  subtitle: Sous-titre
   subtitle_language: Langue des sous-titres
+  sundanese: Soundanais
   superhero: Super-héros
+  super_power: Super-pouvoir
+  supernatural: Surnaturel
+  survival: Survie
   suspense: Le Suspense
-  swahili: Swahili
+  swahili: Kiswahili
+  swati: Swati
   sweden: Suède
   swedish: Suédois
   switzerland: Suisse
   sword_sorcery: Épée et sorcellerie
+  tv_chart: Box-office Séries
   tv_movie: Téléfilm
+  tagalog: Tagal
+  tahitian: Tahitien
+  tajik: Tadjik
   talk_show: Talk-show
   tamil: Tamouls
+  tatar: Tatar
   telugu: Télougou
   thai: Thaïlandais
   thailand: Thaïlande
   thanksgiving: Action de grâces
   thriller: Suspense
+  tibetan: Tibétain
+  tigrinya: Tigrigna
+  timeline_order: Ordre chronologique
+  tonga: Tongien
+  top_10: TOP 10
+  top_10_pirated: TOP 10 Piratés
+  top_250: TOP 250
+  top_airing: Top en diffusion
+  top_rated: Mieux Notés
   travel: Voyager
   true_story: Histoire vraie
+  trending: Tendance
+  tsonga: Tsonga
+  tswana: Tswana
   turkey: Turquie
   turkish: Turcs
+  turkmen: Turkmène
+  twi: Tchi
+  uighur: Ouïghour
+  uk_network: Chaines Royaume-Uni
+  uk_streaming: Streaming Royaume-Uni
   ukraine: Ukraine
   ukrainian: Ukrainien
   united_arab_emirates: Emirats Arabes Unis
@@ -228,16 +443,36 @@ key_names:
   united_states_of_america: les États-Unis d'Amérique
   universe: Univers
   urdu: Ourdou
+  us_network: Chaines États-Unis
+  us_streaming: Streaming États-Unis
+  uzbek: Ouzbek
   valentines_day: La Saint-Valentin
+  vampire: Vampire
+  venda: Venda
   video_game: Jeu Vidéo
   vietnam: Viêt Nam
   vietnamese: Vietnamien
+  volapük: Volapük
+  walloon: Wallon
+  war: Guerre
   war_politics: Guerre & Politique
+  watched: Regardés
+  watchlist: Liste de lecture
   welsh: Gallois
   western: Le Western
+  western_frisian: Frison Occidental
+  winners: Gagnants
+  wolof: Wolof
+  women's_history_month: Mois de l'histoire des femmes
+  writer: Scénariste
   writers: Scénaristes
+  xhosa: Xhosa
   year: de l'année
-  4/20: 4/20
+  yiddish: Yiddish
+  yoruba: Yoruba
+  zhuang: Zhuang
+  zombie_horror: Zombies
+  zulu: Zoulou
 collections:
   bafta_best:
     name: BAFTA Meilleurs films
