@@ -237,6 +237,11 @@ key_names:
   western: Western
   writers: Forfattere
   year: År
+  actor: Skuespiller
+  age: Alder
+  abkhazian: Abkhasien
+  afrikaans: Afrikansk
+  airing_today: Vises i dag
 collections:
   bafta_best:
     name: BAFTA Bedste Film
