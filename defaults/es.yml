@@ -51,7 +51,7 @@ key_names:
   china: China
   chinese: Chino
   christmas: Navidad
-  comic: Comic
+  comic: Cómic
   comedy: Comedia
   competition: Competición
   costa_rica: Costa Rica
@@ -237,6 +237,88 @@ key_names:
   western: Oeste
   writers: Escritores
   year: Año
+  4/20: 4/20
+  airing_today: Transmitido hoy
+  asian_american_pacific_islander_heritage_month: Mes de la Herencia Asiático-Americana
+    y de las Islas del Pacífico
+  based_on_a_true_story: Basado en hechos reales
+  best_picture_winner: Ganador de la Mejor Película
+  central_khmer: Camboyano
+  creature_horror: Criatura de Terror
+  esperanto: Esperanto
+  gaelic: Gaélico Escocés
+  guarani: Guaraní
+  abkhazian: Abjasio
+  afar: Lejos
+  actor: Actor
+  afrikaans: Afrikaans
+  age: Edad
+  akan: Akanes
+  amharic: Amárico
+  aragonese: Aragonés
+  armenian: Armenio
+  assamese: Asamés
+  assassin: Asesino
+  avaric: Avar
+  avestan: Avéstico
+  aymara: Aimara
+  azerbaijani: Azerbaiyano
+  bambara: Bambara
+  based_on...: Basado en...
+  based_on_a_book: Basado en un libro
+  based_on_a_comic: Basado en un cómic
+  based_on_a_video_game: Basado en un videojuego
+  bashkir: Bashkir
+  belarusian: Bielorruso
+  best_director_winners: Ganadores Mejor Director
+  best_picture_winners: Ganadores de la Mejor Película
+  best_of: Mejor de
+  bislama: Bislama
+  black_history_month: Mes Negro de la Historia
+  bottom_rated: Calificación Inferior
+  box_office: Taquillas
+  boys_love: Amor de Chicos
+  breton: Bretón
+  burmese: Birmano
+  cars: Coches
+  chamorro: Chamorro
+  chechen: Checheno
+  chichewa: Chichewa
+  church_slavic: Eslavo
+  chuvash: Chuvasio
+  collected: Coleccionado
+  con_artist: Con Artista
+  content_ratings: Calificaciones de Contenido
+  cornish: Córnico
+  corsican: Corso
+  cree: Cree
+  day_of_persons_with_disabilities: Día de las Personas con Discapacidad
+  demons: Demonios
+  director: Director
+  divehi: Maldivo
+  dzongkha: Dzongkha
+  ecchi: Ecchi
+  ewe: Ewé
+  families: Familias
+  faroese: Feroés
+  favorited: Favorito
+  fijian: Fiyiano
+  found_footage_horror: Imágenes Encontradas de Terror
+  franchise: Franquicia
+  fulah: Fula
+  game: Juego
+  ganda: Bantú
+  girls_love: Amante de las Chicas
+  gourmet: Gourmet
+  grand_jury_winners: Ganadoras del Gran Jurado
+  gujarati: Guyaratí
+  haitian: Haitiano
+  harem: Harén
+  hausa: Hausa
+  heist: Robo
+  hentai: Hentai
+  herero: Hentai
+  hiri_motu: Hiri Motu
 collections:
   bafta_best:
     name: BAFTA Mejores Películas
