@@ -53,7 +53,7 @@ key_names:
   azerbaijani: Azéri
   bambara: Bambara
   bahamas: Bahamas
-  based_on...: Basés sur...
+  based_on: Basés sur...
   based_on_a_book: Basés sur un livre
   based_on_a_comic: Basés sur un comic
   based_on_a_true_story: Basés sur des faits réels
@@ -97,6 +97,7 @@ key_names:
   church_slavic: Slavon d'église
   chuvash: Tchouvaches
   collected: Collectés
+  collectionless: Sans collection
   comedy: La Comédie
   comic: Comic
   competition: Compétition
@@ -474,10 +475,6 @@ key_names:
   zhuang: Zhuang
   zombie_horror: Zombies
   zulu: Zoulou
-  father's_day: Fête des pères
-  st._patricks_day: Le jour de la Saint-Patrick
-  collectionless: Sans collection
-  based_on: Basés sur...
 collections:
   bafta_best:
     name: BAFTA Meilleurs films
