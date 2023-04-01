@@ -52,7 +52,7 @@ key_names:
   azerbaijani: Azerbaijani
   bambara: Bambara
   bahamas: Bahamas
-  based_on...: Based on...
+  based_on: Based on...
   based_on_a_book: Based on a book
   based_on_a_comic: Based on a comic
   based_on_a_true_story: Based on a true story
@@ -96,6 +96,7 @@ key_names:
   church_slavic: Church Slavic
   chuvash: Chuvash
   collected: Collected
+  collectionless: Collectionless
   comedy: Comedy
   comic: Comic
   competition: Competition
