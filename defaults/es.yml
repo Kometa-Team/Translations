@@ -319,6 +319,66 @@ key_names:
   hentai: Hentai
   herero: Hentai
   hiri_motu: Hiri Motu
+  based_on: Basado en...
+  collectionless: Sin Colección
+  ido: Ido
+  igbo: Ibo
+  interlingua: Interlingua
+  interlingue: Interlingue
+  inuktitut: Inuktitut
+  inupiaq: Inupiaq
+  irish: Irlandés
+  javanese: Javanés
+  kalaallisut: Groenlandés
+  kanuri: Kanuri
+  kashmiri: Kashmiri
+  kids_network: Canal Niños
+  kikuyu: Kikuyu
+  kinyarwanda: Kinyarwanda
+  kirghiz: Kirguís
+  komi: Komi
+  kongo: Kongo
+  kuanyama: Kuanyama
+  kurdish: Kurdo
+  lgbtq_pride_month: Mes del Orgullo LGBTQ+
+  lao: Lao
+  latinx_heritage_month: Mes de la Herencia Latinx
+  limburgan: Limburgués
+  lingala: Lingala
+  lithuanian: Lituano
+  luba-katanga: Luba-katanga
+  luxembourgish: Luxemburgues
+  lowest_rated: Calificación más baja
+  malagasy: Malgache
+  maltese: Maltés
+  mandarin: Mandarín
+  manx: Manés
+  maori: Maori
+  marshallese: Marshalés
+  mecha: Mecha
+  military: Militar
+  mind_f**k: Mente-F ** k
+  mongolian: Mongol
+  movie_chart: Lista de Películas
+  nauru: Nauru
+  navajo: Navajo
+  ndonga: Ndonga
+  nepali: Nepales
+  new_episodes: Nuevos Episodios
+  new_premieres: Nuevos Estrenos
+  new_year: Año Nuevo
+  newly_released_episodes: Episodios recién estrenados
+  newly_released: Recién Estrenado
+  nominations: Nominaciones
+  not_rated: Sin calificación
+  now_playing: Reproduciendo Ahora
+  north_ndebele: Ndebele del Norte
+  northern_sami: Sami del Norte
+  occitan: Occitano
+  ojibwa: Ojibwa
+  on_the_air: Emitiendo
+  oriya: Oriya
+  oromo: Oromo
 collections:
   bafta_best:
     name: BAFTA Mejores Películas
