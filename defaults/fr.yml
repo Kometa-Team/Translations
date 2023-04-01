@@ -476,6 +476,8 @@ key_names:
   zulu: Zoulou
   father's_day: Fête des pères
   st._patricks_day: Le jour de la Saint-Patrick
+  collectionless: Sans collection
+  based_on: Basés sur...
 collections:
   bafta_best:
     name: BAFTA Meilleurs films
