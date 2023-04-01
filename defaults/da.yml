@@ -51,7 +51,7 @@ key_names:
   china: Kina
   chinese: Kinesisk
   christmas: Jule
-  comic: Comic
+  comic: Tegneserie
   comedy: Komedie
   competition: Konkurrence
   costa_rica: Costa Rica
@@ -86,7 +86,7 @@ key_names:
   france: Frankrig
   french: Fransk
   galician: Galicisk
-  game_show: Game Show
+  game_show: TV Program
   gangster: Gangster
   genre: Genre
   georgian: Georgisk
@@ -218,7 +218,7 @@ key_names:
   thanksgiving: Thanksgiving
   thriller: Thriller
   travel: Rejse
-  true_story: True Story
+  true_story: Sand historie
   turkey: Tyrkiet
   turkish: Tyrkisk
   ukraine: Ukraine
@@ -229,7 +229,7 @@ key_names:
   universe: Univers
   urdu: Urdu
   valentines_day: Valentinsdag
-  video_game: Video Game
+  video_game: Videospil
   vietnam: Vietnam
   vietnamese: Vietnamesisk
   war_politics: Krig & Politik
@@ -251,6 +251,230 @@ key_names:
   assamese: Assamisk
   assassin: Snigmorder
   avestan: Avestan
+  based_on: Baseret på...
+  day_of_persons_with_disabilities: Den internationale dag for personer med handicap
+  families: Familier
+  found_footage_horror: Fundne Optagelser Gysere
+  hausa: Hausa
+  luxembourgish: Luxembourgsk
+  lgbtq_pride_month: LGBTQ+ Pride Måned
+  maltese: Maltesisk
+  womens_history_month: Kvindehistoriemåneden
+  movie_chart: Film topliste
+  newly_released: Udgivet fornyligt
+  occitan: Occitansk
+  plex_people_watching: Ses på Plex
+  recently_added: Tilføjet fornyligt
+  samoan: Samoansk
+  samurai: Samurai
+  south_ndebele: Syd-ndebele
+  super_power: Superkræfter
+  swati: Swati
+  tibetan: Tibetansk
+  collectionless: Ikke i samling
+  con_artist: Svindler
+  content_ratings: Indholdsbedømmelse
+  cornish: Kornisk
+  corsican: Korsikansk
+  creature_horror: Gyservæsen
+  cree: Cree
+  demons: Dæmoner
+  director: Instruktør
+  divehi: Divehi
+  dzongkha: Dzongkha
+  ecchi: Ecchi
+  esperanto: Esperanto
+  ewe: Ewe
+  faroese: Færøsk
+  favorited: Favoriseret
+  fijian: Fijiansk
+  franchise: Franchise
+  fulah: Fulah
+  gaelic: Skotsk gælisk
+  game: Spil
+  ganda: Ganda
+  girls_love: Pigens Kærlighed
+  gourmet: Gourmet
+  grand_jury_winners: Storjuryvindere
+  guarani: Guarani
+  gujarati: Gujarati
+  haitian: Haitisk
+  harem: Harem
+  heist: Røveri
+  hentai: Hentai
+  herero: Herero
+  hiri_motu: Hiri motu
+  ido: Ido
+  igbo: Igbo
+  interlingua: Interlingua
+  interlingue: Interlingue
+  inuktitut: Inuktitut
+  inupiaq: Inupiaq
+  irish: Irsk
+  javanese: Javanesisk
+  kalaallisut: Grønlandsk
+  kanuri: Kanuri
+  kashmiri: Kashmiri
+  kids_network: Børne netværk
+  kikuyu: Kikuyu
+  kinyarwanda: Kinyarwanda
+  kirghiz: Kirghiz
+  komi: Komi
+  kongo: Kongo
+  kuanyama: Kuanyama
+  kurdish: Kurdisk
+  lao: Lao
+  latinx_heritage_month: Latinx Arv Måned
+  limburgan: Limburgan
+  lingala: Lingala
+  lithuanian: Litauisk
+  luba-katanga: Luba-katanga
+  lowest_rated: Lavest bedømt
+  malagasy: Malagassisk
+  mandarin: Mandarin
+  manx: Manx
+  maori: Maori
+  marshallese: Marshallese
+  mecha: Mecha
+  military: Militær
+  mind_f**k: Mind-F**k
+  mongolian: Mongolsk
+  nauru: Nauruansk
+  navajo: Navajo
+  ndonga: Ndonga
+  nepali: Nepalesisk
+  new_episodes: Nye episoder
+  new_premieres: Nye premierer
+  new_year: Nytår
+  newly_released_episodes: Episoder udgivet fornyligt
+  nominations: Nomineringer
+  not_rated: Ikke indholdsbedømt
+  now_playing: Spiller nu
+  north_ndebele: Nordndebele
+  northern_sami: Nordsami
+  ojibwa: Ojibwa
+  on_the_air: I luften
+  oromo: Oromo
+  ossetian: Ossetisk
+  other: Andet
+  outdoor_adventure: Udendørs eventyr
+  pali: Pali
+  parody: Parodi
+  pashto: Pashto
+  personal: Personlig
+  pilots: Piloter
+  plex_pilots: Plex piloter
+  plex_popular: Populært på Plex
+  plex_watched: Set på Plex
+  police: Politi
+  popular: Populær
+  producer: Producent
+  psychedelic: Psykedelisk
+  psychological: Psykologisk
+  psychological_horror: Psykologisk gyser
+  quechua: Quechua
+  rated: Klasse
+  recommended: Anbefalet
+  recently_aired: I luften fornyligt
+  romansh: Rætoromansk
+  rundi: Rundi
+  sango: Sango
+  sanskrit: Sanskrit
+  school: Skole
+  season: Sæson
+  serial_killer: Seriemoder
+  shona: Shona
+  shoujo: Shoujo
+  shounen: Shounen
+  sichuan_yi: Nuosu
+  sindhi: Sindhi
+  sinhala: Singalesisk
+  slice_of_life: Et stykke af livet
+  somali: Somali
+  southern_sotho: Sydsotho
+  space: Rummet
+  spy: Spion
+  stevenlu's_popular_movies: Populære film ifølge StevenLu
+  stoner_comedy: Stener komedier
+  studio_animation: Animationsstudie
+  subtitle: Undertekst
+  sundanese: Sundanesisk
+  supernatural: Overnaturlig
+  survival: Overlevelse
+  tv_chart: TV topliste
+  tagalog: Tagalog
+  tahitian: Tahitiansk
+  tajik: Tadsjikisk
+  tatar: Tatar
+  tigrinya: Tigrinsk
+  timeline_order: Kronlogisk rækkefølge
+  tonga: Tongansk
+  top_10: TOP 10
+  top_10_pirated: TOP 10 Pirateret
+  top_250: TOP 250
+  top_airing: Top i luften
+  top_rated: Top bedømt
+  trending: Trender
+  tsonga: Tsonga
+  tswana: Tswana
+  turkmen: Turkmensk
+  twi: Twi
+  uighur: Uygurisk
+  uk_network: UK netværk
+  uk_streaming: UK streaming
+  us_network: US netværk
+  us_streaming: US streaming
+  uzbek: Usbekisk
+  vampire: Vampyr
+  venda: Venda
+  volapük: Volapük
+  walloon: Vallonsk
+  war: Krig
+  watched: Set
+  watchlist: Overvågningsliste
+  western_frisian: Vestfrisisk
+  winners: Vindere
+  wolof: Wolof
+  writer: Forfatter
+  xhosa: Xhosa
+  yiddish: Jiddisch
+  yoruba: Yoruba
+  zhuang: Zhuang
+  zombie_horror: Zombiegyser
+  zulu: Zulu
+  afar: Langt væk
+  akan: Akan
+  avaric: Avarisk
+  aymara: Aymara
+  azerbaijani: Aserbajdsjansk
+  bambara: Bambara
+  based_on_a_book: Baseret på en bog
+  based_on_a_comic: Baseret på en tegneserie
+  based_on_a_true_story: Baseret på en rigtig historie
+  based_on_a_video_game: Baseret på et videospil
+  bashkir: Bashkir
+  belarusian: Belarusisk
+  best_director_winners: Vindere af Bedste Instruktør
+  best_picture_winner: Vindere af Bedste Film
+  best_picture_winners: Vindere af Bedste Film
+  best_of: Bedste af
+  bislama: Bislama
+  black_history_month: Måned med Sortes Historie
+  bottom_rated: Bundbedømt
+  box_office: Biografhit
+  boys_love: Drenges Kærlighed
+  breton: Bretonsk
+  burmese: Burmesisk
+  cars: Biler
+  central_khmer: Central Khmer
+  chamorro: Chamorro
+  chechen: Tjetjensk
+  chichewa: Chichewa
+  church_slavic: Kirkeslavisk
+  chuvash: Tjuvasjere
+  collected: Samlet
+  oriya: Oriya
+  sardinian: Sardisk
 collections:
   bafta_best:
     name: BAFTA Bedste Film
@@ -265,11 +489,11 @@ collections:
     name: Cannes <<key_name>>
     summary: <<key_name>> Cannes Priser.
   choice_year:
-    name: Critics Choice Awards <<key_name>>
-    summary: <<key_name>> Critics Choice Awards.
+    name: Critics Choice Priser <<key_name>>
+    summary: <<key_name>> Critics Choice Priser.
   emmy_year:
     name: Emmy <<key_name>>
-    summary: <<key_name>> Emmy Vindere.
+    summary: <<key_name>> Emmy vindere.
   golden_picture:
     name: Golden Globes Vindere af Bedste Film
     summary: Golden Globes Vindere af Bedste Film.
@@ -278,7 +502,7 @@ collections:
     summary: Golden Globes Vindere af Bedste Instruktør.
   golden_year:
     name: Golden Globe <<key_name>>
-    summary: <<key_name>> Golden Globe Vindere.
+    summary: <<key_name>> Golden Globe vindere.
   oscars_picture:
     name: Oscar Vindere Af Bedste Film
     summary: Akademiets Pris for Bedste Film er en af Akademiets Priser der gives
@@ -426,13 +650,13 @@ collections:
     name: Trakt Sete
     summary: En samling af Trakts ugentlige sete liste.
   separator:
-    name: <<key_name>> Samlinger
-    summary: Sektion adskiller for <<key_name>> Samlinger.
+    name: <<key_name>> samlinger
+    summary: Sektion adskiller for <<key_name>> samlinger.
   actor:
     name: <<key_name>>
     summary: <<library_translationU>> med <<key_name>>.
   audio_language:
-    name: <<key_name>> Lyd
+    name: <<key_name>> lyd
     summary: <<library_translationU>> med <<key_name>> lydsprog.
   audio_language_other:
     name: Anden Lyd
@@ -464,7 +688,7 @@ collections:
     name: <<key_name>> (Instruktør)
     summary: <<library_translationU>> instrueret af <<key_name>>.
   genre:
-    name: <<key_name>> <<library_translationU>>s
+    name: <<key_name>> <<library_translationU>>
     summary: <<library_translationU>> som har genren <<key_name>>.
   network:
     name: <<key_name>>
@@ -489,7 +713,7 @@ collections:
     name: <<key_name>>
     summary: <<library_translationU>> produceret af <<key_name>>.
   subtitle_language:
-    name: <<key_name>> Undertekster
+    name: <<key_name>> undertekster
     summary: <<library_translationU>> med <<key_name>> undertekster.
   subtitle_language_other:
     name: Andre Undertekster
@@ -500,3 +724,34 @@ collections:
   year:
     name: Bedste i <<key_name>>
     summary: <<library_translationU>> udgivet i <<key_name>>.
+  network_kids_other:
+    summary: <<library_translationU>> vist på andre ualmindelige børnenetværk.
+    name: Andre børnenetværk
+  studio_animation_other:
+    summary: <<library_translationU>> produceret af andre ualmindelige animationsstudier.
+    name: Andre animationsstudier
+  based:
+    name: Baseret på en <<key_name>>
+    summary: <<library_translationU>> baseret på eller inspireret af <<key_name>>.
+  content_ratings_other:
+    name: Andre bedømmelser
+    summary: <<library_translationU>> som ikke er indholdsbedømt eller anden ualmindelig
+      bedømmelse.
+  decade_other:
+    name: Andre årtier
+    summary: <<library_translationU>> udgivet i andre årtier.
+  genre_other:
+    name: Andre genrer
+    summary: <<library_translationU>> der har en anden ualmindelig genre.
+  network_other:
+    name: Andre netværk
+    summary: <<library_translationU>> sendt på andre ualmindelige netværk.
+  resolutions_other:
+    name: Andre opløsninger
+    summary: <<library_translationU>> der har andre ualmindelige opløsninger.
+  studio_other:
+    name: Andre studier
+    summary: <<library_translationU>> produceret af andre ualmindelige studier.
+  year_other:
+    name: Andre år
+    summary: <<library_translationU>> udgivet i andre år.
