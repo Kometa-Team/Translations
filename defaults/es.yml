@@ -218,7 +218,7 @@ key_names:
   thanksgiving: Acción de Gracias
   thriller: Thriller
   travel: Viajar
-  true_story: True Story
+  true_story: Historia Real
   turkey: Turquía
   turkish: Turco
   ukraine: Ucrania
@@ -229,7 +229,7 @@ key_names:
   universe: Universo
   urdu: Urdu
   valentines_day: Día de San Valentín
-  video_game: Video Game
+  video_game: Video Juego
   vietnam: Vietnam
   vietnamese: Vietnamita
   war_politics: Guerra y Política
@@ -479,7 +479,7 @@ collections:
     name: TMDb Popular
     summary: Una colección de lo más visto en <<library_translation>>s según TMDb.
   tmdb_top:
-    name: TMDb Top Rated
+    name: TMDb Más Valorados
     summary: Una colección de lo más valorado en <<library_translation>>s según TMDb.
   tmdb_trending:
     name: TMDb Tendencia
@@ -512,7 +512,7 @@ collections:
     name: Otro Audio
     summary: <<library_translationU>>s filmado en otros idiomas poco comunes.
   collectionless:
-    name: Collectionless
+    name: Sin Colección
     summary: Colección de <<library_translationU>>s utilizado para hacer que Plex
       muestre los elementos correctamente.
   content_rating:
