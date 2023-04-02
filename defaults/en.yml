@@ -29,7 +29,7 @@ key_names:
   afar: Afar
   afrikaans: Afrikaans
   age: Age
-  airing_today: Airing today
+  airing_today: Airing Today
   akan: Akan
   albanian: Albanian
   amharic: Amharic
@@ -54,10 +54,10 @@ key_names:
   bambara: Bambara
   bahamas: Bahamas
   based_on: Based on...
-  based_on_a_book: Based on a book
-  based_on_a_comic: Based on a comic
-  based_on_a_true_story: Based on a true story
-  based_on_a_video_game: Based on a video game
+  based_on_a_book: Based on a Book
+  based_on_a_comic: Based on a Comic
+  based_on_a_true_story: Based on a True Story
+  based_on_a_video_game: Based on a Video Game
   basque: Basque
   bashkir: Bashkir
   belarusian: Belarusian
@@ -115,7 +115,7 @@ key_names:
   czech: Czech
   czech_republic: Czech Republic
   danish: Danish
-  day_of_persons_with_disabilities: Day of persons with disabilities
+  day_of_persons_with_disabilities: Day of Persons With Disabilities
   decade: Decade
   demons: Demons
   denmark: Denmark
@@ -165,7 +165,7 @@ key_names:
   germany: Germany
   girls_love: Girl's Love
   gourmet: Gourmet
-  grand_jury_winners: Grand jury winners
+  grand_jury_winners: Grand Jury Winners
   greece: Greece
   greek: Greek
   guarani: Guarani
@@ -235,10 +235,10 @@ key_names:
   limburgan: Limburgan
   lingala: Lingala
   lithuanian: Lithuanian
-  luba-katanga: Luba-katanga
+  luba-katanga: Luba-Katanga
   luxembourg: Luxembourg
   luxembourgish: Luxembourgish
-  lowest_rated: Lowest rated
+  lowest_rated: Lowest Rated
   macedonian: Macedonian
   malagasy: Malagasy
   malay: Malay
@@ -263,7 +263,7 @@ key_names:
   mongolian: Mongolian
   morocco: Morocco
   mothers_day: Mother's Day
-  movie_chart: Movie chart
+  movie_chart: Movie Chart
   music: Music
   musical: Musical
   mystery: Mystery
@@ -279,12 +279,12 @@ key_names:
   new_year: New Year
   new_years_day: New Year's Day
   new_zealand: New Zealand
-  newly_released_episodes: Newly released episodes
-  newly_released: Newly released
+  newly_released_episodes: Newly Released Episodes
+  newly_released: Newly Released
   news: News
   news_politics: News & Politics
   nominations: Nominations
-  not_rated: Not rated
+  not_rated: Not Rated
   now_playing: Now Playing
   north_ndebele: North Ndebele
   northern_sami: Northern Sami
@@ -310,9 +310,9 @@ key_names:
   peru: Peru
   philippines: Philippines
   pilots: Pilots
-  plex_people_watching: Plex people watching
-  plex_pilots: Plex pilots
-  plex_popular: Plex popular
+  plex_people_watching: Plex People Watching
+  plex_pilots: Plex Pilots
+  plex_popular: Plex Popular
   plex_watched: Plex Watched
   poland: Poland
   police: Police
@@ -326,7 +326,7 @@ key_names:
   producers: Producers
   psychedelic: Psychedelic
   psychological: Psychological
-  psychological_horror: Psychological horror
+  psychological_horror: Psychological Horror
   punjabi: Punjabi
   qatar: Qatar
   quechua: Quechua
@@ -334,8 +334,8 @@ key_names:
   ratings: Ratings
   reality: Reality
   recommended: Recommended
-  recently_added: Recently added
-  recently_aired: Recently aired
+  recently_added: Recently Added
+  recently_aired: Recently Aired
   resolution: Resolution
   romance: Romance
   romania: Romania
@@ -359,7 +359,7 @@ key_names:
   seasonal: Seasonal
   serbia: Serbia
   serbian: Serbian
-  serial_killer: Serial killer
+  serial_killer: Serial Killer
   shona: Shona
   short: Short
   shoujo: Shoujo
@@ -385,7 +385,7 @@ key_names:
   sri_lanka: Sri Lanka
   st_patricks_day: St. Patrick's Day
   stand-up_comedy: Stand-Up Comedy
-  stevenlu's_popular_movies: Stevenlu's popular movies
+  stevenlu's_popular_movies: StevenLu's Popular Movies
   stoner_comedy: Stoner Comedy
   streaming: Streaming
   studio: Studio
@@ -421,11 +421,11 @@ key_names:
   tigrinya: Tigrinya
   timeline_order: Timeline Order
   tonga: Tonga
-  top_10: TOP 10
-  top_10_pirated: TOP 10 PIRATED
-  top_250: TOP 250
-  top_airing: TOP AIRING
-  top_rated: TOP Rated
+  top_10: Top 10
+  top_10_pirated: Top 10 Pirated
+  top_250: Top 250
+  top_airing: Top Airing
+  top_rated: Top Rated
   travel: Travel
   true_story: True Story
   trending: Trending
