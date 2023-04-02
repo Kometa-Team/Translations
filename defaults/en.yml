@@ -39,7 +39,8 @@ key_names:
   aragonese: Aragonese
   argentina: Argentina
   armenian: Armenian
-  asian_american_pacific_islander_heritage_month: Asian American & Pacific Islander Heritage Month
+  asian_american_pacific_islander_heritage_month: Asian American & Pacific Islander
+    Heritage Month
   assamese: Assamese
   assassin: Assassin
   audio_language: Audio Language
@@ -329,7 +330,7 @@ key_names:
   punjabi: Punjabi
   qatar: Qatar
   quechua: Quechua
-  rated: Classé
+  rated: Rated
   ratings: Ratings
   reality: Reality
   recommended: Recommended
@@ -575,8 +576,7 @@ collections:
     summary: A collection of newly-released Episodes.
   flixpatrol:
     name: <<key_name>> Top <<limit>>
-    summary: Top <<limit>> <<library_translation>>s on <<key_name>> according
-      to FlixPatrol.
+    summary: Top <<limit>> <<library_translation>>s on <<key_name>> according to FlixPatrol.
   imdb_popular:
     name: IMDb Popular
     summary: List of IMDb Popular <<library_translation>>s.
@@ -678,8 +678,8 @@ collections:
     summary: <<library_translationU>>s that are rated <<key_name>>.
   content_rating_cs:
     name: Age <<key_name>>+ <<library_translationU>>s
-    summary: <<library_translationU>>s that are rated <<key_name>> according
-      to the Common Sense Rating System.
+    summary: <<library_translationU>>s that are rated <<key_name>> according to the
+      Common Sense Rating System.
   content_rating_other:
     name: Not Rated <<library_translationU>>s
     summary: <<library_translationU>>s that are Unrated, Not Rated or any other uncommon
@@ -732,8 +732,8 @@ collections:
     summary: <<library_translationU>>s that have other uncommon resolutions.
   seasonal:
     name: <<key_name>> <<library_translationU>>s
-    summary: A collection of <<key_name>> <<library_translation>>s that
-      may relate to the season.
+    summary: A collection of <<key_name>> <<library_translation>>s that may relate
+      to the season.
   streaming:
     name: <<key_name>> <<library_translationU>>s
     summary: <<library_translationU>>s streaming on <<key_name>>.
