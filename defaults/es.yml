@@ -379,6 +379,31 @@ key_names:
   on_the_air: Emitiendo
   oriya: Oriya
   oromo: Oromo
+  other: Otro
+  outdoor_adventure: Aventura al Aire Libre
+  parody: Parodia
+  personal: Personal
+  pilots: Pilotos
+  police: Policía
+  popular: Popular
+  producer: Productor
+  recommended: Recomendado
+  samurai: Samurai
+  school: Colegio
+  season: Temporada
+  serial_killer: Asesino en Serie
+  space: Espacio
+  spy: Espía
+  studio_animation: Estudio de Animación
+  subtitle: Subtitulo
+  super_power: Super Poder
+  tibetan: Tibetano
+  timeline_order: Orden Cronológico
+  top_10: Top 10
+  top_10_pirated: Top 10 Pirata
+  top_250: Top 250
+  trending: Tendencia
+  recently_added: Añadido Recientemente
 collections:
   bafta_best:
     name: BAFTA Mejores Películas
