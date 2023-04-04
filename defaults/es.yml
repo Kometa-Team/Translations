@@ -23,7 +23,7 @@ key_names:
   actors: Actores
   adult: Adulto
   adventure: Aventura
-  albanian: Albania
+  albanian: Albanés
   animation: Animación
   anime: Anime
   arabic: Arábica
@@ -238,7 +238,7 @@ key_names:
   writers: Escritores
   year: Año
   4/20: 4/20
-  airing_today: Transmitido hoy
+  airing_today: Emitiendo Hoy
   asian_american_pacific_islander_heritage_month: Mes de la Herencia Asiático-Americana
     y de las Islas del Pacífico
   based_on_a_true_story: Basado en hechos reales
@@ -253,7 +253,7 @@ key_names:
   actor: Actor
   afrikaans: Afrikaans
   age: Edad
-  akan: Akanes
+  akan: Akán
   amharic: Amárico
   aragonese: Aragonés
   armenian: Armenio
@@ -346,9 +346,9 @@ key_names:
   limburgan: Limburgués
   lingala: Lingala
   lithuanian: Lituano
-  luba-katanga: Luba-katanga
+  luba-katanga: Luba-Katanga
   luxembourgish: Luxemburgues
-  lowest_rated: Calificación más baja
+  lowest_rated: Calificación más Baja
   malagasy: Malgache
   maltese: Maltés
   mandarin: Mandarín
@@ -367,10 +367,10 @@ key_names:
   new_episodes: Nuevos Episodios
   new_premieres: Nuevos Estrenos
   new_year: Año Nuevo
-  newly_released_episodes: Episodios recién estrenados
+  newly_released_episodes: Episodios Recién Estrenados
   newly_released: Recién Estrenado
   nominations: Nominaciones
-  not_rated: Sin calificación
+  not_rated: Sin Calificación
   now_playing: Reproduciendo Ahora
   north_ndebele: Ndebele del Norte
   northern_sami: Sami del Norte
@@ -404,6 +404,78 @@ key_names:
   top_250: Top 250
   trending: Tendencia
   recently_added: Añadido Recientemente
+  recently_aired: Recientemente Emitido
+  womens_history_month: Mes de la Historia de la Mujer
+  ossetian: Osético
+  pali: Pali
+  pashto: Pastún
+  plex_people_watching: Personas Viendo Plex
+  plex_watched: Plex Visto
+  plex_pilots: Plex Pilotos
+  psychedelic: Psicodélico
+  psychological: Psicológico
+  quechua: Quechua
+  romansh: Romanche
+  rundi: Kirundi
+  samoan: Samoano
+  sango: Sango
+  sanskrit: Sánscrito
+  sardinian: Sardo
+  shona: Shona
+  shoujo: Shoujo
+  shounen: Shonen
+  sichuan_yi: Nuosu
+  sindhi: Sindi
+  sinhala: Cingalés
+  slice_of_life: Pedazo de Vida
+  somali: Somalí
+  south_ndebele: Ndebele del Sur
+  southern_sotho: Sotho del Sur
+  stevenlu's_popular_movies: Películas Populares de StevenLu
+  stoner_comedy: Comedia de Fumeta
+  sundanese: Sondanés
+  supernatural: Sobrenatural
+  survival: Supervivencia
+  swati: Esuatini
+  tv_chart: Gráfico de TV
+  tagalog: Tagalo
+  tahitian: Tahitiano
+  tajik: Tayiko
+  tatar: Tártaro
+  tigrinya: Tigriña
+  tonga: Tongano
+  top_rated: Los más Valorados
+  tsonga: Tsonga
+  tswana: Setsuana
+  turkmen: Turcomano
+  twi: Twi
+  uighur: Uigur
+  uk_network: Cadena del Reino Unido
+  uk_streaming: UK Streaming
+  us_streaming: US Streaming
+  uzbek: Uzbeko
+  vampire: Vampiro
+  venda: Venda
+  volapük: Volapük
+  walloon: Valón
+  war: Guerra
+  watched: Visto
+  top_airing: Emisión Top
+  watchlist: Lista de Seguimiento
+  western_frisian: Frisón Occidental
+  winners: Ganadores
+  wolof: Wólof
+  writer: Escritor
+  xhosa: Xhosa
+  yiddish: Yidis
+  yoruba: Yoruba
+  zhuang: Chuang
+  zombie_horror: Terror Zombi
+  zulu: Zulú
+  rated: Calificado
+  plex_popular: Plex Popular
+  psychological_horror: Terror Psicológico
+  us_network: Cadena Estados Unidos
 collections:
   bafta_best:
     name: BAFTA Mejores Películas
@@ -419,8 +491,8 @@ collections:
     name: Cannes <<key_name>>
     summary: Premios Cannes del <<key_name>>.
   choice_year:
-    name: Premios a la elección de los críticos <<key_name>>
-    summary: Premios a la elección de los críticos del <<key_name>>.
+    name: Premios a la Elección de los Críticos <<key_name>>
+    summary: Premios a la Elección de los Críticos del <<key_name>>.
   emmy_year:
     name: Emmys <<key_name>>
     summary: Ganadores del Emmy de <<key_name>>.
@@ -527,8 +599,8 @@ collections:
     name: MyAnimeList Los más Valorados
     summary: Una colección de los Animes más valorados según MyAnimeList.
   mal_airing:
-    name: MyAnimeList Top Calificados
-    summary: Una colección de los Animes mejor calificados según MyAnimeList.
+    name: MyAnimeList Emisión Top
+    summary: Una colección de los Animes mejor emitidos según MyAnimeList.
   mal_season:
     name: MyAnimeList Temporada
     summary: Una colección de Anime de la temporada actual según MyAnimeList.
@@ -555,11 +627,11 @@ collections:
     name: Plex Más Visto
     summary: Una colección en <<library_translation>>s más visto en Plex.
   tmdb_airing:
-    name: TMDb Publicado Hoy
-    summary: Una colección de series y episodios que se han estrenado hoy.
+    name: TMDb Emitiendo Hoy
+    summary: Una colección de series y episodios que se han emitidos hoy.
   tmdb_air:
     name: TMDb En el Aire
-    summary: Una colección de series que todavía están estrenando episodios actualmente.
+    summary: Una colección de series que todavía están emitiendo episodios actualmente.
   tmdb_popular:
     name: TMDb Popular
     summary: Una colección de lo más visto en <<library_translation>>s según TMDb.
@@ -634,7 +706,7 @@ collections:
     summary: <<library_translationU>>s producido por <<key_name>>.
   resolution:
     name: <<key_name>> <<library_translationU>>s
-    summary: <<library_translationU>>s que tienen resolución <<key_name>>.
+    summary: <<library_translationU>>s que tiene resolución <<key_name>>.
   resolution_other:
     name: Otra Resolución en <<library_translationU>>s
     summary: <<library_translationU>>s que tienen otras resoluciones poco comunes.
@@ -660,3 +732,36 @@ collections:
   year:
     name: Lo mejor de <<key_name>>
     summary: <<library_translationU>>s lanzado en <<key_name>>.
+  based:
+    summary: <<library_translationU>>s basado o inspirado en <<key_name>>s.
+    name: Basado en <<key_name>>
+  content_ratings_other:
+    summary: <<library_translationU>>s que no están Clasificados, No Clasificados
+      o cualquier otra Clasificación poco común.
+    name: Otras Calificaciones
+  decade_other:
+    name: Otras Décadas
+    summary: <<library_translationU>>s publicado en otras décadas.
+  network_kids_other:
+    summary: <<library_translationU>>s transmitido en otros canales de niños poco
+      comunes.
+    name: Otras Cadenas para Niños
+  genre_other:
+    name: Otros Géneros
+    summary: <<library_translationU>>s que tienen otros géneros poco comunes.
+  network_other:
+    name: Otras Cadenas
+    summary: <<library_translationU>>s transmitido en otras cadenas poco comunes.
+  resolutions_other:
+    name: Otras Resoluciones
+    summary: <<library_translationU>>s que tienen otras resoluciones poco comunes.
+  studio_other:
+    name: Otros Estudios
+    summary: <<library_translationU>>s producido por otros estudios poco comunes.
+  studio_animation_other:
+    name: Otros Estudios de Animación
+    summary: <<library_translationU>>s producido por otros estudios de animación poco
+      comunes.
+  year_other:
+    name: Otros Años
+    summary: <<library_translationU>>s publicados en otros años.
