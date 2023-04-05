@@ -237,6 +237,244 @@ key_names:
   western: Western
   writers: Autoren
   year: Jahr
+  con_artist: Trickbetrüger
+  ecchi: Ecchi
+  esperanto: Esperanto
+  game: Spiel
+  inupiaq: Inupiaq
+  lithuanian: Lithauisch
+  based_on: Basierend auf...
+  collectionless: Ohne Sammlung
+  us_network: US Netzwerk
+  content_ratings: Alterskennzeichnungen
+  cornish: Kornisch
+  corsican: Korsisch
+  creature_horror: Monsterhorror
+  cree: Cree
+  day_of_persons_with_disabilities: Tag der Menschen mit Behinderung
+  demons: Dämonen
+  director: Regisseur
+  divehi: Maledivisch
+  dzongkha: Dzongkha
+  western_frisian: Westfriesisch
+  ewe: Ewe
+  families: Familien
+  faroese: Färöisch
+  favorited: Favorisiert
+  fijian: Fidschianisch
+  found_footage_horror: Gefundene Aufnahmen Horror
+  franchise: Franchise
+  fulah: Ful
+  gaelic: Gälisch
+  ganda: Luganda
+  girls_love: Mädchen-Liebe
+  gourmet: Gourmet
+  grand_jury_winners: Große Jury Gewinner
+  guarani: Guarani
+  gujarati: Gujurati
+  haitian: Haitisch
+  harem: Harem
+  hausa: Hausa
+  heist: Überfall
+  hentai: Hentai
+  herero: Herero
+  hiri_motu: Hiri Motu
+  ido: Ido
+  igbo: Igbo
+  interlingua: Interlingua
+  interlingue: Interlingue
+  inuktitut: Inuktitut
+  irish: Irisch
+  javanese: Javanesisch
+  kalaallisut: Grönländisch
+  kashmiri: Kaschmirisch
+  kids_network: Kindernetzwerk
+  kikuyu: Kikuyu
+  kinyarwanda: Kinyarwanda
+  kirghiz: Kirgisisch
+  komi: Komi
+  kongo: Kongolesisch
+  kuanyama: Oshiwambo
+  kurdish: Kurdisch
+  lgbtq_pride_month: LGBTQ+ Pride Monat
+  lao: Laotisch
+  latinx_heritage_month: Lateinarmerikanisches Kulturerbe Monat
+  limburgan: Limburgisch
+  lingala: Lingala
+  luxembourgish: Luxemburgisch
+  malagasy: Malagasy
+  maltese: Maltesisch
+  mandarin: Mandarin
+  manx: Manx
+  maori: Maori
+  marshallese: Marshallesisch
+  mecha: Mecha
+  military: Militär
+  mind_f**k: Mind-F**k
+  mongolian: Mongolesisch
+  nauru: Nauruisch
+  navajo: Navajo
+  ndonga: Oshiwambo
+  nepali: Nepali
+  new_episodes: Neue Folgen
+  new_premieres: Neue Premieren
+  new_year: Neujahr
+  nominations: Nominierungen
+  now_playing: Jetzt spielend
+  north_ndebele: Nord-Ndebele
+  northern_sami: Nordsamisch
+  occitan: Okzitanisch
+  ojibwa: Ojibwemowin
+  on_the_air: Auf Sendung
+  oriya: Oriya
+  oromo: Oromo
+  ossetian: Ossetisch
+  other: Andere
+  outdoor_adventure: Abenteuer im Freien
+  pali: Pali
+  parody: Parodie
+  pashto: Paschtunisch
+  personal: Persönlich
+  pilots: Piloten
+  plex_people_watching: Plex Benutzer schauen
+  plex_pilots: Plex Piloten
+  plex_popular: Plex Beliebt
+  plex_watched: Plex Gesehen
+  police: Polizei
+  popular: Beliebt
+  producer: Produzent
+  psychedelic: Psychedelisch
+  psychological: Psychologisch
+  psychological_horror: Psychologischer Horror
+  quechua: Quechua
+  recommended: Empfohlen
+  romansh: Rätoromanisch
+  rundi: Kirundi
+  samoan: Samoanisch
+  samurai: Samurai
+  sango: Sango
+  sanskrit: Sanskrit
+  sardinian: Sardisch
+  school: Schule
+  season: Staffel
+  serial_killer: Serienmörder
+  shona: Shona
+  shoujo: Shōjo
+  shounen: Shōnen
+  sichuan_yi: Sichuan Yi
+  sindhi: Sindhi
+  sinhala: Singhalesisch
+  slice_of_life: Slice of Life
+  somali: Somali
+  south_ndebele: Süd-Ndebele
+  southern_sotho: Sesotho
+  space: Weltall
+  spy: Spionage
+  stevenlu's_popular_movies: StevenLu's Beliebte Filme
+  stoner_comedy: Kiffer-Komödie
+  studio_animation: Animationsstudio
+  subtitle: Untertitel
+  sundanese: Sundanesisch
+  super_power: Superkraft
+  supernatural: Übernatürlich
+  survival: Überleben
+  swati: Siswati
+  tv_chart: TV-Charts
+  tagalog: Tagalog
+  tahitian: Tahitianisch
+  tajik: Tadschikisch
+  tatar: Tatarisch
+  tibetan: Tibetisch
+  tigrinya: Tigrinya
+  timeline_order: Chronologische Ordnung
+  tonga: Tongaisch
+  top_rated: Top Bewertet
+  trending: Im Trend
+  tswana: Setswana
+  turkmen: Turkmenisch
+  twi: Twi
+  uighur: Uigurisch
+  uk_network: UK Netzwerk
+  uk_streaming: UK Streaming
+  us_streaming: US Streaming
+  uzbek: Usbekisch
+  vampire: Vampir
+  venda: Tshivenda
+  volapük: Volapük
+  walloon: Wallonisch
+  war: Krieg
+  watched: Gesehen
+  watchlist: Watchliste
+  winners: Gewinner
+  wolof: Wolof
+  womens_history_month: Weltfrauenmonat
+  writer: Autor
+  yiddish: Jiddisch
+  yoruba: Yoruba
+  zhuang: Zhuang
+  zombie_horror: Zombie Horror
+  zulu: Zulu
+  xhosa: Xhosa
+  rated: Bewertet
+  based_on_a_comic: Basierend auf einem Comic
+  based_on_a_true_story: Basierend auf einer wahren Geschichte
+  based_on_a_video_game: Basierend auf einem Videospiel
+  luba-katanga: Kiluba
+  lowest_rated: Am niedrigsten bewertet
+  movie_chart: Filmcharts
+  newly_released_episodes: Neu veröffentlichte Folgen
+  newly_released: Neu veröffentlicht
+  not_rated: Nicht bewertet
+  recently_added: Kürzlich hinzugefügt
+  recently_aired: Kürzlich ausgestrahlt
+  top_10: Top 10
+  top_10_pirated: Top 10 Raubkopiert
+  top_250: Top 250
+  top_airing: Top Ausstrahlend
+  4/20: 4/20
+  abkhazian: Abchasisch
+  actor: Schauspieler
+  afar: Afar
+  afrikaans: Afrikaans
+  age: Alter
+  airing_today: Heutige Ausstrahlung
+  akan: Akan
+  amharic: Amharisch
+  aragonese: Aragonesisch
+  armenian: Armenisch
+  asian_american_pacific_islander_heritage_month: Asiatisch-amerikanisch & Pazifikinsulaner
+    Kulturerbe Monat
+  assamese: Assamesisch
+  assassin: Assassine
+  avaric: Awarisch
+  avestan: Avestisch
+  aymara: Aymara
+  azerbaijani: Aserbaidschanisch
+  bambara: Bambara
+  based_on_a_book: Basierend auf einem Buch
+  bashkir: Baschkirisch
+  belarusian: Weißrussisch
+  best_director_winners: Beste Regie Gewinner
+  best_picture_winner: Bester Film Gewinner
+  best_picture_winners: Bester Film Gewinner
+  best_of: Das Beste aus
+  bislama: Bislama
+  black_history_month: Black History Monat
+  bottom_rated: Tiefstbewertet
+  box_office: Kinokasse
+  boys_love: Jungs-Liebe
+  breton: Bretonisch
+  burmese: Burmesisch
+  cars: Autos
+  central_khmer: Khmer
+  chamorro: Chamorro
+  chechen: Tschetschenisch
+  chichewa: Chichewa
+  church_slavic: Kirchenslawisch
+  chuvash: Tschuwaschisch
+  collected: Gesammelt
+  kanuri: Kanuri
+  tsonga: Xitsonga
 collections:
   bafta_best:
     name: BAFTA Beste Filme
@@ -330,7 +568,7 @@ collections:
     name: AniList Aktuell Interessant
     summary: Eine Sammlung der laut AniList aktuell interessantesten (Trending) Anime.
   anilist_season:
-    name: AniList Season
+    name: AniList Staffel
     summary: Eine Sammlung von Anime die laut AniList aus der aktuellen Anime Season
       stammen.
   basic_released:
@@ -366,7 +604,7 @@ collections:
       ausgestrahlt werden. A collection of the Top Rated Anime Currently Airing according
       to MyAnimeList.
   mal_season:
-    name: MyAnimeList Season
+    name: MyAnimeList Staffel
     summary: Eine Sammlung von Anime die laut MyAnimeList aus der aktuellen Anime
       Season stammen.
   anidb_popular:
@@ -396,7 +634,7 @@ collections:
     name: TMDb Heute Ausgestrahlt
     summary: Eine Sammlung von Serien mit Episoden die heute ausgestrahlt werden/wurden.
   tmdb_air:
-    name: TMDb On The Air
+    name: TMDb Aktuell ausgestrahlt
     summary: Eine Sammlung von Serien die aktiv Episoden veröffentlichen.
   tmdb_popular:
     name: TMDb Beliebt
@@ -460,7 +698,7 @@ collections:
     name: Andere Länder
     summary: <<library_translation2U>> anderen ungewöhnlichen Ländern gefilmt.
   decade:
-    name: Best of <<key_name>>
+    name: Das Beste aus <<key_name>>
     summary: Top <<limit>> <<library_translation2U>> der <<key_name>>.
   director:
     name: <<key_name>> (Regisseur)
@@ -500,5 +738,37 @@ collections:
     name: <<key_name>> (Autor)
     summary: <<library_translation2U>> geschrieben durch <<key_name>>.
   year:
-    name: Best of <<key_name>>
+    name: Das Beste aus <<key_name>>
     summary: <<library_translation2U>> veröffentlicht in <<key_name>>.
+  based:
+    name: Basierend auf einem/einer <<key_name>>
+    summary: <<library_translation2U>> basierend auf oder inspiriert von <<key_name>>.
+  content_ratings_other:
+    name: Andere Bewertungen
+    summary: <<library_translation2U>> die unbewertet, nicht bewertet oder mit anderer,
+      ungewöhnlicher Bewertung.
+  decade_other:
+    name: Andere Dekaden
+    summary: <<library_translation2U>> veröffentlicht in anderen Dekaden.
+  genre_other:
+    name: Andere Genres
+    summary: <<library_translation2U>> aus anderen, ungwöhnlichen Genres.
+  network_other:
+    name: Andere Netzwerke
+    summary: <<library_translation2U>> ausgestrahlt auf anderen, ungewöhnlichen Netzwerken.
+  network_kids_other:
+    name: Andere Kinder Netzwerke
+    summary: <<library_translation2U>> ausgestrahlt auf anderen, ungewöhnlichen Kinder
+      Netzwerken.
+  resolutions_other:
+    name: Andere Auflösungen
+    summary: <<library_translation2U>> in anderen, ungewöhnlichen Auflösungen.
+  studio_other:
+    name: Andere Studios
+    summary: <<library_translation2U>> prodziert von anderen, ungewöhnlichen Studios.
+  studio_animation_other:
+    name: Andere Animationsstudios
+    summary: <<library_translation2U>> produziert von anderen, ungewöhnlichen Animationsstudios.
+  year_other:
+    name: Andere Jahre
+    summary: <<library_translation2U>> veröffentlicht in anderen Jahren.
