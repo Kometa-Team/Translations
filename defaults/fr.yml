@@ -475,6 +475,9 @@ key_names:
   zhuang: Zhuang
   zombie_horror: Zombies
   zulu: Zoulou
+  taiwan: Taiwan
+  nordic: Nordique
+  latin_america: Amérique Latine
 collections:
   bafta_best:
     name: BAFTA Meilleurs films
