@@ -475,6 +475,9 @@ key_names:
   collected: Gesammelt
   kanuri: Kanuri
   tsonga: Xitsonga
+  taiwan: Taiwan
+  nordic: Nordisch
+  latin_america: Latein-Amerika
 collections:
   bafta_best:
     name: BAFTA Beste Filme
