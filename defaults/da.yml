@@ -252,7 +252,7 @@ key_names:
   assassin: Snigmorder
   avestan: Avestan
   based_on: Baseret på...
-  day_of_persons_with_disabilities: Den internationale dag for personer med handicap
+  day_of_persons_with_disabilities: Internationale dag for personer med handicap
   families: Familier
   found_footage_horror: Fundne Optagelser Gysere
   hausa: Hausa
@@ -382,7 +382,7 @@ key_names:
   sanskrit: Sanskrit
   school: Skole
   season: Sæson
-  serial_killer: Seriemoder
+  serial_killer: Seriemorder
   shona: Shona
   shoujo: Shoujo
   shounen: Shounen
@@ -409,9 +409,9 @@ key_names:
   tigrinya: Tigrinsk
   timeline_order: Kronlogisk rækkefølge
   tonga: Tongansk
-  top_10: TOP 10
-  top_10_pirated: TOP 10 Pirateret
-  top_250: TOP 250
+  top_10: Top 10
+  top_10_pirated: Top 10 pirateret
+  top_250: Top 250
   top_airing: Top i luften
   top_rated: Top bedømt
   trending: Trender
@@ -475,6 +475,9 @@ key_names:
   collected: Samlet
   oriya: Oriya
   sardinian: Sardisk
+  taiwan: Taiwan
+  nordic: Nordisk
+  latin_america: Latinamerika
 collections:
   bafta_best:
     name: BAFTA Bedste Film
