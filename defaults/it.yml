@@ -1,18 +1,22 @@
 variables:
   library_translation:
-    movie: Film
-    show: Serie TV
-    artist: Artista
-    video: Video
-    item: Elemento
+    movie: film
+    show: serie
+    artist: artista
+    video: video
+    item: elemento
   library_translation2:
     movie: film
     show: serie
     artist: artista
     video: video
-    item: Elemento
+    item: elemento
   library_translation3:
-    movie: Film
+    movie: film
+    artist: artista
+    video: video
+    item: elemento
+    show: serie
 key_names:
   action: Azione
   action_adventure: Azione & Avventura
@@ -247,6 +251,12 @@ key_names:
   best_director_winners: Vincitori Miglior Regista
   best_picture_winner: Vincitore Miglior Film
   black_history_month: Mese della storia dei neri
+  4/20: 4/20
+  abkhazian: Abcaso
+  afar: Afar
+  afrikaans: Afrikaans
+  airing_today: In Onda Oggi
+  assassin: Assassino
 collections:
   bafta_best:
     name: BAFTA Miglior Film
