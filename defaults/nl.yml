@@ -1,1 +1,71 @@
-{}
+variables:
+  library_translation:
+    movie: film
+    artist: artiest
+    video: video
+    item: item
+    show: show
+  library_translation2:
+    video: video
+    movie: film
+    show: show
+    artist: artiest
+    item: item
+  library_translation3:
+    movie: film
+    show: show
+    artist: artiest
+    video: video
+    item: item
+key_names:
+  afrikaans: Afrikaans
+  argentina: Argentinië
+  avaric: Avarisch
+  based_on_a_comic: Gebaseerd op een stripboek
+  basque: Baskisch
+  bengali: Bengaals
+  biopic: Biografische film
+  4/20: 4/20
+  abkhazian: Abchazisch
+  action: Actie
+  action_adventure: Actie & Avontuur
+  actor: Acteur
+  actors: Acteurs
+  adult: Films voor volwassenen
+  adventure: Avontuur
+  afar: Afar
+  age: Leeftijd
+  airing_today: Vandaag op TV
+  akan: Akan
+  albanian: Albanisch
+  amharic: Amhaars
+  animation: Animatie
+  anime: Anime
+  arabic: Arabisch
+  aragonese: Aragonees
+  armenian: Armeens
+  asian_american_pacific_islander_heritage_month: Asian American & Pacific Islander
+    Heritage Month
+  assamese: Assamees
+  assassin: Sluipmoordenaar
+  audio_language: Geluidstaal
+  australia: Australië
+  austria: Oostenrijk
+  avestan: Avestisch
+  award: Prijs
+  aymara: Aymara
+  azerbaijani: Azerbeidzjaans
+  bambara: Bamanankan
+  bahamas: Bahamas
+  based_on: Gebaseerd op...
+  based_on_a_book: Gebaseerd op een boek
+  based_on_a_true_story: Gebaseerd op een waargebeurd verhaal
+  based_on_a_video_game: Gebaseerd op een game
+  bashkir: Basjkier
+  belarusian: Belarussisch
+  belgium: België
+  best_director_winners: Winnaars voor beste regisseur
+  best_picture_winner: Winnaars voor beste film
+  best_picture_winners: Winnaars voor beste film
+  best_of: Het beste van
+  biography: Biografie
