@@ -10,6 +10,9 @@ variables:
     show: serie
     artist: artista
     video: video
+    item: Elemento
+  library_translation3:
+    movie: Film
 key_names:
   action: Azione
   action_adventure: Azione & Avventura
