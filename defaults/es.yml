@@ -1,6 +1,6 @@
 variables:
   library_translation:
-    movie: pelicula
+    movie: película
     show: serie
     artist: artista
     video: video
@@ -476,6 +476,9 @@ key_names:
   plex_popular: Plex Popular
   psychological_horror: Terror Psicológico
   us_network: Cadena Estados Unidos
+  taiwan: Taiwan
+  nordic: Nordico
+  latin_america: Latino Americano
 collections:
   bafta_best:
     name: BAFTA Mejores Películas
