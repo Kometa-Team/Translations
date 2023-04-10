@@ -5,6 +5,11 @@ variables:
     artist: Artista
     video: Video
     item: Elemento
+  library_translation2:
+    movie: film
+    show: serie
+    artist: artista
+    video: video
 key_names:
   action: Azione
   action_adventure: Azione & Avventura
@@ -39,7 +44,7 @@ key_names:
   china: Cina
   chinese: Cinese
   christmas: Natale
-  comic: Comic
+  comic: Fumetto
   comedy: Commedia
   competition: Concorso
   costa_rica: Costa Rica
@@ -225,6 +230,20 @@ key_names:
   western: Occidentale
   writers: Scrittori
   year: Anno
+  collectionless: Senza collezione
+  corsican: Corso
+  based_on: Basato su...
+  actor: Attore
+  age: Età
+  armenian: Armeno
+  best_picture_winners: Vincitori Migliori Film
+  based_on_a_book: Basato su un Libro
+  based_on_a_video_game: Basato su un Video Game
+  based_on_a_comic: Basato su un Fumetto
+  based_on_a_true_story: Basato su una Storia Vera
+  best_director_winners: Vincitori Miglior Regista
+  best_picture_winner: Vincitore Miglior Film
+  black_history_month: Mese della storia dei neri
 collections:
   bafta_best:
     name: BAFTA Miglior Film
@@ -479,3 +498,7 @@ collections:
   year:
     name: Il meglio del <<key_name>>
     summary: <<library_translationU>> rilasciati nel <<key_name>>.
+  year_other:
+    name: Altri Anni
+  studio_other:
+    name: Altri Studios
