@@ -1,1 +1,387 @@
-{}
+variables:
+  library_translation:
+    show: serie
+    video: video
+    movie: film
+    artist: artist
+  library_translation2:
+    movie: film
+    show: Serie
+    artist: artist
+    video: video
+    item: ting
+  library_translation3:
+    movie: film
+    show: Serie
+    artist: artist
+    video: video
+    item: ting
+key_names:
+  action: Action
+  actor: skuespiller
+  actors: skuespillere
+  adult: voksen
+  adventure: Eventyr
+  afrikaans: Afrikansk
+  age: Alder
+  airing_today: Vises i dag
+  akan: Akan
+  amharic: Amharic
+  anime: Anime
+  arabic: Arabisk
+  aragonese: Aragonese
+  argentina: Argentinsk
+  armenian: Armenisk
+  assassin: Snikmorder
+  audio_language: Lyd språk
+  australia: Australia
+  austria: Østerrike
+  award: Utmerkelse
+  based_on_a_true_story: Basert på en sann historie
+  based_on_a_video_game: Basert på et video spill
+  best_director_winners: Vinnere beste regissør
+  best_picture_winner: Vinner beste bilde
+  best_picture_winners: Vinner beste bilde
+  best_of: Beste av
+  biography: Biografi
+  black_history_month: Svart historie måned
+  book: Bok
+  bottom_rated: Bunnnortering
+  box_office: Kinovinnere
+  boys_love: Gutter elsker
+  cars: Biler
+  children: Barn
+  china: Kina
+  chinese: Kinesisk
+  christmas: Jul
+  collected: Samlet
+  collectionless: Utenfor samling
+  comedy: Komedie
+  comic: Humor
+  con_artist: Svindler
+  content_ratings: Innholds vurderinger
+  country: Land
+  creature_horror: Skapnings grøsser
+  crime: Forbrytelser
+  danish: Dansk
+  day_of_persons_with_disabilities: Funksjonshemmedes dag
+  decade: Tiår
+  demons: Demoner
+  denmark: Danmark
+  director: Regissør
+  directors: Regissører
+  documentary: Dokumentar
+  drama: Drama
+  easter: Påske
+  egypt: Egypt
+  english: Engelsk
+  erotica: Erotisk
+  family: Familie
+  fantasy: Fantasi
+  fathers_day: Farsdag
+  favorited: Favoritt
+  film_noir: Mørk film
+  finland: Finland
+  finnish: Finsk
+  food: Mat
+  france: Frankrike
+  franchise: Franchise
+  french: Fransk
+  game: Spill
+  game_show: Spill show
+  gangster: Kjeltring
+  genre: Sjanger
+  german: Tysk
+  germany: Tyskland
+  girls_love: Jente kjærlighet
+  gourmet: Gourmet
+  grand_jury_winners: Storjury vinnere
+  greece: Hellas
+  greek: Gresk
+  halloween: Halloween
+  harem: Harem
+  heist: Ran
+  hentai: Hentai
+  history: Historie
+  home_and_garden: Hjem og hage
+  hong_kong: Hong Kong
+  horror: Skrekk
+  iceland: Island
+  icelandic: Islansk
+  independence_day: Uavhengighetsdagen
+  india: India
+  indie: Uavhengig
+  indonesian: Indonesisk
+  israel: Israel
+  italian: Italiensk
+  italy: Italia
+  japan: Japan
+  japanese: Japansk
+  kids: Barn
+  kids_network: Barn Nettverk
+  lgbtq: LGBTQ+
+  labor_day: Arbeiderenes dag
+  latin: Latin
+  latinx_heritage_month: Latinx urfolks måned
+  lowest_rated: Laveste poeng
+  martial_arts: Kampsport
+  military: Militæret
+  mind_bend: Hjerne bøying
+  mind_fuck: Hjernefuck
+  mind_f**k: HjerneF**K
+  mini_series: Mini-serie
+  mongolian: Mongolsk
+  morocco: Morroco
+  mothers_day: Morsdag
+  movie_chart: Film liste
+  music: Musikk
+  musical: Musikal
+  mystery: Mysterium
+  network: Nettverk
+  new_episodes: Nye Episoder
+  new_premieres: Nye premierer
+  new_years_day: Nyttårsdag
+  new_zealand: New Zealand
+  newly_released: Nylig utgitt
+  news: Nyheter
+  news_politics: Nyheter og politikk
+  nominations: Nominasjoner
+  not_rated: Ikke vurdert
+  now_playing: Spiller nå
+  norway: Norge
+  norwegian: Norsk
+  norwegian_bokmål: Norsk Bokmål
+  norwegian_nynorsk: Nynorsk
+  on_the_air: På lufta
+  outdoor_adventure: Utendørs opplevelser
+  pakistan: Pakistan
+  parody: Parodi
+  personal: Personlig
+  pilots: Piloter
+  plex_people_watching: Plex folk ser på
+  plex_pilots: Plex piloter
+  plex_popular: Plex populær
+  plex_watched: Plex sett
+  poland: Polen
+  police: Politi
+  polish: Polsk
+  politics: Politikk
+  popular: Populær
+  portugal: Portugal
+  portugese: Portugisisk
+  portuguese: Portugisisk
+  producer: Produsent
+  producers: Produsenter
+  psychedelic: Psykedelisk
+  psychological: Psykologisk
+  psychological_horror: Psykologisk skrekk
+  punjabi: Punjabi
+  qatar: Qatar
+  rated: Vurdert
+  ratings: Vurderinger
+  reality: Reality
+  recommended: Anbefalt
+  recently_added: Nylig lagt til
+  resolution: Oppløsning
+  romance: Romanse
+  romantic_comedy: Romantisk komedie
+  romantic_drama: Romantisk drama
+  school: Skole
+  sci-fi_&_fantasy: Sci-fi og fantasi
+  science_fiction: Science Fiction
+  season: Sesong
+  seasonal: Sesongbestemt
+  serial_killer: Seriemorder
+  spain: Spania
+  spanish: Spansk
+  sport: Sport
+  spy: Spion
+  st_patricks_day: St. Patrick's Day
+  stand-up_comedy: Standup komedie
+  stevenlu's_popular_movies: StevenLu's Populære filmer
+  stoner_comedy: Stoner komedie
+  streaming: Streaming
+  studio: Studio
+  subtitle: undertekst
+  subtitle_language: Undertekst språk
+  superhero: Superhelt
+  super_power: Super krefter
+  supernatural: Overnaturlig
+  survival: Overlevelse
+  suspense: Spenning
+  sweden: Sverige
+  swedish: Svensk
+  tv_chart: TV liste
+  talk_show: talkshow
+  thanksgiving: Thanksgiving
+  thriller: Thriller
+  timeline_order: Tidslinje rekkefølge
+  top_10_pirated: Pirat Topp 10
+  top_250: Topp 250
+  top_rated: Topp vurderte
+  travel: Reise
+  true_story: Sann Historie
+  trending: Trender
+  uk_network: UK nettverk
+  uk_streaming: UK streaming
+  us_network: US nettverk
+  us_streaming: US streaming
+  war_politics: Krig og politikk
+  watched: Sett
+  watchlist: Visningsliste
+  winners: Vinnere
+  womens_history_month: Kvinners historie måned
+  writer: Forfatter
+  writers: Forfattere
+  zombie_horror: Zombie skrekk
+  action_adventure: Action & eventyr
+  afar: Langt borte
+  albanian: Albansk
+  animation: Animering
+  asian_american_pacific_islander_heritage_month: Asiatisk amerikansk & sydhavsøy
+    urfolksmåned
+  competition: Konkurranse
+  families: Familier
+  found_footage_horror: Funnet grøsserbilder
+  indonesia: Indonesia
+  lgbtq_pride_month: LGBTQ+ pride måned
+  new_year: Nytt år
+  newly_released_episodes: Nylig utgitte episoder
+  recently_aired: Nylig vist
+  space: Ytre rom
+  sri_lanka: Sri Lanka
+  studio_animation: Studio Animering
+  tv_movie: TV film
+  top_10: Topp 10
+  top_airing: Topp visning
+  western: Western
+collections:
+  bafta_best:
+    name: BAFTA beste filmer
+    summary: British Academy of Film and Television Arts vinnere.
+  bafta_year:
+    name: BAFTA <<key_name>>
+    summary: <<key_name>> BAFTA priser.
+  cannes_best:
+    name: Cannes Golden Palm vinnere
+    summary: Cannes Golden Palm vinnere.
+  cannes_year:
+    name: Cannes <<key_name>>
+    summary: <<key_name>> Cannes Awards priser.
+  choice_year:
+    name: Critics Choice Awards <<key_name>>
+    summary: <<key_name>> Critics Choice Awards.
+  emmy_year:
+    name: Emmys <<key_name>>
+    summary: <<key_name>> Emmy vinnere.
+  golden_picture:
+    summary: Golden Globes beste bilde vinnere.
+    name: Golden Globes beste film vinnere
+  golden_director:
+    name: Golden Globes beste regissør vinnere
+    summary: Golden Globes beste regissør vinnere.
+  golden_year:
+    name: Golden Globe <<key_name>>
+    summary: <<key_name>> Golden Globe vinnere.
+  oscars_picture:
+    name: Oscars beste bilde vinnere
+    summary: The Academy Award for beste bilde er en av akademiets pris som blir presentert
+      årlig av Academy of Motion Picture Arts and Sciences siden prisen ble stiftet
+      i 1929.
+  oscars_director:
+    name: Oscars beste regissør vinnere
+    summary: Akademi prisen for beste regissør er en av akademiets priser som har
+      blitt presentert årlig av the Academy of Motion Picture Arts and Sciences siden
+      den debuterte i 1929.
+  oscars_year:
+    name: Oscars vinnere <<key_name>>
+    summary: Akademi pris(Oscars) vinnere for <<key_name>>.
+  berlinale_best:
+    name: Berlinale gullbjørner
+    summary: Opp til 400 filmer har visning hvert år som en del av Berlinale's (Berlin
+      International Film Festival) offentlig program, hoveddelen er verdens eller
+      europa premierer. Filmer av alle kategorier, lengder og format kan bli meldt
+      inn for vurdering. Gullbjørnen(German Goldener Bär) er den høyeste prisen gitt
+      til beste film vist i løpet av festivalen.
+  cesar_best:
+    name: César beste film vinnere
+    summary: César prisen er en nasjonal film pris i Frankrike, først gitt i 1975.
+      Nominasjoner er plukket ut av medlemmer fra Académie des Arts et Techniques
+      du Cinéma. Navnet til prisen kommer fra skulptøren César Baldaccini. Prisen
+      er vurdert til å være en fransk versjon av the American Academy Awards.
+  razzie_worst:
+    summary: Den gull bringebær prisen for verste film er en pris gitt på den årlige
+      gull bringebær tilstelningen, til den verste filmen sist år.
+    name: Razzies  gull bringebær pris vinnere
+  venice_best:
+    name: Venice gull løver
+    summary: Venice film festival er den eldste film festivalen i verden. Etablert
+      i 1932, festivalen har vært gjennomført hvert år i Venice, Italia. Den er en
+      del av Venice Biennale, en stor utstilling og festival for moderne kunst. Festivalens
+      Leone d'Oro (gyldne løve) er gitt til beste film på festivalen.
+  spirit_year:
+    name: Independent Spirit Awards <<key_name>>
+  sundance_best:
+    name: Sundance hovedjury vinnere
+    summary: Sundance film festival er en film festival som tar plass årlig i staten
+      Utah i United States. Det er den største uavhengige kino festivalen i USA. Den
+      holdes i januar, festivalen er en visningsarena for nytt arbeid fra amerikanske
+      og internasjonale uavhengige filmskapere. Festivalen har en omfattende seksjon
+      for amerikansk og internasjonal dramatisk og dokumentarfilmer, både full lengde
+      filmer og kortfilmer.
+  sundance_year:
+    name: Sundance Film Festival <<key_name>>
+    summary: Sundance Film Festival av <<key_name>>.
+  anilist_popular:
+    name: Anilist populær
+    summary: En samling av de mest populære Anime i følge Anilist.
+  anilist_top_rated:
+    name: Anilist topp vurderte
+    summary: En samling of topp vurderte Anime i følge Anilist.
+  anilist_trending:
+    name: Anilist Trending
+    summary: En samling av Anime som trender på Anilist.
+  anilist_season:
+    name: Anilist sesong
+    summary: En samling av Anime fra nåværende sesong i følge Anilist.
+  basic_released:
+    name: Nylig utgitte
+    summary: En samling av nylige utgitte <<library_translation>>s.
+  basic_episodes:
+    name: Nye episoder
+    summary: En samling av nylige utgitte episoder.
+  flixpatrol:
+    name: <<key_name>> Topp <<limit>>
+    summary: Topp <<limit>> <<library_translation>>s på <<key_name>> i følge FlixPatrol.
+  imdb_popular:
+    name: IMDb populære
+    summary: Liste over IMDb Populære <<library_translation>>s.
+  imdb_top:
+    name: Imdb Topp 250
+    summary: Liste på IMDb Topp 250 <<library_translation>>s.
+  imdb_lowest:
+    name: Imdb laveste vurderte
+    summary: Liste på IMDb laveste vurderte <<library_translation>>s.
+  mal_popular:
+    name: MyAnimelist populære
+    summary: En samling av de mest populære Anime i følge MyAnimeList.
+  mal_favorited:
+    name: MyAnimeList favoritter
+    summary: En samling av de mest favoriserte Anime i følge MyAnimeList.
+  mal_top:
+    name: MyAnimeList topp vurderte
+    summary: En samling av topp vurderte Anime fra MyAnimelist.
+  mal_airing:
+    name: MyAnimeList topp viste.
+    summary: En samling of topp vurderte Anime som vises i øyeblikket i følge MYanimelist.
+  mal_season:
+    name: MyAnimeList Sesong
+    summary: En samling av Anime fra pågående sesong fra MyAnimelist.
+  anidb_popular:
+    name: AniDB populær
+    summary: En samling av poplære Anime fra AniDB.
+  commonsense_selection:
+    name: Fornuftige valg
+  stevenlu_popular:
+    name: StevenLu's poplære filmer
+    summary: En samling av StevenLu's mest populære filmer.
