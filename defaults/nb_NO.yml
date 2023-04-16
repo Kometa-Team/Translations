@@ -4,6 +4,7 @@ variables:
     video: video
     movie: film
     artist: artist
+    item: Emne
   library_translation2:
     movie: film
     show: Serie
@@ -255,6 +256,42 @@ key_names:
   top_10: Topp 10
   top_airing: Topp visning
   western: Western
+  4/20: 4/20
+  abkhazian: Abkhazian
+  assamese: Assamese
+  avaric: Avaric
+  avestan: Avestan
+  aymara: Aymara
+  azerbaijani: Azerbaijani
+  bambara: Bambara
+  bahamas: Bahamas
+  based_on: Basert på...
+  based_on_a_book: Basert på en bok
+  based_on_a_comic: Basert på en tegneserie
+  basque: Basque
+  bashkir: Bashkir
+  belarusian: Belarusian
+  belgium: Belgia
+  bengali: Bengali
+  biopic: Biopic
+  bislama: Bislama
+  bosnian: Bosnisk
+  brazil: Brasil
+  breton: Breton
+  bulgaria: Bulgaria
+  bulgarian: Bulgarsk
+  burmese: Burmese
+  canada: Canada
+  catalan: Catalan
+  central_khmer: Sentral Khmer
+  chamorro: Chamorro
+  chart: Liste
+  chechen: Chechen
+  year: År
+  nordic: Nordisk
+  latin_america: Latin Amerika
+  taiwan: Taiwan
+  mma: MMA
 collections:
   bafta_best:
     name: BAFTA beste filmer
@@ -372,7 +409,7 @@ collections:
     name: MyAnimeList topp vurderte
     summary: En samling av topp vurderte Anime fra MyAnimelist.
   mal_airing:
-    name: MyAnimeList topp viste.
+    name: MyAnimeList topp viste
     summary: En samling of topp vurderte Anime som vises i øyeblikket i følge MYanimelist.
   mal_season:
     name: MyAnimeList Sesong
@@ -385,3 +422,27 @@ collections:
   stevenlu_popular:
     name: StevenLu's poplære filmer
     summary: En samling av StevenLu's mest populære filmer.
+  studio:
+    summary: <<library_translationU>>s produsert av <<key_name>>.
+    name: <<key_name>>
+  studio_other:
+    summary: <<library_translationU>>s produsert av andre uvanlige studioer.
+    name: Andre studioer
+  subtitle_language:
+    summary: <<library_translationU>>s med <<key_name>> Undertekster.
+    name: <<key_name>> Undertekster
+  subtitle_language_other:
+    name: Andre undertekster
+    summary: <<library_translationU>>s med uvanlige undertekster.
+  studio_animation_other:
+    name: Andre animasjonsstudioer
+    summary: <<library_translationU>>s produsert av andre uvanlige animasjonsstudioer.
+  writer:
+    name: <<key_name>> (forfatter)
+    summary: <<library_translationU>>s skrevet av <<key_name>>.
+  year:
+    name: Best av <<key_name>>
+    summary: <<library_translationU>>s utgitt i <<key_name>>.
+  year_other:
+    name: Andre år
+    summary: <<library_translationU>>s utgitt andre år.
