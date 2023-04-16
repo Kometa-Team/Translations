@@ -479,6 +479,7 @@ key_names:
   taiwan: Taiwan
   nordic: Nordico
   latin_america: Latino Americano
+  mma: MMA
 collections:
   bafta_best:
     name: BAFTA Mejores Películas
