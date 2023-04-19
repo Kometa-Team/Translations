@@ -765,3 +765,7 @@ collections:
   year_other:
     name: Other Years
     summary: <<library_translationU>>s released in other years.
+  birthday:
+    summary: Born on <<tmdb_birthdate>>, here are <<library_translation>>s that <<key_name>>
+      participated in.
+    name: <<key_name>>'s Birthday"
