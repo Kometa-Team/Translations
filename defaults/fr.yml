@@ -765,3 +765,5 @@ collections:
   based:
     name: Basé sur un <<key_name>>
     summary: <<library_translationU>>s basé sur ou inspiré par <<translated_key_name>>s.
+  birthday:
+    name: Anniversaire de <<key_name>>
