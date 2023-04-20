@@ -759,3 +759,7 @@ collections:
   year_other:
     name: Andre år
     summary: <<library_translationU>> udgivet i andre år.
+  birthday:
+    summary: Født den <<tmdb_birthdate>>, her er <<library_translation>> som <<key_name>>
+      deltog i.
+    name: <<key_name>>s fødselsdag
