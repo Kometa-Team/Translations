@@ -767,3 +767,5 @@ collections:
     summary: <<library_translationU>>s basé sur ou inspiré par <<translated_key_name>>s.
   birthday:
     name: Anniversaire de <<key_name>>
+    summary: Née le <<tmdb_birthdate>>, voici les <<library_translation>>s auxquels
+      <<key_name>> a participé.
