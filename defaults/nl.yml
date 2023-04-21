@@ -764,6 +764,7 @@ collections:
     summary: ''
   birthday:
     name: ''
+    summary: ''
   aspect_ratio_other:
     summary: ''
     name: ''
