@@ -28,7 +28,7 @@ key_names:
   anime: Anime
   arabic: Arabo
   argentina: Argentina
-  audio_language: Lingua audio
+  audio_language: Lingua Audio
   australia: Australia
   austria: Austria
   award: Premio
@@ -53,7 +53,7 @@ key_names:
   christmas: Natale
   comic: Fumetto
   comedy: Commedia
-  competition: Concorso
+  competition: Competizione
   costa_rica: Costa Rica
   country: Paese
   crime: Crimine
@@ -77,7 +77,7 @@ key_names:
   estonian: Estone
   family: Famiglia
   fantasy: Fantasia
-  fathers_day: La Festa del Papà
+  fathers_day: Festa del Papà
   filipino: Filippino
   film_noir: Film Noir
   finland: Finlandia
@@ -123,7 +123,7 @@ key_names:
   korea: Corea
   korean: Coreano
   lgbtq: LGBTQ+
-  labor_day: La Festa del Lavoro
+  labor_day: Festa del Lavoro
   latin: Latino
   latvia: Lettonia
   latvian: Lettone
@@ -141,13 +141,13 @@ key_names:
   mind_fuck: Sega mentale
   mini_series: Mini-serie
   morocco: Marocco
-  mothers_day: La Festa della Mamma
+  mothers_day: Festa della Mamma
   music: Musica
   musical: Musical
   mystery: Mistero
   nepal: Nepal
   netherlands: Paesi Bassi
-  network: Rete
+  network: Rete Televisiva
   new_years_day: Capodanno
   new_zealand: Nuova Zelanda
   news: Notizie
@@ -197,7 +197,7 @@ key_names:
   spanish: Spagnolo
   sport: Sport
   sri_lanka: Sri Lanka
-  st_patricks_day: La Festa di San Patrizio
+  st_patricks_day: Festa di San Patrizio
   stand-up_comedy: Cabaret
   streaming: Streaming
   studio: Studio
@@ -235,7 +235,7 @@ key_names:
   war_politics: Guerra e Politica
   welsh: Gallese
   western: Occidentale
-  writers: Sceneggiatori
+  writers: Scrittori
   year: Anno
   collectionless: Senza collezione
   corsican: Corso
@@ -245,7 +245,7 @@ key_names:
   armenian: Armeno
   best_picture_winners: Vincitori Migliori Film
   based_on_a_book: Basato su un Libro
-  based_on_a_video_game: Basato su un Video Game
+  based_on_a_video_game: Basato su un Video Gioco
   based_on_a_comic: Basato su un Fumetto
   based_on_a_true_story: Basato su una Storia Vera
   best_director_winners: Vincitori Miglior Regista
@@ -377,7 +377,7 @@ key_names:
   tonga: Tongano
   top_10: Top 10
   top_250: Top 250
-  trending: Di Tendenza
+  trending: In Tendenza
   tsonga: Tsonga
   tswana: Tswana
   turkmen: Turkmeno
@@ -392,7 +392,7 @@ key_names:
   western_frisian: Frisone Occidentale
   winners: Vincitori
   wolof: Wolof
-  writer: Sceneggiatore
+  writer: Scrittore
   xhosa: Xhosa
   yiddish: Yiddish
   yoruba: Yoruba
@@ -410,14 +410,14 @@ key_names:
   limburgan: Limburghese
   lowest_rated: Voti più bassi
   new_episodes: Nuovi Episodi
-  newly_released_episodes: ''
+  newly_released_episodes: 'Episodi Appena Usciti'
   psychological_horror: Horror Psicologico
   recently_added: Aggiunti Recentemente
   top_10_pirated: Top 10 Piratati
   top_rated: Voti Migliori
   outdoor_adventure: Avventura all'Aperto
   police: Polizia
-  recommended: Raccomandato
+  recommended: Consigliato
   taiwan: Taiwan
   south_ndebele: Ndebele del Sud
   nordic: Nordico
@@ -440,6 +440,21 @@ key_names:
   cree: Cree
   kinyarwanda: Kinyarwanda
   kirghiz: Kirghiso
+  harem: Harem
+  on_the_air: In onda
+  plex_watched: Guardati su Plex
+  personal: Personale
+  studio_animation: Studio di Animazione
+  shoujo: Shōjo
+  shounen: Shōnen
+  slice_of_life: Slice of life
+  stoner_comedy: Commedia Stoner
+  timeline_order: Ordine Cronologico
+  plex_popular: Popolari su Plex
+  recently_aired: Recentemente in Onda
+  newly_released: Appena Uscito
+  top_airing: Migliori In Onda
+  stevenlu's_popular_movies: Film Popolari di StevenLu
 collections:
   bafta_best:
     name: BAFTA Miglior Film
@@ -449,8 +464,8 @@ collections:
     name: BAFTA <<key_name>>
     summary: Premio BAFTA del <<key_name>>.
   cannes_best:
-    name: Vincitore Palma d'Oro Cannes
-    summary: Vincitore Palma d'Oro Cannes.
+    name: Vincitori Palma d'Oro Cannes
+    summary: Vincitori Palma d'Oro Cannes.
   cannes_year:
     name: Cannes <<key_name>>
     summary: Premio Cannes del <<key_name>>.
@@ -524,33 +539,32 @@ collections:
     name: Popolari su AniList
     summary: Una raccolta degli Anime più popolari secondo AniList.
   anilist_top_rated:
-    name: Piu votati su AniList
-    summary: Una raccolta degli Anime più votati secondo AniList.
+    name: Voti Migliori su AniList
+    summary: Una raccolta degli Anime con i voti più alti secondo AniList.
   anilist_trending:
-    name: Tendenze su AniList
-    summary: Una raccolta di anime di tendenza secondo AniList.
+    name: In Tendenza su AniList
+    summary: Una raccolta di anime in tendenza secondo AniList.
   anilist_season:
     name: Stagione su AniList
     summary: Una raccolta di anime della stagione corrente secondo AniList.
   basic_released:
-    name: Appena usciti
+    name: Appena Uscito
     summary: Una raccolta di <<library_translation>> appena rilasciate.
   basic_episodes:
-    name: Nuovi episodi
+    name: Nuovi Episodi
     summary: Una raccolta di episodi appena rilasciati.
   flixpatrol:
     name: <<key_name>> Top <<limit>>
-    summary: I migliori <<limit>> <<library_translation>> su <<key_name>> secondo
-      FlixPatrol.
+    summary: Top <<limit>> <<library_translation>> su <<key_name>> secondo FlixPatrol.
   imdb_popular:
     name: Popolari su IMDb
-    summary: Elenco dei <<library_translation>> popolari su IMDb .
+    summary: Elenco di <<library_translation>> popolari su IMDb .
   imdb_top:
     name: IMDb Top 250
     summary: Raccolta dei Top 250 <<library_translation>> su IMDb.
   imdb_lowest:
-    name: Meno votati su IMDb
-    summary: Elenco dei <<library_translation>> su IMDb con il voto più basso.
+    name: Voti Peggiori su IMDb
+    summary: Elenco di <<library_translation>> su IMDb con il voto più basso.
   mal_popular:
     name: Popolari su MyAnimeList
     summary: Una raccolta degli anime più popolari secondo MyAnimeList.
@@ -558,11 +572,12 @@ collections:
     name: Favoriti su MyAnimeList
     summary: Una raccolta degli Anime più favoriti secondo MyAnimeList.
   mal_top:
-    name: Top di MyAnimeList
-    summary: Una raccolta degli anime più votati secondo MyAnimeList.
+    name: Voti Migliori su MyAnimeList
+    summary: Una raccolta degli anime con i voti più alti secondo MyAnimeList.
   mal_airing:
     name: Top di MyAnimeList in Onda
-    summary: Una raccolta degli anime più votati attualmente in onda secondo MyAnimeList.
+    summary: Una raccolta degli anime con i voti più alti attualmente in onda secondo
+      MyAnimeList.
   mal_season:
     name: Stagione su MyAnimeList
     summary: Una raccolta di anime della stagione in corso secondo MyAnimeList.
@@ -577,10 +592,10 @@ collections:
       famiglia, intrattenere le famiglie di tutti i tipi e avere un effetto positivo
       e duraturo sulla società.
   stevenlu_popular:
-    name: I film più popolari di StevenLu
+    name: Film Popolari di StevenLu
     summary: Una raccolta dei film più popolari di StevenLu.
   pirated_popular:
-    name: I 10 film piratati della settimana
+    name: Top 10 Film Piratati della Settimana
     summary: La Top Ten settimanale dei film piratati di TorrentFreak.com.
   tautulli_popular:
     name: Popolari su Plex
@@ -590,20 +605,20 @@ collections:
     summary: Una raccolta dei migliori <<library_translation>> guardati su Plex.
   tmdb_airing:
     name: TMDb in Onda Oggi
-    summary: Una raccolta di spettacoli con episodi in onda oggi.
+    summary: Una raccolta di serie con episodi in onda oggi.
   tmdb_air:
     name: TMDb in Onda
-    summary: Una raccolta di spettacoli che sono ancora attivamente in onda.
+    summary: Una raccolta di serie che sono ancora attivamente in onda.
   tmdb_popular:
     name: Popolari su TMDb
     summary: Una raccolta dei programmi <<library_translation>> più visti secondo
       TMDb.
   tmdb_top:
-    name: Top di TMDb
-    summary: Una raccolta dei <<library_translation>> più votati secondo TMDb.
+    name: Voti Migliori su TMDb
+    summary: Una raccolta di <<library_translation>> con i voti più alti secondo TMDb.
   tmdb_trending:
     name: In Tendenza su TMDb
-    summary: Una raccolta dei <<library_translation>> di tendenza su TMDb.
+    summary: Una raccolta di <<library_translation>> in tendenza su TMDb.
   trakt_collected:
     name: Raccolta di Trakt
     summary: Una raccolta della lista settimanale Trakt Collected di Trakt.
@@ -617,10 +632,10 @@ collections:
     name: In Tendenza su Trakt
     summary: Una raccolta della lista settimanale di Trakt Trending.
   trakt_watched:
-    name: Osservati su Trakt
+    name: Guardati su Trakt
     summary: Una raccolta della lista settimanale di Trakt Watched.
   separator:
-    name: Collezioni di <<key_name>>
+    name: Collezioni <<key_name>>
     summary: Separatore di sezione per le collezioni di <<key_name>>.
   actor:
     name: <<key_name>>
@@ -633,8 +648,8 @@ collections:
     summary: <<library_translationU>> girati in altre lingue non comuni.
   collectionless:
     name: Senza collezione
-    summary: Collezione di <<library_translationU>> utilizzate per far sì che Plex
-      visualizzi correttamente gli elementi.
+    summary: Raccolta di <<library_translationU>> utilizzata per far sì che Plex visualizzi
+      correttamente gli elementi.
   content_rating:
     name: <<library_translationU>> <<key_name>>
     summary: <<library_translationU>> che sono classificati come <<key_name>>.
@@ -643,7 +658,7 @@ collections:
     summary: <<library_translationU>> che sono classificati come <<key_name>> secondo
       il Common Sense Rating System.
   content_rating_other:
-    name: Non Classificati <<library_translationU>>
+    name: <<library_translationU>> Senza Classifica
     summary: <<library_translationU>> non classificati, non classificati o con valutazioni
       non comuni.
   country:
@@ -654,7 +669,7 @@ collections:
     summary: <<library_translationU>> che sono stati girati in altri Paesi non comuni.
   decade:
     name: Il meglio del <<key_name>>
-    summary: I migliori <<limit>> <<library_translation>> del <<key_name>>.
+    summary: Top <<limit>> <<library_translation>> del <<key_name>>.
   director:
     name: <<key_name>> (Regista)
     summary: <<library_translationU>> diretti da <<key_name>>.
@@ -669,10 +684,10 @@ collections:
     summary: <<library_translationU>> prodotti da <<key_name>>.
   resolution:
     name: <<library_translationU>> in <<key_name>>
-    summary: <<library_translationU>> con risoluzione <<key_name>>.
+    summary: <<library_translationU>> in risoluzione <<key_name>>.
   resolution_other:
-    name: Altre Risoluzioni <<library_translationU>>
-    summary: <<library_translationU>> che hanno altre risoluzioni non comuni.
+    name: <<library_translationU>> in Altre Risoluzioni
+    summary: <<library_translationU>> in altre risoluzioni non comuni.
   seasonal:
     name: <<library_translationU>> per <<key_name>>
     summary: Una raccolta di <<library_translation>> per <<key_name>>.
@@ -687,9 +702,9 @@ collections:
     summary: <<library_translationU>> con sottotitoli in <<key_name>>.
   subtitle_language_other:
     name: Altri Sottotitoli
-    summary: <<library_translationU>> con sottotitoli non comuni.
+    summary: <<library_translationU>> con altri sottotitoli poco comuni.
   writer:
-    name: <<key_name>> (Sceneggiatore)
+    name: <<key_name>> (Scrittore)
     summary: <<library_translationU>> scritto da <<key_name>>.
   year:
     name: Il meglio del <<key_name>>
@@ -712,3 +727,9 @@ collections:
     name: Basato su un <<key_name>>
     summary: <<library_translationU>> la cui storia si basa o prende ispirazione da
       un <<key_name>>.
+  content_ratings_other:
+    name: Altre Classificazioni
+  network_other:
+    name: Altre Reti Televisive
+  studio_animation_other:
+    name: Altri Studi di Animazione
