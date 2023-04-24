@@ -635,8 +635,7 @@ collections:
     summary: Una raccolta di serie che sono ancora attivamente in onda.
   tmdb_popular:
     name: Popolari su TMDb
-    summary: Una raccolta dei programmi <<library_translation>> più visti secondo
-      TMDb.
+    summary: Una raccolta dei <<library_translation>> più visti secondo TMDb.
   tmdb_top:
     name: Voti Migliori su TMDb
     summary: Una raccolta di <<library_translation>> con i voti più alti secondo TMDb.
@@ -761,7 +760,7 @@ collections:
       o con altre classificazioni non comuni.
   network_other:
     name: Altre Reti Televisive
-    summary: <<library_translationU>> trasmessi su altre reti non comuni.
+    summary: <<library_translationU>> trasmesse su altre reti non comuni.
   studio_animation_other:
     name: Altri Studi di Animazione
     summary: <<library_translationU>> prodotti da altri studi di animazione non comuni.
