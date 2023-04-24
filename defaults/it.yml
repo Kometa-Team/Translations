@@ -86,7 +86,7 @@ key_names:
   france: Francia
   french: Francese
   galician: Galiziano
-  game_show: Game Show
+  game_show: Quiz Televisivo
   gangster: Gangster
   genre: Genere
   georgian: Georgiano
@@ -138,7 +138,7 @@ key_names:
   memorial_day: Giorno della Memoria
   mexico: Messico
   mind_bend: Scervellotico
-  mind_fuck: Sega mentale
+  mind_fuck: Sconvolgente
   mini_series: Mini-serie
   morocco: Marocco
   mothers_day: Festa della Mamma
@@ -455,6 +455,30 @@ key_names:
   newly_released: Appena Uscito
   top_airing: Migliori In Onda
   stevenlu's_popular_movies: Film Popolari di StevenLu
+  found_footage_horror: Filmati trovati Horror
+  girls_love: Amore di ragazza
+  kids_network: Canali per bambini
+  lgbtq_pride_month: Mese del Pride LGBTQ+
+  latinx_heritage_month: Mese del Patrimonio Latino
+  mind_f**k: Sconvolgente
+  movie_chart: Classifica dei Film
+  new_premieres: Nuove anteprime
+  new_year: Anno nuovo
+  pilots: Piloti
+  plex_people_watching: Visualizzati dagli utenti di Plex
+  rated: Classificato
+  tv_chart: Classifica Serie TV
+  uk_network: Canale del Regno Unito
+  us_network: Canale degli Stati Uniti
+  us_streaming: Streaming degli Stati Uniti
+  watchlist: Raccolte
+  womens_history_month: Mese della storia delle donne
+  not_rated: Non classificato
+  plex_pilots: Plex Piloti
+  asian_american_pacific_islander_heritage_month: Mese del Patrimonio Asiatico Americano
+    e delle Isole del Pacifico
+  boys_love: L'amore dei ragazzi
+  uk_streaming: Streaming del Regno Unito
 collections:
   bafta_best:
     name: BAFTA Miglior Film
@@ -569,8 +593,8 @@ collections:
     name: Popolari su MyAnimeList
     summary: Una raccolta degli anime più popolari secondo MyAnimeList.
   mal_favorited:
-    name: Favoriti su MyAnimeList
-    summary: Una raccolta degli Anime più favoriti secondo MyAnimeList.
+    name: Preferiti su MyAnimeList
+    summary: Una raccolta degli Anime maggiormente preferiti secondo MyAnimeList.
   mal_top:
     name: Voti Migliori su MyAnimeList
     summary: Una raccolta degli anime con i voti più alti secondo MyAnimeList.
@@ -659,8 +683,8 @@ collections:
       il Common Sense Rating System.
   content_rating_other:
     name: <<library_translationU>> Senza Classifica
-    summary: <<library_translationU>> non classificati, non classificati o con valutazioni
-      non comuni.
+    summary: <<library_translationU>> che sono senza rating, non classificati o con
+      valutazioni non comuni.
   country:
     name: <<key_name>>
     summary: <<library_translationU>> girati in <<key_name>>.
@@ -711,25 +735,36 @@ collections:
     summary: <<library_translationU>> rilasciati nel <<key_name>>.
   year_other:
     name: Altri Anni
+    summary: <<library_translationU>> rilasciati in altri anni.
   studio_other:
     name: Altri Studios
+    summary: <<library_translationU>> prodotti da altri studi non comuni.
   birthday:
     summary: Nato questo mese, <<library_translation>> con <<key_name>>.
     name: Compleanno di <<key_name>>
   decade_other:
     name: Altri Decenni
+    summary: <<library_translationU>> rilasciati in altri decenni.
   resolutions_other:
     name: Altre Risoluzioni
     summary: <<library_translationU>> in altre risoluzioni poco comuni.
   genre_other:
     name: Altri Generi
+    summary: <<library_translationU>> che hanno altri generi non comuni.
   based:
     name: Basato su un <<key_name>>
     summary: <<library_translationU>> la cui storia si basa o prende ispirazione da
       un <<key_name>>.
   content_ratings_other:
     name: Altre Classificazioni
+    summary: <<library_translationU>> che non sono classificati, non classificati
+      o con altre classificazioni non comuni.
   network_other:
     name: Altre Reti Televisive
+    summary: <<library_translationU>> trasmessi su altre reti non comuni.
   studio_animation_other:
     name: Altri Studi di Animazione
+    summary: <<library_translationU>> prodotti da altri studi di animazione non comuni.
+  network_kids_other:
+    name: Altri Canali per bambini
+    summary: <<library_translationU>> trasmessi su altre reti per bambini non comuni.
