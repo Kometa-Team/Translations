@@ -776,3 +776,7 @@ collections:
   year_other:
     name: Andere Jahre
     summary: <<library_translation2U>> veröffentlicht in anderen Jahren.
+  birthday:
+    summary: Geboren diesen Monat, hier sind <<library_translation2>> in denen <<key_name>>
+      mitgewirkt hatte.
+    name: <<key_name>>'s Geburtstag"
