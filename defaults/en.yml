@@ -480,6 +480,8 @@ key_names:
   latin_america: Latin America
   mma: MMA
   leaving_soon: Leaving Soon
+  new: New
+  ended: Ended
 collections:
   bafta_best:
     name: BAFTA Best Films
