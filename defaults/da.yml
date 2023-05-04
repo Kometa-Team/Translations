@@ -479,6 +479,9 @@ key_names:
   nordic: Nordisk
   latin_america: Latinamerika
   mma: MMA
+  leaving_soon: Går snart
+  new: Ny
+  ended: Sluttet
 collections:
   bafta_best:
     name: BAFTA Bedste Film
