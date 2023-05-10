@@ -482,6 +482,7 @@ key_names:
   leaving_soon: Leaving Soon
   new: New
   ended: Ended
+  ufo: UFO
 collections:
   bafta_best:
     name: BAFTA Best Films
