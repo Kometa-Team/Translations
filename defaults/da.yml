@@ -482,6 +482,7 @@ key_names:
   leaving_soon: Går snart
   new: Ny
   ended: Sluttet
+  ufo: UFO
 collections:
   bafta_best:
     name: BAFTA Bedste Film
