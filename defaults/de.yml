@@ -37,7 +37,7 @@ key_names:
   belgium: Belgien
   bengali: Bengalisch
   biography: Biografie
-  biopic: Biopic
+  biopic: Filmbiografie
   book: Book
   bosnian: Bosnisch
   brazil: Brasilien
@@ -72,7 +72,7 @@ key_names:
   easter: Ostern
   egypt: Ägypten
   english: Englisch
-  erotica: Erotica
+  erotica: Erotik
   estonia: Estland
   estonian: Estnisch
   family: Familie
@@ -229,7 +229,7 @@ key_names:
   universe: Universum
   urdu: Urdu
   valentines_day: Valentinstag
-  video_game: Video Game
+  video_game: Video Spiel
   vietnam: Vietnam
   vietnamese: Vietnamesisch
   war_politics: Krieg & Politik
@@ -238,14 +238,14 @@ key_names:
   writers: Autoren
   year: Jahr
   con_artist: Trickbetrüger
-  ecchi: Ecchi
+  ecchi: Etchi
   esperanto: Esperanto
   game: Spiel
   inupiaq: Inupiaq
   lithuanian: Lithauisch
   based_on: Basierend auf...
   collectionless: Ohne Sammlung
-  us_network: US Netzwerk
+  us_network: US Fernsehsender
   content_ratings: Alterskennzeichnungen
   cornish: Kornisch
   corsican: Korsisch
@@ -394,7 +394,7 @@ key_names:
   turkmen: Turkmenisch
   twi: Twi
   uighur: Uigurisch
-  uk_network: UK Netzwerk
+  uk_network: UK Fernsehsender
   uk_streaming: UK Streaming
   us_streaming: US Streaming
   uzbek: Usbekisch
@@ -479,6 +479,10 @@ key_names:
   nordic: Nordisch
   latin_america: Latein-Amerika
   mma: MMA
+  ufo: UFO
+  leaving_soon: bald verlassen
+  new: Neu
+  ended: Beendet
 collections:
   bafta_best:
     name: BAFTA Beste Filme
