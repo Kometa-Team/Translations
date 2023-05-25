@@ -483,6 +483,7 @@ key_names:
   new: New
   ended: Ended
   ufo: UFO
+  veterans_day: Veteran's Day
 collections:
   bafta_best:
     name: BAFTA Best Films
