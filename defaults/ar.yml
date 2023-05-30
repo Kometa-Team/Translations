@@ -1,1 +1,55 @@
-{}
+variables:
+  library_translation:
+    movie: فلم
+    show: مسلسل
+    artist: فنان
+    video: ڤيديو
+  library_translation2:
+    movie: فلم
+    show: مسلسل
+    artist: فنان
+    video: ڤيديو
+  library_translation3:
+    movie: فلم
+    show: مسلسل
+    artist: فنان
+    video: ڤيديو
+key_names:
+  arabic: عربي
+  argentina: ‏أرجنتينا
+  armenian: ‏أرمني
+  audio_language: ‏ ‏لغة الصوت
+  australia: ‏أستراليا
+  azerbaijani: ‏أذربيجاني
+  based_on: بناء على..
+  based_on_a_book: ‏بناء على كتاب
+  based_on_a_comic: ‏بناء على قصص مصورة
+  based_on_a_true_story: ‏بناء على قصة حقيقية
+  based_on_a_video_game: ‏بناء على لعبة فيديو
+  belarusian: ‏بلاروسي
+  belgium: ‏بلجيكي
+  bengali: ‏بنغالي
+  best_director_winners: ‏ فايز أفضل مخرج
+  best_picture_winner: ‏فايز افضل فلم
+  best_picture_winners: ‏الفائزون بأفضل فيلم
+  best_of: ‏الأفضل من
+  biography: سيرة
+  biopic: فلم سيرة
+  black_history_month: ‏ شهر تاريخ السود
+  book: ‏كتاب
+  bosnian: ‏بوسني
+  bottom_rated: ‏التقييم الأدنى
+  brazil: ‏برازيل
+  bulgaria: ‏بلغاريا
+  bulgarian: ‏بلغاري
+  canada: ‏كندا
+  cars: سيارات
+  chart: ‏قائمة
+  children: ‏أطفال
+  china: الصين
+  chinese: ‏صيني
+  competition: ‏مسابقة
+  costa_rica: ‏كوستاريكا
+  country: البلد
+  croatia: ‏كرواتيا
+  croatian: ‏كرواتي
