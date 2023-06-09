@@ -1,1 +1,451 @@
-{}
+variables:
+  library_translation:
+    show: serie
+    artist: artist
+    video: video
+    movie: film
+    item: objekt
+  library_translation2:
+    movie: film
+    show: serie
+    artist: artist
+    item: objekt
+    video: video
+  library_translation3:
+    artist: artist
+    video: video
+    item: objekt
+    movie: film
+    show: serie
+key_names:
+  4/20: 4/20
+  abkhazian: Abchasiska
+  action_adventure: Action & Äventyr
+  actor: Skådespelare
+  actors: Skådespelare
+  adult: Vuxen
+  afar: Afar
+  afrikaans: Afrikaans
+  age: Ålder
+  airing_today: Visas i dag
+  akan: Akan
+  albanian: Albanska
+  amharic: Amhariska
+  aragonese: Aragonese
+  argentina: Argentina
+  armenian: Armeniska
+  assamese: Assamiska
+  assassin: Yrkesmördare
+  audio_language: Ljudspråk
+  australia: Australien
+  austria: Österrike
+  avaric: Avaric
+  award: Pris
+  aymara: Aymara
+  azerbaijani: Azerbajdzjanska
+  bambara: Bambara
+  bahamas: Bahamas
+  based_on: Baserat på...
+  based_on_a_book: Baserad på en bok
+  based_on_a_true_story: Baserad på en sann historia
+  based_on_a_video_game: Baserad på ett videospel
+  basque: Baskiska
+  bashkir: Bashkir
+  belarusian: Vitryska
+  belgium: Belgien
+  bengali: Bengali
+  best_director_winners: Vinnare av bästa regissör
+  best_picture_winners: Vinnare av bästa film
+  asian_american_pacific_islander_heritage_month: Asiatisk Amerikan & Stillahavsöbo
+    arvs månad
+  animation: Animation
+  anime: Anime
+  biography: Biografi
+  bislama: Bislama
+  book: Bok
+  bosnian: Bosniska
+  bottom_rated: Sämst betygsatt
+  box_office: Intäkter
+  boys_love: Pojkars kärlek
+  brazil: Brasilien
+  breton: Breton
+  bulgaria: Bulgarien
+  bulgarian: Bulgarisk
+  burmese: Burmesiska
+  canada: Kanada
+  cars: Bilar
+  central_khmer: Centrala Khmer
+  chamorro: Chamorro
+  con_artist: Bedragare
+  content_ratings: Betyg på innehåll
+  cornish: Kornisk
+  corsican: Korsikanska
+  costa_rica: Costa Rica
+  country: Land
+  cree: Cree
+  crime: Brott
+  croatia: Kroatien
+  croatian: Kroatiska
+  czech: Tjeckiska
+  czech_republic: Tjeckien
+  danish: Danska
+  decade: Årtionde
+  demons: Demoner
+  denmark: Danmark
+  director: Regissör
+  directors: Regissörer
+  biopic: ''
+  children: Barn
+  china: Kina
+  chinese: Kinesiska
+  christmas: Jul
+  church_slavic: Kyrkoslavisk
+  collected: Samlat
+  collectionless: Utan samling
+  comedy: Komedi
+  comic: Tecknad serie
+  competition: Tävling
+  documentary: Dokumentär
+  dominican_republic: Dominianska republiken
+  dzongkha: Dzongkha
+  dutch: Holländska
+  easter: Påsk
+  egypt: Egypten
+  erotica: Erotik
+  esperanto: Esperanto
+  estonia: Estland
+  estonian: Estländska
+  ewe: Ewe
+  family: Familj
+  families: Familjer
+  faroese: Färöiska
+  fathers_day: Fars dag
+  favorited: Favoriserad
+  filipino: Filipinare
+  film_noir: Film noir
+  finland: Finland
+  finnish: Finska
+  food: Mat
+  found_footage_horror: Upphittade bilder skräck
+  france: Frankrike
+  french: Fransk
+  fulah: Fulah
+  galician: Galiciska
+  game: Spel
+  game_show: Spelshow
+  ganda: Ganda
+  genre: Genre
+  georgian: Georgiska
+  german: Tyska
+  germany: Tyskland
+  grand_jury_winners: Storjuryvinnare
+  greece: Grekland
+  greek: Grekiska
+  guarani: Guarani
+  gujarati: Gujarati
+  haitian: Haitisk
+  hausa: Hausa
+  hebrew: Hebreiska
+  heist: Kupp
+  drama: ''
+  ecchi: ''
+  fantasy: ''
+  franchise: ''
+  gangster: ''
+  gourmet: ''
+  halloween: ''
+  harem: ''
+  home_and_garden: Hem och trädgård
+  horror: Skräck
+  hungarian: Ungerska
+  hungary: Ungern
+  iceland: Island
+  icelandic: Isländska
+  independence_day: Självständighetsdag
+  india: Indien
+  indonesian: Indonesiska
+  ireland: Irland
+  irish: Irländska
+  italian: Italienska
+  italy: Italien
+  japanese: Japanska
+  javanese: Javanesiska
+  kazakh: Kazakiska
+  kids: Barn
+  korean: Koreanska
+  kurdish: Kurdiska
+  lgbtq_pride_month: LGBTQ+ Pridemånaden
+  latinx_heritage_month: Latinx arv månad
+  latvia: Lettland
+  lithuanian: Litauiska
+  luxembourg: Luxemburg
+  luxembourgish: Luxemburgiska
+  lowest_rated: Lägst betygsatt
+  macedonian: Makedonska
+  malagasy: Madagaskar
+  malay: Malajiska
+  malaysian: Malaysiska
+  maltese: Maltesiska
+  mexico: Mexiko
+  military: Militär
+  mind_bend: Sinnesböjande
+  mini_series: Miniserie
+  mongolian: Mongoliska
+  morocco: Marocko
+  movie_chart: Filmtoplista
+  music: Musik
+  musical: Musikal
+  nepali: Nepalesiska
+  netherlands: Nederländerna
+  network: Nätverk
+  new_episodes: Nya avsnitt
+  new_premieres: Nya premiärer
+  new_year: Nyår
+  new_zealand: Nya Zeeland
+  newly_released_episodes: Nyligen släppta avsnitt
+  newly_released: Nyligen släppta
+  news: Nyheter
+  news_politics: Nyheter & politik
+  nominations: Nomineringar
+  not_rated: Ej betygsatt
+  north_ndebele: Norra Ndebele
+  northern_sami: Nordsamiska
+  norway: Norge
+  norwegian: Norska
+  norwegian_bokmål: Norskt bokmål
+  occitan: Occitanska
+  on_the_air: I sändning
+  ossetian: Ossetiskt
+  other: Annat
+  outdoor_adventure: Utomhusäventyr
+  persian: Persiska
+  personal: Personlig
+  philippines: Filippinerna
+  pilots: Pilotavsnitt
+  plex_people_watching: Ses på Plex
+  plex_pilots: Plex pilotavsnitt
+  plex_popular: Populärt på Plex
+  plex_watched: Sett på Plex
+  poland: Polen
+  polish: Polska
+  politics: Politik
+  popular: Poplärt
+  portugese: Portugisiska
+  portuguese: Portugisiska
+  producer: Producent
+  producers: Producenter
+  psychedelic: Psykedelisk
+  psychological: Psykologisk
+  reality: ''
+  recommended: Rekommenderad
+  recently_added: Nyligen tillagt
+  recently_aired: Nyligen sänt
+  resolution: Upplösning
+  romance: Romantik
+  romania: Rumänien
+  romanian: Rumänska
+  romantic_comedy: Romantisk komedi
+  romantic_drama: Romantisk drama
+  romansh: Romanska
+  russia: Ryssland
+  russian: Ryska
+  saudi_arabia: Saudiarabien
+  school: Skola
+  seasonal: Säsongsbetonad
+  serbia: Serbien
+  serbian: Serbiska
+  serial_killer: Seriemördare
+  short: Kort
+  sinhala: Singalesiska
+  slovak: Slovakiska
+  soap: Såpa
+  somali: Somaliska
+  south_ndebele: Södra Ndebele
+  southern_sotho: Södra Sotho
+  spain: Spanien
+  spy: Spion
+  stoner_comedy: Stonerkomedi
+  subtitle: Undertext
+  subtitle_language: Undertextspråk
+  superhero: Superhjälte
+  supernatural: Övernaturlig
+  survival: Överlevnad
+  suspense: Spänning
+  sweden: Sverige
+  switzerland: Schweiz
+  tv_chart: TV topplista
+  tv_movie: TV Film
+  tahitian: Tahitiska
+  tajik: Tadzjikiska
+  talk_show: Prat show
+  tibetan: Tibetanska
+  timeline_order: Tidslinjeordning
+  top_250: Topp 250
+  top_10_pirated: Topp 10 piratkopierat
+  top_rated: Topp betygsatt
+  travel: Resa
+  trending: Trendar
+  turkey: Turkiet
+  turkish: Turkiska
+  turkmen: Turkmeniska
+  uk_network: UK nätverk
+  ukraine: Ukraina
+  ukrainian: Ukrainska
+  united_kingdom: Storbritannien
+  united_states_of_america: Amerikas förenta stater
+  universe: Universum
+  us_network: US nätverk
+  uzbek: Uzbekiska
+  valentines_day: Alla hjärtans dag
+  vampire: Vampyr
+  video_game: TV-spel
+  vietnamese: Vietnamesiska
+  war: Krig
+  watched: Sett
+  western: Västerländsk
+  western_frisian: Västfrisiska
+  womens_history_month: Kvinnohistoriens månad
+  writer: Författare
+  writers: Författare
+  year: År
+  zombie_horror: Zombieskräck
+  nordic: Nordisk
+  latin_america: Latinamerika
+  new: Nytt
+  ended: Avslutad
+  action: Action
+  adventure: Äventyr
+  arabic: Arabiska
+  avestan: Avestan
+  based_on_a_comic: Baserad på en tecknad serie
+  best_picture_winner: Vinnare av bästa film
+  best_of: Bäst av
+  black_history_month: Svart historiemånad
+  catalan: Katalanska
+  creature_horror: Skräck monster
+  day_of_persons_with_disabilities: Internationell dag för personer med handikapp
+  divehi: Divehi
+  english: Engelska
+  fijian: Fijianska
+  gaelic: Gaeliska
+  girls_love: Flickors kärlek
+  hentai: ''
+  history: Historia
+  indonesia: Indonesien
+  kids_network: Barnnätverk
+  latvian: Lettiska
+  martial_arts: Kampsport
+  mothers_day: Mors dag
+  mystery: Mysterie
+  new_years_day: Nyårsdagen
+  now_playing: Spelas nu
+  norwegian_nynorsk: Norsk nynorsk
+  parody: Parodi
+  police: Polis
+  psychological_horror: Psykologisk skräck
+  rated: Betygsatt
+  ratings: Betyg
+  sardinian: Sardiska
+  season: Säsong
+  slice_of_life: Bit av livet
+  slovenian: Slovenska
+  south_africa: Sydafrika
+  space: Rymden
+  spanish: Spanska
+  stand-up_comedy: Ståuppkomik
+  stevenlu's_popular_movies: Populära filmer av StevenLu
+  studio_animation: Animationsstudio
+  sundanese: Sundanesiska
+  super_power: Superkraft
+  swedish: Svenska
+  sword_sorcery: Svärd & Magi
+  top_airing: Topp i sändning
+  true_story: Sann historia
+  united_arab_emirates: Förenade arabemiraten
+  war_politics: Krig & politik
+  welsh: Walesiska
+  winners: Vinnare
+  yiddish: Jiddish
+  leaving_soon: Lämnar snart
+  malayalam: Malayalam
+collections:
+  bafta_best:
+    name: BAFTA bästa filmer
+    summary: Vinnare av British Academy of Film and Television Arts bästa film.
+  bafta_year:
+    summary: <<key_name>> BAFTA priser.
+  cannes_best:
+    name: Vinnare av Cannes Golden Palm
+    summary: Vinnare av Cannes Golden Palm.
+  cannes_year:
+    summary: <<key_name>> Cannes priser.
+  choice_year:
+    name: Critics Choice priser <<key_name>>
+    summary: <<key_name>> Critics Choice priser.
+  emmy_year:
+    summary: <<key_name>> Emmyvinnare.
+  golden_picture:
+    summary: Vinnare av Golden Globes bästa film.
+    name: Vinnare av Golden Globes bästa film
+  golden_director:
+    name: Vinnare av Golden Globes bästa regissör
+    summary: Vinnare av Golden Globes bästa regissör.
+  golden_year:
+    summary: <<key_name>> Vinnare av Golden Globe.
+  oscars_director:
+    name: Vinnare av Oscar bästa regissör
+    summary: Oscar för bästa regissör är en av Oscarsutmärkelserna som delas ut årligen
+      av Academy of Motion Picture Arts and Sciences sedan utmärkelserna debuterade
+      1929.
+  oscars_year:
+    name: Oscarvinnare <<key_name>>
+    summary: Vinnare av Academy Awards (Oskar) för <<key_name>>.
+  cesar_best:
+    name: Vinnare av César bästa film
+    summary: César-priset är Frankrikes nationella filmpris, som först delades ut
+      1975. Nomineringarna väljs ut av medlemmarna i Académie des Arts et Techniques
+      du Cinéma. Namnet på priset kommer från skulptören César Baldaccini. De anses
+      vara den franska motsvarigheten till American Academy Awards.
+  razzie_worst:
+    name: Vinnare av Razzies Golden Raspberry
+    summary: Golden Raspberry Award för sämsta film är ett pris som delas ut vid den
+      årliga Golden Raspberry Awards till den sämsta filmen det senaste året.
+  venice_best:
+    name: Venedigs guldlejon
+    summary: Filmfestivalen i Venedig är den äldsta filmfestivalen i världen. Festivalen
+      grundades 1932 och har sedan dess ägt rum varje år i Venedig, Italien. Det är
+      en del av Venedigbiennalen, en stor tvåårig utställning och festival för samtidskonst.
+      Festivalens Leone d'Oro (Guldlejon)-pris delas ut till den bästa filmen som
+      visas på festivalen.
+  spirit_year:
+    name: Independent Spirit priset <<key_name>>
+    summary: <<key_name>> Independent Spirit priset.
+  sundance_best:
+    name: Vinnare av Sundance Grand Jury
+    summary: Sundance Film Festival är en filmfestival som äger rum årligen i delstaten
+      Utah, i USA. Det är den största oberoende biograffestivalen i USA som hålls
+      i januari, festivalen är det främsta skyltfönstret för nya verk från amerikanska
+      och internationella oberoende filmskapare. Festivalen består av tävlingssektioner
+      för amerikanska och internationella drama- och dokumentärfilmer, både långfilmer
+      och kortfilmer, och en grupp icke-konkurrensutsatta showcase-sektioner.
+  sundance_year:
+    summary: Sundance Film Festival av <<key_name>>.
+    name: Sundance Film Festival <<key_name>>
+  anilist_popular:
+    name: AniList Populärt
+    summary: En samling av den mest populära Animen enligt AniList.
+  anilist_top_rated:
+    name: AniList toppbetygsatt
+    summary: En samling av den högst betygsatta Animen enligt AniList.
+  oscars_picture:
+    name: Oscar vinnare av bästa film
+    summary: Oscar för bästa film är en av Oscarsutmärkelserna som delas ut årligen
+      av Academy of Motion Picture Arts and Sciences sedan utmärkelserna debuterade
+      1929.
+  berlinale_best:
+    name: Berlinale guldbjörn
+    summary: Upp till 400 filmer visas varje år som en del av Berlinales (Berlin International
+      Film Festival) offentliga program, varav de allra flesta är världs- eller Europapremiärer.
+      Filmer av varje genre, längd och format kan lämnas in för övervägande. Guldbjörnen
+      (tyska Goldener Bär) är det högsta priset som delas ut för bästa film som visas
+      under denna festival.
