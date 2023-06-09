@@ -479,6 +479,11 @@ key_names:
   nordic: Nordique
   latin_america: Amérique Latine
   mma: MMA
+  ufo: OVNI
+  veterans_day: Journée des anciens combattants
+  leaving_soon: bientôt déprogrammé
+  new: Nouveauté
+  ended: Terminée
 collections:
   bafta_best:
     name: BAFTA Meilleurs films
