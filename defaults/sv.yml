@@ -94,7 +94,7 @@ key_names:
   denmark: Danmark
   director: Regissör
   directors: Regissörer
-  biopic: ''
+  biopic: 'Biopic'
   children: Barn
   china: Kina
   chinese: Kinesiska
@@ -147,14 +147,14 @@ key_names:
   hausa: Hausa
   hebrew: Hebreiska
   heist: Kupp
-  drama: ''
-  ecchi: ''
-  fantasy: ''
-  franchise: ''
-  gangster: ''
-  gourmet: ''
-  halloween: ''
-  harem: ''
+  drama: 'Drama'
+  ecchi: 'Ecchi'
+  fantasy: 'Fantasy'
+  franchise: 'Franchise'
+  gangster: 'Gangster'
+  gourmet: 'Gourmet'
+  halloween: 'Halloween'
+  harem: 'Harem'
   home_and_garden: Hem och trädgård
   horror: Skräck
   hungarian: Ungerska
@@ -236,7 +236,7 @@ key_names:
   producers: Producenter
   psychedelic: Psykedelisk
   psychological: Psykologisk
-  reality: ''
+  reality: 'Reality'
   recommended: Rekommenderad
   recently_added: Nyligen tillagt
   recently_aired: Nyligen sänt
@@ -329,7 +329,7 @@ key_names:
   fijian: Fijianska
   gaelic: Gaeliska
   girls_love: Flickors kärlek
-  hentai: ''
+  hentai: 'Hentai'
   history: Historia
   indonesia: Indonesien
   kids_network: Barnnätverk
@@ -368,22 +368,141 @@ key_names:
   yiddish: Jiddish
   leaving_soon: Lämnar snart
   malayalam: Malayalam
+  chart: Tabell
+  chechen: Tjetjenien
+  chichewa: Chichewa
+  chile: Chile
+  chuvash: Chuvash
+  herero: Herero
+  hindi: Hindi
+  hiri_motu: Hiri Motu
+  hong_kong: Hong Kong
+  ido: Ido
+  igbo: Igbo
+  indie: Indie
+  interlingua: Interlingua
+  interlingue: Interlingue
+  inuktitut: Inuktitut
+  inupiaq: Inupiaq
+  iran: Iran
+  israel: Israel
+  japan: Japan
+  kalaallisut: Kalaallisut
+  kannada: Kannada
+  kanuri: Kanuri
+  kashmiri: Kashmiri
+  kikuyu: Kikuyu
+  kinyarwanda: Kinyarwanda
+  kirghiz: Kirgisiska
+  komi: Komi
+  kongo: Kongo
+  korea: Korea
+  kuanyama: Kuanyama
+  lgbtq: LGBTQ+
+  labor_day: Labor Day
+  lao: Lao
+  latin: Latin
+  limburgan: Limburgan
+  lingala: Lingala
+  luba-katanga: Luba-Katanga
+  malaysia: Malaysia
+  mandarin: Mandarin
+  manx: Manx
+  maori: Maori
+  marathi: Marathi
+  marshallese: Marshallese
+  mecha: Mecha
+  memorial_day: Memorial Day
+  mind_fuck: Mind-Fuck
+  mind_f**k: Mind-F**k
+  nauru: Nauru
+  navajo: Navajo
+  ndonga: Ndonga
+  nepal: Nepal
+  ojibwa: Ojibwa
+  oriya: Oriya
+  oromo: Oromo
+  pakistan: Pakistan
+  pali: Pali
+  panama: Panama
+  pashto: Pashto
+  peru: Peru
+  portugal: Portugal
+  punjabi: Punjabi
+  qatar: Qatar
+  quechua: Quechua
+  rundi: Rundi
+  samoan: Samoan
+  samurai: Samurai
+  sango: Sango
+  sanskrit: Sanskrit
+  sci-fi_&_fantasy: Sci-Fi & Fantasy
+  science_fiction: Science Fiction
+  shona: Shona
+  shoujo: Shoujo
+  shounen: Shounen
+  sichuan_yi: Sichuan Yi
+  sindhi: Sindhi
+  singapore: Singapore
+  slasher: Slasher
+  sport: Sport
+  streaming: Streaming
+  studio: Studio
+  swahili: Swahili
+  swati: Swati
+  tagalog: Tagalog
+  tamil: Tamil
+  tatar: Tatariska
+  telugu: Telugu
+  thai: Thailändska
+  thailand: Thailand
+  thanksgiving: Thanksgiving
+  thriller: Thriller
+  tigrinya: Tigrinya
+  tonga: Tonga
+  top_10: Topp 10
+  tsonga: Tsonga
+  tswana: Tswana
+  twi: Twi
+  uighur: Uigur
+  uk_streaming: UK Streaming
+  urdu: Urdu
+  us_streaming: US Streaming
+  venda: Venda
+  vietnam: Vietnam
+  volapük: Volapük
+  walloon: Vallon
+  watchlist: Bevakningslista
+  wolof: Wolof
+  xhosa: Xhosa
+  yoruba: Yoruba
+  zhuang: Zhuang
+  zulu: Zulu
+  taiwan: Taiwan
+  mma: MMA
+  ufo: UFO
+  veterans_day: Veteranernas dag
+  sri_lanka: Sri Lanka
+  st_patricks_day: St. Patrick's Day
 collections:
   bafta_best:
     name: BAFTA bästa filmer
     summary: Vinnare av British Academy of Film and Television Arts bästa film.
   bafta_year:
     summary: <<key_name>> BAFTA priser.
+    name: BAFTA <<key_name>>
   cannes_best:
     name: Vinnare av Cannes Golden Palm
     summary: Vinnare av Cannes Golden Palm.
   cannes_year:
     summary: <<key_name>> Cannes priser.
+    name: Cannes <<key_name>>
   choice_year:
     name: Critics Choice priser <<key_name>>
     summary: <<key_name>> Critics Choice priser.
   emmy_year:
     summary: <<key_name>> Emmyvinnare.
+    name: Emmys <<key_name>>
   golden_picture:
     summary: Vinnare av Golden Globes bästa film.
     name: Vinnare av Golden Globes bästa film
@@ -392,6 +511,7 @@ collections:
     summary: Vinnare av Golden Globes bästa regissör.
   golden_year:
     summary: <<key_name>> Vinnare av Golden Globe.
+    name: Golden Globe <<key_name>>
   oscars_director:
     name: Vinnare av Oscar bästa regissör
     summary: Oscar för bästa regissör är en av Oscarsutmärkelserna som delas ut årligen
@@ -449,3 +569,26 @@ collections:
       Filmer av varje genre, längd och format kan lämnas in för övervägande. Guldbjörnen
       (tyska Goldener Bär) är det högsta priset som delas ut för bästa film som visas
       under denna festival.
+  anilist_trending:
+    name: AniList Trendigt
+    summary: En samling av trendiga Anime enligt AniList.
+  anilist_season:
+    name: AniList säsong
+    summary: En samling av Anime från den aktuella säsongen enligt AniList.
+  basic_released:
+    summary: En samling nysläppta <<library_translation>>s.
+    name: Nyligen släppt
+  basic_episodes:
+    name: Nya avsnitt
+    summary: En samling nysläppta avsnitt.
+  imdb_popular:
+    name: IMDb populärt
+    summary: Lista över IMDb populärt <<library_translation>>s.
+  imdb_top:
+    name: IMDv Topp 250
+    summary: Lista över IMDb topp 250 <<library_translation>>s.
+  flixpatrol:
+    name: <<key_name>> Topp <<limit>>
+    summary: Topp <<limit>> <<library_translation>>s på <<key_name>> enligt FlixPatrol.
+  imdb_lowest:
+    name: IMDb lägst betygsatta
