@@ -774,3 +774,5 @@ collections:
     name: Anniversaire de <<key_name>>
     summary: Né ce mois-ci, voici les <<library_translation>>s auxquels <<key_name>>
       a participé.
+Key key_names:
+  aspect_ratio: Ratio d'aspect
