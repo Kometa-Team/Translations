@@ -775,3 +775,6 @@ collections:
     name: Anniversaire de <<key_name>>
     summary: Né ce mois-ci, voici les <<library_translation>>s auxquels <<key_name>>
       a participé.
+  aspect_ratio_other:
+    name: Autres rapports d'aspect
+    summary: <<library_translationU>>s filmés dans d'autres rapports d'aspect inhabituels.
