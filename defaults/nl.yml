@@ -60,7 +60,7 @@ key_names:
   based_on: Gebaseerd op...
   based_on_a_book: Gebaseerd op een boek
   based_on_a_true_story: Gebaseerd op een waargebeurd verhaal
-  based_on_a_video_game: Gebaseerd op een game
+  based_on_a_video_game: Gebaseerd op een computerspel
   bashkir: Basjkier
   belarusian: Belarussisch
   belgium: België
@@ -69,7 +69,7 @@ key_names:
   best_picture_winners: Winnaars voor beste film
   best_of: Het beste van
   biography: Biografie
-  black_history_month: Black History Month
+  black_history_month: Donkere maand van de geschiedenis
   book: Boek
   bosnian: Bosnisch
   bottom_rated: Laagst Gewaardeerd
@@ -169,3 +169,7 @@ key_names:
   haitian: Haïtiaans
   hebrew: Hebreeuws
   home_and_garden: Huis en tuin
+  south_africa: Zuid Africa
+  bislama: Bislama
+  comic: Stripboek
+  ireland: Ierland
