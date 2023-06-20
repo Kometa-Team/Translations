@@ -774,5 +774,3 @@ collections:
     summary: Born this month, here are <<library_translation>>s that <<key_name>>
       participated in.
     name: <<key_name>>'s Birthday"
-Key key_names:
-  aspect_ratio: Aspect Ratio
