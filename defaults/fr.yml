@@ -480,10 +480,11 @@ key_names:
   latin_america: Amérique Latine
   mma: MMA
   ufo: OVNI
-  veterans_day: Journée des anciens combattants
+  veterans_day: Journée des vétérans
   leaving_soon: bientôt déprogrammé
-  new: Nouveauté
+  new: Nouveau
   ended: Terminée
+  aspect_ratio: Ratio d'aspect
 collections:
   bafta_best:
     name: BAFTA Meilleurs films
