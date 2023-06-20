@@ -484,6 +484,7 @@ key_names:
   ended: Ended
   ufo: UFO
   veterans_day: Veteran's Day
+  aspect_ratio: Aspect Ratio
 collections:
   bafta_best:
     name: BAFTA Best Films
