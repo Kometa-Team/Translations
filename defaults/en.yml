@@ -775,3 +775,6 @@ collections:
     summary: Born this month, here are <<library_translation>>s that <<key_name>>
       participated in.
     name: <<key_name>>'s Birthday"
+  aspect_ratio_other:
+    summary: <<library_translationU>>s filmed in other uncommon aspect ratios.
+    name: Other Aspect Ratios
