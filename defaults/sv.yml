@@ -484,6 +484,7 @@ key_names:
   veterans_day: Veteranernas dag
   sri_lanka: Sri Lanka
   st_patricks_day: St. Patrick's Day
+  aspect_ratio: Bildförhållande
 collections:
   bafta_best:
     name: BAFTA bästa filmer
@@ -592,3 +593,181 @@ collections:
     summary: Topp <<limit>> <<library_translation>>s på <<key_name>> enligt FlixPatrol.
   imdb_lowest:
     name: IMDb lägst betygsatta
+    summary: Lista över lägst betygsatta <<library_translation>> enligt IMDb.
+  mal_popular:
+    name: MyAnimeList Populärt
+    summary: En samling av mest populära Anime enligt MyAnimeList.
+  mal_favorited:
+    name: MyAnimeList favoriter
+    summary: En samling av de mest favoriserade Anime enligt MyAnimeList.
+  mal_top:
+    name: MyAnimeList högst betygsatta
+    summary: En samling av de högst betygsatta Anime enligt MyAnimeList.
+  mal_airing:
+    name: MyAnimeList topplista
+    summary: En samling av de högst betygsatta Anime som sänds nu enligt MyAnimeList.
+  mal_season:
+    name: MyAnimeList säsong
+    summary: En samling av Anime från den nuvarande säsongen enligt MyAnimeList.
+  anidb_popular:
+    name: AniDB populärt
+    summary: En samling av populära Anime på AniDB.
+  commonsense_selection:
+    name: Common Sense Selection
+    summary: En samling av Common Sense <<library_translation>>. Common Sense uppmärksammar
+      enastående underhållning med en officiell sigill för kvalitet och effekt. Common
+      Sense Selections inkluderar åldersanpassade media med potential att väcka familjesamtal,
+      underhålla familjer av alla slag och ha en positiv, varaktig effekt på samhället.
+  stevenlu_popular:
+    name: StevenLus populära filmer
+    summary: En samling av StevenLus mest populära filmer.
+  pirated_popular:
+    name: Top 10 piratkopierade filmer denna vecka
+    summary: Denna veckas topp 10 mest piratkopierade filmer på TorrentFreak.com.
+  tautulli_popular:
+    name: Plex populärt
+    summary: En samling av <<library_translation>> populärt på Plex.
+  tautulli_watched:
+    name: Plex sedda
+    summary: En samling av topp <<library_translation>> sedda på Plex.
+  tmdb_airing:
+    name: TMDb aktuellt idag
+    summary: En samling serier med avsnitt som sänds idag.
+  tmdb_air:
+    name: TMDb i sändning
+    summary: En samling serier som fortfarande aktivt släpper nya avsnitt.
+  tmdb_popular:
+    name: TMDb populärt
+    summary: En samling av de mest sedda <<library_translation>> enligt TMDb.
+  tmdb_top:
+    name: TMDb högst betygsatta
+    summary: En samling av de högst betygsatta <<library_translation>> enligt TMDb.
+  tmdb_trending:
+    name: TMDb trendigt
+    summary: En samling av trendiga <<library_translation>> på TMDb.
+  trakt_collected:
+    name: Trakt samlade
+    summary: En samling av Trakts veckovis samlade listor.
+  trakt_popular:
+    name: Trakt populärt
+    summary: En samling av Trakts veckovis populära listor.
+  trakt_recommended:
+    name: Trakt rekommenderad
+    summary: En samling av Trakts veckovis rekommenderade listor.
+  trakt_trending:
+    name: Trakt trendigt
+    summary: En samling av Trakts veckovis trendiga listor.
+  trakt_watched:
+    name: Trakt sedda
+    summary: En samling av Trakts veckovis sedda listor.
+  separator:
+    name: <<key_name>> samlingar
+    summary: Sektionsavskiljare för <<key_name>> samlingar.
+  actor:
+    name: <<key_name>>
+    summary: <<library_translationU>> med <<key_name>>.
+  audio_language:
+    name: <<key_name>> ljud
+    summary: <<library_translationU>> filmade på det <<key_name>> språket.
+  audio_language_other:
+    name: Annat ljud
+    summary: <<library_translationU>> filmade på andra ovanliga språk.
+  based:
+    name: Baserad på en <<key_name>>
+    summary: <<library_translationU>> baserad på eller inspirerad av <<key_name>>.
+  collectionless:
+    name: Utan samling
+    summary: Samling av <<library_translationU>> för att få Plex att visa objekt korrekt.
+  content_rating:
+    name: <<key_name>> <<library_translationU>>
+    summary: <<library_translationU>> som är betygsatta <<key_name>>.
+  content_rating_cs:
+    name: Ålder <<key_name>>+ <<library_translationU>>
+    summary: <<library_translationU>> som är betygsatta <<key_name>> enligt Common
+      Sense betygsystem.
+  content_rating_other:
+    name: Ej betygsatt <<library_translationU>>
+    summary: <<library_translationU>> som ej är betygsatt eller andra ovanliga betyg.
+  content_ratings_other:
+    name: Andra betyg
+    summary: <<library_translationU>> som ej är betygsatta eller andra ovanliga betyg.
+  country:
+    name: <<key_name>>
+    summary: <<library_translationU>> filmade på <<key_name>>.
+  country_other:
+    name: Andra länder
+    summary: <<library_translationU>> filmade i andra ovanliga länder.
+  decade:
+    name: Bäst av <<key_name>>
+    summary: Topp <<limit>> <<library_translation>> av <<key_name>>.
+  decade_other:
+    name: Andra decennier
+    summary: <<library_translationU>> släppta andra decennier.
+  director:
+    name: <<key_name>> (Regissör)
+    summary: <<library_translationU>> regisserad av <<key_name>>.
+  genre:
+    name: <<key_name>> <<library_translationU>>
+    summary: <<library_translationU>> som är av genren <<key_name>>.
+  genre_other:
+    name: Andra genrer
+    summary: <<library_translationU>> som är av ovanliga genrer.
+  network:
+    name: <<key_name>>
+    summary: <<library_translationU>> sänt på <<key_name>>.
+  network_kids_other:
+    name: Andra barnnätverk
+    summary: <<library_translationU>> sänt på andra ovanliga barnnätverk.
+  producer:
+    name: <<key_name>> (Producent)
+    summary: <<library_translationU>> producerad av <<key_name>>.
+  resolution:
+    name: <<key_name>> <<library_translationU>>
+    summary: <<library_translationU>> som har upplösningen <<key_name>>.
+  resolution_other:
+    name: Andra upplösningar <<library_translationU>>
+    summary: <<library_translationU>> som har andra ovanliga upplösningar.
+  resolutions_other:
+    name: Andra upplösningar
+    summary: <<library_translationU>> som har andra ovanliga upplösningar.
+  seasonal:
+    name: <<key_name>> <<library_translationU>>
+    summary: En samling av <<key_name>> <<library_translation>> som relaterar till
+      säsongen.
+  streaming:
+    name: <<key_name>> <<library_translationU>>
+    summary: <<library_translationU>> som streamas på <<key_name>>.
+  studio:
+    name: <<key_name>>
+    summary: <<library_translationU>> producerad av <<key_name>>.
+  studio_other:
+    name: Andra studior
+    summary: <<library_translationU>> producerad av andra ovanliga studior.
+  studio_animation_other:
+    name: Andra animeringsstudior
+    summary: <<library_translationU>> producerad av andra ovanliga animeringsstudior.
+  subtitle_language:
+    name: <<key_name>> undertext
+    summary: <<library_translationU>> med <<key_name>> undertexter.
+  subtitle_language_other:
+    name: Andra undertexter
+    summary: <<library_translationU>> med andra ovanliga undertexter.
+  writer:
+    name: <<key_name>> (Författare)
+    summary: <<library_translationU>> skriven av <<key_name>>.
+  year:
+    name: Bäst av <<key_name>>
+    summary: <<library_translationU>> släppta i <<key_name>>.
+  year_other:
+    name: Andra år
+    summary: <<library_translationU>> släppta andra år.
+  birthday:
+    name: <<key_name>>s födelsedag"
+    summary: Född denna månad, här är <<library_translation>> som <<key_name>> deltog
+      i.
+  aspect_ratio_other:
+    summary: <<library_translationU>> filmade i andra ovanliga bildförhållanden.
+    name: Andra bildförhållanden
+  network_other:
+    name: Andra nätverk
+    summary: <<library_translationU>> sänt på andra ovanliga nätverk.
