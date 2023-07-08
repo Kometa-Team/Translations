@@ -484,6 +484,7 @@ key_names:
   ended: Sluttet
   ufo: UFO
   veterans_day: Veterandag
+  aspect_ratio: Billedformat
 collections:
   bafta_best:
     name: BAFTA Bedste Film
@@ -768,3 +769,6 @@ collections:
     summary: Født denne måned, her er <<library_translation>> som <<key_name>> deltog
       i.
     name: <<key_name>>s fødselsdag
+  aspect_ratio_other:
+    summary: <<library_translationU>> optaget i anden ualmindeligt billedformat.
+    name: Andre billedformater
