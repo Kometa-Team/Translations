@@ -485,6 +485,25 @@ key_names:
   sri_lanka: Sri Lanka
   st_patricks_day: St. Patrick's Day
   aspect_ratio: Bildförhållande
+  andean: Andinska
+  balkans: Balkan
+  benelux: Benelux
+  caribbean: Västindien
+  caucasus: Kaukasus
+  central_africa: Centralafrika
+  central_americas: Centralamerika
+  central_asia: Centralasien
+  eastern_africa: Östra Afrika
+  eastern_europe: Östeuropa
+  iberia: Iberien
+  middle_east: Mellanöstern
+  northern_africa: Nordafrika
+  pacific_islands: Stillahavsöarna
+  south_asia: Sydasien
+  south-east_asia: Sydöstra Asien
+  southern_africa: Södra Afrika
+  southern_cone: Södra konen
+  western_africa: Västafrika
 collections:
   bafta_best:
     name: BAFTA bästa filmer
