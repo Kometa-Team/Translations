@@ -292,6 +292,25 @@ key_names:
   latin_america: Latin Amerika
   taiwan: Taiwan
   mma: MMA
+  andean: Andesfjellene
+  balkans: Balkan
+  benelux: Benelux
+  caribbean: Karibia
+  caucasus: Kaukasus
+  central_africa: Sentral-Afrika
+  central_americas: Mellom-Amerika
+  central_asia: Sentral-Asia
+  eastern_africa: Øst-Afrika
+  eastern_europe: Øst-Europa
+  iberia: Iberia
+  middle_east: Midtøsten
+  northern_africa: Nord-Afrika
+  pacific_islands: Stillehavsøyene
+  south_asia: Sør-Asia
+  south-east_asia: Sørøst-Asia
+  southern_africa: Det sørlige Afrika
+  southern_cone: Sørlige kjegle
+  western_africa: Vest-Afrika
 collections:
   bafta_best:
     name: BAFTA beste filmer
