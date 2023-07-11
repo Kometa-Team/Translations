@@ -484,6 +484,25 @@ key_names:
   new: Neu
   ended: Beendet
   veterans_day: Tag der Veteranen
+  balkans: Balkanländer
+  benelux: Benelux
+  caribbean: Karibik
+  caucasus: Kaukasus
+  central_africa: Zentral Afrika
+  central_americas: Mittelamerika
+  eastern_africa: Östliches Afrika
+  eastern_europe: Ost-Europa
+  iberia: Iberia
+  middle_east: Naher Osten
+  northern_africa: Nördliches Afrika
+  pacific_islands: Pazifische Inseln
+  south_asia: Süd Asien
+  south-east_asia: Süd-Ost Asien
+  southern_africa: Südliches Afrika
+  southern_cone: Südlicher Kegel
+  western_africa: Westliches Afrika
+  central_asia: Zentral Asien
+  andean: Anden
 collections:
   bafta_best:
     name: BAFTA Beste Filme
