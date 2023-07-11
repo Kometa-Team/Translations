@@ -349,7 +349,7 @@ collections:
   razzie_worst:
     summary: Den gull bringebær prisen for verste film er en pris gitt på den årlige
       gull bringebær tilstelningen, til den verste filmen sist år.
-    name: Razzies  gull bringebær pris vinnere
+    name: Razzies gull bringebær pris vinnere
   venice_best:
     name: Venice gull løver
     summary: Venice film festival er den eldste film festivalen i verden. Etablert
