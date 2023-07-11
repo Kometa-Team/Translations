@@ -484,6 +484,25 @@ key_names:
   leaving_soon: In Scadenza
   new: Nuovo
   ended: Finito
+  andean: Andino
+  balkans: Balcani
+  benelux: Benelux
+  caribbean: Caraibi
+  caucasus: Caucaso
+  central_africa: Africa centrale
+  central_americas: Americhe centrali
+  eastern_africa: Africa orientale
+  eastern_europe: Europa orientale
+  iberia: Iberia
+  middle_east: Medio Oriente
+  northern_africa: Africa settentrionale
+  pacific_islands: Isole del Pacifico
+  south_asia: Asia meridionale
+  south-east_asia: Sud-est asiatico
+  southern_cone: Cono Sud
+  western_africa: Africa occidentale
+  central_asia: Asia centrale
+  southern_africa: Africa meridionale
 collections:
   bafta_best:
     name: BAFTA Miglior Film
