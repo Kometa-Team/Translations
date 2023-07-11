@@ -485,6 +485,25 @@ key_names:
   ufo: UFO
   veterans_day: Veterandag
   aspect_ratio: Billedformat
+  andean: Andesbjergene
+  balkans: Balkan
+  benelux: Benelux
+  caribbean: Caribien
+  caucasus: Kaukasus
+  central_africa: Centralafrika
+  central_americas: Mellemamerika
+  eastern_africa: Østafrika
+  eastern_europe: Østeuropa
+  iberia: Iberia
+  middle_east: Mellemøsten
+  northern_africa: Nordlige Afrika
+  pacific_islands: Stillehavsøerne
+  south_asia: Sydasien
+  south-east_asia: Sydøstasien
+  southern_cone: Sydlige kegle
+  central_asia: Centralasien
+  southern_africa: Sydlige Afrika
+  western_africa: Vestafrika
 collections:
   bafta_best:
     name: BAFTA Bedste Film
