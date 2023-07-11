@@ -366,7 +366,7 @@ collections:
     summary: Uma coleção de filmes mais populares de StevenLu's.
   pirated_popular:
     name: Os 10 melhores filmes piratas da semana
-    summary: Os dez melhores filmes piratas semanais do TorrentFreak.com
+    summary: Os dez melhores filmes piratas semanais do TorrentFreak.com.
   tautulli_popular:
     name: Popular no Plex
     summary: Uma coleção Popular <<library_translation>>s Popular no Plex.
