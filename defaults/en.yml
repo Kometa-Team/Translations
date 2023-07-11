@@ -485,6 +485,25 @@ key_names:
   ufo: UFO
   veterans_day: Veteran's Day
   aspect_ratio: Aspect Ratio
+  andean: Andean
+  balkans: Balkans
+  benelux: Benelux
+  caribbean: Caribbean
+  caucasus: Caucasus
+  central_africa: Central Africa
+  central_americas: Central Americas
+  central_asia: Central Asia
+  eastern_africa: Eastern Africa
+  eastern_europe: Eastern Europe
+  iberia: Iberia
+  middle_east: Middle East
+  northern_africa: Northern Africa
+  pacific_islands: Pacific Islands
+  south_asia: South Asia
+  south-east_asia: South-East Asia
+  southern_africa: Southern Africa
+  southern_cone: Southern Cone
+  western_africa: Western Africa
 collections:
   bafta_best:
     name: BAFTA Best Films
