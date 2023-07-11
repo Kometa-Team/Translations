@@ -25,7 +25,7 @@ key_names:
   adventure: Aventura
   albanian: Albanés
   animation: Animación
-  anime: Anime
+  anime: Animé
   arabic: Arábica
   argentina: Argentina
   audio_language: Idioma del Audio
@@ -117,7 +117,7 @@ key_names:
   italy: Italy
   japan: Japón
   japanese: Japonés
-  kannada: Canadá
+  kannada: Canarés
   kazakh: Kazajo
   kids: Niños
   korea: Corea
@@ -183,7 +183,7 @@ key_names:
   saudi_arabia: Arabía Saudí
   sci-fi_&_fantasy: Ciencia Ficción y Fantasía
   science_fiction: Ciencia Ficción
-  seasonal: Temporada
+  seasonal: De Temporada
   serbia: Serbia
   serbian: Serbio
   short: Corto
@@ -203,7 +203,7 @@ key_names:
   studio: Estudio
   subtitle_language: Idioma Subtítulos
   superhero: Superhéroe
-  suspense: Suspense
+  suspense: Suspenso
   swahili: Suajilí
   sweden: Suecia
   swedish: Sueco
@@ -451,8 +451,8 @@ key_names:
   twi: Twi
   uighur: Uigur
   uk_network: Cadena del Reino Unido
-  uk_streaming: UK Streaming
-  us_streaming: US Streaming
+  uk_streaming: Streaming en UK
+  us_streaming: Streaming en US
   uzbek: Uzbeko
   vampire: Vampiro
   venda: Venda
@@ -473,13 +473,38 @@ key_names:
   zombie_horror: Terror Zombi
   zulu: Zulú
   rated: Calificado
-  plex_popular: Plex Popular
+  plex_popular: Popular en Plex
   psychological_horror: Terror Psicológico
   us_network: Cadena Estados Unidos
   taiwan: Taiwan
   nordic: Nordico
   latin_america: Latino Americano
   mma: MMA
+  balkans: Balkanes
+  benelux: Benelux
+  caribbean: Caribe
+  caucasus: Cáucaso
+  central_africa: África Central
+  central_americas: América Central
+  eastern_africa: África Oriental
+  eastern_europe: Europa Oriental
+  iberia: Península Ibérica
+  middle_east: Medio Oriente
+  northern_africa: África del Norte
+  pacific_islands: Islas del Pacífico
+  south_asia: Sudasia
+  south-east_asia: Asia Sur-Oriental
+  southern_cone: Cono Sur
+  andean: Andina
+  southern_africa: África del Sur
+  western_africa: África Occidental
+  central_asia: Asia Central
+  aspect_ratio: Aspecto
+  veterans_day: Día de los Veteranos
+  leaving_soon: Saliendo Próximamente
+  new: Nuevo
+  ended: Terminado
+  ufo: OVNI
 collections:
   bafta_best:
     name: BAFTA Mejores Películas
@@ -564,7 +589,7 @@ collections:
     name: Festival de Cine de Sundance <<key_name>>
     summary: Festival de Cine de Sundance de <<key_name>>.
   anilist_popular:
-    name: AniList Popular
+    name: Popular en AniList
     summary: Una colección de los Animes más populares según AniList.
   anilist_top_rated:
     name: AniList Los más Valorados
@@ -585,16 +610,16 @@ collections:
     name: <<key_name>> Top <<limit>>
     summary: Top <<limit>> <<library_translation>>s en <<key_name>> según FlixPatrol.
   imdb_popular:
-    name: IMDb Popular
+    name: Popular en IMDb
     summary: Lista de IMDb Popular en <<library_translation>>s.
   imdb_top:
-    name: IMDb Top 250
+    name: Mejores 250 en IMDb
     summary: Lista de IMDb Top 250 en <<library_translation>>s.
   imdb_lowest:
     name: IMDb Peor Valorados
     summary: Lista de IMDb con la calificación más baja en <<library_translation>>s.
   mal_popular:
-    name: MyAnimeList Popular
+    name: Popular en MyAnimeList
     summary: Una colección de los Animes más populares según MyAnimeList.
   mal_favorited:
     name: MyAnimeList Favoritos
@@ -609,7 +634,7 @@ collections:
     name: MyAnimeList Temporada
     summary: Una colección de Anime de la temporada actual según MyAnimeList.
   anidb_popular:
-    name: AniDB Popular
+    name: Popular en AniDB
     summary: Una colección de los Animes más populares según AniDB.
   commonsense_selection:
     name: Selección de Common Sense
@@ -625,7 +650,7 @@ collections:
     name: Las 10 mejores películas piratas de la semana
     summary: Las diez mejores películas piratas semanales según TorrentFreak.com.
   tautulli_popular:
-    name: Plex Popular
+    name: Popular en Plex
     summary: Una colección en <<library_translation>>s popular en Plex.
   tautulli_watched:
     name: Plex Más Visto
@@ -637,7 +662,7 @@ collections:
     name: TMDb En el Aire
     summary: Una colección de series que todavía están emitiendo episodios actualmente.
   tmdb_popular:
-    name: TMDb Popular
+    name: Popular en TMDb
     summary: Una colección de lo más visto en <<library_translation>>s según TMDb.
   tmdb_top:
     name: TMDb Más Valorados
@@ -649,7 +674,7 @@ collections:
     name: Trakt Recopilación
     summary: Una colección de la lista más recopilada de la semana en Trakt.
   trakt_popular:
-    name: Trakt Popular
+    name: Popular en Trakt
     summary: Una colección de la lista popular de la semana en Trakt.
   trakt_recommended:
     name: Trakt Recomienda
@@ -769,3 +794,11 @@ collections:
   year_other:
     name: Otros Años
     summary: <<library_translationU>>s publicados en otros años.
+  birthday:
+    summary: Nacido este mes, aquí están las <<library_translation>>s en las cuales
+      <<key_name>> ha participado.
+    name: Cumpleaños de <<key_name>>"
+  aspect_ratio_other:
+    summary: <<library_translationU>>s filmadas en otras relaciones de aspecto no
+      comunes.
+    name: Otras Relaciones de Aspecto
