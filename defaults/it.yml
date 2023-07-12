@@ -503,6 +503,7 @@ key_names:
   western_africa: Africa occidentale
   central_asia: Asia centrale
   southern_africa: Africa meridionale
+  mongolia: Mongolia
 collections:
   bafta_best:
     name: BAFTA Miglior Film
