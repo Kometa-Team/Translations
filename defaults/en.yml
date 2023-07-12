@@ -505,6 +505,10 @@ key_names:
   southern_cone: Southern Cone
   western_africa: Western Africa
   mongolia: Mongolia
+  afghanistan: Afghanistan
+  åland_islands: Åland Islands
+  albania: Albania
+  algeria: Algeria
 collections:
   bafta_best:
     name: BAFTA Best Films
