@@ -504,6 +504,7 @@ key_names:
   southern_cone: Cône Sud
   western_africa: Afrique de l'Ouest
   central_asia: Asie centrale
+  mongolia: Mongolie
 collections:
   bafta_best:
     name: BAFTA Meilleurs films
