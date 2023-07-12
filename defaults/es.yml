@@ -505,6 +505,7 @@ key_names:
   new: Nuevo
   ended: Terminado
   ufo: Ovni
+  mongolia: Mongolia
 collections:
   bafta_best:
     name: BAFTA Mejores Películas
