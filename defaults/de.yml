@@ -744,7 +744,7 @@ collections:
     name: <<key_name>> <<library_translation2U>>
     summary: <<library_translation2U>> mit der Auflösung <<key_name>>.
   resolution_other:
-    name: Andere Auflösungen
+    name: Andere Auflösungen <<library_translationU>>s
     summary: <<library_translation2U>> mit anderen ungewöhnlichen Auflösungen.
   seasonal:
     name: <<key_name>> <<library_translation2U>>
@@ -804,3 +804,7 @@ collections:
     summary: Geboren diesen Monat, hier sind <<library_translation2>> in denen <<key_name>>
       mitgewirkt hatte.
     name: <<key_name>>'s Geburtstag"
+  aspect_ratio_other:
+    summary: <<library_translationU>>s wurde in einem ungewöhnlichem Seitenverhältnis
+      gefilmt.
+    name: anderes Seitenverhältnis

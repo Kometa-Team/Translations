@@ -791,3 +791,6 @@ collections:
   network_kids_other:
     name: Altri Canali per bambini
     summary: <<library_translationU>> trasmessi su altre reti per bambini non comuni.
+  aspect_ratio_other:
+    summary: <<library_translationU>>s filmati in altri rapporti d'aspetto non comuni.
+    name: Altri rapporti di aspetto
