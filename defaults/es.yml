@@ -506,6 +506,10 @@ key_names:
   ended: Terminado
   ufo: Ovni
   mongolia: Mongolia
+  afghanistan: ''
+  åland_islands: ''
+  albania: ''
+  algeria: ''
 collections:
   bafta_best:
     name: BAFTA Mejores Películas
