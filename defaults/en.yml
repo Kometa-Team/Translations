@@ -551,7 +551,6 @@ key_names:
   djibouti: Djibouti
   dominica: Dominica
   ecuador: Ecuador
-  egypt: Egypt
   el_salvador: El
   equatorial_guinea: Equatorial
   eritrea: Eritrea
@@ -589,7 +588,6 @@ key_names:
   kiribati: Kiribati
   kuwait: Kuwait
   kyrgyzstan: Kyrgyzstan
-  lao: Lao
   lebanon: Lebanon
   lesotho: Lesotho
   liberia: Liberia
@@ -611,13 +609,11 @@ key_names:
   micronesia: Micronesia
   moldova: Moldova
   monaco: Monaco
-  mongolia: Mongolia
   montenegro: Montenegro
   montserrat: Montserrat
   mozambique: Mozambique
   myanmar: Myanmar
   namibia: Namibia
-  nauru: Nauru
   new_caledonia: New
   new_guinea: New
   nicaragua: Nicaragua
@@ -654,7 +650,6 @@ key_names:
   timor-leste: Timor-Leste
   togo: Togo
   tokelau: Tokelau
-  tonga: Tonga
   trinidad_and_tobago: Trinidad
   tunisia: Tunisia
   turkmenistan: Turkmenistan
