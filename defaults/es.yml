@@ -506,10 +506,165 @@ key_names:
   ended: Terminado
   ufo: Ovni
   mongolia: Mongolia
-  afghanistan: ''
-  åland_islands: ''
-  albania: ''
-  algeria: ''
+  afghanistan: 'Afganistán'
+  åland_islands: 'Islas Aland'
+  albania: 'Albania'
+  algeria: 'Argelia'
+  côte_divoire: Costa de Marfil
+  el_salvador: El Salvador
+  cayman_islands: Islas Caimán
+  bangladesh: Bangladesh
+  burkina_faso: Burkina Faso
+  cook_islands: Islas Cook
+  guadeloupe: Guadalupe
+  kazakhstan: Kazajistán
+  macedonia: Macedonia del Norte
+  andorra: Andorra
+  angola: Angola
+  anguilla: Anguilla
+  antarctica: Antártica
+  antigua: Antigua
+  armenia: Armenia
+  aruba: Aruba
+  azerbaijan: Azerbaiyán
+  bahrain: Baréin
+  barbados: Barbados
+  belarus: Bielorrusia
+  belize: Belice
+  benin: Benín
+  bermuda: Bermuda
+  bhutan: Bután
+  bolivia: Bolivia
+  bonaire: Bonaire
+  bosnia_and_herzegovina: Bosnia y Herzegovina
+  botswana: Botsuana
+  bouvet_island: Isla Bouvet
+  brunei: Brunéi
+  burundi: Burundi
+  cabo_verde: Cabo Verde
+  cambodia: Camboya
+  cameroon: Camerún
+  central_african_republic: República Centroafricana
+  chad: Chad
+  christmas_island: Isla Navidad
+  cocos_(keeling)_islands: Islas Cocos
+  colombia: Colombia
+  comoros: Comoras
+  congo: Congo
+  cuba: Cuba
+  curaçao: Curazao
+  cyprus: Chipre
+  djibouti: Yibuti
+  dominica: Dominica
+  ecuador: Ecuador
+  equatorial_guinea: Guinea Ecuatorial
+  eritrea: Eritrea
+  eswatini: Suazilandia
+  ethiopia: Etiopía
+  falkland_islands: Islas Malvinas
+  faroe_islands: Islas Feroe
+  fiji: Fiji
+  french_guiana: Guayana Francesa
+  french_polynesia: Polinesia Francesa
+  gabon: Gabón
+  gambia: Gambia
+  georgia: Georgia
+  ghana: Ghana
+  gibraltar: Gibraltar
+  greenland: Groenlandia
+  grenada: Granada
+  guam: Guam
+  guatemala: Guatemala
+  guernsey: Guernsey
+  guinea: Guinea
+  guinea-bissau: Guinea-Bisáu
+  guyana: Guyana
+  haiti: Haití
+  holy_see: Santa Sede
+  honduras: Honduras
+  iraq: Irak
+  isle_of_man: Isla de Man
+  jamaica: Jamaica
+  jersey: Jersey
+  jordan: Jordania
+  kenya: Kenia
+  kiribati: Kiribati
+  kuwait: Kuwait
+  kyrgyzstan: Kirguistán
+  lebanon: Líbano
+  lesotho: Lesoto
+  liberia: Liberia
+  libya: Libia
+  liechtenstein: Liechtenstein
+  lithuania: Lituania
+  macao: Macao
+  madagascar: Madagascar
+  malawi: Malaui
+  maldives: Maldivas
+  mali: Mali
+  malta: Malta
+  marshall_islands: Islas Marshall
+  martinique: Martinica
+  mauritania: Mauritania
+  mauritius: Mauricio
+  mayotte: Mayotte
+  micronesia: Micronesia
+  moldova: Moldavia
+  monaco: Mónaco
+  montenegro: Montenegro
+  montserrat: Montserrat
+  mozambique: Mozambique
+  myanmar: Birmania
+  namibia: Namibia
+  new_caledonia: Nueva Caledonia
+  new_guinea: Nueva Guinea
+  nicaragua: Nicaragua
+  niger: Níger
+  nigeria: Nigeria
+  niue: Niue
+  norfolk_island: Isla Norfolk
+  oman: Omán
+  palau: Palaos
+  palestine: Palestina
+  paraguay: Paraguay
+  pitcairn: Pitcairn
+  puerto_rico: Puerto Rico
+  réunion: Reunión
+  rwanda: Ruanda
+  saint_barthélemy: San Bartolomé
+  saint_lucia: Santa Lucía
+  samoa: Samoa
+  san_marino: San Marino
+  sao_tome_and_principe: Santo Tomé y Príncipe
+  senegal: Senegal
+  seychelles: Seychelles
+  sierra_leone: Sierra Leona
+  slovakia: Eslovaquia
+  slovenia: Eslovenia
+  solomon_islands: Islas Salomón
+  somalia: Somalia
+  south_sudan: Sudán del Sur
+  sudan: Sudán
+  suriname: Surinam
+  syria: Siria
+  tajikistan: Tayikistán
+  tanzania: Tanzania
+  timor-leste: Timor Oriental
+  togo: Togo
+  tokelau: Tokelau
+  trinidad_and_tobago: Trinidad y Tobago
+  tunisia: Túnez
+  turkmenistan: Turkmenistán
+  turks_and_caicos: Islas Turcas y Caicos
+  tuvalu: Tuvalú
+  uganda: Uganda
+  uruguay: Uruguay
+  uzbekistan: Uzbekistán
+  vanuatu: Vanuatu
+  venezuela: Venezuela
+  yemen: Yemén
+  zambia: Zambia
+  zimbabwe: Zimbabue
 collections:
   bafta_best:
     name: BAFTA Mejores Películas
