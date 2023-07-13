@@ -505,6 +505,10 @@ key_names:
   western_africa: Afrique de l'Ouest
   central_asia: Asie centrale
   mongolia: Mongolie
+  afghanistan: ''
+  åland_islands: ''
+  albania: ''
+  algeria: ''
 collections:
   bafta_best:
     name: BAFTA Meilleurs films
