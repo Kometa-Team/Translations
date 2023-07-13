@@ -505,6 +505,10 @@ key_names:
   southern_cone: Södra konen
   western_africa: Västafrika
   mongolia: Mongoliet
+  afghanistan: ''
+  åland_islands: ''
+  albania: ''
+  algeria: ''
 collections:
   bafta_best:
     name: BAFTA bästa filmer
