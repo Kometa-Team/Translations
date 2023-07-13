@@ -527,40 +527,40 @@ key_names:
   bhutan: Bhutan
   bolivia: Bolivia
   bonaire: Bonaire
-  bosnia_and_herzegovina: Bosnia
+  bosnia_and_herzegovina: Bosnia and Herzegovina
   botswana: Botswana
-  bouvet_island: Bouvet
+  bouvet_island: Bouvet Island
   brunei: Brunei
-  burkina_faso: Burkina
+  burkina_faso: Burkina Faso
   burundi: Burundi
-  cabo_verde: Cabo
+  cabo_verde: Cabo Verde
   cambodia: Cambodia
   cameroon: Cameroon
-  cayman_islands: Cayman
-  central_african_republic: Central
+  cayman_islands: Cayman Islands
+  central_african_republic: Central African Republic
   chad: Chad
-  christmas_island: Christmas
-  cocos_(keeling)_islands: Cocos
+  christmas_island: Christmas Island
+  cocos_(keeling)_islands: Cocos (Keeling) Islands
   colombia: Colombia
   comoros: Comoros
   congo: Congo
-  cook_islands: Cook
+  cook_islands: Cook Islands
   cuba: Cuba
   curaçao: Curaçao
   cyprus: Cyprus
   djibouti: Djibouti
   dominica: Dominica
   ecuador: Ecuador
-  el_salvador: El
-  equatorial_guinea: Equatorial
+  el_salvador: El Salvador
+  equatorial_guinea: Equatorial Guinea
   eritrea: Eritrea
   eswatini: Eswatini
   ethiopia: Ethiopia
-  falkland_islands: Falkland
-  faroe_islands: Faroe
+  falkland_islands: Falkland Islands
+  faroe_islands: Faroe Islands
   fiji: Fiji
-  french_guiana: French
-  french_polynesia: French
+  french_guiana: French Guiana
+  french_polynesia: French Polynesia
   gabon: Gabon
   gambia: Gambia
   georgia: Georgia
@@ -576,10 +576,10 @@ key_names:
   guinea-bissau: Guinea-Bissau
   guyana: Guyana
   haiti: Haiti
-  holy_see: Holy
+  holy_see: Holy See
   honduras: Honduras
   iraq: Iraq
-  isle_of_man: Isle
+  isle_of_man: Isle of Man
   jamaica: Jamaica
   jersey: Jersey
   jordan: Jordan
@@ -601,7 +601,7 @@ key_names:
   maldives: Maldives
   mali: Mali
   malta: Malta
-  marshall_islands: Marshall
+  marshall_islands: Marshall Islands
   martinique: Martinique
   mauritania: Mauritania
   mauritius: Mauritius
@@ -614,34 +614,34 @@ key_names:
   mozambique: Mozambique
   myanmar: Myanmar
   namibia: Namibia
-  new_caledonia: New
-  new_guinea: New
+  new_caledonia: New Caledonia
+  new_guinea: New Guinea
   nicaragua: Nicaragua
   niger: Niger
   nigeria: Nigeria
   niue: Niue
-  norfolk_island: Norfolk
+  norfolk_island: Norfolk Island
   oman: Oman
   palau: Palau
   palestine: Palestine
   paraguay: Paraguay
   pitcairn: Pitcairn
-  puerto_rico: Puerto
+  puerto_rico: Puerto Rico
   réunion: Réunion
   rwanda: Rwanda
-  saint_barthélemy: Saint
-  saint_lucia: Saint
+  saint_barthélemy: Saint Barthélemy
+  saint_lucia: Saint Lucia
   samoa: Samoa
-  san_marino: San
-  sao_tome_and_principe: Sao
+  san_marino: San Marino
+  sao_tome_and_principe: Sao Tome and Principe
   senegal: Senegal
   seychelles: Seychelles
-  sierra_leone: Sierra
+  sierra_leone: Sierra Leone
   slovakia: Slovakia
   slovenia: Slovenia
-  solomon_islands: Solomon
+  solomon_islands: Solomon Islands
   somalia: Somalia
-  south_sudan: South
+  south_sudan: South Sudan
   sudan: Sudan
   suriname: Suriname
   syria: Syria
@@ -650,10 +650,10 @@ key_names:
   timor-leste: Timor-Leste
   togo: Togo
   tokelau: Tokelau
-  trinidad_and_tobago: Trinidad
+  trinidad_and_tobago: Trinidad and Tobago
   tunisia: Tunisia
   turkmenistan: Turkmenistan
-  turks_and_caicos: Turks
+  turks_and_caicos: Turks and Caicos
   tuvalu: Tuvalu
   uganda: Uganda
   uruguay: Uruguay
