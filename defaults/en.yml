@@ -663,6 +663,7 @@ key_names:
   yemen: Yemen
   zambia: Zambia
   zimbabwe: Zimbabwe
+  côte_divoire: Côte d'Ivoire
 collections:
   bafta_best:
     name: BAFTA Best Films
