@@ -503,12 +503,13 @@ key_names:
   western_africa: Westliches Afrika
   central_asia: Zentral Asien
   andean: Anden
-  aspect_ratio: ''
-  mongolia: ''
-  afghanistan: ''
-  åland_islands: ''
-  albania: ''
-  algeria: ''
+  aspect_ratio: 'Seitenverhältnis'
+  mongolia: 'Mongolei'
+  afghanistan: 'Afghanistan'
+  åland_islands: 'Åland-Inseln'
+  albania: 'Albanien'
+  algeria: 'Algerien'
+  andorra: Andorra
 collections:
   bafta_best:
     name: BAFTA Beste Filme
