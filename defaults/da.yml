@@ -505,6 +505,10 @@ key_names:
   southern_africa: Sydlige Afrika
   western_africa: Vestafrika
   mongolia: Mongoliet
+  albania: ''
+  algeria: ''
+  afghanistan: ''
+  åland_islands: ''
 collections:
   bafta_best:
     name: BAFTA Bedste Film
