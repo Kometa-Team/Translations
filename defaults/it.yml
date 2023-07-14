@@ -506,9 +506,46 @@ key_names:
   mongolia: Mongolia
   afghanistan: ''
   åland_islands: ''
-  albania: ''
-  algeria: ''
-  aspect_ratio: ''
+  albania: 'Albania'
+  algeria: 'Algeria'
+  aspect_ratio: 'Proporzioni'
+  côte_divoire: Costa d'Avorio
+  andorra: Andorra
+  bangladesh: Bangladesh
+  cuba: Cuba
+  bolivia: Bolivia
+  bermuda: Bermuda
+  congo: Congo
+  colombia: Colombia
+  cyprus: Cipro
+  ethiopia: Etiopia
+  guatemala: Guatemala
+  ghana: Ghana
+  iraq: Iraq
+  jamaica: Jamaica
+  kuwait: Kuwait
+  kenya: Kenya
+  liberia: Liberia
+  madagascar: Madagascar
+  montenegro: Montenegro
+  libya: Libya
+  macedonia: Macedonia
+  nigeria: Nigeria
+  nicaragua: Nicaragua
+  san_marino: San Marino
+  palestine: Palestina
+  puerto_rico: Porto Rico
+  lithuania: Lituania
+  malta: Malta
+  zimbabwe: Zimbabwe
+  yemen: Yemen
+  venezuela: Venezuela
+  uzbekistan: Uzbekistan
+  turkmenistan: Turkmenistan
+  tunisia: Tunisia
+  uganda: Uganda
+  somalia: Somalia
+  slovenia: Slovenia
 collections:
   bafta_best:
     name: BAFTA Miglior Film
