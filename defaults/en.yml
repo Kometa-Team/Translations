@@ -664,6 +664,12 @@ key_names:
   zambia: Zambia
   zimbabwe: Zimbabwe
   côte_divoire: Côte d'Ivoire
+  africa: Africa
+  oceania: Oceania
+  asia: Asia
+  north_america: North America
+  south_america: South America
+  Europe: Europe
 collections:
   bafta_best:
     name: BAFTA Best Films
