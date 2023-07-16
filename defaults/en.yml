@@ -670,6 +670,7 @@ key_names:
   north_america: North America
   south_america: South America
   Europe: Europe
+  region: Region
 collections:
   bafta_best:
     name: BAFTA Best Films
