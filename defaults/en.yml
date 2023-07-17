@@ -671,6 +671,7 @@ key_names:
   south_america: South America
   Europe: Europe
   region: Region
+  continent: 'Continent '
 collections:
   bafta_best:
     name: BAFTA Best Films
