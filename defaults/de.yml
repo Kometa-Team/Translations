@@ -664,6 +664,14 @@ key_names:
   madagascar: Madagaskar
   montenegro: Montenegro
   new_caledonia: Neukaledonien
+  africa: Afrika
+  oceania: Ozeanien
+  asia: Asien
+  north_america: Nord-Amerika
+  south_america: Süd-Amerika
+  Europe: Europa
+  region: Region
+  continent: 'Kontinent '
 collections:
   bafta_best:
     name: BAFTA Beste Filme
@@ -968,4 +976,4 @@ collections:
   aspect_ratio_other:
     summary: <<library_translationU>>s wurde in einem ungewöhnlichem Seitenverhältnis
       gefilmt.
-    name: anderes Seitenverhältnis
+    name: Andere Seitenverhältnisse
