@@ -993,5 +993,7 @@ collections:
     name: Other Aspect Ratios
   region_other:
     name: Other Regions
+    summary: <<library_translationU>>s filmed in other uncommon Regions.
   continent_other:
     name: Other Continents
+    summary: <<library_translationU>>s filmed in other uncommon Continents.
