@@ -672,6 +672,32 @@ key_names:
   Europe: Europa
   region: Region
   continent: 'Kontinent '
+  balkan: Balkan
+  brazilian: Brasilianisch
+  canadian: Kanadische
+  caucasian: Kaukasisch
+  central_african: Zentralafrikanisch
+  central_american: Mittelamerikanisch
+  central_asian: Zentralasiatisch
+  central_european: Mitteleuropäisch
+  chinese_and_mongolian: Chinesisch und Mongolisch
+  eastern_african: Ostafrikanisch
+  eastern_european: Osteuropäisch
+  hong_kong_and_macao: Hongkong und Macau
+  iberian: Iberische
+  mexican: Mexikanisch
+  middle_eastern: Nahost
+  northern_african: Nordafrikanisch
+  southern_african: Südafrikanisch
+  taiwanese: Taiwanesisch
+  uk: UK
+  usa: USA
+  western_african: Westafrikanisch
+  antarctica_region: Region Antarktis
+  australian: Australische
+  pacific_island: Pazifische Insel
+  south_asian: Südasiatisch
+  south-east_asian: Südostasiatisch
 collections:
   bafta_best:
     name: BAFTA Beste Filme
