@@ -991,3 +991,7 @@ collections:
   aspect_ratio_other:
     summary: <<library_translationU>>s filmed in other uncommon aspect ratios.
     name: Other Aspect Ratios
+  region_other:
+    name: Other Regions
+  continent_other:
+    name: Other Continents
