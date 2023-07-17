@@ -1003,3 +1003,9 @@ collections:
     summary: <<library_translationU>>s wurde in einem ungewöhnlichem Seitenverhältnis
       gefilmt.
     name: Andere Seitenverhältnisse
+  region_other:
+    name: Andere Regionen
+    summary: <<library_translationU>>s in anderen ungewöhnlichen Regionen gefilmt.
+  continent_other:
+    name: Andere Kontinente
+    summary: <<library_translationU>>s gefilmt in anderen ungewöhnlichen Kontinenten.
