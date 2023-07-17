@@ -664,6 +664,14 @@ key_names:
   yemen: Yémen
   zambia: Zambie
   zimbabwe: Zimbabwe
+  africa: Afrique
+  oceania: Océanie
+  asia: Asie
+  north_america: Amérique du Nord
+  south_america: Amérique du Sud
+  Europe: Europe
+  region: Région
+  continent: 'Continent '
 collections:
   bafta_best:
     name: BAFTA Meilleurs films
