@@ -665,6 +665,40 @@ key_names:
   yemen: Yemén
   zambia: Zambia
   zimbabwe: Zimbabue
+  antarctica_region: Región Antártica
+  australian: Australiana
+  balkan: Balcánica
+  brazilian: Brasileña
+  canadian: Canadiense
+  caucasian: Cáucasa
+  central_african: Centroafricana
+  central_american: Centroamericana
+  central_asian: De Asia Central
+  central_european: Centroeuropea
+  chinese_and_mongolian: China y Mongola
+  eastern_african: Africana Oriental
+  eastern_european: Europea Oriental
+  hong_kong_and_macao: Hong Kong y Macao
+  iberian: Ibérica
+  mexican: Mexicana
+  middle_eastern: Oriente Medio
+  northern_african: Africana del Norte
+  south_asian: Sudasiática
+  south-east_asian: Sudeste Asiática
+  southern_african: Sudafricana
+  taiwanese: Taiwanesa
+  uk: UK
+  usa: EUA
+  western_african: Africana Occidental
+  region: Región
+  pacific_island: Islas del Pacífico
+  africa: África
+  oceania: Oceanía
+  asia: Asia
+  north_america: América del Norte
+  south_america: América del Sur
+  Europe: Europa
+  continent: 'Continente '
 collections:
   bafta_best:
     name: BAFTA Mejores Películas
