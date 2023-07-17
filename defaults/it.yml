@@ -504,8 +504,8 @@ key_names:
   central_asia: Asia centrale
   southern_africa: Africa meridionale
   mongolia: Mongolia
-  afghanistan: ''
-  åland_islands: ''
+  afghanistan: 'Afghanistan'
+  åland_islands: 'Isole Åland'
   albania: 'Albania'
   algeria: 'Algeria'
   aspect_ratio: 'Proporzioni'
@@ -546,6 +546,158 @@ key_names:
   uganda: Uganda
   somalia: Somalia
   slovenia: Slovenia
+  balkan: Balcanico
+  brazilian: Brasiliano
+  canadian: Canadese
+  caucasian: Caucasico
+  central_african: Centroafricano
+  central_american: Centroamericano
+  central_asian: Asia centrale
+  central_european: Europa centrale
+  chinese_and_mongolian: Cinese e mongolo
+  eastern_african: Africano orientale
+  eastern_european: Europa orientale
+  hong_kong_and_macao: Hong Kong e Macao
+  iberian: Iberico
+  mexican: Messicano
+  middle_eastern: Medio Oriente
+  northern_african: Nordafricano
+  pacific_island: Isola del Pacifico
+  south-east_asian: Sud-est asiatico
+  southern_african: Africa meridionale
+  taiwanese: Taiwanese
+  uk: Gran Bretagna
+  usa: USA
+  western_african: Africa occidentale
+  antarctica_region: Regione Antartide
+  australian: Australiano
+  south_asian: Asia meridionale
+  angola: Angola
+  anguilla: Anguilla
+  antarctica: Antartide
+  antigua: Antigua
+  armenia: Armenia
+  aruba: Aruba
+  azerbaijan: Azerbaigian
+  bahrain: Bahrein
+  barbados: Barbados
+  belarus: Bielorussia
+  belize: Belize
+  benin: Benin
+  bhutan: Bhutan
+  bonaire: Bonaire
+  bosnia_and_herzegovina: Bosnia Erzegovina
+  botswana: Botswana
+  bouvet_island: Isola Bouvet
+  brunei: Brunei
+  burkina_faso: Burkina Faso
+  burundi: Burundi
+  cabo_verde: Capo Verde
+  cambodia: Cambogia
+  cameroon: Camerun
+  cayman_islands: Isole Cayman
+  central_african_republic: Repubblica Centrafricana
+  chad: Chad
+  christmas_island: Isola di Natale
+  cocos_(keeling)_islands: Isole Cocos (Keeling)
+  comoros: Comore
+  cook_islands: Isole Cook
+  curaçao: Curacao
+  djibouti: Gibuti
+  dominica: Domenico
+  ecuador: Ecuador
+  el_salvador: El Salvador
+  equatorial_guinea: Guinea Equatoriale
+  eritrea: Eritrea
+  eswatini: Eswatini
+  falkland_islands: Isole Falkland
+  faroe_islands: Isole Faroe
+  fiji: Figi
+  french_guiana: Guiana francese
+  french_polynesia: Polinesia francese
+  gabon: Gabon
+  gambia: Gambia
+  georgia: Georgia
+  gibraltar: Gibilterra
+  greenland: Groenlandia
+  grenada: Grenada
+  guadeloupe: Guadalupa
+  guam: Guam
+  guernsey: Guernsey
+  guinea: Guinea
+  guinea-bissau: Guinea Bissau
+  guyana: Guyana
+  haiti: Haiti
+  holy_see: Santa Sede
+  honduras: Honduras
+  isle_of_man: Isola di Man
+  jersey: Jersey
+  jordan: Giordania
+  kazakhstan: Kazakistan
+  kiribati: Kiribati
+  kyrgyzstan: Kirghizistan
+  lebanon: Libano
+  lesotho: Lesoto
+  liechtenstein: Liechtenstein
+  macao: Macao
+  malawi: Malawi
+  maldives: Maldive
+  mali: Mali
+  marshall_islands: Isole Marshall
+  martinique: Martinica
+  mauritania: Mauritania
+  mauritius: Maurizio
+  mayotte: Mayotta
+  micronesia: Micronesia
+  moldova: Moldavia
+  monaco: Monaco
+  montserrat: Montserrat
+  mozambique: Mozambico
+  myanmar: Birmania
+  namibia: Namibia
+  new_caledonia: Nuova Caledonia
+  new_guinea: Nuova Guinea
+  niger: Niger
+  niue: Niue
+  norfolk_island: Isola Norfolk
+  oman: Oman
+  palau: Palau
+  paraguay: Paraguay
+  pitcairn: Pitcairn
+  réunion: Riunione
+  rwanda: Ruanda
+  saint_barthélemy: Saint Barthélemy
+  saint_lucia: Santa Lucia
+  samoa: Samoa
+  sao_tome_and_principe: Sao Tomè e Principe
+  senegal: Senegal
+  seychelles: Seychelles
+  sierra_leone: Sierra Leone
+  slovakia: Slovacchia
+  solomon_islands: Isole Salomone
+  south_sudan: Sudan del Sud
+  sudan: Sudan
+  suriname: Suriname
+  syria: Siria
+  tajikistan: Tagikistan
+  tanzania: Tanzania
+  timor-leste: Timor Est
+  togo: Togo
+  tokelau: Tokelau
+  trinidad_and_tobago: Trinidad e Tobago
+  turks_and_caicos: Turks e Caicos
+  tuvalu: Tuvalù
+  uruguay: Uruguay
+  vanuatu: Vanuatu
+  zambia: Zambia
+  oceania: Oceania
+  asia: Asia
+  north_america: Nord America
+  south_america: Sud America
+  Europe: Europa
+  continent: 'Continente '
+  africa: Africa
+  region: Regione
 collections:
   bafta_best:
     name: BAFTA Miglior Film
