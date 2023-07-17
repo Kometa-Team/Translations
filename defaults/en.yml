@@ -672,7 +672,6 @@ key_names:
   Europe: Europe
   region: Region
   continent: 'Continent '
-  ANTARCTICA_REGION: Antarctica Region
 collections:
   bafta_best:
     name: BAFTA Best Films
