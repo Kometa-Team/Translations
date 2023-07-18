@@ -698,6 +698,7 @@ key_names:
   uk: UK
   usa: USA
   western_african: Western African
+  svalbard_and_jan_mayen: Svalbard and Jan Mayen
 collections:
   bafta_best:
     name: BAFTA Best Films
