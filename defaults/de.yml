@@ -698,6 +698,10 @@ key_names:
   pacific_island: Pazifische Insel
   south_asian: Südasiatisch
   south-east_asian: Südostasiatisch
+  svalbard_and_jan_mayen: Svalbard und Jan Mayen
+  mayan: Maya
+  tai: Tai
+  romany: Romani
 collections:
   bafta_best:
     name: BAFTA Beste Filme
