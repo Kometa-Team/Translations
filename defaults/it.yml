@@ -698,6 +698,10 @@ key_names:
   continent: 'Continente '
   africa: Africa
   region: Regione
+  svalbard_and_jan_mayen: Svalbard e Jan Mayen
+  mayan: Maya
+  tai: Tai
+  romany: Rom
 collections:
   bafta_best:
     name: BAFTA Miglior Film
@@ -989,3 +993,9 @@ collections:
   aspect_ratio_other:
     summary: <<library_translationU>>s filmati in altri rapporti d'aspetto non comuni.
     name: Altri rapporti di aspetto
+  region_other:
+    name: Altre regioni
+    summary: <<library_translationU>>s girato in altre Regioni non comuni.
+  continent_other:
+    name: Altri continenti
+    summary: <<library_translationU>>s girato in altri continenti non comuni.
