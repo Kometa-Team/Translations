@@ -699,6 +699,9 @@ key_names:
   usa: USA
   western_african: Western African
   svalbard_and_jan_mayen: Svalbard and Jan Mayen
+  mayan: Mayan
+  tai: Tai
+  romany: Romany
 collections:
   bafta_best:
     name: BAFTA Best Films
