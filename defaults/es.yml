@@ -26,7 +26,7 @@ key_names:
   albanian: Albanés
   animation: Animación
   anime: Animé
-  arabic: Arábica
+  arabic: Árabe
   argentina: Argentina
   audio_language: Idioma del Audio
   australia: Australia
@@ -38,8 +38,8 @@ key_names:
   bengali: Bengalí
   biography: Biografía
   biopic: Biográfica
-  book: Book
-  bosnian: Bosnia
+  book: Libro
+  bosnian: Bosnio
   brazil: Brasil
   bulgaria: Bulgaria
   bulgarian: Búlgaro
@@ -126,7 +126,7 @@ key_names:
   labor_day: Día del Trabajador
   latin: Latino
   latvia: Letonia
-  latvian: Leton
+  latvian: Letón
   luxembourg: Luxemburgo
   macedonian: Macedónio
   malay: Malayo
@@ -154,7 +154,7 @@ key_names:
   news_politics: Noticias y Política
   norway: Noruega
   norwegian: Noruego
-  norwegian_bokmål: Bokmal noruego
+  norwegian_bokmål: Noruego Bokmål
   norwegian_nynorsk: Nynorsk Noruego
   pakistan: Pakistán
   panama: Panamá
@@ -241,7 +241,7 @@ key_names:
   airing_today: Emitiendo Hoy
   asian_american_pacific_islander_heritage_month: Mes de la Herencia Asiático-Americana
     y de las Islas del Pacífico
-  based_on_a_true_story: Basado en hechos reales
+  based_on_a_true_story: Basadas en Hechos Reales
   best_picture_winner: Ganador de la Mejor Película
   central_khmer: Camboyano
   creature_horror: Criatura de Terror
@@ -265,9 +265,9 @@ key_names:
   azerbaijani: Azerbaiyano
   bambara: Bambara
   based_on...: Basado en...
-  based_on_a_book: Basado en un libro
-  based_on_a_comic: Basado en un cómic
-  based_on_a_video_game: Basado en un videojuego
+  based_on_a_book: Basadas en un Libro
+  based_on_a_comic: Basadas en un Cómic
+  based_on_a_video_game: Basadas en un Videojuego
   bashkir: Bashkir
   belarusian: Bielorruso
   best_director_winners: Ganadores Mejor Director
@@ -319,7 +319,7 @@ key_names:
   hentai: Hentai
   herero: Herero
   hiri_motu: Hiri Motu
-  based_on: Basado en...
+  based_on: Basadas en...
   collectionless: Sin Colección
   ido: Ido
   igbo: Ibo
@@ -400,7 +400,7 @@ key_names:
   tibetan: Tibetano
   timeline_order: Orden Cronológico
   top_10: Top 10
-  top_10_pirated: Top 10 Pirata
+  top_10_pirated: Top 10 Pirateadas
   top_250: Top 250
   trending: Tendencia
   recently_added: Añadido Recientemente
@@ -699,6 +699,10 @@ key_names:
   south_america: América del Sur
   Europe: Europa
   continent: 'Continente '
+  svalbard_and_jan_mayen: Svalbard y Jan Mayen
+  mayan: Maya
+  tai: Tai
+  romany: Gitano
 collections:
   bafta_best:
     name: BAFTA Mejores Películas
@@ -789,7 +793,7 @@ collections:
     name: AniList Los más Valorados
     summary: Una colección de los Animes más valorados según AniList.
   anilist_trending:
-    name: AniList Tendencia
+    name: Tendencia en AniList
     summary: Una colección de los Animes en tendencia según AniList.
   anilist_season:
     name: AniList Temporada
@@ -841,7 +845,7 @@ collections:
     name: Películas Populares de StevenLu
     summary: Una colección de las películas más populares de StevenLu.
   pirated_popular:
-    name: Las 10 mejores películas piratas de la semana
+    name: Las 10 películas más pirateadas de la semana
     summary: Las diez mejores películas piratas semanales según TorrentFreak.com.
   tautulli_popular:
     name: Popular en Plex
@@ -859,11 +863,11 @@ collections:
     name: Popular en TMDb
     summary: Una colección de lo más visto en <<library_translation>>s según TMDb.
   tmdb_top:
-    name: TMDb Más Valorados
-    summary: Una colección de lo más valorado en <<library_translation>>s según TMDb.
+    name: TMDb Mejor Valoradas
+    summary: Una colección de las <<library_translation>>s mejor valoradas según TMDb.
   tmdb_trending:
-    name: TMDb Tendencia
-    summary: Una colección de tendencias en <<library_translation>>s según TMDb.
+    name: Tendencia en TMDb
+    summary: Una colección de las <<library_translation>>s en tendencia según TMDb.
   trakt_collected:
     name: Trakt Recopilación
     summary: Una colección de la lista más recopilada de la semana en Trakt.
@@ -874,7 +878,7 @@ collections:
     name: Trakt Recomienda
     summary: Una colección de la lista recomendada de la semana en Trakt.
   trakt_trending:
-    name: Trakt Tendencia
+    name: Tendencia en Trakt
     summary: Una colección de la lista de tendencias de la semana en Trakt.
   trakt_watched:
     name: Trakt Visto
@@ -887,10 +891,10 @@ collections:
     summary: <<library_translationU>>s con <<key_name>>.
   audio_language:
     name: Audio <<key_name>>
-    summary: <<library_translationU>>s filmado en Idioma <<key_name>>.
+    summary: <<library_translationU>>s filmadas en Idioma <<key_name>>.
   audio_language_other:
     name: Otro Audio
-    summary: <<library_translationU>>s filmado en otros idiomas poco comunes.
+    summary: <<library_translationU>>s filmadas en otros idiomas poco comunes.
   collectionless:
     name: Sin Colección
     summary: Colección de <<library_translationU>>s utilizado para hacer que Plex
@@ -908,10 +912,10 @@ collections:
       clasificación poco común.
   country:
     name: <<key_name>>
-    summary: <<library_translationU>>s filmado en <<key_name>>.
+    summary: <<library_translationU>>s filmada en <<key_name>>.
   country_other:
     name: Otros Países
-    summary: <<library_translationU>>s filmado en otros países poco comunes.
+    summary: <<library_translationU>>s filmadas en otros países poco comunes.
   decade:
     name: Lo mejor de <<key_name>>
     summary: Top <<limit>> <<library_translation>>s de <<key_name>>.
@@ -956,8 +960,8 @@ collections:
     name: Lo mejor de <<key_name>>
     summary: <<library_translationU>>s lanzado en <<key_name>>.
   based:
-    summary: <<library_translationU>>s basado o inspirado en <<key_name>>s.
-    name: Basado en <<key_name>>
+    summary: <<library_translationU>>s basadas o inspiradas en <<key_name>>s.
+    name: Basadas en <<key_name>>
   content_ratings_other:
     summary: <<library_translationU>>s que no están Clasificados, No Clasificados
       o cualquier otra Clasificación poco común.
@@ -996,3 +1000,9 @@ collections:
     summary: <<library_translationU>>s filmadas en otras relaciones de aspecto no
       comunes.
     name: Otras Relaciones de Aspecto
+  region_other:
+    name: Otras Regiones
+    summary: <<library_translationU>>s filmadas en otras Regiones no comunes.
+  continent_other:
+    name: Otros Continentes
+    summary: <<library_translationU>>s filmadas en otros Continentes no cumnes.
