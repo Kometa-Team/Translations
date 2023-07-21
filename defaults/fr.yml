@@ -698,6 +698,10 @@ key_names:
   usa: USA
   western_african: Afrique de l'Ouest
   pacific_island: Île du Pacifique
+  svalbard_and_jan_mayen: Svalbard et Jan Mayen
+  mayan: Maya
+  tai: Tai
+  romany: Roms
 collections:
   bafta_best:
     name: BAFTA Meilleurs films
@@ -991,3 +995,9 @@ collections:
   aspect_ratio_other:
     name: Autres rapports d'aspect
     summary: <<library_translationU>>s filmés dans d'autres rapports d'aspect inhabituels.
+  region_other:
+    name: Autres régions
+    summary: <<library_translationU>s filmés dans d'autres régions peu communes.
+  continent_other:
+    name: Autres continents
+    summary: <<library_translationU>s filmés dans d'autres continents peu communs.
