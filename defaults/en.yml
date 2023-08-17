@@ -702,6 +702,40 @@ key_names:
   mayan: Mayan
   tai: Tai
   romany: Romany
+  1001_movies_you_must_see_before_you_die: 1001 Movies You Must See Before You Die
+  adult_cartoons: Adult Cartoons
+  america: America
+  animals: Animals
+  animated_shorts: Animated Shorts
+  apocalypse: Apocalypse
+  astronaut: Astronaut
+  building: Building
+  childrens_cartoons: Children's Cartoons
+  colorado: Colorado
+  comedy_horror: Comedy Horror
+  conspiracy: Conspiracy
+  criterion_collection: Criterion Collection
+  dark_comedy: Dark Comedy
+  dinosaurs: Dinosaurs
+  dystopian: Dystopian
+  engineering_disasters: Engineering Disasters
+  engineering: Engineering
+  first_responder: First Responder
+  football: Football
+  fringe: Fringe
+  funny_sci-fi: Funny Sci-Fi
+  human_body: Human Body
+  inspirational: Inspirational
+  louisiana: Louisiana
+  manufacturing: Manufacturing
+  medical: Medical
+  mystery_box: Mystery Box
+  natural_disaster: Natural Disaster
+  nature: Nature
+  pandemic: Pandemic
+  paranormal: Paranormal
+  plants: Plants
+  prison: Prison
 collections:
   bafta_best:
     name: BAFTA Best Films
