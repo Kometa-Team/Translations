@@ -736,6 +736,15 @@ key_names:
   paranormal: Paranormal
   plants: Plants
   prison: Prison
+  seductive: Seductive
+  stephen_king: Stephen King
+  technology: Technology
+  the_arts: The Arts
+  top_grossing_films_annually: Top Grossing Films Annually
+  top_grossing_films_of_all-time: Top Grossing Films of All-Time
+  unexpectedly_amazing: Unexpectedly Amazing
+  weather: Weather
+  witch: Witch
 collections:
   bafta_best:
     name: BAFTA Best Films
