@@ -745,6 +745,8 @@ key_names:
   unexpectedly_amazing: Unexpectedly Amazing
   weather: Weather
   witch: Witch
+  south_korea: South Korea
+  united_states: United States
 collections:
   bafta_best:
     name: BAFTA Best Films
