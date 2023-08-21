@@ -747,6 +747,7 @@ key_names:
   witch: Witch
   south_korea: South Korea
   united_states: United States
+  returning_soon: Returning Soon
 collections:
   bafta_best:
     name: BAFTA Best Films
