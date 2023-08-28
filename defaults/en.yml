@@ -748,6 +748,8 @@ key_names:
   south_korea: South Korea
   united_states: United States
   returning_soon: Returning Soon
+  americas: Americas
+  AUSTRALIA_AND_NEW_ZEALAND: Australia and New Zealand
 collections:
   bafta_best:
     name: BAFTA Best Films
