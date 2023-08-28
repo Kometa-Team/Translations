@@ -750,6 +750,18 @@ key_names:
   returning_soon: Returning Soon
   americas: Americas
   central_america: Central America
+  australia_and_new_zealand: Australia and New Zealand
+  democratic_republic_of_the_congo: Democratic Republic of the Congo
+  eastern_asia: Eastern Asia
+  melanesia: Melanesia
+  northern_europe: Northern Europe
+  polynesia: Polynesia
+  southeastern_asia: Southeastern Asia
+  southern_asia: Southern Asia
+  southern_europe: Southern Europe
+  sub-saharan_africa: Sub-Saharan Africa
+  western_asia: Western Asia
+  western_europe: Western Europe
 collections:
   bafta_best:
     name: BAFTA Best Films
