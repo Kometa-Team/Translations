@@ -702,6 +702,18 @@ key_names:
   mayan: Maya
   tai: Tai
   romany: Rom
+  adult_cartoons: Cartoni per adulti
+  america: America
+  1001_movies_you_must_see_before_you_die: 1001 Film da vedere prima di morire
+  animals: Animali
+  animated_shorts: Corti di animazione
+  apocalypse: Apocalisse
+  astronaut: Astronauta
+  childrens_cartoons: Cartoni per bamini
+  colorado: Colorado
+  comedy_horror: Commedia Horror
+  conspiracy: Conspirazione
+  building: Edificio
 collections:
   bafta_best:
     name: BAFTA Miglior Film
