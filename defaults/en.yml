@@ -765,6 +765,79 @@ key_names:
   northern_america: Northern America
   christmas_cartoons: Christmas Cartoons
   christmas_episodes: Christmas Episodes
+  absurdism: Absurdism
+  adult_cartoon: Adult Cartoon
+  alien: Alien
+  alternate_history: Alternate History
+  animal: Animal
+  animated_short: Animated Short
+  anthology: Anthology
+  anti-hero: Anti-Hero
+  artificial_intelligence: Artificial Intelligence
+  betrayal: Betrayal
+  boxing: Boxing
+  bug: Bug
+  caper: Caper
+  chick_flick: Chick Flick
+  childrens_cartoon: Children's Cartoon
+  coming_of_age: Coming of Age
+  cop: Cop
+  costume_drama: Costume Drama
+  courtroom: Courtroom
+  cyberpunk: Cyberpunk
+  dark_fantasy: Dark Fantasy
+  detective: Detective
+  dinosaur: Dinosaur
+  dragon: Dragon
+  dramedy: Dramedy
+  engineering_disaster: Engineering Disaster
+  epic: Epic
+  espionage: Espionage
+  experimental: Experimental
+  fairy_tale: Fairy Tale
+  foreign: Foreign
+  fugitive: Fugitive
+  ghost: Ghost
+  gothic: Gothic
+  heartbreak: Heartbreak
+  historical_event: Historical Event
+  historical_fiction: Historical Fiction
+  hostage: Hostage
+  hustle: Hustle
+  melodrama: Melodrama
+  mockumentary: Mockumentary
+  monster: Monster
+  mythology: Mythology
+  naval: Naval
+  ninja: Ninja
+  occult: Occult
+  outlaw: Outlaw
+  period_drama: Period Drama
+  philosophy: Philosophy
+  plant: Plant
+  prehistoric: Prehistoric
+  religion: Religion
+  remake: Remake
+  revenge: Revenge
+  robot: Robot
+  satire: Satire
+  space_opera: Space Opera
+  spaghetti_western: Spaghetti Western
+  splatter: Splatter
+  steampunk: Steampunk
+  stop-motion: Stop-Motion
+  surrealism: Surrealism
+  swashbuckler: Swashbuckler
+  sword_sandal: Sword & Sandal
+  time_travel: Time Travel
+  treasure_hunt: Treasure Hunt
+  true_crime: True Crime
+  urban_fantasy: Urban Fantasy
+  utopia: Utopia
+  werewolf: Werewolf
+  whodunit: Whodunit
+  wizardry_witchcraft: Wizardry & Witchcraft
+  world_war: World War
 collections:
   bafta_best:
     name: BAFTA Best Films
