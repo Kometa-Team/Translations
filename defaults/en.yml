@@ -763,6 +763,8 @@ key_names:
   western_asia: Western Asia
   western_europe: Western Europe
   northern_america: Northern America
+  christmas_cartoons: Christmas Cartoons
+  christmas_episodes: Christmas Episodes
 collections:
   bafta_best:
     name: BAFTA Best Films
