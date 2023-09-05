@@ -838,6 +838,12 @@ key_names:
   whodunit: Whodunit
   wizardry_witchcraft: Wizardry & Witchcraft
   world_war: World War
+  plex_must_see_movies: Must See Movies
+  plex_must_watch_movies: Must Watch Movies
+  plex_must_see_shows: Must See Shows
+  plex_must_watch_shows: Must Watch Shows
+  plex_personal_movies_picks: My Personal Movie Picks
+  plex_personal_shows_picks: My Personal Show Picks
 collections:
   bafta_best:
     name: BAFTA Best Films
