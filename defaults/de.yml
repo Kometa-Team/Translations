@@ -702,6 +702,130 @@ key_names:
   mayan: Maya
   tai: Tai
   romany: Romani
+  democratic_republic_of_the_congo: Demokratische Republik Kongo
+  eastern_asia: Ostasien
+  melanesia: Melanesien
+  northern_europe: Nordeuropa
+  polynesia: Polynesien
+  southeastern_asia: Südostasien
+  southern_asia: Südasien
+  southern_europe: Südeuropa
+  sub-saharan_africa: Subsahara-Afrika
+  western_asia: West-Asien
+  western_europe: Westeuropa
+  northern_america: Nordamerika
+  christmas_cartoons: Weihnachtscartoons
+  absurdism: Unsinn
+  alien: Alien
+  alternate_history: Alternative Geschichte
+  animal: Tier
+  animated_short: Kurzanimation
+  anthology: Sammlung
+  anti-hero: Anti-Held
+  artificial_intelligence: Künstliche Intelligenz
+  betrayal: Verrat
+  boxing: Boxen
+  bug: Bug
+  chick_flick: Chick Flick
+  courtroom: Gerichtssaal
+  cyberpunk: Cyberpunk
+  dinosaur: Dinosaurier
+  dragon: Drache
+  dramedy: Dramödie
+  epic: Episch
+  espionage: Spionage
+  experimental: experimentell
+  fairy_tale: Märchen
+  foreign: ausländisch
+  fugitive: Flüchtling
+  ghost: Geist
+  historical_event: Historisches Ereignis
+  historical_fiction: Historische Fiktion
+  hostage: Geisel
+  melodrama: Melodrama
+  mockumentary: Mockumentary
+  monster: Monster
+  mythology: Sagenwelt
+  ninja: Ninja
+  outlaw: Gesetzloser
+  philosophy: Philosophie
+  plant: Pflanze
+  prehistoric: prähistorisch
+  religion: Religion
+  remake: Neuauflage
+  revenge: Rache
+  robot: Roboter
+  satire: Satire
+  steampunk: Steampunk
+  splatter: Splatterfilm
+  stop-motion: Stop-Motion
+  surrealism: Surrealismus
+  time_travel: Zeitreise
+  treasure_hunt: Schatzsuche
+  true_crime: True Crime
+  utopia: Utopie
+  werewolf: Werwolf
+  whodunit: Whodunit
+  wizardry_witchcraft: Hexerei & Zauberei
+  world_war: Weltkrieg
+  adult_cartoons: Erwachsenen Cartoons
+  america: Amerika
+  animals: Tiere
+  animated_shorts: Kurzanimationsfilme
+  plex_must_see_movies: Filme, die man gesehen haben muss
+  apocalypse: Apokalypse
+  plex_must_watch_movies: Filme, die man gesehen haben muss
+  astronaut: Astronaut
+  plex_must_see_shows: Serien, die man sehen muss
+  plex_must_watch_shows: Serien, die man gesehen haben muss
+  plex_personal_movies_picks: Meine persönliche Filmauswahl
+  childrens_cartoons: Kinder Cartoon
+  colorado: Colorado
+  plex_personal_shows_picks: Meine persönlichen Show-Tipps
+  comedy_horror: Horrorkomödie
+  australia_and_new_zealand: Australien und Neuseeland
+  conspiracy: Verschwörung
+  christmas_episodes: Weihnachtsepisoden
+  criterion_collection: Criterion Collection
+  spaghetti_western: Spaghetti Western
+  dark_comedy: Schwarzer Humor
+  adult_cartoon: Erwachsenencartoon
+  dinosaurs: Dinosaurier
+  dystopian: dystopisch
+  first_responder: Ersthelfer
+  football: Fußball
+  fringe: Rand
+  funny_sci-fi: Sci-Fi Komödie
+  human_body: menschlicher Körper
+  inspirational: inspirierend
+  louisiana: Louisiana
+  manufacturing: Herstellung
+  medical: medizinisch
+  mystery_box: Mystery Box
+  natural_disaster: Naturkatastrophe
+  nature: Natur
+  pandemic: Pandemie
+  paranormal: Paranormal
+  top_grossing_films_of_all-time: FIlme mit den höchsten Einspielergebnissen allerzeiten
+  weather: Wetter
+  witch: Hexe
+  south_korea: Südkorea
+  americas: Amerika
+  central_america: Mittelamerika
+  1001_movies_you_must_see_before_you_die: 1001 Filme, die Sie sehen sollten, bevor
+    das Leben vorbei ist
+  building: Gebäude
+  engineering_disasters: Technische Katastrophen
+  engineering: Ingenieurwesen
+  plants: Pflanzen
+  prison: Gefängnis
+  seductive: verführerisch
+  stephen_king: Stephen King
+  technology: Technologie
+  the_arts: Geisteswissenschaften
+  united_states: Vereinigte Staaten
+  top_grossing_films_annually: Filme mit den jährlich höchsten Einspielergebnissen
+  unexpectedly_amazing: Überraschend gut
 collections:
   bafta_best:
     name: BAFTA Beste Filme
