@@ -828,6 +828,19 @@ key_names:
   unexpectedly_amazing: Überraschend gut
   childrens_cartoon: Kindercartoon
   returning_soon: Bald geht's weiter
+  coming_of_age: Erwachsenwerden
+  cop: Polizei
+  costume_drama: Kostümdrama
+  detective: Detektiv
+  engineering_disaster: Technische Katastrophe
+  gothic: Gotik
+  heartbreak: Herzschmerz
+  naval: Naval
+  occult: Okkultes
+  period_drama: Zeitdrama
+  space_opera: Weltraum-Oper
+  swashbuckler: Pirat
+  sword_sandal: Schwert & Sandale
 collections:
   bafta_best:
     name: BAFTA Beste Filme
