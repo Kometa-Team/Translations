@@ -826,6 +826,8 @@ key_names:
   united_states: Vereinigte Staaten
   top_grossing_films_annually: Filme mit den jährlich höchsten Einspielergebnissen
   unexpectedly_amazing: Überraschend gut
+  childrens_cartoon: Kindercartoon
+  returning_soon: Bald geht's weiter
 collections:
   bafta_best:
     name: BAFTA Beste Filme
