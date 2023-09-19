@@ -702,6 +702,25 @@ key_names:
   mayan: Maya
   tai: Tai
   romany: Roms
+  australia_and_new_zealand: Australie et Nouvelle-Zélande
+  democratic_republic_of_the_congo: République démocratique du Congo
+  eastern_asia: Asie de l'Est
+  melanesia: Mélanésie
+  northern_europe: Europe du Nord
+  polynesia: Polynésie
+  southern_asia: Asie du Sud
+  southern_europe: Europe du Sud
+  sub-saharan_africa: Afrique subsaharienne
+  western_asia: Asie occidentale
+  western_europe: Europe occidentale
+  northern_america: Amérique du Nord
+  christmas_cartoons: Dessins animés de Noël
+  america: Amérique
+  southeastern_asia: Asie du Sud-Est
+  south_korea: Corée du Sud
+  americas: Amériques
+  central_america: Amérique centrale
+  united_states: États-Unis
 collections:
   bafta_best:
     name: BAFTA Meilleurs films
