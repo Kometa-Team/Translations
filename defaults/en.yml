@@ -848,6 +848,7 @@ key_names:
   cyber_thriller: Cyber-Thriller
   jungle_adventure: Jungle Adventure
   post_apocalyptic: Post-Apocalyptic
+  medieval: Medieval
 collections:
   bafta_best:
     name: BAFTA Best Films
