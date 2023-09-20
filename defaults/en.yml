@@ -844,6 +844,10 @@ key_names:
   plex_must_watch_shows: Must Watch Shows
   plex_personal_movies_picks: My Personal Movie Picks
   plex_personal_shows_picks: My Personal Show Picks
+  buddy_comedy: Buddy Comedy
+  cyber_thriller: Cyber Thriller
+  jungle_adventure: Jungle Adventure
+  post_apocalyptic: Post-Apocalyptic
 collections:
   bafta_best:
     name: BAFTA Best Films
