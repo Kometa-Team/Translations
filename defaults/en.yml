@@ -857,6 +857,9 @@ key_names:
   the_justice_system: The Justice System
   mystery_and_drama: Mystery and Drama
   family_favourites: Family Favourites
+  this_day_in_history: This Day in History
+  this_week_in_history: This Week in History
+  this_month_in_history: This Month in History
 collections:
   bafta_best:
     name: BAFTA Best Films
