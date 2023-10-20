@@ -860,6 +860,8 @@ key_names:
   this_day_in_history: This Day in History
   this_week_in_history: This Week in History
   this_month_in_history: This Month in History
+  north_korea: North Korea
+  north_macedonia: North Macedonia
 collections:
   bafta_best:
     name: BAFTA Best Films
