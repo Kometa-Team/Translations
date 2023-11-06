@@ -862,6 +862,37 @@ key_names:
   this_month_in_history: This Month in History
   north_korea: North Korea
   north_macedonia: North Macedonia
+  absurd_comedy: Absurd Comedy
+  arthouse: Arthouse
+  action_comedy: Action Comedy
+  exploitation: Exploitation
+  neo-noir: Neo-Noir
+  body_horror: Body Horror
+  crime_comedy: Crime Comedy
+  sexploitation: Sexploitation
+  cannibal: Cannibal
+  extreme: Extreme
+  creature_feature: Creature Feature
+  folk_horror: Folk Horror
+  elevated_horror: Elevated Horror
+  fantasy_horror: Fantasy Horror
+  foreign_giallo: Foreign Giallo
+  foreign_noir: Foreign Noir
+  horror_parody: Horror Parody
+  found_footage: Found Footage
+  gaijinsploitation: Gaijinsploitation
+  lovecraftian: Lovecraftian
+  silent: Silent
+  slapstick: Slapstick
+  surreal_comedy: Surreal Comedy
+  sci-fi_horror: Sci-Fi Horror
+  pinku: Pinku
+  zombie_comedy: Zombie Comedy
+  sleazy: Sleazy
+  surreal: Surreal
+  video_nasty: Video Nasty
+  surreal_horror: Surreal Horror
+  zombie: Zombie
 collections:
   bafta_best:
     name: BAFTA Best Films
