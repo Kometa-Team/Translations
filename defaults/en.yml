@@ -893,6 +893,8 @@ key_names:
   video_nasty: Video Nasty
   surreal_horror: Surreal Horror
   zombie: Zombie
+  wuxia: Wuxia
+  blaxploitation: Blaxploitation
 collections:
   bafta_best:
     name: BAFTA Best Films
