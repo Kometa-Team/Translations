@@ -895,6 +895,11 @@ key_names:
   zombie: Zombie
   wuxia: Wuxia
   blaxploitation: Blaxploitation
+  east_timor: East Timor
+  turks_and_caicos_islands: Turks and Caicos Islands
+  kosovo: Kosovo
+  papua_new_guinea: Papua New Guinea
+  saint_kitts_and_nevis: Saint Kitts and Nevis
 collections:
   bafta_best:
     name: BAFTA Best Films
