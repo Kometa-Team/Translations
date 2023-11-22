@@ -75,7 +75,7 @@ key_names:
   bosnian: Bosniaque
   bottom_rated: Notes basses
   box_office: Box-office
-  boys_love: Boys Love
+  boys_love: l’amour des garçons
   brazil: Brésil
   breton: Bretons
   bulgaria: Bulgarie
@@ -99,7 +99,7 @@ key_names:
   collected: Collectés
   collectionless: Sans collection
   comedy: La Comédie
-  comic: Comic
+  comic: Comique
   competition: Compétition
   con_artist: Escroquerie
   content_ratings: Évaluation du contenu
@@ -163,7 +163,7 @@ key_names:
   georgian: Géorgien
   german: Allemands
   germany: Allemagne
-  girls_love: Girl's Love
+  girls_love: L'amour des filles
   gourmet: Gourmet
   grand_jury_winners: Grand prix du jury
   greece: Grèce
@@ -257,7 +257,7 @@ key_names:
   mexico: Mexique
   military: Militaire
   mind_bend: Courbure de l'esprit
-  mind_fuck: Baise mentale
+  mind_fuck: Baiser de l'esprit
   mind_f**k: Baise mentale
   mini_series: Mini-série
   mongolian: Mongol
@@ -494,7 +494,7 @@ key_names:
   central_americas: Amériques centrales
   eastern_africa: Afrique de l'Est
   eastern_europe: Europe de l'Est
-  iberia: Iberia
+  iberia: Iberique
   middle_east: Moyen-Orient
   northern_africa: Afrique du Nord
   pacific_islands: Îles du Pacifique
@@ -721,6 +721,185 @@ key_names:
   americas: Amériques
   central_america: Amérique centrale
   united_states: États-Unis
+  this_day_in_history: Ce jour dans l’histoire
+  this_week_in_history: Cette semaine dans l’histoire
+  this_month_in_history: Ce mois dans l’histoire
+  north_korea: Corée du Nord
+  north_macedonia: Macédoine du Nord
+  absurd_comedy: Comédie absurde
+  arthouse: Arthouse
+  action_comedy: Comédie Action
+  exploitation: Exploitation
+  neo-noir: Neo-Noir
+  body_horror: Corps d’horreur
+  crime_comedy: Crime Comédie
+  cannibal: Cannibal
+  extreme: Extreme
+  creature_feature: Caractéristiques de la créature
+  folk_horror: Horreur folklorique
+  foreign_noir: Noir étranger
+  foreign_giallo: Giallo étranger
+  gaijinsploitation: Gaijinsploitation
+  found_footage: Images trouvées
+  horror_parody: Horreur parodique
+  silent: Silence
+  slapstick: La gifle
+  sci-fi_horror: Horreur silence fiction
+  zombie_comedy: Comédie de zombie
+  pinku: Pinku
+  sleazy: Sordide
+  surreal: Surréaliste
+  surreal_comedy: Comédie surréaliste
+  video_nasty: Vidéo violente
+  surreal_horror: Horreur surréaliste
+  zombie: Zombie
+  wuxia: Wuxia
+  blaxploitation: Blaxploitation
+  east_timor: Timor oriental
+  turks_and_caicos_islands: Îles Turks et Caicos
+  kosovo: Kosovo
+  saint_kitts_and_nevis: Saint-Christophe-et-Niévès
+  papua_new_guinea: Papouasie nouvelle Guinée
+  cop: Flic
+  prehistoric: Préhistoire
+  sexploitation: Sexploitation
+  elevated_horror: L'horreur surélevée
+  courtroom: Salle d’audience
+  werewolf: Loup-garou
+  family_favourites: Favoris de famille
+  lovecraftian: Lovecraftien
+  experimental: Experimental
+  hustle: L'ardeur au travail
+  utopia: Utopie
+  fantasy_horror: Fantaisie d’horreur
+  adult_cartoons: Cartoons pour adultes
+  world_war: Guerre mondiale
+  animals: Animaux
+  animated_shorts: Courtes animations
+  apocalypse: Apocalypse
+  plex_must_watch_movies: Films à voir absolument
+  astronaut: Astronaute
+  childrens_cartoons: Cartoons pour enfants
+  plex_personal_movies_picks: Mes choix de films personnels
+  colorado: Colorado
+  plex_personal_shows_picks: Mes choix de séries personnels
+  comedy_horror: Comédie horreur
+  conspiracy: Conspiration
+  criterion_collection: Collection Criterion
+  dark_comedy: Comédie noire
+  dinosaurs: Dinosaures
+  buddy_comedy: Films de potes
+  dystopian: Dystopique
+  first_responder: Premier répondant
+  cyber_thriller: Cyber-thriller
+  football: Football
+  medieval: Médiéval
+  fringe: Frange
+  funny_sci-fi: Drôle science-fiction
+  human_body: Corps humain
+  based_on_books_and_games: Basé sur des livres et des jeux
+  inspirational: Inspirationnel
+  heroes_and_wizards: Héros et magiciens
+  louisiana: Louisianne
+  throwback_thursday: Jeudi de retour
+  manufacturing: Manufacture
+  the_justice_system: Le système judiciaire
+  medical: Médical
+  mystery_box: Boîte mystère
+  natural_disaster: Catastrophe naturelle
+  nature: Nature
+  pandemic: Pandémie
+  paranormal: Paranormal
+  top_grossing_films_of_all-time: Films à plus forte audience de tous les temps
+  weather: Météo
+  witch: Sorcière
+  christmas_episodes: Épisodes de Noël
+  absurdism: Absurdisme
+  adult_cartoon: Cartoons pour adultes
+  alien: Alien
+  alternate_history: Histoire alternative
+  animal: Animal
+  animated_short: Courte animation
+  anthology: Anthologie
+  anti-hero: Anti-Hero
+  artificial_intelligence: Intelligence artificielle
+  betrayal: Trahison
+  boxing: Boxe
+  bug: Erreur
+  caper: Caper
+  chick_flick: Chick Flick
+  childrens_cartoon: Cartoon pour enfants
+  coming_of_age: Le passage à l'âge adulte
+  costume_drama: Costume drame
+  cyberpunk: Cyberpunk
+  dark_fantasy: Fantaisie sombre
+  detective: détective
+  dinosaur: Dinosaure
+  dragon: Dragon
+  dramedy: Comédie dramatique
+  engineering_disaster: Catastrophe technique
+  epic: Épique
+  espionage: Espionage
+  fairy_tale: Conte de fées
+  foreign: Étranger
+  fugitive: Fugitive
+  ghost: Fantôme
+  gothic: Gothique
+  heartbreak: Chagrin d'amour
+  historical_event: Événement historique
+  historical_fiction: Fiction historique
+  hostage: Otage
+  melodrama: Mélodrame
+  monster: Monstre
+  mythology: Mythologie
+  naval: Naval
+  ninja: Ninja
+  occult: Occulte
+  outlaw: Hors-la-loi
+  period_drama: Drame d'époque
+  philosophy: Philosophie
+  plant: Plante
+  mockumentary: Mockumentary
+  religion: Religion
+  remake: Remake
+  revenge: Vengeance
+  robot: Robot
+  satire: Satirique
+  space_opera: Space Opera
+  spaghetti_western: Western spaghetti
+  splatter: Éclaboussures
+  steampunk: Steampunk
+  stop-motion: Stop-Motion
+  surrealism: Surréalisme
+  time_travel: Voyage dans le temps
+  swashbuckler: Casse-cou
+  sword_sandal: Épée et sandale
+  treasure_hunt: Chasse au trésor
+  true_crime: Crime réel
+  urban_fantasy: Fantaisie urbaine
+  whodunit: Roman jeu
+  wizardry_witchcraft: Magie et sorcellerie
+  plex_must_see_movies: Films à voir absolument
+  plex_must_see_shows: Séries à voir absolument
+  plex_must_watch_shows: Séries à voir absolument
+  jungle_adventure: Aventure dans la jungle
+  post_apocalyptic: Après apocalypse
+  ultimate_bass: Ultimate Bass
+  best_of_britain: Le meilleur de la Grande-Bretagne
+  mystery_and_drama: Mystère et drame
+  1001_movies_you_must_see_before_you_die: 1001 Films que tu dois voir avant de mourrir
+  building: Immeuble
+  engineering_disasters: Catastrophes techniques
+  engineering: Ingénierie
+  plants: Plantes
+  prison: Prison
+  seductive: Séduction
+  stephen_king: Stephen King
+  technology: Technologie
+  the_arts: Les arts
+  top_grossing_films_annually: Films à plus forte audience annuelle
+  unexpectedly_amazing: Inattendu et étonnant
+  returning_soon: Bientôt de retour
 collections:
   bafta_best:
     name: BAFTA Meilleurs films
