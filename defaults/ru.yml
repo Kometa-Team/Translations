@@ -1,1 +1,137 @@
-{}
+variables:
+  library_translation:
+    movie: фильм
+    artist: артист
+    show: сериал
+    video: видео
+    item: элемент
+  library_translation3:
+    video: видео
+    item: элемент
+    movie: фильм
+    show: сериал
+    artist: артист
+  library_translation2:
+    movie: фильм
+    show: сериал
+    artist: артист
+    video: видео
+    item: элемент
+key_names:
+  action_adventure: Приключенческий экшн
+  airing_today: В эфире сегодня
+  argentina: Аргентина
+  asian_american_pacific_islander_heritage_month: Азиатско-Тихоокеанский Американский
+    Месяц Наследия
+  book: Книга
+  based_on_a_comic: Основано на комиксе
+  belgium: Бельгия
+  bottom_rated: Худшие рейтинги
+  best_picture_winner: Победитель в номинации "Лучший фильм"
+  boys_love: Юношеская любовь
+  content_ratings: Возрастной рейтинг
+  dzongkha: Дзонгка
+  chichewa: Чичева
+  chuvash: Чувашский
+  directors: Режиссеры
+  estonia: Эстония
+  croatian: Хорватский
+  drama: Драма
+  4/20: 4/20
+  abkhazian: Абхазский
+  action: Экшн
+  actor: Актер
+  actors: Актеры
+  adult: Для взрослых
+  adventure: Приключение
+  afar: Афарский
+  afrikaans: Африкаанс
+  age: Возраст
+  akan: Акан
+  albanian: Албанский
+  amharic: Амхарский
+  animation: Анимация
+  anime: Аниме
+  arabic: Арабский
+  aragonese: Арагонский
+  armenian: Армянский
+  assamese: Ассамский
+  assassin: Убийца
+  audio_language: Язык аудио
+  australia: Австралия
+  austria: Австрия
+  avaric: Аварский
+  avestan: Авестийский
+  award: Премия
+  aymara: Аймара
+  azerbaijani: Азербайджанский
+  bambara: Бамбара
+  bahamas: Багамы
+  based_on: Основано на...
+  based_on_a_book: Основано на книге
+  based_on_a_true_story: Основано на реальной истории
+  based_on_a_video_game: Основано на видеоигре
+  basque: Баскский
+  bashkir: Башкирский
+  belarusian: Белорусский
+  bengali: Бенгальский
+  best_director_winners: Победители в номинации «Лучший режиссер»
+  best_picture_winners: Победители в номинации "Лучший фильм"
+  best_of: Лучшее из
+  biography: Биография
+  biopic: Байопик
+  bislama: Бислама
+  black_history_month: Месяц Черной Истории
+  bosnian: Боснийский
+  box_office: Кассовые сборы
+  brazil: Бразилия
+  breton: Бретонский
+  bulgaria: Болгария
+  bulgarian: Болгарский
+  burmese: Бирманский
+  canada: Канада
+  cars: Автомобили
+  catalan: Каталанский
+  central_khmer: Центральный кхмерский
+  chamorro: Чаморро
+  chart: Чарт
+  chechen: Чеченский
+  children: Дети
+  chile: Чили
+  china: Китай
+  chinese: Китайский
+  christmas: Рождество
+  church_slavic: Церковнославянский
+  collected: Собрано
+  collectionless: Без коллекции
+  comedy: Комедия
+  comic: Комикс
+  competition: Соревнование
+  con_artist: Мошенник
+  cornish: Корнский
+  corsican: Корсиканский
+  costa_rica: Коста-Рика
+  country: Страна
+  creature_horror: Ужасы с чудовищами
+  cree: Кри
+  crime: Криминал
+  croatia: Хорватия
+  czech: Чешский
+  czech_republic: Чехия
+  danish: Датский
+  day_of_persons_with_disabilities: День инвалидов
+  decade: Десятилетие
+  demons: Демоны
+  denmark: Дания
+  director: Режиссер
+  divehi: Мальдивский
+  documentary: Документальное кино
+  dominican_republic: Доминиканская Республика
+  dutch: Голландский
+  easter: Пасха
+  ecchi: Этти
+  egypt: Египет
+  english: Английский
+  erotica: Эротика
+  esperanto: Эсперанто
+  estonian: Эстонский
