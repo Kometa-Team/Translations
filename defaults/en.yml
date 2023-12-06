@@ -931,6 +931,19 @@ key_names:
   top_29: Top 29
   letterboxd_top_250: Letterboxd Top 250
   box_office_mojo_all_time_100: Box Office Mojo All Time 100
+  oscars_best_picture_winners: Oscars Best Picture Winners
+  sight_and_sound_greatest_films: Sight & Sound Greatest Films
+  afi_100_years_100_movies: AFI 100 Years 100 Movies
+  roger_eberts_great_movies: Roger Ebert's Great Movies
+  edgar_wrights_1000_favorites: Edgar Wright's 1,000 Favorites
+  top_250_most_fans: Top 250 Most Fans
+  top_250_women_directed: Top 250 Women-Directed
+  top_250_documentaries: Top 250 Documentaries
+  imdb_top_250: IMDb Top 250
+  top_100_black_directed: Top 100 Black-Directed
+  top_100_animation: Top 100 Animation
+  top_250_horror: Top 250 Horror
+  cannes_palmes_dor_winners: Cannes Palme d’Or Winners
 collections:
   bafta_best:
     name: BAFTA Best Films
