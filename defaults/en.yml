@@ -929,6 +929,8 @@ key_names:
   top_26: Top 26
   top_28: Top 28
   top_29: Top 29
+  letterboxd_top_250: Letterboxd Top 250
+  box_office_mojo_all_time_100: Box Office Mojo All Time 100
 collections:
   bafta_best:
     name: BAFTA Best Films
