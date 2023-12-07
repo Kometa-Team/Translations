@@ -943,7 +943,7 @@ key_names:
   top_100_black_directed: Top 100 Black-Directed
   top_100_animation: Top 100 Animation
   top_250_horror: Top 250 Horror
-  cannes_palmes_dor_winners: Cannes Palme d’'Or Winners
+  cannes_palmes_dor_winners: Cannes Palme d'Or Winners
 collections:
   bafta_best:
     name: BAFTA Best Films
