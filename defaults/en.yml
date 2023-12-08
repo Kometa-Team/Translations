@@ -944,7 +944,7 @@ key_names:
   top_100_animation: Top 100 Animation
   top_250_horror: Top 250 Horror
   cannes_palmes_dor_winners: Cannes Palme d'Or Winners
-  1001_movies_to_see_before_you_die: 1.001 To See Before You Die
+  1001_movies_to_see_before_you_die: 1,001 To See Before You Die
 collections:
   bafta_best:
     name: BAFTA Best Films
