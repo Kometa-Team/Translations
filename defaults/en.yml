@@ -1244,3 +1244,5 @@ collections:
   continent_other:
     name: Other Continents
     summary: <<library_translationU>>s filmed in other uncommon Continents.
+  venice_year:
+    name: Venice <<year>>
