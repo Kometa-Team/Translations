@@ -1245,4 +1245,4 @@ collections:
     name: Other Continents
     summary: <<library_translationU>>s filmed in other uncommon Continents.
   venice_year:
-    name: Venice <<year>>
+    name: Venice <<key_name>>
