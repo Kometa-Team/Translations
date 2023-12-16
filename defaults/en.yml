@@ -1246,9 +1246,13 @@ collections:
     summary: <<library_translationU>>s filmed in other uncommon Continents.
   venice_year:
     name: Venice <<key_name>>
+    summary: Blah
   berlinale_year:
     name: Berlinale <<key_name>>
+    summary: Blah
   razzie_year:
     name: Razzie <<key_name>>
+    summary: Blah
   cesar_year:
     name: Cesar <<key_name>>
+    summary: Blah
