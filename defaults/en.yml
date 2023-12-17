@@ -1246,7 +1246,7 @@ collections:
     summary: <<library_translationU>>s filmed in other uncommon Continents.
   venice_year:
     name: Venice <<key_name>>
-    summary: <<key_name>> Venice Award  Winners.
+    summary: <<key_name>> Venice Award Winners.
   berlinale_year:
     name: Berlinale <<key_name>>
     summary: <<key_name>> Berlinale Award Winners.
@@ -1257,11 +1257,11 @@ collections:
     name: Cesar <<key_name>>
     summary: <<key_name>> Cesar Award Winners.
   tiff_year:
-    name: Blah
-    summary: Blah
+    name: Toronto International Film Festival <<key_name>>
+    summary: <<key_name>> Toronto International Film Festival Award Winners.
   nfr_year:
-    name: Blah
-    summary: Blah
+    name: National Film Registry <<key_name>>
+    summary: <<key_name>> National Film Registry Award Winners.
   sag_year:
-    summary: Blah
-    name: Blah
+    summary: <<key_name>> Screen Actors Guild Award Winners.
+    name: Screen Actors Guild Awards <<key_name>>
