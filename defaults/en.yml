@@ -1256,3 +1256,12 @@ collections:
   cesar_year:
     name: Cesar <<key_name>>
     summary: <<key_name>> Cesar Award Winners.
+  tiff_year:
+    name: Blah
+    summary: Blah
+  nfr_year:
+    name: Blah
+    summary: Blah
+  sag_year:
+    summary: Blah
+    name: Blah
