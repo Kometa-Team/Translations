@@ -1271,3 +1271,9 @@ collections:
   sag_best:
     name: Screen Actors Guild Award Winners
     summary: Screen Actors Guild Award Winners.
+  pca_year:
+    name: People's Choice Awards <<key_name>>
+    summary: <<key_name>> People's Choice Award Winners.
+  pca_best:
+    summary: People's Choice Award Winners.
+    name: People's Choice Award Winners
