@@ -1268,3 +1268,5 @@ collections:
   tiff_best:
     name: Toronto International Film Festival Winners
     summary: Toronto International Film Festival Winners.
+  sag_best:
+    name: Screen Actors Guild Award Winners
