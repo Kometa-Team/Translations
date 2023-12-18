@@ -1275,5 +1275,5 @@ collections:
     name: People's Choice Awards <<key_name>>
     summary: <<key_name>> People's Choice Award Winners.
   pca_best:
-    summary: "People's Choice Award Winners. "
+    summary: "People's Choice Award Winners."
     name: People's Choice Award Winners
