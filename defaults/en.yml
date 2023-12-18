@@ -1280,3 +1280,6 @@ collections:
   nfr_best:
     name: National Film Registry Award Winners
     summary: National Film Registry Award Winners.
+  choice_best:
+    name: Critics Choice Winners
+    summary: Critics Choice Winners.
