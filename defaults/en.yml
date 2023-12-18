@@ -1277,3 +1277,6 @@ collections:
   pca_best:
     summary: "People's Choice Award Winners."
     name: People's Choice Award Winners
+  nfr_best:
+    name: National Film Registry Award Winners
+    summary: National Film Registry Award Winners.
