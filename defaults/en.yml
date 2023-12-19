@@ -1283,3 +1283,6 @@ collections:
   choice_best:
     name: Critics Choice Winners
     summary: Critics Choice Winners.
+  emmy_best:
+    name: Emmy Award Winners
+    summary: Emmy Award Winners.
