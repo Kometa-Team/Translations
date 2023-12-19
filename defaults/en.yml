@@ -1286,3 +1286,6 @@ collections:
   emmy_best:
     name: Emmy Award Winners
     summary: Emmy Award Winners.
+  spirit_best:
+    name: Independent Spirit Award Winners
+    summary: Independent Spirit Award Winners.
