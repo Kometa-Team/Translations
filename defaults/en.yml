@@ -1254,8 +1254,8 @@ collections:
     name: Razzie <<key_name>>
     summary: <<key_name>> Razzie Award Winners.
   cesar_year:
-    name: Cesar <<key_name>>
-    summary: <<key_name>> Cesar Award Winners.
+    name: César <<key_name>>
+    summary: <<key_name>> César Award Winners.
   tiff_year:
     name: Toronto International Film Festival <<key_name>>
     summary: <<key_name>> Toronto International Film Festival Award Winners.
