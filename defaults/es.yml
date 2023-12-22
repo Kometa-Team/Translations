@@ -703,6 +703,57 @@ key_names:
   mayan: Maya
   tai: Tai
   romany: Gitano
+  australia_and_new_zealand: Australia y Nueva Zelanda
+  adult_cartoons: Dibujos Animados para Adultos
+  america: América
+  animals: Animales
+  animated_shorts: Cortos Animados
+  apocalypse: Apocalipsis
+  astronaut: Astronauta
+  childrens_cartoons: Dibujos Animados para Niños
+  colorado: Colorado
+  criterion_collection: Colección Criterion
+  dark_comedy: Comedia Oscura
+  dinosaurs: Dinosaurios
+  fringe: Marginal
+  inspirational: Inspiracional
+  louisiana: Lousiana
+  medical: Médica
+  pandemic: Pandemia
+  1001_movies_you_must_see_before_you_die: 1001 Películas que Tienes que Ver Antes
+    de Morir
+  dystopian: Distópico
+  human_body: Cuerpo Humano
+  manufacturing: Manufactura
+  mystery_box: Caja de Misterio
+  nature: Naturaleza
+  comedy_horror: Horror de Comedia
+  paranormal: Paranormal
+  stephen_king: Stephen King
+  returning_soon: Regesando Próximamente
+  conspiracy: Conspiración
+  football: Fútbol
+  funny_sci-fi: Ciencia Ficción Cómica
+  first_responder: Socorrista
+  natural_disaster: Desastre Natural
+  top_grossing_films_of_all-time: Películas Más Taquilleras de Todos los Tiempos
+  weather: Clima
+  witch: Bruja
+  south_korea: Corea del Sur
+  democratic_republic_of_the_congo: República Democrática del Congo
+  americas: Américas
+  central_america: América Central
+  building: Edificio
+  engineering_disasters: Desastres de Ingeniería
+  engineering: Ingeniería
+  plants: Plantas
+  prison: Prisión
+  seductive: Seductora
+  technology: Tecnología
+  the_arts: Las Artes
+  top_grossing_films_annually: Películas Más Taquilleras Anualmente
+  unexpectedly_amazing: Sorprendentemente Asombroso
+  united_states: Estados Unidos
 collections:
   bafta_best:
     name: BAFTA Mejores Películas
