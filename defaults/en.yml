@@ -945,6 +945,8 @@ key_names:
   top_250_horror: Top 250 Horror
   cannes_palmes_dor_winners: Cannes Palme d'Or Winners
   1001_movies_to_see_before_you_die: 1,001 To See Before You Die
+  oscars_picture_nomination: Best Picture Nominees
+  oscars_director_nomination: Best Director Nominees
 collections:
   bafta_best:
     name: BAFTA Best Films
