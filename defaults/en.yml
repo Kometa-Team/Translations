@@ -1289,3 +1289,7 @@ collections:
   spirit_best:
     name: Independent Spirit Award Winners
     summary: Independent Spirit Award Winners.
+  oscars_picture_nomination:
+    name: Best Picture Nominees
+  oscars_director_nomination:
+    name: Best Director Nominees
