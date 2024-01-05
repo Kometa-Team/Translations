@@ -1294,3 +1294,4 @@ collections:
     summary: The Nominees for the Best Picture Oscar.
   oscars_director_nomination:
     name: Best Director Nominees
+    summary: The Nominees for the Best Director Oscar.
