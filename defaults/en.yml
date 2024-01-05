@@ -1291,7 +1291,7 @@ collections:
     summary: Independent Spirit Award Winners.
   oscars_picture_nomination:
     name: Best Picture Nominees
-    summary: The Nominees for the Best Picture Oscar.
+    summary: The Nominees for the Best Picture Oscar Award.
   oscars_director_nomination:
     name: Best Director Nominees
-    summary: The Nominees for the Best Director Oscar.
+    summary: The Nominees for the Best Director Oscar Award.
