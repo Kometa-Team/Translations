@@ -1266,13 +1266,13 @@ collections:
     summary: <<key_name>> Toronto International Film Festival Award Winners.
   nfr_year:
     name: National Film Registry <<key_name>>
-    summary: <<key_name>> National Film Registry Award Winners.
+    summary: <<key_name>> National Film Registry.
   sag_year:
     summary: <<key_name>> Screen Actors Guild Award Winners.
     name: Screen Actors Guild Awards <<key_name>>
   tiff_best:
-    name: Toronto International Film Festival Winners
-    summary: Toronto International Film Festival Winners.
+    name: Toronto People's Choice Award Winners
+    summary: Toronto International Film Festival People's Choice Award Winners.
   sag_best:
     name: Screen Actors Guild Award Winners
     summary: Screen Actors Guild Award Winners.
@@ -1283,17 +1283,17 @@ collections:
     summary: "People's Choice Award Winners."
     name: People's Choice Award Winners
   nfr_best:
-    name: National Film Registry Award Winners
-    summary: National Film Registry Award Winners.
+    name: National Film Registry All Time
+    summary: National Film Registry All Time.
   choice_best:
-    name: Critics Choice Winners
-    summary: Critics Choice Winners.
+    name: Critics Choice Best Picture Winners
+    summary: Critics Choice Best Picture Winners.
   emmy_best:
-    name: Emmy Award Winners
-    summary: Emmy Award Winners.
+    name: Emmys Best in Category Winners
+    summary: Emmys Best in Category Winners.
   spirit_best:
-    name: Independent Spirit Award Winners
-    summary: Independent Spirit Award Winners.
+    name: Spirit Best Feature Winners
+    summary: Spirit Best Feature Winners.
   oscars_picture_nomination:
     name: Best Picture Nominees
     summary: The Nominees for the Best Picture Oscar Award.
