@@ -734,7 +734,7 @@ key_names:
   dramedy: Dramödie
   epic: Episch
   espionage: Spionage
-  experimental: experimentell
+  experimental: Experimentell
   fairy_tale: Märchen
   foreign: ausländisch
   fugitive: Flüchtling
@@ -841,6 +841,16 @@ key_names:
   space_opera: Weltraum-Oper
   swashbuckler: Pirat
   sword_sandal: Schwert & Sandale
+  caper: Kapern
+  hustle: Hustle
+  medieval: Mittelalter
+  based_on_books_and_games: Basierend auf Büchern und Spielen
+  heroes_and_wizards: Helden und Zauberer
+  throwback_thursday: Throwback Thursday
+  jungle_adventure: Jungle Adventure
+  north_korea: Nordkorea
+  dark_fantasy: Dark Fantasy
+  post_apocalyptic: Post-Apocalyptic
 collections:
   bafta_best:
     name: BAFTA Beste Filme
