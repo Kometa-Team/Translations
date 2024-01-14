@@ -505,10 +505,451 @@ key_names:
   southern_africa: Sydlige Afrika
   western_africa: Vestafrika
   mongolia: Mongoliet
-  albania: ''
-  algeria: ''
-  afghanistan: ''
-  åland_islands: ''
+  albania: 'Albanien'
+  algeria: 'Algeriet'
+  afghanistan: 'Afghanistan'
+  åland_islands: 'Åland øerne'
+  antarctica_region: Antarktis-regionen
+  family_favourites: Familie favoritter
+  balkan: Balkan
+  this_day_in_history: Denne dag i historien
+  democratic_republic_of_the_congo: Den Demokratiske Republik Congo
+  brazilian: Braziliansk
+  canadian: Canadisk
+  caucasian: Kaukasisk
+  northern_europe: Nordeuropa
+  oscars_best_picture_winners: Oscars Best Picture vindere
+  central_african: Centralafrikansk
+  sight_and_sound_greatest_films: Sight & Sound bedste film
+  central_american: Mellemamerikansk
+  letterboxd_top_250: Letterboxd Top 250
+  central_asian: Centralasiatisk
+  afi_100_years_100_movies: AFI 100 år 100 film
+  box_office_mojo_all_time_100: Box Office Mojo All Time 100
+  central_european: Centraleuropæisk
+  western_asia: Vestasien
+  hong_kong_and_macao: Hong Kong og Macao
+  western_europe: Vesteuropa
+  northern_america: Nordamerika
+  northern_african: Nordafrikansk
+  christmas_cartoons: Jule tegnefilm
+  adult_cartoon: Voksen tegnefilm
+  andorra: Andorra
+  angola: Angola
+  anguilla: Anguilla
+  antarctica: Antarktis
+  antigua: Antigua
+  armenia: Armenien
+  aruba: Aruba
+  azerbaijan: Aserbajdsjan
+  bahrain: Bahrain
+  bangladesh: Bangladesh
+  belarus: Hviderusland
+  belize: Belize
+  benin: Benin
+  bermuda: Bermuda
+  bhutan: Bhutan
+  bolivia: Bolivia
+  bonaire: Bonaire
+  bosnia_and_herzegovina: Bosnien-Hercegovina
+  botswana: Botswana
+  bouvet_island: Bouvetøen
+  brunei: Brunei
+  burkina_faso: Burkina Faso
+  cabo_verde: Cape Verde
+  cambodia: Cambodia
+  cameroon: Cameroon
+  cayman_islands: Caymanøerne
+  south_sudan: Sydsudan
+  chad: Chad
+  christmas_island: Juleøerne
+  cocos_(keeling)_islands: Cocosøerne
+  colombia: Colombia
+  comoros: Comorerne
+  congo: Republikken Congo
+  cook_islands: Cook-øerne
+  cuba: Cuba
+  curaçao: Curaçao
+  cyprus: Cypern
+  djibouti: Djibouti
+  dominica: Dominica
+  ecuador: Ecuador
+  el_salvador: El Salvador
+  eritrea: Eritrea
+  eswatini: Eswatini
+  ethiopia: Etiopien
+  falkland_islands: Falkland-øerne
+  faroe_islands: Færøerne
+  fiji: Fiji
+  french_guiana: Fransk Guiana
+  french_polynesia: Fransk Polynesien
+  gabon: Gabon
+  gambia: Gambia
+  georgia: Georgien
+  ghana: Ghana
+  greenland: Grønland
+  grenada: Grenada
+  guadeloupe: Guadeloupe
+  guam: Guam
+  guatemala: Guatemala
+  guernsey: Guernsey
+  guinea: Guinea
+  guinea-bissau: Guinea-Bissau
+  guyana: Guyana
+  haiti: Haiti
+  holy_see: Vatikanstaten
+  iraq: Irak
+  isle_of_man: Isle of Man
+  jamaica: Jamaica
+  jersey: Jersey
+  jordan: Jordan
+  kazakhstan: Kazakhstan
+  kenya: Kenya
+  kiribati: Kiribati
+  kuwait: Kuwait
+  kyrgyzstan: Kirgisistan
+  lesotho: Lesotho
+  liberia: Liberia
+  libya: Libyen
+  liechtenstein: Liechtenstein
+  lithuania: Litauen
+  macao: Macao
+  macedonia: Nordmakedonien
+  madagascar: Madagascar
+  malawi: Malawi
+  maldives: Maldiverne
+  mali: Mali
+  malta: Malta
+  martinique: Martinique
+  mauritania: Mauritania
+  mauritius: Mauritius
+  mayotte: Mayotte
+  micronesia: Mikronesien
+  moldova: Moldova
+  monaco: Monaco
+  montenegro: Montenegro
+  montserrat: Montserrat
+  mozambique: Mozambique
+  myanmar: Myanmar
+  namibia: Namibia
+  new_guinea: Ny Guinea
+  niger: Niger
+  nigeria: Nigeria
+  niue: Niue
+  norfolk_island: Norfolk
+  oman: Oman
+  palau: Palau
+  palestine: Palæstina
+  paraguay: Paraguay
+  pitcairn: Pitcairn-øerne
+  puerto_rico: Puerto Rico
+  réunion: Reunion
+  rwanda: Rwanda
+  saint_lucia: Saint Lucia
+  samoa: Samoa
+  san_marino: San Marino
+  sao_tome_and_principe: São Tomé og Príncipe
+  senegal: Senegal
+  seychelles: Seychellerne
+  sierra_leone: Sierra Leone
+  slovakia: Slovakiet
+  slovenia: Slovenien
+  solomon_islands: Salomonøerne
+  somalia: Somalia
+  sudan: Sudan
+  suriname: Surinam
+  syria: Syrien
+  tajikistan: Tadsjikistan
+  tanzania: Tanzania
+  timor-leste: Timor-Leste
+  togo: Togo
+  tokelau: Tokelau
+  tunisia: Tunesien
+  turkmenistan: Turkmenistan
+  turks_and_caicos: Turks- og Caicosøerne
+  tuvalu: Tuvalu
+  uganda: Uganda
+  uruguay: Uruguay
+  uzbekistan: Uzbekistan
+  vanuatu: Vanuatu
+  venezuela: Venezuela
+  yemen: Yemen
+  zambia: Zambia
+  zimbabwe: Zimbabwe
+  edgar_wrights_1000_favorites: Edgar Wrights 1,000 favoritter
+  trinidad_and_tobago: Trinidad og Tobago
+  taiwanese: Taiwanesisk
+  found_footage: Fundet optagelser
+  top_250_most_fans: Top 250 flest fans
+  uk: Storbritannien
+  top_250_documentaries: Top 250 dokumentarer
+  usa: USA
+  lovecraftian: Lovecraftian
+  imdb_top_250: IMDb Top 250
+  western_african: Vestafrikansk
+  pinku: Pinku
+  zombie_comedy: Zombie komedie
+  top_100_animation: Top 100 animeret
+  surreal: Surrealistisk
+  top_250_horror: Top 250 gysere
+  video_nasty: Video Nasty
+  surreal_horror: Surrealistisk gyser
+  cannes_palmes_dor_winners: Cannes Palme d'Or vindere
+  wuxia: Wuxia
+  top_250_women_directed: Top 250 instrueret af kvinder
+  top_100_black_directed: Top 100 instrueret af sorte
+  1001_movies_to_see_before_you_die: 1.001 at se før du dør
+  blaxploitation: Blaxploitation
+  east_timor: Øst Timor
+  turks_and_caicos_islands: Turks- og Caicosøerne
+  kosovo: Kosovo
+  saint_kitts_and_nevis: Saint Kitts og Nevis
+  papua_new_guinea: Papua Ny Guinea
+  top_3: Top 3
+  top_4: Top 4
+  mayan: Maya
+  tai: Tai
+  romany: Romany
+  top_12: Top 12
+  top_13: Top 13
+  top_14: Top 14
+  top_19: Top 19
+  top_20: Top 20
+  adult_cartoons: Voksen tegnefilm
+  world_war: Verdenskrig
+  america: Amerika
+  animals: Dyr
+  animated_shorts: Animerede kortfilm
+  plex_must_watch_movies: Film der skal ses
+  top_27: Top 27
+  apocalypse: Dommedag
+  astronaut: Astronaut
+  plex_must_see_shows: Serier der skal ses
+  plex_personal_movies_picks: Mine personlige filmvalg
+  childrens_cartoons: Børns tegnefilm
+  plex_personal_shows_picks: Mine personlige serievalg
+  colorado: Colorado
+  comedy_horror: Komedie gyser
+  conspiracy: Sammensværgelse
+  southeastern_asia: Sydøstasien
+  top_29: Top 29
+  criterion_collection: Criterionsamling
+  dark_comedy: Sort komedie
+  dinosaurs: Dinosaurer
+  buddy_comedy: Buddy Komedie
+  dystopian: Dystopisk
+  first_responder: Første udrykker
+  cyber_thriller: Cyber-Thriller
+  football: Fodbold
+  medieval: Middelalder
+  fringe: Frynser
+  funny_sci-fi: Sjov Sci-Fi
+  human_body: Menneskekroppen
+  based_on_books_and_games: Baseret på bøger og spil
+  heroes_and_wizards: Helte og troldmænd
+  inspirational: Inspirerende
+  throwback_thursday: Throwback torsdag
+  this_week_in_history: Denne uge i historien
+  louisiana: Louisiana
+  this_month_in_history: Denne måned i historien
+  north_korea: Nordkorea
+  north_macedonia: Nordmakedonien
+  absurd_comedy: Absurd komedie
+  arthouse: Kunsthus
+  action_comedy: Aktion komedie
+  exploitation: Udnyttelse
+  the_justice_system: Retssystemet
+  neo-noir: Neo-Noir
+  manufacturing: Fremstilling
+  africa: Afrika
+  body_horror: Krops gyser
+  crime_comedy: Krimikomedie
+  sexploitation: Sexudnyttelse
+  cannibal: Kannibal
+  extreme: Ekstrem
+  creature_feature: Creature Feature
+  folk_horror: Folkegys
+  elevated_horror: Forhøjet rædsel
+  fantasy_horror: Fantasy gyser
+  foreign_giallo: Udenlandsk Giallo
+  foreign_noir: Udenlandsk Noir
+  horror_parody: Gyser parodi
+  gaijinsploitation: Gaijinsploitation
+  silent: Stille
+  slapstick: Slapstick
+  medical: Medicinsk
+  surreal_comedy: Surrealistisk komedie
+  oceania: Oseania
+  sci-fi_horror: Sci-Fi gyser
+  sleazy: Sløset
+  zombie: Zombie
+  top_1: Top 1
+  top_2: Top 2
+  top_8: Top 8
+  top_5: Top 5
+  top_6: Top 6
+  top_7: Top 7
+  top_9: Top 9
+  top_11: Top 11
+  top_16: Top 16
+  top_15: Top 15
+  top_21: Top 21
+  top_18: Top 18
+  top_17: Top 17
+  top_22: Top 22
+  top_23: Top 23
+  top_24: Top 24
+  top_25: Top 25
+  mystery_box: Mysteriekassen
+  top_30: Top 30
+  asia: Asien
+  top_26: Top 26
+  top_28: Top 28
+  north_america: Nordamerika
+  nature: Natur
+  south_america: Sydamerika
+  pandemic: Pandemi
+  Europe: Europa
+  region: Region
+  paranormal: Overnaturlig
+  australia_and_new_zealand: Australien og New Zealand
+  eastern_asia: Østasien
+  melanesia: Melanesia
+  polynesia: Polynesien
+  southern_asia: Sydasien
+  southern_europe: Sydeuropa
+  sub-saharan_africa: Afrika syd for Sahara
+  absurdism: Absurdisme
+  christmas_episodes: Jule episoder
+  alien: Rumvæsen
+  animal: Dyr
+  animated_short: Animeret kortfilm
+  anthology: Antologi
+  anti-hero: Antihelt
+  artificial_intelligence: Kunstig intelligens
+  betrayal: Bedrag
+  boxing: Boksning
+  bug: Kryb
+  caper: Kapere
+  chick_flick: Tøsefilm
+  childrens_cartoon: Børns tegnefilm
+  coming_of_age: At blive ældre
+  cop: Betjent
+  courtroom: Retssal
+  cyberpunk: Cyberpunk
+  dark_fantasy: Mørk fantasi
+  detective: Detektiv
+  dinosaur: Dinosaur
+  dragon: Drage
+  dramedy: Dramedi
+  engineering_disaster: Teknisk katastrofe
+  epic: Episk
+  espionage: Spionage
+  experimental: Eksperimentel
+  foreign: Udenlandsk
+  fugitive: Flygtning
+  ghost: Spøgelse
+  gothic: Gotisk
+  heartbreak: Hjertesorg
+  historical_event: Historisk begivenhed
+  historical_fiction: Historisk fiktion
+  hostage: Gidsel
+  hustle: Trængsel
+  mockumentary: Mockumentary
+  mythology: Mytologi
+  naval: Søfart
+  ninja: Ninja
+  occult: Okkult
+  outlaw: Fredløs
+  period_drama: Periode Drama
+  plant: Plante
+  prehistoric: Forhistorisk
+  religion: Religion
+  remake: Genindspilning
+  revenge: Hævn
+  robot: Robot
+  satire: Satire
+  space_opera: Rumopera
+  spaghetti_western: Spaghetti Western
+  splatter: Splatter
+  côte_divoire: Elfenbenskysten
+  steampunk: Steampunk
+  stop-motion: Stop-Motion
+  surrealism: Surrealisme
+  swashbuckler: Swashbuckler
+  sword_sandal: Sværd & Sandal
+  time_travel: Tidsrejse
+  treasure_hunt: Skattejagt
+  true_crime: True Crime
+  utopia: Utopia
+  werewolf: Vareulv
+  urban_fantasy: Urban Fantasy
+  whodunit: Whodunit
+  wizardry_witchcraft: Trolddom og hekseri
+  plex_must_see_movies: Film der skal ses
+  plex_must_watch_shows: Serier der skal ses
+  jungle_adventure: Jungle eventyr
+  post_apocalyptic: Post-apokalyptisk
+  ultimate_bass: Ultimativ bas
+  best_of_britain: Det bedste fra Storbritannien
+  mystery_and_drama: Mysterie og drama
+  oscars_picture_nomination: Nominerede til bedste tilm
+  oscars_director_nomination: Nominerede til bedste instruktør
+  best_director_nomination: Nominerede til bedste instruktør
+  best_picture_nomination: Nominerede til bedste film
+  all_time: All Time
+  weather: Vejr
+  witch: Heks
+  south_korea: Sydkorea
+  burundi: Burundi
+  nicaragua: Nicaragua
+  continent: 'Kontinent '
+  eastern_african: Østafrikansk
+  chinese_and_mongolian: Kinesisk og mongolsk
+  middle_eastern: Mellemøstlig
+  natural_disaster: Naturkatastrofe
+  costume_drama: Kostume drama
+  philosophy: Filosofi
+  top_grossing_films_of_all-time: Mest indbringende film gennem tiden
+  equatorial_guinea: Ækvatorial Guinea
+  gibraltar: Gibraltar
+  barbados: Barbados
+  south_asian: Sydasiatiske
+  central_african_republic: Den centralafrikanske republik
+  honduras: Honduras
+  lebanon: Libanon
+  southern_african: Sydafrikansk
+  1001_movies_you_must_see_before_you_die: 1001 film, du skal se, før du dør
+  alternate_history: Alternativ historie
+  monster: Monster
+  marshall_islands: Marshall-øerne
+  new_caledonia: Ny Kaledonien
+  saint_barthélemy: Saint-Barthélemy
+  mexican: Mexicansk
+  iberian: Iberisk
+  fairy_tale: Eventyr
+  melodrama: Melodrama
+  roger_eberts_great_movies: Roger Eberts bedste film
+  americas: Amerika
+  central_america: Centralamerika
+  eastern_european: Østeuropæisk
+  australian: Australsk
+  pacific_island: Stillehavsøen
+  south-east_asian: Sydøstasien
+  svalbard_and_jan_mayen: Svalbard og Jan Mayen
+  building: Bygning
+  engineering_disasters: Tekniske katastrofer
+  engineering: Ingeniørarbejde
+  plants: Planter
+  prison: Fængsel
+  seductive: Forførende
+  stephen_king: Stephen King
+  technology: Teknologi
+  the_arts: Kunsten
+  top_grossing_films_annually: Mest indbringende film årligt
+  unexpectedly_amazing: Uventet fantastisk
+  united_states: Forenede Stater
+  returning_soon: Vender snart tilbage
 collections:
   bafta_best:
     name: BAFTA Bedste Film
@@ -796,3 +1237,60 @@ collections:
   aspect_ratio_other:
     summary: <<library_translationU>> optaget i anden ualmindeligt billedformat.
     name: Andre billedformater
+  venice_year:
+    name: Venedig <<key_name>>
+    summary: <<key_name>> Vindere af Venedig-prisen.
+  berlinale_year:
+    name: Berlinale <<key_name>>
+    summary: <<key_name>> Vindere af Berlinale-prisen.
+  razzie_year:
+    name: Razzie <<key_name>>
+    summary: <<key_name>> vindere af Razzie-prisen.
+  cesar_year:
+    name: César <<key_name>>
+    summary: <<key_name>> Vindere af César-prisen.
+  tiff_year:
+    summary: <<key_name>> Vindere af Torontos Internationale Film Festival-prisen.
+    name: Torontos Internationale Film Festival <<key_name>>
+  sag_year:
+    summary: <<key_name>> Vindere af Screen Actors Guild Award.
+    name: Screen Actors Guild Awards <<key_name>>
+  nfr_year:
+    summary: <<key_name>> National Film Registry.
+    name: National Film Registry <<key_name>>
+  tiff_best:
+    summary: Toronto International Film Festival People's Choice Award Winners.
+    name: Toronto People's Choice Award Winners
+  sag_best:
+    summary: Screen Actors Guild Award Winners.
+    name: Screen Actors Guild Award Winners
+  pca_year:
+    summary: <<key_name>> Vindere af People's Choice-prisen.
+    name: People's Choice-prisen<<key_name>>
+  pca_best:
+    name: Vindere af People's Choice-prisen
+    summary: Vindere af People's Choice-prisen.
+  nfr_best:
+    summary: National Film Registry All Time.
+    name: National Film Registry All Time
+  spirit_best:
+    name: Vindere af Spirits bedste egenskab-prisen
+    summary: Vindere af Spirits bedste egenskab-prisen.
+  oscars_picture_nomination:
+    name: Nomineret til bedste film-prisen
+    summary: De nominerede til Oscars bedste film-prisen.
+  oscars_director_nomination:
+    summary: De nominerede til Oscars bedste instruktør-prisen.
+    name: Nomineret til bedste instruktør-prisen
+  choice_best:
+    name: Vindere af Critics Choice bedste film prisen
+    summary: Vindere af Critics Choise-prisen.
+  emmy_best:
+    name: Vindere af Emmys bedste i kategorien-prisen
+    summary: Vindere af Emmys bedste i kategori-prisen.
+  continent_other:
+    summary: <<library_translationU>> optaget i andre ualmindelige kontinenter.
+    name: Andre kontinenter
+  region_other:
+    name: Andre regioner
+    summary: <<library_translationU>> optaget i andre ualmindelige regioner.
