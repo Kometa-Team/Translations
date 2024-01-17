@@ -950,6 +950,9 @@ key_names:
   best_director_nomination: Best Director Nominees
   best_picture_nomination: Best Picture Nominees
   all_time: All Time
+  guilty_pleasure: Guilty Pleasure
+  visually_insane: Visually Insane
+  lost_treasure: Lost Treasure
 collections:
   bafta_best:
     name: BAFTA Best Films
