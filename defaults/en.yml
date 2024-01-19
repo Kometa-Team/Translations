@@ -954,6 +954,9 @@ key_names:
   visually_insane: Visually Insane
   lost_treasure: Lost Treasure
   mojo_top_100: Top 100 of All Time
+  shows: Shows
+  movies: Movies
+  originals: Originals
 collections:
   bafta_best:
     name: BAFTA Best Films
