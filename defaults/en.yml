@@ -957,6 +957,7 @@ key_names:
   shows: Shows
   movies: Movies
   originals: Originals
+  cult_classics: Cult Classics
 collections:
   bafta_best:
     name: BAFTA Best Films
