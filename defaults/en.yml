@@ -960,6 +960,7 @@ key_names:
   cult_classics: Cult Classics
   must_see: Must See
   certified_fresh: Certified Fresh
+  rated_100: Rated 100%
 collections:
   bafta_best:
     name: BAFTA Best Films
