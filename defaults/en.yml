@@ -962,6 +962,7 @@ key_names:
   certified_fresh: Certified Fresh
   rated_100: Rated 100%
   time_loop: Time Loop
+  next_airing: Next Airing
 collections:
   bafta_best:
     name: BAFTA Best Films
