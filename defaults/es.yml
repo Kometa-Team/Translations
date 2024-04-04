@@ -794,6 +794,45 @@ key_names:
   occult: Oculto
   outlaw: Fuera de la ley
   ninja: Ninja
+  imdb_top_250: IMDb Top 250
+  oscars_best_picture_winners: Ganadores de los Óscar a Mejor Película
+  cannes_palmes_dor_winners: Ganadores de la Palma de Oro de Cannes
+  1001_movies_to_see_before_you_die: 1001 Películas Para Ver Antes de Morir
+  world_war: Guerra Mundial
+  heroes_and_wizards: Héroes y Magos
+  oscars_picture_nomination: Nominados a Mejor Película
+  oscars_director_nomination: Nominados a Mejor Director
+  espionage: Espionaje
+  fairy_tale: Cuento de Hadas
+  ghost: Fantasma
+  experimental: Experimental
+  foreign: Extranjero
+  fugitive: Fugitivo
+  caper: Fechorías
+  gothic: Gótico
+  mythology: Mitología
+  period_drama: Drama de época
+  historical_event: Evento Histórico
+  heartbreak: Desamor
+  historical_fiction: Ficción Histórica
+  religion: Religión
+  remake: Remake
+  revenge: Venganza
+  robot: Robot
+  satire: Sátira
+  mockumentary: Falso Documental
+  surrealism: Surrealismo
+  stop-motion: Stop-Motion
+  steampunk: Steampunk
+  time_travel: Viaje en el Tiempo
+  treasure_hunt: Caza del Tesoro
+  true_crime: Crimen Real
+  werewolf: Hombre Lobo
+  wizardry_witchcraft: Magia y Brujería
+  plex_must_see_movies: Películas que Debes Ver
+  papua_new_guinea: Papúa Nueva Guinea
+  horror_parody: Parodia de Terror
+  absurd_comedy: Comedia Absurda
 collections:
   bafta_best:
     name: BAFTA Mejores Películas
