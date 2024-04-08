@@ -505,10 +505,271 @@ key_names:
   southern_cone: Södra konen
   western_africa: Västafrika
   mongolia: Mongoliet
-  afghanistan: ''
-  åland_islands: ''
-  albania: ''
-  algeria: ''
+  afghanistan: 'Afghanistan'
+  åland_islands: 'Åland'
+  albania: 'Albanien'
+  algeria: 'Algeriet'
+  antarctica_region: Antarktis
+  australia_and_new_zealand: Australien och Nya Zealand
+  australian: Australien
+  balkan: Balkan
+  brazilian: Brasilien
+  caucasian: Kaukasiska
+  central_american: Centralamerikansk
+  el_salvador: El Salvador
+  southern_asia: Sydasien
+  sub-saharan_africa: Subsahariska Afrika
+  hong_kong_and_macao: Hong Kong och Macao
+  iberian: Iberisk
+  mexican: Mexikanska
+  equatorial_guinea: Ekvatorialguinea
+  middle_eastern: Mellanöstern
+  northern_african: Nordamerikansk
+  pacific_island: Stillahavsön
+  south_asian: Sydasien
+  southern_african: Sydafrikansk
+  taiwanese: Taiwanesisk
+  uk: Storbrittanien
+  andorra: Andorra
+  angola: Angola
+  anguilla: Anguilla
+  antarctica: Antarktis
+  antigua: Antigua
+  armenia: Armenien
+  aruba: Aruba
+  azerbaijan: Azerbajdzjan
+  bahrain: Bahrain
+  bangladesh: Bangladesh
+  barbados: Barbados
+  belarus: Vitryssland
+  belize: Belize
+  benin: Benin
+  bermuda: Bermuda
+  bhutan: Bhutan
+  bolivia: Bolivien
+  bonaire: Bonaire
+  bosnia_and_herzegovina: Bosnien och Hercegovina
+  botswana: Botswana
+  bouvet_island: Bouvetön
+  brunei: Brunei
+  burundi: Burundi
+  cabo_verde: Kap Verde
+  cambodia: Kambodia
+  cameroon: Kamerun
+  cayman_islands: Caymanöarna
+  central_african_republic: Centralafrikanska republiken
+  chad: Tchad
+  christmas_island: Julöarna
+  cocos_(keeling)_islands: Kokosöarna
+  colombia: Kolombia
+  comoros: Komorerna
+  western_african: Västafrika
+  svalbard_and_jan_mayen: Svalbard och Jan Mayen
+  mayan: Maya
+  tai: Tai
+  romany: Romany
+  1001_movies_you_must_see_before_you_die: 1001 filmer du måste se innan du dör
+  adult_cartoons: Tecknade vuxenserier
+  america: Amerika
+  animals: Djur
+  animated_shorts: Animerade kortfilmer
+  apocalypse: Apokalyps
+  astronaut: Astronaut
+  building: Bygge
+  childrens_cartoons: Tecknade barnserier
+  colorado: Colorado
+  comedy_horror: Skräckkomedi
+  southeastern_asia: Sydostasien
+  criterion_collection: Kriteriesamling
+  dark_comedy: Mörk komedi
+  dinosaurs: Dinosaurier
+  dystopian: Dystopisk
+  football: Fotboll
+  fringe: Fringe
+  funny_sci-fi: Rolig Sci-Fi
+  human_body: Människokropp
+  inspirational: Inspirerande
+  louisiana: Louisiana
+  manufacturing: Tillverkning
+  oceania: Oceanien
+  medical: Medicinsk
+  asia: Asien
+  natural_disaster: Naturkatastrof
+  Europe: Europa
+  paranormal: Paranormal
+  continent: 'Kontinent '
+  stephen_king: Stephen King
+  top_grossing_films_of_all-time: Toppinbringande filmer genom tiderna
+  unexpectedly_amazing: Oväntat fantastiskt
+  weather: Väder
+  witch: Häxa
+  south_korea: Sydkorea
+  americas: Amerikas
+  central_america: Centralamerika
+  canadian: Kanadensisk
+  burkina_faso: Burkina Faso
+  falkland_islands: Falklandsöarna
+  guatemala: Guatemala
+  kazakhstan: Kazakstan
+  new_caledonia: Nya Kaledonien
+  sao_tome_and_principe: São Tomé och Príncipe
+  madagascar: Madagaskar
+  mozambique: Moçambique
+  paraguay: Paraguay
+  solomon_islands: Solomon Islands
+  trinidad_and_tobago: Trinidad och Tobago
+  chinese_and_mongolian: Kinesiska och Mongoliska
+  prison: Fängelse
+  engineering: Teknik
+  côte_divoire: Elfenbenskusten
+  africa: Afrika
+  north_america: Nordamerika
+  south_america: Sydamerika
+  region: Region
+  central_african: Centralafrikanska
+  central_asian: Centralasiatiska
+  central_european: Centraleuropeisk
+  eastern_african: Östafrikanska
+  eastern_european: Östeuropeiska
+  south-east_asian: Sydostasiatisk
+  usa: USA
+  conspiracy: Konspiration
+  engineering_disasters: Tekniska katastrofer
+  first_responder: First Responder
+  mystery_box: Mysteriebox
+  nature: Natur
+  pandemic: Pandemi
+  plants: Växter
+  seductive: Förförisk
+  technology: Teknologi
+  the_arts: Konsten
+  top_grossing_films_annually: Bäst inkomstbringande filmer årligen
+  united_states: USA
+  returning_soon: Återkommer snart
+  democratic_republic_of_the_congo: Demokratiska republiken Kongo
+  eastern_asia: Östasien
+  melanesia: Melanesien
+  northern_europe: Nordeuropa
+  polynesia: Polynesien
+  southern_europe: Sydeuropa
+  western_asia: Västasien
+  western_europe: Västeuropa
+  northern_america: Nordamerika
+  christmas_cartoons: Tecknade julserier
+  christmas_episodes: Julavsnitt
+  absurdism: Absurdism
+  adult_cartoon: Tecknade vuxenserier
+  alien: Främmande
+  alternate_history: Alternativ historia
+  animal: Djur
+  congo: Kongo
+  cook_islands: Cooköarna
+  cuba: Kuba
+  curaçao: Curaçao
+  cyprus: Cypern
+  djibouti: Djibouti
+  dominica: Dominica
+  ecuador: Ecuador
+  eritrea: Eritrea
+  eswatini: Swaziland
+  ethiopia: Etiopien
+  faroe_islands: Färöarna
+  fiji: Fiji
+  french_guiana: Franska Guyana
+  french_polynesia: Franska Polynesien
+  gabon: Gabon
+  gambia: Gambia
+  georgia: Georgien
+  ghana: Ghana
+  gibraltar: Gibraltar
+  greenland: Grönland
+  grenada: Grenada
+  guadeloupe: Guadeloupe
+  guam: Guam
+  guernsey: Guernsey
+  guinea: Guinea
+  guinea-bissau: Guinea-Bissau
+  guyana: Guyana
+  haiti: Haiti
+  holy_see: Vatikanstaten
+  honduras: Honduras
+  iraq: Irak
+  isle_of_man: Isle of Man
+  jamaica: Jamaica
+  jersey: Jersey
+  jordan: Jordanien
+  kenya: Kenya
+  kiribati: Kiribati
+  kuwait: Kuwait
+  kyrgyzstan: Kyrgyzstan
+  lebanon: Libanon
+  lesotho: Lesotho
+  liberia: Liberia
+  libya: Libyen
+  liechtenstein: Liechtenstein
+  lithuania: Litauen
+  macao: Macao
+  macedonia: Nordmakedonien
+  malawi: Malawi
+  maldives: Maldiverna
+  mali: Mali
+  malta: Malta
+  marshall_islands: Marshallöarna
+  martinique: Martinique
+  mauritania: Mauretanien
+  mauritius: Mauritius
+  mayotte: Mayotte
+  micronesia: Mikronesiens federerade stater
+  moldova: Moldavien
+  monaco: Monaco
+  montenegro: Montenegro
+  montserrat: Montserrat
+  myanmar: Myanmar (Burma)
+  namibia: Namibia
+  new_guinea: Nya Guinea
+  nicaragua: Nicaragua
+  niger: Niger
+  nigeria: Nigeria
+  niue: Niue
+  norfolk_island: Norfolk Island
+  oman: Oman
+  palau: Palau
+  palestine: Palestina
+  pitcairn: Pitcairn Islands
+  puerto_rico: Puerto Rico
+  réunion: Réunion
+  rwanda: Rwanda
+  saint_barthélemy: Saint-Barthélemy
+  saint_lucia: Saint Lucia
+  samoa: Samoa
+  san_marino: San Marino
+  senegal: Senegal
+  seychelles: Seychellerna
+  sierra_leone: Sierra Leone
+  slovakia: Slovakien
+  slovenia: Slovenien
+  somalia: Somalia
+  south_sudan: Sydsudan
+  sudan: Sudan
+  suriname: Surinam
+  syria: Syrien
+  tajikistan: Tadzjikistan
+  tanzania: Tanzania
+  timor-leste: Östtimor
+  togo: Togo
+  tokelau: Tokelauöarna
+  tunisia: Tunisien
+  turkmenistan: Turkmenistan
+  turks_and_caicos: Turks och Caicos Islands
+  tuvalu: Tuvalu
+  uganda: Uganda
+  uruguay: Uruguay
+  uzbekistan: Uzbekistan
+  vanuatu: Vanuatu
+  venezuela: Venezuela
+  yemen: Yemen
+  zambia: Zambia
+  zimbabwe: Zimbabwe
 collections:
   bafta_best:
     name: BAFTA bästa filmer
