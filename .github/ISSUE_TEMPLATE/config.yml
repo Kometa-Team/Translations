@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Kometa Weblate Translations
+    url: https://translations.kometa.wiki
+    about: Please use the Kometa Weblate Translation Site to update the Translations.
+  - name: Discord
+    url: https://kometa.wiki/en/latest/discord/
+    about: Please use the Kometa Discord to ask for support.
