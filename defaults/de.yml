@@ -851,6 +851,20 @@ key_names:
   north_korea: Nordkorea
   dark_fantasy: Dark Fantasy
   post_apocalyptic: Post-Apocalyptic
+  this_day_in_history: Dieser Tag in der Geschichte
+  buddy_comedy: Kumpel Komödie
+  family_favourites: Familienfavoriten
+  cyber_thriller: Cyber-Thriller
+  the_justice_system: Das Justizsystem
+  urban_fantasy: Urban Fantasie
+  ultimate_bass: Ultimativer Bass
+  best_of_britain: Das Beste von Großbritannien
+  mystery_and_drama: Mystery und Drama
+  this_week_in_history: Diese Woche in der Geschichte
+  this_month_in_history: Dieser Monat in der Geschichte
+  north_macedonia: Nordmazedonien
+  absurd_comedy: Absurde Komödie
+  arthouse: Kunsthaus
 collections:
   bafta_best:
     name: BAFTA Beste Filme
