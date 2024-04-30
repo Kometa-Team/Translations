@@ -1,19 +1,19 @@
 variables:
   library_translation:
     movie: film
-    show: émission
+    show: série
     artist: artiste
     video: vidéo
     item: article
   library_translation2:
     movie: film
-    show: émission
+    show: série
     artist: artiste
     video: vidéo
     item: article
   library_translation3:
     movie: film
-    show: émission
+    show: série
     artist: artiste
     video: vidéo
     item: article
@@ -98,7 +98,7 @@ key_names:
   chuvash: Tchouvaches
   collected: Collectés
   collectionless: Sans collection
-  comedy: La Comédie
+  comedy: Comédie
   comic: Comique
   competition: Compétition
   con_artist: Escroquerie
@@ -354,7 +354,7 @@ key_names:
   saudi_arabia: Arabie Saoudite
   school: École
   sci-fi_&_fantasy: Science-fiction et fantaisie
-  science_fiction: La science-fiction
+  science_fiction: Science-fiction
   season: Saison
   seasonal: Saisonnier
   serbia: Serbie
@@ -743,7 +743,7 @@ key_names:
   found_footage: Images trouvées
   horror_parody: Horreur parodique
   silent: Silence
-  slapstick: La gifle
+  slapstick: Gifle
   sci-fi_horror: Horreur silence fiction
   zombie_comedy: Comédie de zombie
   pinku: Pinku
@@ -900,6 +900,7 @@ key_names:
   top_grossing_films_annually: Films à plus forte audience annuelle
   unexpectedly_amazing: Inattendu et étonnant
   returning_soon: Bientôt de retour
+  shows: Séries
 collections:
   bafta_best:
     name: BAFTA Meilleurs films
@@ -1050,10 +1051,10 @@ collections:
     summary: Une collection des meilleurs <<library_translation>>s regardés sur Plex.
   tmdb_airing:
     name: TMDb diffusé aujourd’hui
-    summary: Une collection d’émissions avec des épisodes diffusés aujourd’hui.
+    summary: Une collection de séries avec des épisodes diffusés aujourd’hui.
   tmdb_air:
     name: TMDb à l’antenne
-    summary: Une collection d’émissions qui diffusent encore activement des épisodes.
+    summary: Une collection de séries qui diffusent encore activement des épisodes.
   tmdb_popular:
     name: TMDb Populaire
     summary: Une collection des <<library_translation>>s les plus regardés selon TMDb.
