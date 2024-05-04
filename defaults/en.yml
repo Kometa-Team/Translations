@@ -964,6 +964,8 @@ key_names:
   time_loop: Time Loop
   next_airing: Next Airing
   laos: Laos
+  republic_of_the_congo: Republic of the Congo
+  saint_pierre_and_miquelon: Saint Pierre and Miquelon
 collections:
   bafta_best:
     name: BAFTA Best Films
