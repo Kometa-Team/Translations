@@ -963,6 +963,7 @@ key_names:
   rated_100: Rated 100%
   time_loop: Time Loop
   next_airing: Next Airing
+  laos: Laos
 collections:
   bafta_best:
     name: BAFTA Best Films
