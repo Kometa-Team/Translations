@@ -234,7 +234,7 @@ key_names:
   vietnamese: Vietnamita
   war_politics: Guerra e Politica
   welsh: Gallese
-  western: Occidentale
+  western: Western
   writers: Scrittori
   year: Anno
   collectionless: Senza collezione
@@ -714,6 +714,23 @@ key_names:
   comedy_horror: Commedia Horror
   conspiracy: Conspirazione
   building: Edificio
+  criterion_collection: Collezione Criterion
+  dark_comedy: Commedia nera
+  dinosaurs: Dinosauri
+  dystopian: Distopico
+  football: Calcio
+  funny_sci-fi: Fantascienza comica
+  inspirational: Aspirazionale
+  louisiana: Luisiana
+  natural_disaster: Disastri naturali
+  nature: Naturalistici
+  pandemic: Pandemici
+  paranormal: Paranormale
+  unexpectedly_amazing: Sorprendentemente strepitosi
+  engineering_disasters: Disastri dell’ingegneria
+  seductive: Seducenti
+  engineering: Ingegneria
+  stephen_king: Stephen King
 collections:
   bafta_best:
     name: BAFTA Miglior Film
