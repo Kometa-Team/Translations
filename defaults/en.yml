@@ -1316,3 +1316,6 @@ collections:
   oscars_director_nomination:
     name: Best Director Nominees
     summary: The Nominees for the Best Director Oscar Award.
+  box_office_mojo_all_time_100:
+    summary: Based on Box Office Mojo’s all-time top 100 films by worldwide gross,
+      unadjusted for inflation. Updated on a monthly basis.
