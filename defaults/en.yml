@@ -1319,3 +1319,4 @@ collections:
   box_office_mojo_all_time_100:
     summary: Based on Box Office Mojo’s all-time top 100 films by worldwide gross,
       unadjusted for inflation. Updated on a monthly basis.
+    name: Box Office Mojo All Time 100
