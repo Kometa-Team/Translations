@@ -1320,3 +1320,93 @@ collections:
     summary: Based on Box Office Mojo’s all-time top 100 films by worldwide gross,
       unadjusted for inflation. Updated on a monthly basis.
     name: Box Office Mojo All Time 100
+  sight_and_sound_greatest_films:
+    name: Sight & Sound Greatest Films
+    summary: Every decade the Sight and Sound team asks critics to name the greatest
+      films of all time. Here are the results of the 2022 poll – the largest ever,
+      with 1,639 critics, programmers, curators, archivists and academics each submitting
+      their top ten ballot - and now updated with the complete list.
+  letterboxd_top_250:
+    summary: Letterboxd's Top 250 movies, based on the average weighted rating of
+      all Letterboxd users. Removed all stand-up specials, stage plays, concert films,
+      documentaries, shorts, 'collection listings' and other 'rarities', so only feature
+      length narrative movies are listed here. Films should have a minimum of 5,000
+      ratings to be eligible to enter the list.
+    name: Letterboxd Top 250
+  1001_movies_to_see_before_you_die:
+    name: 1,001 To See Before You Die
+    summary: List made from the book 1001 Movies You Must See Before You Die. This
+      list just from the 2021 edition, so you'll not see deleted movies as in other
+      list. List is sorted backwards, newer movies first. By popular demand - collections
+      that were used in the book were switched to first entry only, i.e. Toy Story
+      and Fellowship of the Ring.
+  afi_100_years_100_movies:
+    summary: AFI’s 100 Years…100 Movies – 10th Anniversary Edition is an updated edition
+      to AFI’s 100 Years…100 Movies, a list of the top 100 greatest American films
+      of all time.
+    name: AFI 100 Years 100 Movies
+  top_250_horror:
+    summary: An accompaniment to the Letterboxd Top 250, which sadly contains very
+      few horror films. These are the horror films on Letterboxd with the highest
+      average rating. No shorts, no TV series, no TV movies, no YouTube videos, no
+      filmed stage productions, no reissues, no re-edits of existing footage, no trailer
+      compilations, no lost movies, no behind-the-scenes documentaries, nor anything
+      else that isn't really a full film. All entries must be at least 40 minutes
+      in length. Direct-to-video releases are eligible, provided they are over 60
+      minutes in length.
+    name: Top 250 Horror
+  edgar_wrights_1000_favorites:
+    name: Edgar Wright’s 1,000 Favorites
+    summary: This list of personal favorites was assembled by Edgar Wright and Sam
+      DiSalle in July 2016, and is semi-regularly updated. Films are ordered by year,
+      and alphabetized within each year (our list matches MUBI’s source list order,
+      but some films are listed under alternative names).
+  top_250_women_directed:
+    name: Top 250 Women-Directed
+    summary: An official list progress project on all-time stats pages for Pro and
+      Patron users! Expanded from a top 100 to a top 250 on September 26th, 2022,
+      on the list's 3-year anniversary.
+  top_100_black_directed:
+    name: Top 100 Black-Directed
+    summary: Ranked by average user rating. The list was extracted largely thanks
+      to this megalist of films directed by Black American filmmakers. It will be
+      updated monthly. An official list progress project on all-time stats pages for
+      Pro and Patron users.
+  top_250_most_fans:
+    summary: A further companion piece to Dave Vis' list of Letterboxd's official
+      top 250 films of all-time. To be updated once a month. The list is ranked by
+      the number of fans on Letterboxd. A “fan” is a member with a particular film
+      as one of their four favorites.
+    name: Top 250 Most Fans
+  roger_eberts_great_movies:
+    name: Roger Ebert’s Great Movies
+    summary: Every film from Roger Ebert's 'Great Movies' essays.
+  cannes_palmes_dor_winners:
+    name: Cannes Palme d’Or Winners
+    summary: The “Palme d’Or” is the highest prize award at the Cannes Film Festival.
+  top_250_documentaries:
+    summary: A companion piece to Dave Vis' list of Letterboxd's official top 250
+      films of all-time, which excludes documentaries from consideration. Ranked by
+      average user rating. This list is updated once a month. This is an official
+      list progress project on all-time stats pages for Pro and Patron users. Expanded
+      from a top 100 to a top 250 on June 27th, 2021, on the list's 3-year anniversary.
+    name: Top 250 Documentaries
+  top_100_animation:
+    summary: "100 highest-rated feature-length animated films on Letterboxd. Minimum
+      1,000 ratings. Sequels to shows or anime series—Japanese, American or from elsewhere—that
+      need greater context before watching are not included. Those that are included
+      can be enjoyed on a standalone basis—and I've taken the decision to remove films
+      that only do a brief recap (such as Steven Universe: The Movie) at the beginning
+      that may not give the quality of context necessary for enjoyment. The rationale
+      for this decision is so that viewers can finish this list without having to
+      see a multitude of other episodes and films."
+    name: Top 100 Animation
+  imdb_top_250:
+    summary: "IMDB's top 250 list: loved by some, hated by others. Of course you can
+      argue about the order of movies and the presence or absence of certain titles.
+      Fact remains that it holds a great deal of the most appreciated films of all
+      time and the overall quality is pretty high."
+    name: IMDb Top 250 (Letterboxd)
+  oscars_best_picture_winners:
+    name: Oscar Best Picture Winners
+    summary: Academy Award Winners for Best Picture.
