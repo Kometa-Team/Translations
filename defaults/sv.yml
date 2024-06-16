@@ -770,6 +770,18 @@ key_names:
   yemen: Yemen
   zambia: Zambia
   zimbabwe: Zimbabwe
+  anthology: Antologi
+  anti-hero: Antihjälte
+  betrayal: Svek
+  boxing: Boxning
+  bug: Bugg
+  caper: Kapris
+  chick_flick: Tjejfilm
+  coming_of_age: Coming of Age
+  cop: Snut
+  animated_short: Animerad kortfilm
+  artificial_intelligence: Artificiell Intelligens
+  dramedy: Dramakomedi
 collections:
   bafta_best:
     name: BAFTA bästa filmer
@@ -871,7 +883,7 @@ collections:
     name: IMDb populärt
     summary: Lista över IMDb populärt <<library_translation>>s.
   imdb_top:
-    name: IMDv Topp 250
+    name: IMDb Topp 250
     summary: Lista över IMDb topp 250 <<library_translation>>s.
   flixpatrol:
     name: <<key_name>> Topp <<limit>>
