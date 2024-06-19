@@ -782,6 +782,23 @@ key_names:
   animated_short: Animerad kortfilm
   artificial_intelligence: Artificiell Intelligens
   dramedy: Dramakomedi
+  childrens_cartoon: Tecknat för barn
+  courtroom: Rättssal
+  cyberpunk: Cyberpunk
+  dark_fantasy: Mörk Fantasy
+  detective: Detektiv
+  dinosaur: Dinosaurie
+  dragon: Drake
+  engineering_disaster: Ingenjörskatastrof
+  epic: Episk
+  espionage: Spionage
+  fairy_tale: Saga
+  foreign: Utländsk
+  fugitive: Rymling
+  ghost: Spöke
+  gothic: Gotik
+  costume_drama: Kostymdrama
+  experimental: Experimentell
 collections:
   bafta_best:
     name: BAFTA bästa filmer
