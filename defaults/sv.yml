@@ -799,6 +799,76 @@ key_names:
   gothic: Gotik
   costume_drama: Kostymdrama
   experimental: Experimentell
+  this_week_in_history: Denna vecka i historien
+  this_month_in_history: Denna månad i historien
+  north_korea: Nordkorea
+  north_macedonia: Nordmakedonien
+  sexploitation: Sexutnyttjande
+  world_war: Världskrig
+  plex_must_watch_movies: Filmer du inte får missa
+  plex_must_watch_shows: Serier du inte får missa
+  plex_personal_shows_picks: Mina personliga serieval
+  buddy_comedy: Kompiskomedi
+  post_apocalyptic: Postapokalyptisk
+  medieval: Medeltida
+  based_on_books_and_games: Baserad på böcker och spel
+  heroes_and_wizards: Hjältar och trollkarlar
+  throwback_thursday: Nostalgitorsdag
+  the_justice_system: Rättsväsendet
+  historical_fiction: Historisk roman
+  hostage: Gisslan
+  hustle: Svindla
+  melodrama: Melodrama
+  mockumentary: Mockumentär
+  monster: Monster
+  mythology: Mytologi
+  ninja: Ninja
+  occult: Ockult
+  outlaw: Fredlös
+  period_drama: Historiskt drama
+  philosophy: Filosofi
+  plant: Växt
+  prehistoric: Förhistorisk
+  religion: Religion
+  remake: Nyinspelning
+  revenge: Hämnd
+  robot: Robot
+  satire: Satir
+  space_opera: Rymdopera
+  spaghetti_western: Spaghettivästern
+  splatter: Splatter
+  steampunk: Steampunk
+  stop-motion: Stop motion
+  surrealism: Surrealism
+  sword_sandal: Svärd och sandal
+  time_travel: Tidsresa
+  treasure_hunt: Skattjakt
+  true_crime: Verkliga brott
+  utopia: Utopi
+  werewolf: Varulv
+  whodunit: Deckare
+  urban_fantasy: Urban Fantasy
+  heartbreak: Hjärtesorg
+  historical_event: Historisk händelse
+  wizardry_witchcraft: Trolldom och häxkonst
+  plex_must_see_movies: Filmer du inte får missa
+  plex_must_see_shows: Serier du inte får missa
+  plex_personal_movies_picks: Mina personliga filmval
+  cyber_thriller: Cyber-Thriller
+  jungle_adventure: Djungeläventyr
+  ultimate_bass: Ultimat Bas
+  mystery_and_drama: Mystik och drama
+  this_day_in_history: Denna dag i historien
+  absurd_comedy: Absurd komedi
+  arthouse: Konsthus
+  action_comedy: Actionkomedi
+  exploitation: Utnyttjande
+  body_horror: Kroppsskräck
+  crime_comedy: Kriminalkomedi
+  cannibal: Kannibal
+  creature_feature: Monsterfilm
+  family_favourites: Familjefavoriter
+  extreme: Extrem
 collections:
   bafta_best:
     name: BAFTA bästa filmer
