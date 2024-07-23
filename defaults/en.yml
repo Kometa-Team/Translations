@@ -967,6 +967,10 @@ key_names:
   republic_of_the_congo: Republic of the Congo
   saint_pierre_and_miquelon: Saint Pierre and Miquelon
   president: President
+  best_live_action_short_film_nomination: Best Live Action Short Film Nominees
+  best_animated_feature_film_winners: Best Animated Feature Film Winners
+  best_live_action_short_film_winners: Best Live Action Short Film Winners
+  best_animated_feature_film_nomination: Best Animated Feature Film Nominees
 collections:
   bafta_best:
     name: BAFTA Best Films
