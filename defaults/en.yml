@@ -971,6 +971,7 @@ key_names:
   best_live_action_short_film_winners: Best Live Action Short Film Winners
   best_animated_feature_film_nomination: Best Animated Feature Film Nominees
   best_animated_feature_film_winners: Best Animated Feature Film Winners
+  trains: Trains
 collections:
   bafta_best:
     name: BAFTA Best Films
