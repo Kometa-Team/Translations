@@ -972,6 +972,10 @@ key_names:
   best_animated_feature_film_nomination: Best Animated Feature Film Nominees
   best_animated_feature_film_winners: Best Animated Feature Film Winners
   trains: Trains
+  disney: Disney
+  pixar: Pixar
+  dreamworks: Dreamworks
+  disney_pixar_dreamworls: Disney Pixar Dreamworks
 collections:
   bafta_best:
     name: BAFTA Best Films
