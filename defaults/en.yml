@@ -975,7 +975,6 @@ key_names:
   disney: Disney
   pixar: Pixar
   dreamworks: Dreamworks
-  disney_pixar_dreamworls: Disney Pixar Dreamworks
 collections:
   bafta_best:
     name: BAFTA Best Films
