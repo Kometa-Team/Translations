@@ -976,6 +976,8 @@ key_names:
   pixar: Pixar
   dreamworks: Dreamworks
   disney_pixar_dreamworks: Disney Pixar Dreamworks
+  new_years_eve: New Years Eve
+  may_the_fourth: May the fourth be with you
 collections:
   bafta_best:
     name: BAFTA Best Films
