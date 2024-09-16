@@ -94,7 +94,7 @@ key_names:
   denmark: Danmark
   director: Regissör
   directors: Regissörer
-  biopic: 'Biopic'
+  biopic: 'Biografisk Film'
   children: Barn
   china: Kina
   chinese: Kinesiska
@@ -869,6 +869,70 @@ key_names:
   creature_feature: Monsterfilm
   family_favourites: Familjefavoriter
   extreme: Extrem
+  new_years_eve: Nyårsafton
+  top_13: Topp 13
+  top_12: Topp 12
+  top_26: Topp 26
+  top_100_animation: Topp 100 Tecknat
+  originals: Original
+  president: President
+  afi_100_years_100_movies: AFI 100 år 100 filmer
+  zombie: Zombie
+  letterboxd_top_250: Letterboxd Topp 250
+  edgar_wrights_1000_favorites: Edgar Wright's 1,000 Favoriter
+  top_250_most_fans: Top 250 Flest Fans
+  top_250_documentaries: Topp 250 Dokumentärer
+  imdb_top_250: IMDb Topp 250
+  kosovo: Kosovo
+  top_250_horror: Topp 250 Skräck
+  cannes_palmes_dor_winners: Cannes Palme d'Or Vinnare
+  top_18: Topp 18
+  top_25: Topp 25
+  top_29: Topp 29
+  shows: Serier
+  movies: Filmer
+  cult_classics: Kultklassiker
+  republic_of_the_congo: Republiken Kongo
+  must_see: Måste ses
+  trains: Tåg
+  disney: Disney
+  pixar: Pixar
+  dreamworks: Dreamworks
+  horror_parody: Skräckparodi
+  found_footage: Upphittad film
+  silent: Tyst
+  slapstick: Buskis
+  surreal_comedy: Surrealistisk Komedi
+  sci-fi_horror: Sci-Fi Skräck
+  zombie_comedy: Zombiekomedi
+  surreal: Surrealistisk
+  surreal_horror: Surrealistisk Skräck
+  papua_new_guinea: Papua Nya Guinea
+  saint_kitts_and_nevis: Saint Kitts och Nevis
+  top_1: Topp 1
+  top_2: Topp 2
+  top_3: Topp 3
+  top_4: Topp 4
+  top_8: Topp 8
+  top_5: Topp 5
+  top_6: Topp 6
+  top_7: Topp 7
+  top_9: Topp 9
+  top_11: Topp 11
+  top_16: Topp 16
+  top_15: Topp 15
+  top_21: Topp 21
+  top_14: Topp 14
+  top_19: Topp 19
+  top_20: Topp 20
+  top_17: Topp 17
+  top_22: Topp 22
+  top_27: Topp 27
+  top_23: Topp 23
+  top_24: Topp 24
+  top_30: Topp 30
+  top_28: Topp 28
+  disney_pixar_dreamworks: Disney Pixar Dreamworks
 collections:
   bafta_best:
     name: BAFTA bästa filmer
@@ -1155,3 +1219,29 @@ collections:
   network_other:
     name: Andra nätverk
     summary: <<library_translationU>> sänt på andra ovanliga nätverk.
+  afi_100_years_100_movies:
+    name: AFI 100 År 100 Filmer
+  cannes_palmes_dor_winners:
+    name: Cannes Palme d’Or Vinnare
+  region_other:
+    name: Andra Regioner
+  letterboxd_top_250:
+    name: Letterboxd Topp 250
+  1001_movies_to_see_before_you_die:
+    name: 1,001 Att Se Innan Du Dör
+  continent_other:
+    name: Andra Kontinenter
+  venice_year:
+    name: Venedig<<key_name>>
+  top_250_horror:
+    name: Topp 250 Skräck
+  edgar_wrights_1000_favorites:
+    name: Edgar Wrights 1,000 Favoriter
+  top_250_most_fans:
+    name: Topp 250 Flest Fans
+  top_250_documentaries:
+    name: Topp 250 Dokumentärer
+  top_100_animation:
+    name: Topp 100 Tecknat
+  imdb_top_250:
+    name: IMDb Topp 250 (Letterboxd)
