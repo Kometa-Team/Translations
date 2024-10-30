@@ -684,7 +684,7 @@ key_names:
   middle_eastern: Oriente Medio
   northern_african: África del Norte
   south_asian: Sudasiática
-  south-east_asian: Sudeste Asiática
+  south-east_asian: Sudeste Asiático
   southern_african: Sudafricana
   taiwanese: Taiwanesa
   uk: Reino Unido
@@ -710,7 +710,7 @@ key_names:
   animated_shorts: Cortos Animados
   apocalypse: Apocalipsis
   astronaut: Astronauta
-  childrens_cartoons: Dibujos Animados para Niños
+  childrens_cartoons: Dibujos Infantiles
   colorado: Colorado
   criterion_collection: Colección Criterion
   dark_comedy: Comedia Oscura
@@ -720,8 +720,7 @@ key_names:
   louisiana: Lousiana
   medical: Médica
   pandemic: Pandemia
-  1001_movies_you_must_see_before_you_die: 1001 Películas que Tienes que Ver Antes
-    de Morir
+  1001_movies_you_must_see_before_you_die: 1001 Películas que debes ver antes de morir
   dystopian: Distópico
   human_body: Cuerpo Humano
   manufacturing: Manufactura
@@ -795,7 +794,7 @@ key_names:
   outlaw: Fuera de la ley
   ninja: Ninja
   imdb_top_250: IMDb Top 250
-  oscars_best_picture_winners: Ganadores de los Óscar a Mejor Película
+  oscars_best_picture_winners: Ganadores del Óscar a Mejor Película
   cannes_palmes_dor_winners: Ganadores de la Palma de Oro de Cannes
   1001_movies_to_see_before_you_die: 1001 Películas Para Ver Antes de Morir
   world_war: Guerra Mundial
@@ -833,6 +832,154 @@ key_names:
   papua_new_guinea: Papúa Nueva Guinea
   horror_parody: Parodia de Terror
   absurd_comedy: Comedia Absurda
+  space_opera: Ópera espacial
+  top_250_documentaries: Top 250 Documentales
+  best_live_action_short_film_nomination: Nominados al Óscar a Mejor Cortometraje
+  best_live_action_short_film_winners: Ganadores del Óscar a Mejor Cortometraje
+  best_animated_feature_film_nomination: Nominados al Óscar a Mejor Película de Animación
+  spaghetti_western: Spaghetti Western
+  new_years_eve: Nochevieja
+  sexploitation: Sexploitation
+  top_21: Top 21
+  edgar_wrights_1000_favorites: Los 1,000 favoritos de Edgar Wright
+  cult_classics: Clásicos de culto
+  top_11: Top 11
+  top_250_most_fans: Top 250 con más fans
+  mojo_top_100: Top 100 de todos los tiempos
+  may_the_fourth: May the fourth be with you
+  roger_eberts_great_movies: Las grandes películas de Roger Ebert
+  pinku: Pinku
+  zombie_comedy: Comedia de zombis
+  surreal: Surrealista
+  zombie: Zombi
+  wuxia: Wuxia
+  blaxploitation: Blaxploitation
+  east_timor: Timor Oriental
+  turks_and_caicos_islands: Islas Turcas y Caicos
+  kosovo: Kosovo
+  plex_must_watch_movies: Películas imprescindibles
+  top_27: Top 27
+  plex_personal_movies_picks: Mis selecciones personales de películas
+  plex_personal_shows_picks: Mis selecciones personales de programas
+  top_29: Top 29
+  buddy_comedy: Comedia de amigos
+  cyber_thriller: Ciber-thriller
+  medieval: Medieval
+  based_on_books_and_games: Basado en libros y juegos
+  throwback_thursday: Jueves de recuerdos
+  the_justice_system: El sistema de justicia
+  best_animated_feature_film_winners: Ganadores del Óscar a Mejor Película de Animación
+  engineering_disaster: Catástrofe de ingeniería
+  epic: Épico
+  hostage: Rehén
+  hustle: Estafa
+  melodrama: Melodrama
+  monster: Monstruo
+  naval: Naval
+  philosophy: Filosofía
+  plant: Planta
+  prehistoric: Prehistórico
+  splatter: Gore
+  swashbuckler: Capa y espada
+  sword_sandal: Péplum
+  urban_fantasy: Fantasía urbana
+  utopia: Utopía
+  whodunit: ¿Quién lo hizo?
+  plex_must_see_shows: Programas que debes ver
+  plex_must_watch_shows: Programas imprescindibles
+  jungle_adventure: Aventura en la jungla
+  post_apocalyptic: Post-apocalíptico
+  ultimate_bass: Bajo definitivo
+  best_of_britain: Lo mejor de Gran Bretaña
+  mystery_and_drama: Misterio y drama
+  guilty_pleasure: Placeres culpables
+  visually_insane: Visualmente impactantes
+  shows: Series
+  must_see: Imprescindibles
+  certified_fresh: Certificadas como Fresh
+  rated_100: Valoradas al 100%
+  time_loop: Bucles temporales
+  next_airing: Próxima emisión
+  family_favourites: Favoritos de la familia
+  this_day_in_history: Este día en la historia
+  this_week_in_history: Esta semana en la historia
+  this_month_in_history: Este mes en la historia
+  north_korea: Corea del Norte
+  north_macedonia: Macedonia del Norte
+  arthouse: Cine de autor
+  action_comedy: Comedia de acción
+  exploitation: Cine de explotación
+  neo-noir: Neo-noir
+  body_horror: Horror corporal
+  crime_comedy: Comedia criminal
+  cannibal: Caníbal
+  extreme: Extremo
+  creature_feature: Creature Feature
+  folk_horror: Horror folclórico
+  elevated_horror: Terror elevado
+  fantasy_horror: Terror fantástico
+  foreign_giallo: Giallo extranjero
+  foreign_noir: Noir extranjero
+  found_footage: Metraje encontrado
+  gaijinsploitation: Gaijinsploitation
+  lovecraftian: Lovecraftiano
+  silent: Silencioso
+  slapstick: Comedia slapstick
+  surreal_comedy: Comedia surrealista
+  sci-fi_horror: Terror de ciencia ficción
+  sleazy: Sórdido
+  video_nasty: Video desagradable
+  surreal_horror: Horror surrealista
+  saint_kitts_and_nevis: San Cristóbal y Nieves
+  top_1: Top 1
+  top_2: Top 2
+  top_3: Top 3
+  top_4: Top 4
+  top_8: Top 8
+  top_5: Top 5
+  top_6: Top 6
+  top_7: Top 7
+  top_9: Top 9
+  top_13: Top 13
+  top_12: Top 12
+  top_16: Top 16
+  top_15: Top 15
+  top_14: Top 14
+  top_19: Top 19
+  top_20: Top 20
+  top_18: Top 18
+  top_17: Top 17
+  top_22: Top 22
+  top_23: Top 23
+  top_24: Top 24
+  top_25: Top 25
+  top_30: Top 30
+  top_26: Top 26
+  top_28: Top 28
+  saint_pierre_and_miquelon: Saint-Pierre y Miquelón
+  trains: Trenes
+  disney: Disney
+  pixar: Pixar
+  dreamworks: Dreamworks
+  president: Presidente
+  letterboxd_top_250: Letterboxd Top 250
+  box_office_mojo_all_time_100: Los 100 mejores de todos los tiempos en Box Office
+    Mojo
+  sight_and_sound_greatest_films: Las mejores películas según Sight & Sound
+  afi_100_years_100_movies: 100 años, 100 películas del AFI
+  top_250_women_directed: Top 250 dirigidas por mujeres
+  top_100_black_directed: Top 100 dirigidas por afroamericanos
+  top_100_animation: Top 100 películas de animación
+  top_250_horror: Top 250 Terror
+  best_director_nomination: Nominados al Óscar a Mejor Director
+  best_picture_nomination: Nominadas al Óscar a Mejor Película
+  all_time: Todos los tiempos
+  lost_treasure: Tesoros perdidos
+  movies: Películas
+  originals: Originales
+  laos: Laos
+  republic_of_the_congo: República del Congo
+  disney_pixar_dreamworks: Disney Pixar Dreamworks
 collections:
   bafta_best:
     name: BAFTA Mejores Películas
@@ -1136,3 +1283,154 @@ collections:
   continent_other:
     name: Otros Continentes
     summary: <<library_translationU>>s filmadas en otros Continentes no cumnes.
+  tiff_best:
+    summary: Ganadores del Premio del Público del Festival Internacional de Cine de
+      Toronto.
+    name: Ganadores del Premio del Público de Toronto
+  oscars_director_nomination:
+    name: Nominados a Mejor Director
+    summary: Los nominados al Óscar a Mejor Director.
+  letterboxd_top_250:
+    summary: Las 250 mejores películas en Letterboxd, basado en la calificación media
+      ponderada de todos los usuarios. Se excluyen especiales de comedia, obras de
+      teatro, conciertos, documentales, cortos, "listas de colecciones" y otras "rarezas";
+      solo se incluyen largometrajes narrativos. Las películas deben tener un mínimo
+      de 5.000 calificaciones para entrar en la lista.
+    name: Letterboxd Top 250
+  afi_100_years_100_movies:
+    summary: AFI 100 años, 100 películas - Edición del 10° Aniversario es una edición
+      actualizada de AFI 100 años, 100 películas, una lista de las 100 mejores películas
+      estadounidenses de todos los tiempos.
+    name: AFI 100 años 100 películas
+  sight_and_sound_greatest_films:
+    summary: Cada década, el equipo de Sight & Sound pide a los críticos que nombren
+      las mejores películas de todos los tiempos. Estos son los resultados de la encuesta
+      de 2022, la más grande hasta ahora, con 1,639 críticos, programadores, curadores,
+      archivistas y académicos que enviaron su lista de las diez mejores, ahora actualizada
+      con la lista completa.
+    name: Las mejores películas según Sight & Sound
+  roger_eberts_great_movies:
+    summary: Todas las películas de los ensayos «Grandes películas» de Roger Ebert.
+    name: Las grandes películas de Roger Ebert
+  cannes_palmes_dor_winners:
+    summary: La «Palma de Oro» es el máximo galardón del Festival de Cannes.
+    name: Ganadores de la Palma de Oro de Cannes
+  nfr_year:
+    summary: <<key_name>> National Film Registry.
+    name: National Film Registry <<key_name>>
+  sag_best:
+    name: Ganadores del Premio del Sindicato de Actores
+    summary: Ganadores del Premio del Sindicato de Actores.
+  choice_best:
+    summary: Ganadores de los premios de la Crítica Cinematográfica a Mejor Película.
+    name: Ganadores de los premios de la Crítica Cinematográfica a Mejor Película
+  top_250_horror:
+    summary: Un complemento al Top 250 de Letterboxd, que lamentablemente incluye
+      muy pocas películas de terror. Estas son las películas de terror con la calificación
+      promedio más alta en Letterboxd. No se incluyen cortometrajes, series de televisión,
+      películas para televisión, videos de YouTube, producciones teatrales filmadas,
+      reediciones, reediciones de metraje existente, compilaciones de tráileres, películas
+      perdidas, documentales detrás de cámaras ni nada que no sea una película completa.
+      Todas las entradas deben tener al menos 40 minutos de duración. Las producciones
+      lanzadas directamente en video son elegibles siempre que superen los 60 minutos.
+    name: Top 250 Terror
+  nfr_best:
+    name: 'National Film Registry: Todos los Tiempos'
+    summary: 'National Film Registry: Todos los Tiempos.'
+  top_100_animation:
+    summary: 'Las 100 películas de animación mejor valoradas en Letterboxd. Mínimo
+      1.000 valoraciones. No se han incluido secuelas de series de anime japonesas,
+      estadounidenses o de otros países que necesiten un mayor contexto antes de verlas.
+      Las que se incluyen se pueden disfrutar de forma independiente, y he tomado
+      la decisión de eliminar las películas que solo hacen un breve resumen (como
+      Steven Universe: The Movie) al principio, que puede no dar la calidad del contexto
+      necesario para el disfrute. La razón de esta decisión es que los espectadores
+      puedan terminar está lista sin tener que ver una multitud de otros episodios
+      y películas.'
+    name: Top 100 Animación
+  box_office_mojo_all_time_100:
+    summary: Basada en las 100 películas con mayor recaudación mundial, según Box
+      Office Mojo, sin ajuste por inflación. Actualizada mensualmente.
+    name: Las 100 mejores de todos los tiempos en Box Office Mojo
+  top_250_documentaries:
+    summary: Un complemento a la lista oficial de Dave Vis de las 250 mejores películas
+      de todos los tiempos de Letterboxd, que excluye los documentales. Ordenada por
+      puntuación media de los usuarios. Esta lista se actualiza una vez al mes. Este
+      es un proyecto oficial de lista basado en las estadísticas de todos los tiempos
+      de los usuarios Pro y Patron. Ampliación de la lista de las 100 mejores a las
+      250 mejores el 27 de junio de 2021, en el tercer aniversario de la lista.
+    name: Top 250 Documentales
+  edgar_wrights_1000_favorites:
+    summary: Esta lista de favoritos personales fue creada por Edgar Wright y Sam
+      DiSalle en julio de 2016, y se actualiza periódicamente. Las películas están
+      ordenadas por año y alfabéticamente dentro de cada año (nuestra lista coincide
+      con el orden de MUBI, aunque algunas películas figuran con nombres alternativos).
+    name: Las 1.000 favoritas de Edgar Wright
+  oscars_picture_nomination:
+    summary: Nominadas al Óscar a Mejor Película.
+    name: Nominadas a Mejor Película
+  sag_year:
+    name: Premios del Sindicato de Actores <<key_name>>
+    summary: <<key_name>> Ganadores del Premio del Sindicato de Actores.
+  top_100_black_directed:
+    name: Top 100 dirigidas por afroamericanos
+    summary: Ordenado por la calificación promedio de los usuarios. La lista se generó
+      principalmente gracias a esta mega lista de películas dirigidas por cineastas
+      afroamericanos. Se actualizará mensualmente. Como un proyecto de lista oficial
+      basado en las estadísticas de los usuarios Pro y Patron.
+  top_250_women_directed:
+    summary: Un proyecto oficial de lista basado en las estadísticas de los usuarios
+      Pro y Patron. Se amplió del top 100 al top 250 el 26 de septiembre de 2022,
+      en el tercer aniversario de la lista.
+    name: Top 250 dirigidas por mujeres
+  top_250_most_fans:
+    name: Top 250 con más fans
+    summary: Otra pieza complementaria a la lista de Dave Vis, Top 250 de mejores
+      películas de todos los tiempos en Letterboxd. Se actualizará una vez al mes.
+      La lista está ordenada según el número de fans en Letterboxd. Un “fan” es un
+      miembro que tiene una película en particular como una de sus cuatro favoritas.
+  venice_year:
+    name: Festival Internacional de Cine de Venecia <<key_name>>
+    summary: <<key_name>> Ganadorees en el Festival Internacional de Cine de Venecia.
+  berlinale_year:
+    name: Berlinale <<key_name>>
+    summary: <<key_name>> Ganadores del Premio Berlinale.
+  razzie_year:
+    name: Razzie <<key_name>>
+    summary: <<key_name>> Ganadores del Premio Razzie.
+  cesar_year:
+    name: César <<key_name>>
+    summary: <<key_name>> Ganadores del Premio César.
+  tiff_year:
+    name: Festival Internacional de Cine de Toronto <<key_name>>
+    summary: <<key_name>> Ganadores del Premio en el Festival Internacional de Cine
+      de Toronto.
+  pca_year:
+    name: People's Choice Awards <<key_name>>
+    summary: <<key_name>> Ganadores de los People's Choice Awards.
+  pca_best:
+    summary: Ganadores de los People's Choice Awards.
+    name: Ganadores de los People's Choice Awards
+  emmy_best:
+    name: Ganadores del Emmy en cada categoría
+    summary: Ganadores del Emmy en cada categoría.
+  spirit_best:
+    name: Ganadores del Premio Spirit a Mejor Película
+    summary: Ganadores del Premio Spirit a Mejor Película.
+  1001_movies_to_see_before_you_die:
+    name: Las 1,001 que hay que ver antes de morir
+    summary: Lista basada en el libro 1001 Movies You Must See Before You Die. Esta
+      lista corresponde a la edición de 2021, así que no verás películas eliminadas
+      en otras listas. La lista está ordenada al revés, primero las películas más
+      recientes. Por demanda popular, las colecciones mencionadas en el libro fueron
+      reemplazadas por una sola entrada, como Toy Story y La Comunidad del Anillo.
+  imdb_top_250:
+    summary: 'La lista de las 250 mejores películas de IMDB: amada por unos, odiada
+      por otros. Por supuesto, se puede discutir sobre el orden de las películas y
+      la presencia o ausencia de ciertos títulos. El hecho es que contiene gran parte
+      de las películas más apreciadas de todos los tiempos y la calidad general es
+      bastante alta.'
+    name: Top 250 de IMDb (Letterboxd)
+  oscars_best_picture_winners:
+    name: Ganadores del Óscar a mejor película
+    summary: Ganadores del Óscar a mejor película.
