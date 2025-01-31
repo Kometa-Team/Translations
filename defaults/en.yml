@@ -1115,6 +1115,9 @@ collections:
       Sense Selections include age-appropriate media with the potential to spark family
       conversations, entertain families of all kinds, and have a positive, lasting
       effect on society.
+  metacritic_must_see:
+    name: Metacritic Must See
+    summary: A collection of Metacritic's Must See Movies.
   stevenlu_popular:
     name: StevenLu's Popular Movies
     summary: A collection of StevenLu's Most Popular Movies.
