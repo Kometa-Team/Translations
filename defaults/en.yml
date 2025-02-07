@@ -1426,3 +1426,6 @@ collections:
   oscars_best_picture_winners:
     name: Oscar Best Picture Winners
     summary: Academy Award Winners for Best Picture.
+  aspect:
+    name: <<key>> - <<key_name>>
+    summary: A collection of <<library_translationU>>s with the aspect ratio of <<key>>.
