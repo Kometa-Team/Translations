@@ -865,6 +865,107 @@ key_names:
   north_macedonia: Nordmazedonien
   absurd_comedy: Absurde Komödie
   arthouse: Kunsthaus
+  may_the_fourth: May the fourth be with you
+  edgar_wrights_1000_favorites: Edgar Wrights 1.000 Lieblingsfilme
+  top_250_most_fans: Top 250 mit den meisten Fans
+  top_250_documentaries: Top 250 Dokumentarfilme
+  roger_eberts_great_movies: Roger Ebert's beste Filme
+  cannes_palmes_dor_winners: Cannes Palme d'Or Gewinner
+  1001_movies_to_see_before_you_die: 1.001 Filme, die man gesehen haben muss, bevor
+    man stirbt
+  popular_movies: Beliebte Filme
+  top_14: Top 14
+  top_19: Top 19
+  top_27: Top 27
+  top_29: Top 29
+  best_animated_feature_film_winners: Best Animated Feature Film Gewinner
+  oscars_picture_nomination: Best Picture Nominierungen
+  new_years_eve: Silvester
+  guilty_pleasure: Heimliches Vergnügen
+  cult_classics: Kultklassiker
+  visually_insane: Visuell verrückt
+  shows: Serien
+  mojo_top_100: Top 100 aller Zeiten
+  action_comedy: Action-Komödie
+  exploitation: Ausbeutung
+  crime_comedy: Kriminalkomödie
+  cannibal: Kannibale
+  extreme: Extrem
+  silent: Still
+  top_1: Top 1
+  top_2: Top 2
+  top_3: Top 3
+  top_4: Top 4
+  top_8: Top 8
+  top_5: Top 5
+  neo-noir: Neo-Noir
+  body_horror: Body Horror
+  sexploitation: Sexploitation
+  creature_feature: Kreaturenfilm
+  folk_horror: Folk Horror
+  elevated_horror: Erhöhtes Horror
+  fantasy_horror: Fantasie Horror
+  foreign_giallo: Ausländischer Giallo
+  foreign_noir: Ausländischer Noir
+  horror_parody: Horror Parodie
+  gaijinsploitation: Gaijinsploitation
+  lovecraftian: Lovecraftian
+  sci-fi_horror: Sci-Fi Horror
+  zombie: Zombie
+  top_6: Top 6
+  top_7: Top 7
+  top_9: Top 9
+  top_11: Top 11
+  top_13: Top 13
+  top_20: Top 20
+  top_18: Top 18
+  top_17: Top 17
+  top_22: Top 22
+  top_23: Top 23
+  top_24: Top 24
+  top_25: Top 25
+  top_30: Top 30
+  top_26: Top 26
+  top_28: Top 28
+  top_12: Top 12
+  top_16: Top 16
+  top_15: Top 15
+  top_21: Top 21
+  must_see: Unbedingt ansehen
+  rated_100: Bewertet mit 100%
+  time_loop: Zeitschleife
+  next_airing: Nächste Ausstrahlung
+  disney: Disney
+  pixar: Pixar
+  oscars_best_picture_winners: Oscar Best Picture Gewinner
+  trains: Züge
+  dreamworks: Dreamworks
+  found_footage: Gefundenes Filmmaterial
+  president: Präsident
+  best_live_action_short_film_nomination: Best Live Action Short Film Nominierungen
+  best_live_action_short_film_winners: Best Live Action Short Film Gewinner
+  best_animated_feature_film_nomination: Best Animated Feature Film Gewinner
+  sight_and_sound_greatest_films: Sight & Sound beste Filme
+  afi_100_years_100_movies: AFI 100 Jahre 100 Filme
+  top_250_women_directed: Top 250 von Regisseurinnen
+  imdb_top_250: IMDb Top 250
+  top_100_black_directed: Top 100 von Schwarzen Regisseuren
+  top_100_animation: Top 100 Animationsfilme
+  top_250_horror: Top 250 Horror
+  oscars_director_nomination: Best Director Nominierungen
+  best_director_nomination: Best Director Nominierungen
+  letterboxd_top_250: Letterboxd Top 250
+  box_office_mojo_all_time_100: Box Office Mojo aller Zeiten 100
+  best_picture_nomination: Best Picture Nominierungen
+  all_time: Aller Zeiten
+  lost_treasure: Verlorener Schatz
+  movies: Filme
+  originals: Originale
+  certified_fresh: Zertifiziert neu
+  republic_of_the_congo: Republik Kongo
+  saint_pierre_and_miquelon: Saint-Pierre und Miquelon
+  laos: Laos
+  disney_pixar_dreamworks: Disney Pixar Dreamworks
 collections:
   bafta_best:
     name: BAFTA Beste Filme
@@ -1176,3 +1277,163 @@ collections:
   continent_other:
     name: Andere Kontinente
     summary: <<library_translationU>>s gefilmt in anderen ungewöhnlichen Kontinenten.
+  berlinale_year:
+    summary: <<key_name>> Berlinale Award Gewinner.
+    name: Berlinale <<key_name>>
+  razzie_year:
+    name: Razzie <<key_name>>
+    summary: <<key_name>> Razzie Award Gewinner.
+  cesar_year:
+    name: César <<key_name>>
+    summary: <<key_name>> César Award Gewinner.
+  letterboxd_top_250:
+    name: Letterboxd Top 250
+    summary: Die Top 250 Filme von Letterboxd, basierend auf der durchschnittlichen
+      gewichteten Bewertung aller Letterboxd-Nutzer. Stand-up-Specials, Bühnenstücke,
+      Konzertfilme, Dokumentarfilme, Kurzfilme, „Sammlungslisten“ und andere „Seltenheiten“
+      wurden entfernt, sodass hier nur Spielfilme aufgeführt sind. Filme müssen mindestens
+      5.000 Bewertungen haben, um für die Liste in Frage zu kommen.
+  oscars_picture_nomination:
+    name: Best Picture Nominierungen
+    summary: Die Nominierten für den Best Picture Oscar Award.
+  top_250_horror:
+    name: Top 250 Horror
+    summary: Ein Begleitwerk zur Letterboxd Top 250, die leider nur wenige Horrorfilme
+      enthält. Dies sind die Horrorfilme auf Letterboxd mit der höchsten durchschnittlichen
+      Bewertung. Keine Kurzfilme, keine TV-Serien, keine TV-Filme, keine YouTube-Videos,
+      keine aufgezeichneten Bühnenproduktionen, keine Wiederveröffentlichungen, keine
+      Neu-Schnitt-Versionen von bestehenden Aufnahmen, keine Trailer-Sammlungen, keine
+      verlorenen Filme, keine Behind-the-Scenes-Dokumentationen oder irgendetwas anderes,
+      das kein vollständiger Film ist. Alle Einträge müssen mindestens 40 Minuten
+      lang sein. Direct-to-Video-Veröffentlichungen sind zulässig, wenn sie länger
+      als 60 Minuten sind.
+  afi_100_years_100_movies:
+    summary: AFI’s 100 Years…100 Movies – 10th Anniversary Edition ist eine aktualisierte
+      Ausgabe von AFI’s 100 Years…100 Movies, einer Liste der 100 größten amerikanischen
+      Filme aller Zeiten.
+    name: AFI 100 Jahre 100 Filme
+  oscars_director_nomination:
+    name: Best Director Nominierungen
+    summary: Die Nominierten für den Best Director Oscar Award.
+  nfr_year:
+    summary: <<key_name>> National Film Registry.
+    name: National Film Registry <<key_name>>
+  tiff_best:
+    name: Toronto People's Choice Award Gewinner
+    summary: Toronto International Film Festival People's Choice Award Gewinner.
+  emmy_best:
+    name: Emmys Best in Category Gewinner
+    summary: Emmys Best in Category Gewinner.
+  metacritic_must_see:
+    summary: Eine Sammlung der unbedingt-ansehen Filme von Metacritic.
+    name: Metacritic - Unbedingt ansehen
+  venice_year:
+    summary: <<key_name>> Venice Award Gewinner.
+    name: Venice <<key_name>>
+  tiff_year:
+    name: Toronto International Film Festival <<key_name>>
+    summary: <<key_name>> Toronto International Film Festival Award Gewinner.
+  sag_year:
+    summary: <<key_name>> Screen Actors Guild Award Gewinner.
+    name: Screen Actors Guild Awards <<key_name>>
+  sag_best:
+    name: Screen Actors Guild Award Gewinner
+    summary: Screen Actors Guild Award Gewinner.
+  pca_year:
+    name: People's Choice Awards <<key_name>>
+    summary: <<key_name>> People's Choice Award Gewinner.
+  pca_best:
+    summary: People's Choice Award Gewinner.
+    name: People's Choice Award Gewinner
+  nfr_best:
+    name: National Film Registry aller Zeiten
+    summary: National Film Registry Aller Zeiten.
+  choice_best:
+    name: Critics Choice Best Picture Gewinner
+    summary: Critics Choice Best Picture Gewinner.
+  spirit_best:
+    name: Spirit Best Feature Gewinner
+    summary: Spirit Best Feature Gewinner.
+  box_office_mojo_all_time_100:
+    summary: Basierend auf den Top 100 Filmen aller Zeiten nach weltweitem Umsatz
+      von Box Office Mojo, nicht inflationsbereinigt. Monatlich aktualisiert.
+    name: Box Office Mojo aller Zeiten 100
+  1001_movies_to_see_before_you_die:
+    name: 1.001 Filme, die man gesehen haben muss, bevor man stirbt
+    summary: Liste basierend auf dem Buch *1001 Filme, die man gesehen haben muss,
+      bevor man stirbt*. Diese Liste stammt nur aus der 2021er-Ausgabe, daher fehlen
+      Filme, die in anderen Listen gestrichen wurden. Die Liste ist rückwärts sortiert,
+      neuere Filme stehen zuerst. Auf vielfachen Wunsch wurden Sammlungen, die im
+      Buch verwendet wurden, auf den ersten Eintrag beschränkt, z.B. *Toy Story* und
+      *Der Herr der Ringe*.
+  edgar_wrights_1000_favorites:
+    summary: Diese Liste persönlicher Favoriten wurde von Edgar Wright und Sam DiSalle
+      im Juli 2016 zusammengestellt und wird halb regelmäßig aktualisiert. Die Filme
+      sind nach Jahr geordnet und innerhalb jedes Jahres alphabetisch aufgelistet
+      (unsere Liste entspricht der Reihenfolge der MUBI-Quelle, aber einige Filme
+      sind unter alternativen Titeln aufgeführt).
+    name: Edgar Wrights 1.000 Lieblingsfilme
+  top_250_women_directed:
+    name: Top 250 von Regisseurinnen
+    summary: Ein offizielles Fortschrittsprojekt der Liste auf den All-Time-Statistikseiten
+      für Pro- und Patron-Nutzer! Erweitert von einer Top-100-Liste auf eine Top-250-Liste
+      am 26. September 2022, zum 3-jährigen Jubiläum der Liste.
+  top_100_black_directed:
+    summary: Sortiert nach der durchschnittlichen Benutzerbewertung. Die Liste wurde
+      größtenteils aus dieser Megaliste von Filmen, die von schwarzen amerikanischen
+      Filmemachern inszeniert wurden, extrahiert. Sie wird monatlich aktualisiert.
+      Ein offizielles Fortschrittsprojekt der Liste auf den All-Time-Statistikseiten
+      für Pro- und Patron-Nutzer.
+    name: Top 100 von Schwarzen Regisseuren
+  roger_eberts_great_movies:
+    name: Roger Ebert’s beste Filme
+    summary: Jeder Film aus Roger Eberts „Beste Filme“-Essays.
+  cannes_palmes_dor_winners:
+    name: Cannes Palme d’Or Gewinner
+    summary: Die „Palme d'Or“ ist der höchste Preis beim Filmfestival von Cannes.
+  top_250_documentaries:
+    name: Top 250 Dokumentarfilme
+    summary: Ein Begleitstück zu Dave Vis' Liste der offiziellen Top 250 Filme aller
+      Zeiten auf Letterboxd, die Dokumentarfilme aus der Betrachtung ausschließt.
+      Sortiert nach der durchschnittlichen Benutzerbewertung. Diese Liste wird einmal
+      im Monat aktualisiert. Es handelt sich um ein offizielles Fortschrittsprojekt
+      der Liste auf den All-Time-Statistikseiten für Pro- und Patron-Nutzer. Erweitert
+      von einer Top-100-Liste auf eine Top-250-Liste am 27. Juni 2021, zum 3-jährigen
+      Jubiläum der Liste.
+  sight_and_sound_greatest_films:
+    name: Sight & Sound beste Filme
+    summary: Jedes Jahrzehnt bittet das Team von Sight and Sound Kritiker, die größten
+      Filme aller Zeiten zu benennen. Hier sind die Ergebnisse der Umfrage von 2022
+      – die größte jemals durchgeführte, mit 1.639 Kritikern, Programmierern, Kuratoren,
+      Archivaren und Akademikern, die jeweils ihre Top-Ten-Liste eingereicht haben
+      – und nun mit der vollständigen Liste aktualisiert.
+  top_250_most_fans:
+    name: Top 250 mit den meisten Fans
+    summary: Ein weiteres Begleitstück zu Dave Vis' Liste der offiziellen Top 250
+      Filme aller Zeiten auf Letterboxd. Sie wird einmal im Monat aktualisiert. Die
+      Liste ist nach der Anzahl der Fans auf Letterboxd sortiert. Ein „Fan“ ist ein
+      Mitglied, das einen bestimmten Film als eines seiner vier Lieblingswerke markiert
+      hat.
+  imdb_top_250:
+    summary: "IMDb's Top-250-Liste: von einigen geliebt, von anderen gehasst. Natürlich
+      kann man über die Reihenfolge der Filme und das Vorhandensein oder Fehlen bestimmter
+      Titel streiten. Fakt ist jedoch, dass sie viele der am meisten geschätzten Filme
+      aller Zeiten enthält und die Gesamtqualität ziemlich hoch ist."
+    name: IMDb Top 250 (Letterboxd)
+  aspect:
+    name: <<key_name>>
+    summary: Eine Sammlung von <<library_translationU>>s im Seitenverhältnis von <<key_name>>.
+  top_100_animation:
+    name: Top 100 Animationsfilme
+    summary: 'Die 100 höchstbewerteten Spielfilme im Bereich Animation auf Letterboxd.
+      Mindestens 1.000 Bewertungen. Fortsetzungen von Shows oder Anime-Serien – japanisch,
+      amerikanisch oder aus anderen Ländern – die mehr Kontext erfordern, bevor man
+      sie schaut, sind nicht enthalten. Die enthaltenen Filme können eigenständig
+      genossen werden. Es wurden Filme entfernt, die nur eine kurze Zusammenfassung
+      bieten (wie *Steven Universe: The Movie*), da diese möglicherweise nicht den
+      nötigen Kontext für ein vollständiges Verständnis bieten. Die Entscheidung wurde
+      getroffen, damit Zuschauer diese Liste abschließen können, ohne eine Vielzahl
+      anderer Episoden und Filme sehen zu müssen.'
+  oscars_best_picture_winners:
+    name: Oscar Best Picture Gewinner
+    summary: Academy Award Gewinner für Best Picture.
