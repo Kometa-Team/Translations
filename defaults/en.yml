@@ -979,6 +979,9 @@ key_names:
   new_years_eve: New Years Eve
   may_the_fourth: May the fourth be with you
   popular_movies: Popular Movies
+  movies_leaving_soon: Movies Leaving Soon
+  shows_leaving_soon: Shows Leaving Soon
+  episodes_leaving_soon: Episodes Leaving Soon
 collections:
   bafta_best:
     name: BAFTA Best Films
