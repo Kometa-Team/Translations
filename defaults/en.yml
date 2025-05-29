@@ -982,6 +982,7 @@ key_names:
   movies_leaving_soon: Movies Leaving Soon
   shows_leaving_soon: Shows Leaving Soon
   episodes_leaving_soon: Episodes Leaving Soon
+  backroads_horror: Backroads Horror
 collections:
   bafta_best:
     name: BAFTA Best Films
