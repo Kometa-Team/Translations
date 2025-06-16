@@ -485,7 +485,7 @@ key_names:
   caribbean: Caribe
   caucasus: Cáucaso
   central_africa: África Central
-  central_americas: América Central
+  central_americas: Centroamérica
   eastern_africa: África Oriental
   eastern_europe: Europa Oriental
   iberia: Península Ibérica
@@ -741,7 +741,7 @@ key_names:
   south_korea: Corea del Sur
   democratic_republic_of_the_congo: República Democrática del Congo
   americas: Américas
-  central_america: América Central
+  central_america: Centroamérica
   building: Edificio
   engineering_disasters: Desastres de Ingeniería
   engineering: Ingeniería
@@ -821,7 +821,7 @@ key_names:
   satire: Sátira
   mockumentary: Falso Documental
   surrealism: Surrealismo
-  stop-motion: Stop-Motion
+  stop-motion: Stop Motion
   steampunk: Steampunk
   time_travel: Viaje en el Tiempo
   treasure_hunt: Caza del Tesoro
@@ -846,7 +846,7 @@ key_names:
   top_11: Top 11
   top_250_most_fans: Top 250 con más fans
   mojo_top_100: Top 100 de todos los tiempos
-  may_the_fourth: May the fourth be with you
+  may_the_fourth: Que la fuerza te acompañe
   roger_eberts_great_movies: Las grandes películas de Roger Ebert
   pinku: Pinku
   zombie_comedy: Comedia de zombis
@@ -914,7 +914,7 @@ key_names:
   crime_comedy: Comedia criminal
   cannibal: Caníbal
   extreme: Extremo
-  creature_feature: Creature Feature
+  creature_feature: Monstruos
   folk_horror: Horror folclórico
   elevated_horror: Terror elevado
   fantasy_horror: Terror fantástico
@@ -980,6 +980,11 @@ key_names:
   laos: Laos
   republic_of_the_congo: República del Congo
   disney_pixar_dreamworks: Disney Pixar Dreamworks
+  shows_leaving_soon: Series que dejarán de estar disponibles pronto
+  episodes_leaving_soon: Episodios que dejarán de estar disponibles pronto
+  backroads_horror: Terror en Caminos Rurales
+  movies_leaving_soon: Películas que dejarán de estar disponibles pronto
+  popular_movies: Películas Populares
 collections:
   bafta_best:
     name: BAFTA Mejores Películas
@@ -1316,8 +1321,8 @@ collections:
     summary: La «Palma de Oro» es el máximo galardón del Festival de Cannes.
     name: Ganadores de la Palma de Oro de Cannes
   nfr_year:
-    summary: <<key_name>> National Film Registry.
-    name: National Film Registry <<key_name>>
+    summary: <<key_name>> Registro Nacional de Cine.
+    name: Registro Nacional de Cine <<key_name>>
   sag_best:
     name: Ganadores del Premio del Sindicato de Actores
     summary: Ganadores del Premio del Sindicato de Actores.
@@ -1406,7 +1411,7 @@ collections:
     summary: <<key_name>> Ganadores del Premio en el Festival Internacional de Cine
       de Toronto.
   pca_year:
-    name: People's Choice Awards <<key_name>>
+    name: Premios del Público <<key_name>>
     summary: <<key_name>> Ganadores de los People's Choice Awards.
   pca_best:
     summary: Ganadores de los People's Choice Awards.
@@ -1434,3 +1439,10 @@ collections:
   oscars_best_picture_winners:
     name: Ganadores del Óscar a mejor película
     summary: Ganadores del Óscar a mejor película.
+  metacritic_must_see:
+    name: Imprescindibles de Metacritic
+    summary: Una colección de las películas imprescindibles de Metacritic.
+  aspect:
+    name: <<key_name>>
+    summary: Una colección de <<library_translationU>> con una relación de aspecto
+      de <<key_name>>.
