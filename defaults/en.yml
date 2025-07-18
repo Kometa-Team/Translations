@@ -39,8 +39,8 @@ key_names:
   aragonese: Aragonese
   argentina: Argentina
   armenian: Armenian
-  asian_american_pacific_islander_heritage_month: Asian American & Pacific Islander
-    Heritage Month
+  asian_american_pacific_islander_heritage_month: Asian American & Pacific 
+    Islander Heritage Month
   assamese: Assamese
   assassin: Assassin
   audio_language: Audio Language
@@ -702,7 +702,8 @@ key_names:
   mayan: Mayan
   tai: Tai
   romany: Romany
-  1001_movies_you_must_see_before_you_die: 1001 Movies You Must See Before You Die
+  1001_movies_you_must_see_before_you_die: 1001 Movies You Must See Before You 
+    Die
   adult_cartoons: Adult Cartoons
   america: America
   animals: Animals
@@ -983,6 +984,7 @@ key_names:
   shows_leaving_soon: Shows Leaving Soon
   episodes_leaving_soon: Episodes Leaving Soon
   backroads_horror: Backroads Horror
+  movies_that_defined_our_childhood: Movies That Defined Our Childhood
 collections:
   bafta_best:
     name: BAFTA Best Films
@@ -1013,53 +1015,55 @@ collections:
     summary: <<key_name>> Golden Globe Winners.
   oscars_picture:
     name: Oscars Best Picture Winners
-    summary: The Academy Award for Best Picture is one of the Academy Awards presented
-      annually by the Academy of Motion Picture Arts and Sciences since the awards
-      debuted in 1929.
+    summary: The Academy Award for Best Picture is one of the Academy Awards 
+      presented annually by the Academy of Motion Picture Arts and Sciences 
+      since the awards debuted in 1929.
   oscars_director:
     name: Oscars Best Director Winners
-    summary: The Academy Award for Best Director is one of the Academy Awards presented
-      annually by the Academy of Motion Picture Arts and Sciences since the awards
-      debuted in 1929.
+    summary: The Academy Award for Best Director is one of the Academy Awards 
+      presented annually by the Academy of Motion Picture Arts and Sciences 
+      since the awards debuted in 1929.
   oscars_year:
     name: Oscars Winners <<key_name>>
     summary: Academy Awards (Oscars) Winners for <<key_name>>.
   berlinale_best:
     name: Berlinale Golden Bears
-    summary: Up to 400 films are shown every year as part of the Berlinale's (Berlin
-      International Film Festival) public programme, the vast majority of which are
-      world or European premieres. Films of every genre, length and format can be
-      submitted for consideration. The Golden Bear (German Goldener Bär) is the highest
-      prize awarded for the best film shown during this festival.
+    summary: Up to 400 films are shown every year as part of the Berlinale's 
+      (Berlin International Film Festival) public programme, the vast majority 
+      of which are world or European premieres. Films of every genre, length and
+      format can be submitted for consideration. The Golden Bear (German 
+      Goldener Bär) is the highest prize awarded for the best film shown during 
+      this festival.
   cesar_best:
     name: César Best Film Winners
-    summary: The César Award is the national film award of France, first given out
-      in 1975. The nominations are selected by the members of the Académie des Arts
-      et Techniques du Cinéma. The name of the award comes from the sculptor César
-      Baldaccini. They are considered to be the French equivalent of the American
-      Academy Awards.
+    summary: The César Award is the national film award of France, first given 
+      out in 1975. The nominations are selected by the members of the Académie 
+      des Arts et Techniques du Cinéma. The name of the award comes from the 
+      sculptor César Baldaccini. They are considered to be the French equivalent
+      of the American Academy Awards.
   razzie_worst:
     name: Razzies Golden Raspberry Winners
-    summary: The Golden Raspberry Award for Worst Picture is an award given out at
-      the annual Golden Raspberry Awards to the worst film of the past year.
+    summary: The Golden Raspberry Award for Worst Picture is an award given out 
+      at the annual Golden Raspberry Awards to the worst film of the past year.
   venice_best:
     name: Venice Golden Lions
-    summary: The Venice Film Festival is the oldest film festival in the world. Founded
-      1932, the festival has since taken place every year in Venice, Italy. It is
-      part of the Venice Biennale, a major biennial exhibition and festival for contemporary
-      art. The festival's Leone d'Oro (Golden Lion) prize is awarded to the best film
-      screened at the festival.
+    summary: The Venice Film Festival is the oldest film festival in the world. 
+      Founded 1932, the festival has since taken place every year in Venice, 
+      Italy. It is part of the Venice Biennale, a major biennial exhibition and 
+      festival for contemporary art. The festival's Leone d'Oro (Golden Lion) 
+      prize is awarded to the best film screened at the festival.
   spirit_year:
     name: Independent Spirit Awards <<key_name>>
     summary: <<key_name>> Independent Spirit Awards.
   sundance_best:
     name: Sundance Grand Jury Winners
-    summary: The Sundance Film Festival is a film festival that takes place annually
-      in the state of Utah, in the United States. It is the largest independent cinema
-      festival in the U.S. Held in January, the festival is the premier showcase for
-      new work from American and international independent filmmakers. The festival
-      comprises competitive sections for American and international dramatic and documentary
-      films, both feature-length films and short films, and a group of non-competitive
+    summary: The Sundance Film Festival is a film festival that takes place 
+      annually in the state of Utah, in the United States. It is the largest 
+      independent cinema festival in the U.S. Held in January, the festival is 
+      the premier showcase for new work from American and international 
+      independent filmmakers. The festival comprises competitive sections for 
+      American and international dramatic and documentary films, both 
+      feature-length films and short films, and a group of non-competitive 
       showcase sections.
   sundance_year:
     name: Sundance Film Festival <<key_name>>
@@ -1084,7 +1088,8 @@ collections:
     summary: A collection of newly-released Episodes.
   flixpatrol:
     name: <<key_name>> Top <<limit>>
-    summary: Top <<limit>> <<library_translation>>s on <<key_name>> according to FlixPatrol.
+    summary: Top <<limit>> <<library_translation>>s on <<key_name>> according to
+      FlixPatrol.
   imdb_popular:
     name: IMDb Popular
     summary: List of IMDb Popular <<library_translation>>s.
@@ -1105,20 +1110,22 @@ collections:
     summary: A collection of the Top Rated Anime according to MyAnimeList.
   mal_airing:
     name: MyAnimeList Top Airing
-    summary: A collection of the Top Rated Anime Currently Airing according to MyAnimeList.
+    summary: A collection of the Top Rated Anime Currently Airing according to 
+      MyAnimeList.
   mal_season:
     name: MyAnimeList Season
-    summary: A collection of Anime from the Current Season according to MyAnimeList.
+    summary: A collection of Anime from the Current Season according to 
+      MyAnimeList.
   anidb_popular:
     name: AniDB Popular
     summary: A collection of Popular Anime on AniDB.
   commonsense_selection:
     name: Common Sense Selection
-    summary: A collection of Common Sense <<library_translation>>s. Common Sense recognizes
-      outstanding entertainment with an official seal for quality and impact. Common
-      Sense Selections include age-appropriate media with the potential to spark family
-      conversations, entertain families of all kinds, and have a positive, lasting
-      effect on society.
+    summary: A collection of Common Sense <<library_translation>>s. Common Sense
+      recognizes outstanding entertainment with an official seal for quality and
+      impact. Common Sense Selections include age-appropriate media with the 
+      potential to spark family conversations, entertain families of all kinds, 
+      and have a positive, lasting effect on society.
   metacritic_must_see:
     name: Metacritic Must See
     summary: A collection of Metacritic's Must See Movies.
@@ -1142,11 +1149,12 @@ collections:
     summary: A collection of shows that are still actively airing episodes.
   tmdb_popular:
     name: TMDb Popular
-    summary: A collection of the most watched <<library_translation>>s according to
-      TMDb.
+    summary: A collection of the most watched <<library_translation>>s according
+      to TMDb.
   tmdb_top:
     name: TMDb Top Rated
-    summary: A collection of the top rated <<library_translation>>s according to TMDb.
+    summary: A collection of the top rated <<library_translation>>s according to
+      TMDb.
   tmdb_trending:
     name: TMDb Trending
     summary: A collection of <<library_translation>>s trending on TMDb.
@@ -1182,23 +1190,23 @@ collections:
     summary: <<library_translationU>>s based on or inspired by <<key_name>>s.
   collectionless:
     name: Collectionless
-    summary: Collection of <<library_translationU>>s used to make Plex display items
-      correctly.
+    summary: Collection of <<library_translationU>>s used to make Plex display 
+      items correctly.
   content_rating:
     name: <<key_name>> <<library_translationU>>s
     summary: <<library_translationU>>s that are rated <<key_name>>.
   content_rating_cs:
     name: Age <<key_name>>+ <<library_translationU>>s
-    summary: <<library_translationU>>s that are rated <<key_name>> according to the
-      Common Sense Rating System.
+    summary: <<library_translationU>>s that are rated <<key_name>> according to 
+      the Common Sense Rating System.
   content_rating_other:
     name: Not Rated <<library_translationU>>s
-    summary: <<library_translationU>>s that are Unrated, Not Rated or any other uncommon
-      Ratings.
+    summary: <<library_translationU>>s that are Unrated, Not Rated or any other 
+      uncommon Ratings.
   content_ratings_other:
     name: Other Ratings
-    summary: <<library_translationU>>s that are Unrated, Not Rated or any other uncommon
-      Ratings.
+    summary: <<library_translationU>>s that are Unrated, Not Rated or any other 
+      uncommon Ratings.
   country:
     name: <<key_name>>
     summary: <<library_translationU>>s filmed in <<key_name>>.
@@ -1228,7 +1236,8 @@ collections:
     summary: <<library_translationU>>s broadcast on other uncommon networks.
   network_kids_other:
     name: Other Kids Networks
-    summary: <<library_translationU>>s broadcast on other uncommon kids networks.
+    summary: <<library_translationU>>s broadcast on other uncommon kids 
+      networks.
   producer:
     name: <<key_name>> (Producer)
     summary: <<library_translationU>>s produced by <<key_name>>.
@@ -1243,8 +1252,8 @@ collections:
     summary: <<library_translationU>>s that have other uncommon resolutions.
   seasonal:
     name: <<key_name>> <<library_translationU>>s
-    summary: A collection of <<key_name>> <<library_translation>>s that may relate
-      to the season.
+    summary: A collection of <<key_name>> <<library_translation>>s that may 
+      relate to the season.
   streaming:
     name: <<key_name>> <<library_translationU>>s
     summary: <<library_translationU>>s streaming on <<key_name>>.
@@ -1256,7 +1265,8 @@ collections:
     summary: <<library_translationU>>s produced by other uncommon studios.
   studio_animation_other:
     name: Other Animation Studios
-    summary: <<library_translationU>>s produced by other uncommon animation studios.
+    summary: <<library_translationU>>s produced by other uncommon animation 
+      studios.
   subtitle_language:
     name: <<key_name>> Subtitles
     summary: <<library_translationU>>s with <<key_name>> Subtitles.
@@ -1273,8 +1283,8 @@ collections:
     name: Other Years
     summary: <<library_translationU>>s released in other years.
   birthday:
-    summary: Born this month, here are <<library_translation>>s that <<key_name>>
-      participated in.
+    summary: Born this month, here are <<library_translation>>s that 
+      <<key_name>> participated in.
     name: <<key_name>>'s Birthday"
   aspect_ratio_other:
     summary: <<library_translationU>>s filmed in other uncommon aspect ratios.
@@ -1337,79 +1347,82 @@ collections:
     name: Best Director Nominees
     summary: The Nominees for the Best Director Oscar Award.
   box_office_mojo_all_time_100:
-    summary: Based on Box Office Mojo’s all-time top 100 films by worldwide gross,
-      unadjusted for inflation. Updated on a monthly basis.
+    summary: Based on Box Office Mojo’s all-time top 100 films by worldwide 
+      gross, unadjusted for inflation. Updated on a monthly basis.
     name: Box Office Mojo All Time 100
   sight_and_sound_greatest_films:
     name: Sight & Sound Greatest Films
-    summary: Every decade the Sight and Sound team asks critics to name the greatest
-      films of all time. Here are the results of the 2022 poll – the largest ever,
-      with 1,639 critics, programmers, curators, archivists and academics each submitting
-      their top ten ballot - and now updated with the complete list.
+    summary: Every decade the Sight and Sound team asks critics to name the 
+      greatest films of all time. Here are the results of the 2022 poll – the 
+      largest ever, with 1,639 critics, programmers, curators, archivists and 
+      academics each submitting their top ten ballot - and now updated with the 
+      complete list.
   letterboxd_top_250:
-    summary: Letterboxd's Top 250 movies, based on the average weighted rating of
-      all Letterboxd users. Removed all stand-up specials, stage plays, concert films,
-      documentaries, shorts, 'collection listings' and other 'rarities', so only feature
-      length narrative movies are listed here. Films should have a minimum of 5,000
-      ratings to be eligible to enter the list.
+    summary: Letterboxd's Top 250 movies, based on the average weighted rating 
+      of all Letterboxd users. Removed all stand-up specials, stage plays, 
+      concert films, documentaries, shorts, 'collection listings' and other 
+      'rarities', so only feature length narrative movies are listed here. Films
+      should have a minimum of 5,000 ratings to be eligible to enter the list.
     name: Letterboxd Top 250
   1001_movies_to_see_before_you_die:
     name: 1,001 To See Before You Die
-    summary: List made from the book 1001 Movies You Must See Before You Die. This
-      list just from the 2021 edition, so you'll not see deleted movies as in other
-      list. List is sorted backwards, newer movies first. By popular demand - collections
-      that were used in the book were switched to first entry only, i.e. Toy Story
-      and Fellowship of the Ring.
+    summary: List made from the book 1001 Movies You Must See Before You Die. 
+      This list just from the 2021 edition, so you'll not see deleted movies as 
+      in other list. List is sorted backwards, newer movies first. By popular 
+      demand - collections that were used in the book were switched to first 
+      entry only, i.e. Toy Story and Fellowship of the Ring.
   afi_100_years_100_movies:
-    summary: AFI’s 100 Years…100 Movies – 10th Anniversary Edition is an updated edition
-      to AFI’s 100 Years…100 Movies, a list of the top 100 greatest American films
-      of all time.
+    summary: AFI’s 100 Years…100 Movies – 10th Anniversary Edition is an updated
+      edition to AFI’s 100 Years…100 Movies, a list of the top 100 greatest 
+      American films of all time.
     name: AFI 100 Years 100 Movies
   top_250_horror:
-    summary: An accompaniment to the Letterboxd Top 250, which sadly contains very
-      few horror films. These are the horror films on Letterboxd with the highest
-      average rating. No shorts, no TV series, no TV movies, no YouTube videos, no
-      filmed stage productions, no reissues, no re-edits of existing footage, no trailer
-      compilations, no lost movies, no behind-the-scenes documentaries, nor anything
-      else that isn't really a full film. All entries must be at least 40 minutes
-      in length. Direct-to-video releases are eligible, provided they are over 60
-      minutes in length.
+    summary: An accompaniment to the Letterboxd Top 250, which sadly contains 
+      very few horror films. These are the horror films on Letterboxd with the 
+      highest average rating. No shorts, no TV series, no TV movies, no YouTube 
+      videos, no filmed stage productions, no reissues, no re-edits of existing 
+      footage, no trailer compilations, no lost movies, no behind-the-scenes 
+      documentaries, nor anything else that isn't really a full film. All 
+      entries must be at least 40 minutes in length. Direct-to-video releases 
+      are eligible, provided they are over 60 minutes in length.
     name: Top 250 Horror
   edgar_wrights_1000_favorites:
     name: Edgar Wright’s 1,000 Favorites
-    summary: This list of personal favorites was assembled by Edgar Wright and Sam
-      DiSalle in July 2016, and is semi-regularly updated. Films are ordered by year,
-      and alphabetized within each year (our list matches MUBI’s source list order,
-      but some films are listed under alternative names).
+    summary: This list of personal favorites was assembled by Edgar Wright and 
+      Sam DiSalle in July 2016, and is semi-regularly updated. Films are ordered
+      by year, and alphabetized within each year (our list matches MUBI’s source
+      list order, but some films are listed under alternative names).
   top_250_women_directed:
     name: Top 250 Women-Directed
-    summary: An official list progress project on all-time stats pages for Pro and
-      Patron users! Expanded from a top 100 to a top 250 on September 26th, 2022,
-      on the list's 3-year anniversary.
+    summary: An official list progress project on all-time stats pages for Pro 
+      and Patron users! Expanded from a top 100 to a top 250 on September 26th, 
+      2022, on the list's 3-year anniversary.
   top_100_black_directed:
     name: Top 100 Black-Directed
-    summary: Ranked by average user rating. The list was extracted largely thanks
-      to this megalist of films directed by Black American filmmakers. It will be
-      updated monthly. An official list progress project on all-time stats pages for
-      Pro and Patron users.
+    summary: Ranked by average user rating. The list was extracted largely 
+      thanks to this megalist of films directed by Black American filmmakers. It
+      will be updated monthly. An official list progress project on all-time 
+      stats pages for Pro and Patron users.
   top_250_most_fans:
-    summary: A further companion piece to Dave Vis' list of Letterboxd's official
-      top 250 films of all-time. To be updated once a month. The list is ranked by
-      the number of fans on Letterboxd. A “fan” is a member with a particular film
-      as one of their four favorites.
+    summary: A further companion piece to Dave Vis' list of Letterboxd's 
+      official top 250 films of all-time. To be updated once a month. The list 
+      is ranked by the number of fans on Letterboxd. A “fan” is a member with a 
+      particular film as one of their four favorites.
     name: Top 250 Most Fans
   roger_eberts_great_movies:
     name: Roger Ebert’s Great Movies
     summary: Every film from Roger Ebert's 'Great Movies' essays.
   cannes_palmes_dor_winners:
     name: Cannes Palme d’Or Winners
-    summary: The “Palme d’Or” is the highest prize award at the Cannes Film Festival.
+    summary: The “Palme d’Or” is the highest prize award at the Cannes Film 
+      Festival.
   top_250_documentaries:
-    summary: A companion piece to Dave Vis' list of Letterboxd's official top 250
-      films of all-time, which excludes documentaries from consideration. Ranked by
-      average user rating. This list is updated once a month. This is an official
-      list progress project on all-time stats pages for Pro and Patron users. Expanded
-      from a top 100 to a top 250 on June 27th, 2021, on the list's 3-year anniversary.
+    summary: A companion piece to Dave Vis' list of Letterboxd's official top 
+      250 films of all-time, which excludes documentaries from consideration. 
+      Ranked by average user rating. This list is updated once a month. This is 
+      an official list progress project on all-time stats pages for Pro and 
+      Patron users. Expanded from a top 100 to a top 250 on June 27th, 2021, on 
+      the list's 3-year anniversary.
     name: Top 250 Documentaries
   top_100_animation:
     summary: "100 highest-rated feature-length animated films on Letterboxd. Minimum
@@ -1432,4 +1445,5 @@ collections:
     summary: Academy Award Winners for Best Picture.
   aspect:
     name: <<key_name>>
-    summary: A collection of <<library_translationU>>s with the aspect ratio of <<key_name>>.
+    summary: A collection of <<library_translationU>>s with the aspect ratio of 
+      <<key_name>>.
