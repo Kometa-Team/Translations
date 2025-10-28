@@ -1,1 +1,1464 @@
-{}
+variables:
+  library_translation:
+    movie: film
+    show: sorozat
+    artist: előadó
+    video: videó
+    item: tétel
+  library_translation2:
+    movie: film
+    show: sorozat
+    artist: előadó
+    video: videó
+    item: tétel
+  library_translation3:
+    movie: film
+    show: sorozat
+    artist: előadó
+    video: videó
+    item: tétel
+key_names:
+  4/20: 4/20
+  abkhazian: Abháziai
+  action: Akció
+  action_adventure: Akció és Kaland
+  actor: Színész
+  actors: Színészek
+  adult: Felnőtt
+  adventure: Kaland
+  afar: Afar
+  afrikaans: Afrikaans
+  age: Kor
+  airing_today: Ma Adásban
+  akan: Akan
+  albanian: Albán
+  amharic: Amhara
+  animation: Animáció
+  anime: Anime
+  arabic: Arab
+  aragonese: Aragóniai
+  argentina: Argentína
+  armenian: Örmény
+  asian_american_pacific_islander_heritage_month: Ázsiai-Amerikai és 
+    Csendes-óceáni szigeteki örökség hónapja
+  assamese: Asszámi
+  assassin: Bérgyilkos
+  audio_language: Audio Nyelv
+  australia: Ausztrália
+  austria: Ausztria
+  avaric: Avar
+  avestan: Avesztai
+  award: Díj
+  aymara: Aymara
+  azerbaijani: Azerbajdzsáni
+  bambara: Bambara
+  bahamas: Bahamák
+  based_on: Alapja...
+  based_on_a_book: Könyv Alapján
+  based_on_a_comic: Képregény Alapján
+  based_on_a_true_story: Igaz Történet Alapján
+  based_on_a_video_game: Videójáték Alapján
+  basque: Baszk
+  bashkir: Baskír
+  belarusian: Fehérorosz
+  belgium: Belgium
+  bengali: Bengáli
+  best_director_winners: Legjobb Rendező Díj Nyertesei
+  best_picture_winner: Legjobb Film Díj Nyertese
+  best_picture_winners: Legjobb Film Díj Nyertesei
+  best_of: A legjobb
+  biography: Életrajz
+  biopic: Életrajzi film
+  bislama: Bislama
+  black_history_month: Fekete Történelem Hónapja
+  book: Könyv
+  bosnian: Bosnyák
+  bottom_rated: Legrosszabb Értékelésű
+  box_office: Box office
+  boys_love: Boys Love
+  brazil: Brazília
+  breton: Breton
+  bulgaria: Bulgária
+  bulgarian: Bolgár
+  burmese: Burmai
+  canada: Kanada
+  cars: Autók
+  catalan: Katalán
+  central_khmer: Közép-Khmer
+  chamorro: Chamorro
+  chart: Lista
+  chechen: Csecsen
+  chichewa: Chicheva
+  children: Gyermek
+  chile: Chile
+  china: Kína
+  chinese: Kínai
+  christmas: Karácsony
+  church_slavic: Óegyházi szláv
+  chuvash: Csuvas
+  collected: Gyűjtött
+  collectionless: Gyűjtemény nélküli
+  comedy: Vígjáték
+  comic: Képregény
+  competition: Verseny
+  con_artist: Szélhámos
+  content_ratings: Tartalmi Besorolások
+  cornish: Cornwalli
+  corsican: Korzikai
+  costa_rica: Costa Rica
+  country: Ország
+  creature_horror: Szörnyhorror
+  cree: Krí
+  crime: Bűnügyi
+  croatia: Horvátország
+  croatian: Horvát
+  czech: Cseh
+  czech_republic: Cseh Köztársaság
+  danish: Dán
+  day_of_persons_with_disabilities: Fogyatékossággal Élők Napja
+  decade: Évtized
+  demons: Démonok
+  denmark: Dánia
+  director: Rendező
+  directors: Rendezők
+  divehi: Divehi
+  documentary: Dokumentumfilm
+  dominican_republic: Dominikai Köztársaság
+  drama: Dráma
+  dzongkha: Dzongkha
+  dutch: Holland
+  easter: Húsvét
+  ecchi: Ecchi
+  egypt: Egyiptom
+  english: Angol
+  erotica: Erotika
+  esperanto: Eszperantó
+  estonia: Észtország
+  estonian: Észt
+  ewe: Eve
+  family: Családi
+  families: Családok
+  fantasy: Fantasy
+  faroese: Feröeri
+  fathers_day: Apák Napja
+  favorited: Kedvenc
+  fijian: Fidzsi
+  filipino: Filippínó
+  film_noir: Film Noir
+  finland: Finnország
+  finnish: Finn
+  food: Étel
+  found_footage_horror: Talált felvétel horror
+  france: Franciaország
+  franchise: Franchise
+  french: Francia
+  fulah: Fula
+  gaelic: Gél
+  galician: Galíciai
+  game: Játék
+  game_show: Vetélkedő
+  ganda: Ganda
+  gangster: Gengszter
+  genre: Műfaj
+  georgian: Grúz
+  german: Német
+  germany: Németország
+  girls_love: Girl's Love
+  gourmet: Ínyenc
+  grand_jury_winners: Fődíj nyertesek
+  greece: Görögország
+  greek: Görög
+  guarani: Guarani
+  gujarati: Gudzsaráti
+  haitian: Haiti
+  halloween: Halloween
+  harem: Hárem
+  hausa: Hausza
+  hebrew: Héber
+  heist: Rablás
+  hentai: Hentai
+  herero: Herero
+  hindi: Hindi
+  hiri_motu: Hiri Motu
+  history: Történelem
+  home_and_garden: Otthon és Kert
+  hong_kong: Hong Kong
+  horror: Horror
+  hungarian: Magyar
+  hungary: Magyarország
+  iceland: Izland
+  icelandic: Izlandi
+  ido: Ido
+  igbo: Igbó
+  independence_day: Függetlenség Napja
+  india: India
+  indie: Független
+  indonesia: Indonézia
+  indonesian: Indonéz
+  interlingua: Interlingua
+  interlingue: Interlingue
+  inuktitut: Inuktitut
+  inupiaq: Inupiaq
+  iran: Irán
+  ireland: Írország
+  irish: Ír
+  israel: Izrael
+  italian: Olasz
+  italy: Olaszország
+  japan: Japán
+  japanese: Japán
+  javanese: Jáva
+  kalaallisut: Kalaallisut
+  kannada: Kannada
+  kanuri: Kanuri
+  kashmiri: Kasmíri
+  kazakh: Kazah
+  kids: Gyerekeknek
+  kids_network: Gyerek Csatorna
+  kikuyu: Kikuyu
+  kinyarwanda: Kinyarwanda
+  kirghiz: Kirgiz
+  komi: Komi
+  kongo: Kongói
+  korea: Korea
+  korean: Koreai
+  kuanyama: Kuanyama
+  kurdish: Kurd
+  lgbtq: LMBTQ+
+  lgbtq_pride_month: LMBTQ+ Büszkeség Hónapja
+  labor_day: Munka Ünnepe
+  lao: Lao
+  latin: Latin
+  latinx_heritage_month: Latinx Örökség Hónapja
+  latvia: Lettország
+  latvian: Lett
+  limburgan: Limburgi
+  lingala: Lingala
+  lithuanian: Litván
+  luba-katanga: Luba-Katanga
+  luxembourg: Luxemburg
+  luxembourgish: Luxemburgi
+  lowest_rated: Legalacsonyabb Értékelésű
+  macedonian: Macedón
+  malagasy: Malgas
+  malay: Maláj
+  malayalam: Malayalam
+  malaysia: Malajzia
+  malaysian: Malajziai
+  maltese: Máltai
+  mandarin: Mandarin
+  manx: Manx
+  maori: Maori
+  marathi: Marathi
+  martial_arts: Harcművészetek
+  marshallese: Marshall
+  mecha: Mecha
+  memorial_day: Emlékezet Napja
+  mexico: Mexikó
+  military: Katonai
+  mind_bend: Elme-Csavar
+  mind_fuck: Elme-Facsar
+  mind_f**k: Elme-F**sar
+  mini_series: Minisorozat
+  mongolian: Mongol
+  morocco: Marokkó
+  mothers_day: Anyák Napja
+  movie_chart: Film Lista
+  music: Zene
+  musical: Musical
+  mystery: Rejtély
+  nauru: Nauru
+  navajo: Navajo
+  ndonga: Ndonga
+  nepal: Nepál
+  nepali: Nepáli
+  netherlands: Hollandia
+  network: Csatorna
+  new_episodes: Új Epizódok
+  new_premieres: Új bemutatók
+  new_year: Új Év
+  new_years_day: Új Év Napja
+  new_zealand: Új-Zéland
+  newly_released_episodes: Újonnan Megjelent Epizódok
+  newly_released: Újonnan Megjelent
+  news: Hírek
+  news_politics: Hírek és Politika
+  nominations: Jelölések
+  not_rated: Nem Besorolt
+  now_playing: Most Játékban
+  north_ndebele: Északi Ndebele
+  northern_sami: Északi Számi
+  norway: Norvégia
+  norwegian: Norvég
+  norwegian_bokmål: Norvég Bokmål
+  norwegian_nynorsk: Norvég Nynorsk
+  occitan: Okcitán
+  ojibwa: Odzsibva
+  on_the_air: Adásban
+  oriya: Orija
+  oromo: Oromo
+  ossetian: Oszét
+  other: Egyéb
+  outdoor_adventure: Kültéri Kaland
+  pakistan: Pakisztán
+  pali: Páli
+  panama: Panama
+  parody: Paródia
+  pashto: Pastu
+  persian: Perzsa
+  personal: Személyes
+  peru: Peru
+  philippines: Fülöp-szigetek
+  pilots: Pilotok
+  plex_people_watching: Plex Nézők
+  plex_pilots: Plex Pilotok
+  plex_popular: Plex Népszerű
+  plex_watched: Plex Nézett
+  poland: Lengyelország
+  police: Rendőrségi
+  polish: Lengyel
+  politics: Politika
+  popular: Népszerű
+  portugal: Portugália
+  portugese: Portugál
+  portuguese: Portugál
+  producer: Producer
+  producers: Producerek
+  psychedelic: Pszichedelikus
+  psychological: Pszichológiai
+  psychological_horror: Pszichológiai Horror
+  punjabi: Pandzsábi
+  qatar: Katar
+  quechua: Kecsua
+  rated: Besorolt
+  ratings: Értékelések
+  reality: Reality
+  recommended: Ajánlott
+  recently_added: Mostanában Hozzáadott
+  recently_aired: Mostanában Adott
+  resolution: Felbontás
+  romance: Romantikus
+  romania: Románia
+  romanian: Román
+  romantic_comedy: Romantikus Vígjáték
+  romantic_drama: Romantikus Dráma
+  romansh: Rétoromán
+  rundi: Rundi
+  russia: Oroszország
+  russian: Orosz
+  samoan: Szamoai
+  samurai: Szamuráj
+  sango: Szangó
+  sanskrit: Szanszkrit
+  sardinian: Szardíniai
+  saudi_arabia: Szaúd-Arábia
+  school: Iskola
+  sci-fi_&_fantasy: Sci-Fi és Fantasy
+  science_fiction: Tudományos-Fantasztikus
+  season: Évad
+  seasonal: Évszaki
+  serbia: Szerbia
+  serbian: Szerb
+  serial_killer: Sorozatgyilkos
+  shona: Shona
+  short: Rövid
+  shoujo: Shoujo
+  shounen: Shounen
+  sichuan_yi: Szecsuáni Yi
+  sindhi: Szindhi
+  singapore: Szingapúr
+  sinhala: Szinhala
+  slasher: Slasher
+  slice_of_life: Élethelyzetek
+  slovak: Szlovák
+  slovenian: Szlovén
+  soap: Szappanopera
+  somali: Szomáli
+  south_africa: Dél-Afrika
+  south_ndebele: Déli Ndebele
+  southern_sotho: Déli Szótó
+  space: Űr
+  spain: Spanyolország
+  spanish: Spanyol
+  sport: Sport
+  spy: Kém
+  sri_lanka: Sri Lanka
+  st_patricks_day: Szent Patrik Napja
+  stand-up_comedy: Stand-Up Vígjáték
+  stevenlu's_popular_movies: StevenLu népszerű filmjei
+  stoner_comedy: Betépős vígjáték
+  streaming: Streaming
+  studio: Stúdió
+  studio_animation: Animációs Stúdió
+  subtitle: Felirat
+  subtitle_language: Felirat Nyelv
+  sundanese: Szunda
+  superhero: Szuperhős
+  super_power: Szupererő
+  supernatural: Természetfeletti
+  survival: Túlélés
+  suspense: Feszültség
+  swahili: Szvahili
+  swati: Szvazi
+  sweden: Svédország
+  swedish: Svéd
+  switzerland: Svájc
+  sword_sorcery: Kard és Varázslat
+  tv_chart: TV Lista
+  tv_movie: TV Film
+  tagalog: Tagalog
+  tahitian: Tahiti
+  tajik: Tádzsik
+  talk_show: Talk Show
+  tamil: Tamil
+  tatar: Tatár
+  telugu: Telugu
+  thai: Thai
+  thailand: Thaiföld
+  thanksgiving: Hálaadás
+  thriller: Thriller
+  tibetan: Tibeti
+  tigrinya: Tigrinya
+  timeline_order: Időrendi Sorrend
+  tonga: Tonga
+  top_10: Top 10
+  top_10_pirated: Top 10 Kalóz
+  top_250: Top 250
+  top_airing: Legjobb Adásban
+  top_rated: Legjobb Értékelésű
+  travel: Utazás
+  true_story: Igaz Történet
+  trending: Felkapott
+  tsonga: Tsonga
+  tswana: Tswana
+  turkey: Törökország
+  turkish: Török
+  turkmen: Türkmén
+  twi: Twi
+  uighur: Ujgur
+  uk_network: Egyesült Királyság Csatorna
+  uk_streaming: Egyesült Királyság Streaming
+  ukraine: Ukrajna
+  ukrainian: Ukrán
+  united_arab_emirates: Egyesült Arab Emírségek
+  united_kingdom: Egyesült Királyság
+  united_states_of_america: Amerikai Egyesült Államok
+  universe: Univerzum
+  urdu: Urdu
+  us_network: USA Csatorna
+  us_streaming: USA Streaming
+  uzbek: Üzbég
+  valentines_day: Bálint Nap
+  vampire: Vámpír
+  venda: Venda
+  video_game: Videójáték
+  vietnam: Vietnam
+  vietnamese: Vietnámi
+  volapük: Volapük
+  walloon: Vallon
+  war: Háború
+  war_politics: Háború és Politika
+  watched: Nézett
+  watchlist: Figyelőlista
+  welsh: Walesi
+  western: Western
+  western_frisian: Nyugati Fríz
+  winners: Nyertesek
+  wolof: Wolof
+  womens_history_month: Női Történelem Hónapja
+  writer: Író
+  writers: Írók
+  xhosa: Xhosa
+  year: Év
+  yiddish: Jiddis
+  yoruba: Yoruba
+  zhuang: Zhuang
+  zombie_horror: Zombi Horror
+  zulu: Zulu
+  taiwan: Tajvan
+  nordic: Északi
+  latin_america: Latin-Amerika
+  mma: MMA
+  leaving_soon: Hamarosan Távozik
+  new: Új
+  ended: Befejezett
+  ufo: UFO
+  veterans_day: Veteránok Napja
+  aspect_ratio: Képarány
+  andean: Andoki
+  balkans: Balkán
+  benelux: Benelux
+  caribbean: Karib-tenger
+  caucasus: Kaukázus
+  central_africa: Közép-Afrika
+  central_americas: Közép-Amerikák
+  central_asia: Közép-Ázsia
+  eastern_africa: Kelet-Afrika
+  eastern_europe: Kelet-Európa
+  iberia: Ibéria
+  middle_east: Közel-Kelet
+  northern_africa: Észak-Afrika
+  pacific_islands: Csendes-óceáni szigetek
+  south_asia: Dél-Ázsia
+  south-east_asia: Délkelet-Ázsia
+  southern_africa: Dél-Afrika
+  southern_cone: Déli Kúp
+  western_africa: Nyugat-Afrika
+  mongolia: Mongólia
+  afghanistan: Afganisztán
+  åland_islands: Åland-szigetek
+  albania: Albánia
+  algeria: Algéria
+  andorra: Andorra
+  angola: Angola
+  anguilla: Anguilla
+  antarctica: Antarktisz
+  antigua: Antigua
+  armenia: Örményország
+  aruba: Aruba
+  azerbaijan: Azerbajdzsán
+  bahrain: Bahrein
+  bangladesh: Banglades
+  barbados: Barbados
+  belarus: Fehéroroszország
+  belize: Belize
+  benin: Benin
+  bermuda: Bermuda
+  bhutan: Bhután
+  bolivia: Bolívia
+  bonaire: Bonaire
+  bosnia_and_herzegovina: Bosznia-Hercegovina
+  botswana: Botswana
+  bouvet_island: Bouvet-sziget
+  brunei: Brunei
+  burkina_faso: Burkina Faso
+  burundi: Burundi
+  cabo_verde: Zöld-foki Köztársaság
+  cambodia: Kambodzsa
+  cameroon: Kamerun
+  cayman_islands: Kajmán-szigetek
+  central_african_republic: Közép-afrikai Köztársaság
+  chad: Csád
+  christmas_island: Karácsony-sziget
+  cocos_(keeling)_islands: Kókusz (Keeling) Szigetek
+  colombia: Kolumbia
+  comoros: Comore-szigetek
+  congo: Kongó
+  cook_islands: Cook-szigetek
+  cuba: Kuba
+  curaçao: Curaçao
+  cyprus: Ciprus
+  djibouti: Dzsibuti
+  dominica: Dominika
+  ecuador: Ecuador
+  el_salvador: Salvador
+  equatorial_guinea: Egyenlítői-Guinea
+  eritrea: Eritrea
+  eswatini: Szváziföld
+  ethiopia: Etiópia
+  falkland_islands: Falkland-szigetek
+  faroe_islands: Feröer-szigetek
+  fiji: Fidzsi
+  french_guiana: Francia Guyana
+  french_polynesia: Francia Polinézia
+  gabon: Gabon
+  gambia: Gambia
+  georgia: Grúzia
+  ghana: Ghána
+  gibraltar: Gibraltár
+  greenland: Grönland
+  grenada: Grenada
+  guadeloupe: Guadeloupe
+  guam: Guam
+  guatemala: Guatemala
+  guernsey: Guernsey
+  guinea: Guinea
+  guinea-bissau: Bissau-Guinea
+  guyana: Guyana
+  haiti: Haiti
+  holy_see: Szentszék
+  honduras: Honduras
+  iraq: Irak
+  isle_of_man: Man-sziget
+  jamaica: Jamaica
+  jersey: Jersey
+  jordan: Jordánia
+  kazakhstan: Kazahsztán
+  kenya: Kenya
+  kiribati: Kiribati
+  kuwait: Kuvait
+  kyrgyzstan: Kirgizisztán
+  lebanon: Libanon
+  lesotho: Lesotho
+  liberia: Libéria
+  libya: Líbia
+  liechtenstein: Liechtenstein
+  lithuania: Litvánia
+  macao: Makaó
+  macedonia: Macedónia
+  madagascar: Madagaszkár
+  malawi: Malawi
+  maldives: Maldív-szigetek
+  mali: Mali
+  malta: Málta
+  marshall_islands: Marshall-szigetek
+  martinique: Martinique
+  mauritania: Mauritánia
+  mauritius: Mauritius
+  mayotte: Mayotte
+  micronesia: Mikronézia
+  moldova: Moldova
+  monaco: Monaco
+  montenegro: Montenegró
+  montserrat: Montserrat
+  mozambique: Mozambik
+  myanmar: Mianmar
+  namibia: Namíbia
+  new_caledonia: Új-Kaledónia
+  new_guinea: Új-Guinea
+  nicaragua: Nicaragua
+  niger: Niger
+  nigeria: Nigéria
+  niue: Niue
+  norfolk_island: Norfolk-sziget
+  oman: Omán
+  palau: Palau
+  palestine: Palesztina
+  paraguay: Paraguay
+  pitcairn: Pitcairn
+  puerto_rico: Puerto Rico
+  réunion: Réunion
+  rwanda: Ruanda
+  saint_barthélemy: Saint Barthélemy
+  saint_lucia: Saint Lucia
+  samoa: Szamoa
+  san_marino: San Marino
+  sao_tome_and_principe: São Tomé és Príncipe
+  senegal: Szenegál
+  seychelles: Seychelle-szigetek
+  sierra_leone: Sierra Leone
+  slovakia: Szlovákia
+  slovenia: Szlovénia
+  solomon_islands: Salamon-szigetek
+  somalia: Szomália
+  south_sudan: Dél-Szudán
+  sudan: Szudán
+  suriname: Suriname
+  syria: Szíria
+  tajikistan: Tádzsikisztán
+  tanzania: Tanzánia
+  timor-leste: Kelet-Timor
+  togo: Togo
+  tokelau: Tokelau
+  trinidad_and_tobago: Trinidad és Tobago
+  tunisia: Tunézia
+  turkmenistan: Türkmenisztán
+  turks_and_caicos: Turks- és Caicos-szigetek
+  tuvalu: Tuvalu
+  uganda: Uganda
+  uruguay: Uruguay
+  uzbekistan: Üzbegisztán
+  vanuatu: Vanuatu
+  venezuela: Venezuela
+  yemen: Jemen
+  zambia: Zambia
+  zimbabwe: Zimbabwe
+  côte_divoire: Elefántcsontpart
+  africa: Afrika
+  oceania: Óceánia
+  asia: Ázsia
+  north_america: Észak-Amerika
+  south_america: Dél-Amerika
+  Europe: Európa
+  region: Régió
+  continent: 'Kontinens '
+  antarctica_region: Antarktisz Régió
+  australian: Ausztrál
+  balkan: Balkán
+  brazilian: Brazil
+  canadian: Kanadai
+  caucasian: Kaukázusi
+  central_african: Közép-afrikai
+  central_american: Közép-amerikai
+  central_asian: Közép-ázsiai
+  central_european: Közép-európai
+  chinese_and_mongolian: Kínai és Mongol
+  eastern_african: Kelet-afrikai
+  eastern_european: Kelet-európai
+  hong_kong_and_macao: Hong Kong és Makaó
+  iberian: Ibériai
+  mexican: Mexikói
+  middle_eastern: Közel-keleti
+  northern_african: Észak-afrikai
+  pacific_island: Csendes-óceáni szigeti
+  south_asian: Dél-ázsiai
+  south-east_asian: Délkelet-ázsiai
+  southern_african: Dél-afrikai
+  taiwanese: Tajvani
+  uk: Egyesült Királyság
+  usa: USA
+  western_african: Nyugat-afrikai
+  svalbard_and_jan_mayen: Svalbard és Jan Mayen
+  mayan: Maja
+  tai: Tai
+  romany: Cigány
+  1001_movies_you_must_see_before_you_die: 1001 Film, Amit Látnod Kell, Mielőtt 
+    Meghalsz
+  adult_cartoons: Felnőtt Rajzfilmek
+  america: Amerika
+  animals: Állatok
+  animated_shorts: Animált Rövidfilmek
+  apocalypse: Apokalipszis
+  astronaut: Asztronauta
+  building: Épület
+  childrens_cartoons: Gyermek Rajzfilmek
+  colorado: Colorado
+  comedy_horror: Vígjáték Horror
+  conspiracy: Összeesküvés
+  criterion_collection: Criterion Gyűjtemény
+  dark_comedy: Sötét Vígjáték
+  dinosaurs: Dinoszauruszok
+  dystopian: Disztópikus
+  engineering_disasters: Mérnöki Katasztrófák
+  engineering: Mérnöki
+  first_responder: Első Reagáló
+  football: Futball
+  fringe: Periféria
+  funny_sci-fi: Vicces Sci-Fi
+  human_body: Emberi Test
+  inspirational: Inspiráló
+  louisiana: Louisiana
+  manufacturing: Gyártás
+  medical: Orvosi
+  mystery_box: Rejtélyes Doboz
+  natural_disaster: Természeti Katasztrófa
+  nature: Természet
+  pandemic: Pandémia
+  paranormal: Paranormális
+  plants: Növények
+  prison: Börtön
+  seductive: Csábító
+  stephen_king: Stephen King
+  technology: Technológia
+  the_arts: A Művészetek
+  top_grossing_films_annually: Legnagyobb Bevételű Filmek Évente
+  top_grossing_films_of_all-time: Minden Idők Legnagyobb Bevételű Filmjei
+  unexpectedly_amazing: Váratlanul Lenyűgöző
+  weather: Időjárás
+  witch: Boszorkány
+  south_korea: Dél-Korea
+  united_states: Egyesült Államok
+  returning_soon: Hamarosan Visszatér
+  americas: Amerikák
+  central_america: Közép-Amerika
+  australia_and_new_zealand: Ausztrália és Új-Zéland
+  democratic_republic_of_the_congo: Kongói Demokratikus Köztársaság
+  eastern_asia: Kelet-Ázsia
+  melanesia: Melanézia
+  northern_europe: Észak-Európa
+  polynesia: Polinézia
+  southeastern_asia: Délkelet-Ázsia
+  southern_asia: Dél-Ázsia
+  southern_europe: Dél-Európa
+  sub-saharan_africa: Szubszaharai Afrika
+  western_asia: Nyugat-Ázsia
+  western_europe: Nyugat-Európa
+  northern_america: Észak-Amerika
+  christmas_cartoons: Karácsonyi Rajzfilmek
+  christmas_episodes: Karácsonyi Epizódok
+  absurdism: Abszurdizmus
+  adult_cartoon: Felnőtt Rajzfilm
+  alien: Idegen
+  alternate_history: Alternatív Történelem
+  animal: Állat
+  animated_short: Animált Rövidfilm
+  anthology: Antológia
+  anti-hero: Anti-hős
+  artificial_intelligence: Mesterséges Intelligencia
+  betrayal: Árulás
+  boxing: Ökölvívás
+  bug: Bogár
+  caper: Bűnügyi kaland
+  chick_flick: Csajos Film
+  childrens_cartoon: Gyermek Rajzfilm
+  coming_of_age: Felnövéstörténet
+  cop: Zsaru
+  costume_drama: Jelmezes Dráma
+  courtroom: Tárgyalótermi
+  cyberpunk: Cyberpunk
+  dark_fantasy: Sötét Fantasy
+  detective: Detektív
+  dinosaur: Dinoszaurusz
+  dragon: Sárkány
+  dramedy: Dramedy
+  engineering_disaster: Mérnöki Katasztrófa
+  epic: Epikus
+  espionage: Kémkedés
+  experimental: Kísérleti
+  fairy_tale: Tündérmese
+  foreign: Külföldi
+  fugitive: Szökevény
+  ghost: Szellem
+  gothic: Gótikus
+  heartbreak: Szívfájdalom
+  historical_event: Történelmi Esemény
+  historical_fiction: Történelmi Fikció
+  hostage: Túsz
+  hustle: Svindli
+  melodrama: Melodráma
+  mockumentary: Mockumentary
+  monster: Szörny
+  mythology: Mitológia
+  naval: Tengeri
+  ninja: Ninja
+  occult: Okkult
+  outlaw: Törvényen Kívüli
+  period_drama: Korhű Dráma
+  philosophy: Filozófia
+  plant: Növény
+  prehistoric: Őskori
+  religion: Vallás
+  remake: Remake
+  revenge: Bosszú
+  robot: Robot
+  satire: Szatíra
+  space_opera: Űropera
+  spaghetti_western: Spagetti Western
+  splatter: Splatter
+  steampunk: Steampunk
+  stop-motion: Stop-Motion
+  surrealism: Szürrealizmus
+  swashbuckler: Kalandor
+  sword_sandal: Kard és Szandál
+  time_travel: Időutazás
+  treasure_hunt: Kincsvadászat
+  true_crime: Igaz Bűnügy
+  urban_fantasy: Urbánus Fantasy
+  utopia: Utópia
+  werewolf: Vérfarkas
+  whodunit: Ki tette?
+  wizardry_witchcraft: Varázslat és Boszorkányság
+  world_war: Világháború
+  plex_must_see_movies: Kötelező Filmek Plexen
+  plex_must_watch_movies: Kötelező Néznivaló Filmek Plexen
+  plex_must_see_shows: Kötelező Sorozatok Plexen
+  plex_must_watch_shows: Kötelező Néznivaló Sorozatok Plexen
+  plex_personal_movies_picks: Személyes Filmválogatásom Plexen
+  plex_personal_shows_picks: Személyes Sorozatválogatásom Plexen
+  buddy_comedy: Haver Vígjáték
+  cyber_thriller: Cyber-Thriller
+  jungle_adventure: Dzsungelkaland
+  post_apocalyptic: Poszt-apokaliptikus
+  medieval: Középkori
+  ultimate_bass: Ultimate Bass
+  best_of_britain: A Legjobb Brit
+  based_on_books_and_games: Könyvek és Játékok Alapján
+  heroes_and_wizards: Hősök és Varázslók
+  throwback_thursday: Visszaemlékezés Csütörtök
+  the_justice_system: Az Igazságszolgáltatási Rendszer
+  mystery_and_drama: Rejtély és Dráma
+  family_favourites: Családi Kedvencek
+  this_day_in_history: Ezen a napon a történelemben
+  this_week_in_history: Ezen a héten a történelemben
+  this_month_in_history: Ebben a hónapban a történelemben
+  north_korea: Észak-Korea
+  north_macedonia: Észak-Macedónia
+  absurd_comedy: Abszurd Vígjáték
+  arthouse: Artfilm
+  action_comedy: Akció Vígjáték
+  exploitation: Exploitation
+  neo-noir: Neo-Noir
+  body_horror: Test Horror
+  crime_comedy: Bűnügyi Vígjáték
+  sexploitation: Sexploitation
+  cannibal: Kannibál
+  extreme: Extrém
+  creature_feature: Szörnyfilm
+  folk_horror: Folk Horror
+  elevated_horror: Magasztos Horror
+  fantasy_horror: Fantasy Horror
+  foreign_giallo: Külföldi Giallo
+  foreign_noir: Külföldi Noir
+  horror_parody: Horror Paródia
+  found_footage: Talált Felvétel
+  gaijinsploitation: Gaijinsploitation
+  lovecraftian: Lovecrafti
+  silent: Néma
+  slapstick: Burleszk
+  surreal_comedy: Szürreális Vígjáték
+  sci-fi_horror: Sci-Fi Horror
+  pinku: Pinku
+  zombie_comedy: Zombi Vígjáték
+  sleazy: Trágya
+  surreal: Szürreális
+  video_nasty: Video Nasty
+  surreal_horror: Szürreális Horror
+  zombie: Zombi
+  wuxia: Wuxia
+  blaxploitation: Blaxploitation
+  east_timor: Kelet-Timor
+  turks_and_caicos_islands: Turks- és Caicos-szigetek
+  kosovo: Koszovó
+  papua_new_guinea: Pápua Új-Guinea
+  saint_kitts_and_nevis: Saint Kitts és Nevis
+  top_1: Top 1
+  top_2: Top 2
+  top_3: Top 3
+  top_4: Top 4
+  top_8: Top 8
+  top_5: Top 5
+  top_6: Top 6
+  top_7: Top 7
+  top_9: Top 9
+  top_11: Top 11
+  top_13: Top 13
+  top_12: Top 12
+  top_16: Top 16
+  top_15: Top 15
+  top_21: Top 21
+  top_14: Top 14
+  top_19: Top 19
+  top_20: Top 20
+  top_18: Top 18
+  top_17: Top 17
+  top_22: Top 22
+  top_27: Top 27
+  top_23: Top 23
+  top_24: Top 24
+  top_25: Top 25
+  top_30: Top 30
+  top_26: Top 26
+  top_28: Top 28
+  top_29: Top 29
+  letterboxd_top_250: Letterboxd Top 250
+  box_office_mojo_all_time_100: Box Office Mojo Minden Idők 100
+  oscars_best_picture_winners: Oscar Legjobb Film Nyertesei
+  sight_and_sound_greatest_films: Sight & Sound Legnagyobb Filmjei
+  afi_100_years_100_movies: AFI 100 Év 100 Film
+  roger_eberts_great_movies: Roger Ebert Nagy Filmjei
+  edgar_wrights_1000_favorites: Edgar Wright 1000 Kedvence
+  top_250_most_fans: 250 Legtöbb Rajongóval
+  top_250_women_directed: 250 Nő Által Rendezett
+  top_250_documentaries: 250 Dokumentumfilm
+  imdb_top_250: IMDb Top 250
+  top_100_black_directed: 100 Fekete Által Rendezett
+  top_100_animation: 100 Animáció
+  top_250_horror: 250 Horror
+  cannes_palmes_dor_winners: Cannes-i Arany Pálma Nyertesei
+  1001_movies_to_see_before_you_die: 1001 Film, Amit Látnod Kell, Mielőtt 
+    Meghalsz
+  oscars_picture_nomination: Legjobb Film Jelöltjei
+  oscars_director_nomination: Legjobb Rendező Jelöltjei
+  best_director_nomination: Legjobb Rendező Jelöltjei
+  best_picture_nomination: Legjobb Film Jelöltjei
+  all_time: Minden Idők
+  guilty_pleasure: Bűnös Élvezet
+  visually_insane: Vizuálisan Őrült
+  lost_treasure: Elveszett Kincs
+  mojo_top_100: Minden Idők Top 100
+  shows: Sorozatok
+  movies: Filmek
+  originals: Eredetik
+  cult_classics: Kultusz Klasszikusok
+  must_see: Kötelező Látnivaló
+  certified_fresh: Garantáltan Friss
+  rated_100: 100%-ra Értékelt
+  time_loop: Időhurok
+  next_airing: Következő Adás
+  laos: Laosz
+  republic_of_the_congo: Kongói Köztársaság
+  saint_pierre_and_miquelon: Saint Pierre és Miquelon
+  president: Elnök
+  best_live_action_short_film_nomination: Legjobb Élőszereplős Rövidfilm 
+    Jelöltjei
+  best_live_action_short_film_winners: Legjobb Élőszereplős Rövidfilm Nyertesei
+  best_animated_feature_film_nomination: Legjobb Animációs Film Jelöltjei
+  best_animated_feature_film_winners: Legjobb Animációs Film Nyertesei
+  trains: Vonatok
+  disney: Disney
+  pixar: Pixar
+  dreamworks: Dreamworks
+  disney_pixar_dreamworks: Disney Pixar Dreamworks
+  new_years_eve: Szilveszter
+  may_the_fourth: Május negyedike legyen veled
+  popular_movies: Népszerű Filmek
+  movies_leaving_soon: Hamarosan Távozó Filmek
+  shows_leaving_soon: Hamarosan Távozó Sorozatok
+  episodes_leaving_soon: Hamarosan Távozó Epizódok
+  backroads_horror: Mellékúti Horror
+  movies_that_defined_our_childhood: Filmek, Amik Meghatározták Gyermekkorunkat
+  wedding: Esküvő
+  bottle: Palack
+collections:
+  bafta_best:
+    name: BAFTA Legjobb Filmek
+    summary: Brit Film- és Televíziós Művészeti Akadémia Legjobb Film Díj 
+      Nyertesei.
+  bafta_year:
+    name: BAFTA <<key_name>>
+    summary: <<key_name>> BAFTA Díjak.
+  cannes_best:
+    name: Cannes-i Arany Pálma Nyertesei
+    summary: Cannes-i Arany Pálma Nyertesei.
+  cannes_year:
+    name: Cannes <<key_name>>
+    summary: <<key_name>> Cannes-i Díjak.
+  choice_year:
+    name: Kritikusok Választása Díjak <<key_name>>
+    summary: <<key_name>> Kritikusok Választása Díjak.
+  emmy_year:
+    name: Emmy Díjak <<key_name>>
+    summary: <<key_name>> Emmy Díj Nyertesei.
+  golden_picture:
+    name: Golden Globe Legjobb Film Díj Nyertesei
+    summary: Golden Globe Legjobb Film Díj Nyertesei.
+  golden_director:
+    name: Golden Globe Legjobb Rendező Díj Nyertesei
+    summary: Golden Globe Legjobb Rendező Díj Nyertesei.
+  golden_year:
+    name: Golden Globe <<key_name>>
+    summary: <<key_name>> Golden Globe Nyertesei.
+  oscars_picture:
+    name: Oscar Legjobb Film Nyertesei
+    summary: A Legjobb Filmnek járó Oscar-díj egyike az évente átadott 
+      Oscar-díjaknak, amit a Filmművészeti és Filmtudományi Akadémia ad át az 
+      1929-es debütálás óta.
+  oscars_director:
+    name: Oscar Legjobb Rendező Nyertesei
+    summary: A Legjobb Rendezőnek járó Oscar-díj egyike az évente átadott 
+      Oscar-díjaknak, amit a Filmművészeti és Filmtudományi Akadémia ad át az 
+      1929-es debütálás óta.
+  oscars_year:
+    name: Oscar Díj Nyertesei <<key_name>>
+    summary: <<key_name>> Oscar Díj Nyertesei.
+  berlinale_best:
+    name: Berlinale Arany Medvék
+    summary: Évente akár 400 filmet is bemutatnak a Berlinale (Berlini 
+      Nemzetközi Filmfesztivál) nyilvános programjának részeként, amelyek 
+      túlnyomó többsége világ- vagy európai premier. Bármely műfajú, hosszúságú 
+      és formátumú film benyújtható. Az Arany Medve (németül Goldener Bär) a 
+      legmagasabb díj, amit a fesztiválon bemutatott legjobb filmnek ítélnek 
+      oda.
+  cesar_best:
+    name: César Legjobb Film Nyertesei
+    summary: A César-díj Franciaország nemzeti filmdíja, amelyet először 
+      1975-ben adtak át. A jelölteket a Filmművészeti és Filmtudományi Akadémia 
+      tagjai választják ki. A díj nevét César Baldaccini szobrászról kapta. A 
+      díjat a francia Oscar-díj megfelelőjének tekintik.
+  razzie_worst:
+    name: Arany Málna Díj Nyertesei
+    summary: A Legrosszabb Filmnek járó Arany Málna-díj az évente megrendezett 
+      Arany Málna-díjak egyike, amelyet az előző év legrosszabb filmjének 
+      ítélnek oda.
+  venice_best:
+    name: Velencei Arany Oroszlánok
+    summary: A Velencei Filmfesztivál a világ legrégebbi filmfesztiválja. Az 
+      1932-ben alapított fesztivált azóta minden évben megrendezik az 
+      olaszországi Velencében. Része a Velencei Biennálénak, amely a kortárs 
+      művészetek jelentős, kétévente megrendezett kiállítása és fesztiválja. A 
+      fesztivál Leone d'Oro (Arany Oroszlán) díját a fesztiválon bemutatott 
+      legjobb filmnek ítélik oda.
+  spirit_year:
+    name: Független Szellem Díjak <<key_name>>
+    summary: <<key_name>> Független Szellem Díjak.
+  sundance_best:
+    name: Sundance Fődíj Nyertesei
+    summary: A Sundance Filmfesztivál egy filmfesztivál, amelyet évente 
+      rendeznek meg Utah államban, az Egyesült Államokban. Ez a legnagyobb 
+      független filmes fesztivál az Egyesült Államokban. Januárban tartják, és a
+      premier bemutatója az új amerikai és nemzetközi független filmesek 
+      alkotásainak. A fesztivál amerikai és nemzetközi drámai és 
+      dokumentumfilmek (nagyjátékfilmek és rövidfilmek) versenyszekcióiból, 
+      valamint nem verseny jellegű bemutató szekciókból áll.
+  sundance_year:
+    name: Sundance Filmfesztivál <<key_name>>
+    summary: <<key_name>> Sundance Filmfesztivál.
+  anilist_popular:
+    name: AniList Népszerű
+    summary: Az AniList szerint legnépszerűbb Animék gyűjteménye.
+  anilist_top_rated:
+    name: AniList Legjobb Értékelésű
+    summary: Az AniList szerint legjobb értékelésű Animék gyűjteménye.
+  anilist_trending:
+    name: AniList Felkapott
+    summary: Az AniList szerint felkapott Animék gyűjteménye.
+  anilist_season:
+    name: AniList Évad
+    summary: A jelenlegi szezon Animéinek gyűjteménye az AniList szerint.
+  basic_released:
+    name: Újonnan Megjelent
+    summary: Újonnan megjelent <<library_translation>>k gyűjteménye.
+  basic_episodes:
+    name: Új Epizódok
+    summary: Újonnan megjelent Epizódok gyűjteménye.
+  flixpatrol:
+    name: <<key_name>> Top <<limit>>
+    summary: A FlixPatrol szerint Top <<limit>> <<library_translation>> a(z) 
+      <<key_name>>-en.
+  imdb_popular:
+    name: IMDb Népszerű
+    summary: Az IMDb Népszerű <<library_translation>>k listája.
+  imdb_top:
+    name: IMDb Top 250
+    summary: Az IMDb Top 250 <<library_translation>>k listája.
+  imdb_lowest:
+    name: IMDb Legalacsonyabb Értékelésű
+    summary: Az IMDb Legalacsonyabb Értékelésű <<library_translation>>k listája.
+  mal_popular:
+    name: MyAnimeList Népszerű
+    summary: A MyAnimeList szerint legnépszerűbb Animék gyűjteménye.
+  mal_favorited:
+    name: MyAnimeList Kedvenc
+    summary: A MyAnimeList szerint a legtöbb kedvenc Animék gyűjteménye.
+  mal_top:
+    name: MyAnimeList Legjobb Értékelésű
+    summary: A MyAnimeList szerint a legjobb értékelésű Animék gyűjteménye.
+  mal_airing:
+    name: MyAnimeList Legjobb Adásban
+    summary: A MyAnimeList szerint a jelenleg adásban lévő, legjobb értékelésű 
+      Animék gyűjteménye.
+  mal_season:
+    name: MyAnimeList Évad
+    summary: A jelenlegi szezon Animéinek gyűjteménye a MyAnimeList szerint.
+  anidb_popular:
+    name: AniDB Népszerű
+    summary: Népszerű Animék gyűjteménye az AniDB-n.
+  commonsense_selection:
+    name: Common Sense Válogatás
+    summary: Common Sense <<library_translation>>k gyűjteménye. A Common Sense 
+      hivatalos pecséttel ismeri el a kiemelkedő szórakoztatást a minőség és a 
+      hatás szempontjából. A Common Sense Válogatások életkoruknak megfelelő 
+      médiatartalmakat tartalmaznak, amelyek potenciálisan családi 
+      beszélgetéseket indíthatnak, mindenféle családot szórakoztathatnak, és 
+      pozitív, tartós hatással lehetnek a társadalomra.
+  metacritic_must_see:
+    name: Metacritic Kötelező Néznivaló
+    summary: A Metacritic Kötelező Néznivaló Filmjeinek gyűjteménye.
+  stevenlu_popular:
+    name: StevenLu Népszerű Filmjei
+    summary: StevenLu Legnépszerűbb Filmjeinek gyűjteménye.
+  pirated_popular:
+    name: A Hét 10 Legnépszerűbb Kalóz Filmje
+    summary: A TorrentFreak.com Heti Top Tíz Kalóz Filmje.
+  tautulli_popular:
+    name: Plex Népszerű
+    summary: A Plexen népszerű <<library_translation>>k gyűjteménye.
+  tautulli_watched:
+    name: Plex Nézett
+    summary: A Plexen leginkább nézett <<library_translation>>k gyűjteménye.
+  tmdb_airing:
+    name: TMDb Ma Adásban
+    summary: Olyan sorozatok gyűjteménye, amelyeknek ma van adásban epizódja.
+  tmdb_air:
+    name: TMDb Adásban
+    summary: Olyan sorozatok gyűjteménye, amelyeknek még aktívan adásban vannak 
+      az epizódjai.
+  tmdb_popular:
+    name: TMDb Népszerű
+    summary: A TMDb szerint leginkább nézett <<library_translation>>k 
+      gyűjteménye.
+  tmdb_top:
+    name: TMDb Legjobb Értékelésű
+    summary: A TMDb szerint legjobb értékelésű <<library_translation>>k 
+      gyűjteménye.
+  tmdb_trending:
+    name: TMDb Felkapott
+    summary: A TMDb-n felkapott <<library_translation>>k gyűjteménye.
+  trakt_collected:
+    name: Trakt Gyűjtött
+    summary: A Trakt Heti Gyűjtött Listájának gyűjteménye.
+  trakt_popular:
+    name: Trakt Népszerű
+    summary: A Trakt Heti Népszerű Listájának gyűjteménye.
+  trakt_recommended:
+    name: Trakt Ajánlott
+    summary: A Trakt Heti Ajánlott Listájának gyűjteménye.
+  trakt_trending:
+    name: Trakt Felkapott
+    summary: A Trakt Heti Felkapott Listájának gyűjteménye.
+  trakt_watched:
+    name: Trakt Nézett
+    summary: A Trakt Heti Nézett Listájának gyűjteménye.
+  separator:
+    name: <<key_name>> Gyűjtemények
+    summary: Szakasz elválasztó a(z) <<key_name>> Gyűjtemények számára.
+  actor:
+    name: <<key_name>>
+    summary: <<key_name>> részvételével készült <<library_translationU>>k.
+  audio_language:
+    name: <<key_name>> Audio
+    summary: A(z) <<key_name>> nyelven forgatott <<library_translationU>>k.
+  audio_language_other:
+    name: Egyéb Audio
+    summary: Egyéb ritka nyelveken forgatott <<library_translationU>>k.
+  based:
+    name: <<key_name>> Alapján
+    summary: <<key_name>>-ek alapján vagy azok által inspirált 
+      <<library_translationU>>k.
+  collectionless:
+    name: Gyűjtemény nélküli
+    summary: <<library_translationU>>k gyűjteménye, amelyet a Plex elemek helyes
+      megjelenítésére használnak.
+  content_rating:
+    name: <<key_name>> <<library_translationU>>k
+    summary: <<key_name>> besorolású <<library_translationU>>k.
+  content_rating_cs:
+    name: Korhatár <<key_name>>+ <<library_translationU>>k
+    summary: A Common Sense Értékelési Rendszer szerint <<key_name>> besorolású 
+      <<library_translationU>>k.
+  content_rating_other:
+    name: Nem Besorolt <<library_translationU>>k
+    summary: Nem minősített, Nem Besorolt, vagy bármilyen más ritka besorolású 
+      <<library_translationU>>k.
+  content_ratings_other:
+    name: Egyéb Besorolások
+    summary: Nem minősített, Nem Besorolt, vagy bármilyen más ritka besorolású 
+      <<library_translationU>>k.
+  country:
+    name: <<key_name>>
+    summary: <<key_name>>-ben forgatott <<library_translationU>>k.
+  country_other:
+    name: Egyéb Országok
+    summary: Egyéb ritka országokban forgatott <<library_translationU>>k.
+  decade:
+    name: A legjobb <<key_name>>
+    summary: A(z) <<key_name>> évtized legjobb <<limit>> 
+      <<library_translation>>k.
+  decade_other:
+    name: Egyéb Évtizedek
+    summary: Más évtizedekben megjelent <<library_translationU>>k.
+  director:
+    name: <<key_name>> (Rendező)
+    summary: <<key_name>> által rendezett <<library_translationU>>k.
+  genre:
+    name: <<key_name>> <<library_translationU>>k
+    summary: <<key_name>> műfajjal rendelkező <<library_translationU>>k.
+  genre_other:
+    name: Egyéb Műfajok
+    summary: Egyéb ritka műfajokkal rendelkező <<library_translationU>>k.
+  network:
+    name: <<key_name>>
+    summary: <<key_name>> által sugárzott <<library_translationU>>k.
+  network_other:
+    name: Egyéb Csatornák
+    summary: Egyéb ritka csatornák által sugárzott <<library_translationU>>k.
+  network_kids_other:
+    name: Egyéb Gyerek Csatornák
+    summary: Egyéb ritka gyerek csatornák által sugárzott 
+      <<library_translationU>>k.
+  producer:
+    name: <<key_name>> (Producer)
+    summary: <<key_name>> által gyártott <<library_translationU>>k.
+  resolution:
+    name: <<key_name>> <<library_translationU>>k
+    summary: <<key_name>> felbontással rendelkező <<library_translationU>>k.
+  resolution_other:
+    name: Egyéb Felbontású <<library_translationU>>k
+    summary: Egyéb ritka felbontásokkal rendelkező <<library_translationU>>k.
+  resolutions_other:
+    name: Egyéb Felbontások
+    summary: Egyéb ritka felbontásokkal rendelkező <<library_translationU>>k.
+  seasonal:
+    name: <<key_name>> <<library_translationU>>k
+    summary: A(z) <<key_name>> évszakhoz kapcsolódó <<library_translation>>k 
+      gyűjteménye.
+  streaming:
+    name: <<key_name>> <<library_translationU>>k
+    summary: <<key_name>>-en streamelhető <<library_translationU>>k.
+  studio:
+    name: <<key_name>>
+    summary: <<key_name>> által gyártott <<library_translationU>>k.
+  studio_other:
+    name: Egyéb Stúdiók
+    summary: Egyéb ritka stúdiók által gyártott <<library_translationU>>k.
+  studio_animation_other:
+    name: Egyéb Animációs Stúdiók
+    summary: Egyéb ritka animációs stúdiók által gyártott 
+      <<library_translationU>>k.
+  subtitle_language:
+    name: <<key_name>> Feliratok
+    summary: <<key_name>> felirattal rendelkező <<library_translationU>>k.
+  subtitle_language_other:
+    name: Egyéb Feliratok
+    summary: Egyéb ritka feliratokkal rendelkező <<library_translationU>>k.
+  writer:
+    name: <<key_name>> (Író)
+    summary: <<key_name>> által írt <<library_translationU>>k.
+  year:
+    name: A legjobb <<key_name>>
+    summary: <<key_name>>-ben megjelent <<library_translationU>>k.
+  year_other:
+    name: Egyéb Évek
+    summary: Más években megjelent <<library_translationU>>k.
+  birthday:
+    summary: Ebben a hónapban született, itt találhatók a(z) <<key_name>> 
+      résztvételével készült <<library_translation>>k.
+    name: <<key_name>> Születésnapja"
+  aspect_ratio_other:
+    summary: Egyéb ritka képarányokkal forgatott <<library_translationU>>k.
+    name: Egyéb Képarányok
+  region_other:
+    name: Egyéb Régiók
+    summary: Egyéb ritka régiókban forgatott <<library_translationU>>k.
+  continent_other:
+    name: Egyéb Kontinensek
+    summary: Egyéb ritka kontinenseken forgatott <<library_translationU>>k.
+  venice_year:
+    name: Velence <<key_name>>
+    summary: <<key_name>> Velencei Díj Nyertesei.
+  berlinale_year:
+    name: Berlinale <<key_name>>
+    summary: <<key_name>> Berlinale Díj Nyertesei.
+  razzie_year:
+    name: Razzie <<key_name>>
+    summary: <<key_name>> Razzie Díj Nyertesei.
+  cesar_year:
+    name: César <<key_name>>
+    summary: <<key_name>> César Díj Nyertesei.
+  tiff_year:
+    name: Torontói Nemzetközi Filmfesztivál <<key_name>>
+    summary: <<key_name>> Torontói Nemzetközi Filmfesztivál Díj Nyertesei.
+  nfr_year:
+    name: Nemzeti Filmregiszter <<key_name>>
+    summary: <<key_name>> Nemzeti Filmregiszter.
+  sag_year:
+    summary: <<key_name>> Screen Actors Guild Díj Nyertesei.
+    name: Screen Actors Guild Díjak <<key_name>>
+  tiff_best:
+    name: Torontói Közönségdíj Nyertesei
+    summary: Torontói Nemzetközi Filmfesztivál Közönségdíj Nyertesei.
+  sag_best:
+    name: Screen Actors Guild Díj Nyertesei
+    summary: Screen Actors Guild Díj Nyertesei.
+  pca_year:
+    name: People's Choice Awards <<key_name>>
+    summary: <<key_name>> People's Choice Awards Nyertesei.
+  pca_best:
+    summary: People's Choice Awards Nyertesei.
+    name: People's Choice Awards Nyertesei
+  nfr_best:
+    name: Nemzeti Filmregiszter Minden Idők
+    summary: Nemzeti Filmregiszter Minden Idők.
+  choice_best:
+    name: Kritikusok Választása Legjobb Film Nyertesei
+    summary: Kritikusok Választása Legjobb Film Nyertesei.
+  emmy_best:
+    name: Emmy Legjobb Kategória Nyertesei
+    summary: Emmy Legjobb Kategória Nyertesei.
+  spirit_best:
+    name: Spirit Legjobb Játékfilm Nyertesei
+    summary: Spirit Legjobb Játékfilm Nyertesei.
+  oscars_picture_nomination:
+    name: Legjobb Film Jelöltjei
+    summary: A Legjobb Film Oscar-díj jelöltjei.
+  oscars_director_nomination:
+    name: Legjobb Rendező Jelöltjei
+    summary: A Legjobb Rendező Oscar-díj jelöltjei.
+  box_office_mojo_all_time_100:
+    summary: A Box Office Mojo minden idők 100 legjobb filmje világszerte elért 
+      bevétele alapján, inflációval nem korrigálva. Havonta frissítve.
+    name: Box Office Mojo Minden Idők 100
+  sight_and_sound_greatest_films:
+    name: Sight & Sound Legnagyobb Filmjei
+    summary: Minden évtizedben a Sight and Sound csapata megkéri a kritikusokat,
+      hogy nevezzék meg minden idők legnagyobb filmjeit. Itt vannak a 2022-es 
+      felmérés eredményei – a valaha volt legnagyobb, 1639 kritikussal, 
+      programozóval, kurátorral, levéltárossal és akadémikussal, akik mind 
+      benyújtották a top tíz szavazatukat - és most már a teljes listával 
+      frissítve.
+  letterboxd_top_250:
+    summary: A Letterboxd Top 250 filmje, az összes Letterboxd felhasználó 
+      súlyozott átlagos értékelése alapján. Minden stand-up különkiadás, 
+      színpadi darab, koncertfilm, dokumentumfilm, rövidfilm, 
+      "gyűjteménylistázás" és más "ritkaság" eltávolítva, így csak a 
+      nagyjátékfilmek szerepelnek a listán. A filmeknek legalább 5000 
+      értékeléssel kell rendelkezniük ahhoz, hogy felkerüljenek a listára.
+    name: Letterboxd Top 250
+  1001_movies_to_see_before_you_die:
+    name: 1001 Film, Amit Látnod Kell, Mielőtt Meghalsz
+    summary: Az 1001 Movies You Must See Before You Die című könyvből készült 
+      lista. Ez a lista csak a 2021-es kiadásból származik, így a törölt filmek 
+      nem láthatók rajta, mint más listákon. A lista fordított sorrendben van 
+      rendezve, a legújabb filmek elöl. Népszerű kérésre a könyvben szereplő 
+      gyűjteményeket csak az első bejegyzésre cserélték, pl. Toy Story és A 
+      Gyűrű Szövetsége.
+  afi_100_years_100_movies:
+    summary: Az AFI 100 Years...100 Movies – 10th Anniversary Edition az AFI 100
+      Years...100 Movies frissített kiadása, amely minden idők 100 legnagyobb 
+      amerikai filmjének listája.
+    name: AFI 100 Év 100 Film
+  top_250_horror:
+    summary: Kiegészítés a Letterboxd Top 250-hez, amely sajnos nagyon kevés 
+      horrorfilmet tartalmaz. Ezek a Letterboxd-on a legmagasabb átlagos 
+      értékeléssel rendelkező horrorfilmek. Nincsenek rövidfilmek, TV-sorozatok,
+      TV-filmek, YouTube videók, forgatott színpadi produkciók, újrakiadások, 
+      meglévő felvételek újraszerkesztései, trailer összeállítások, elveszett 
+      filmek, kulisszák mögötti dokumentumfilmek, vagy bármi más, ami nem teljes
+      film. Minden bejegyzésnek legalább 40 perc hosszúnak kell lennie. A 
+      közvetlenül videóra kiadott filmek is jogosultak, feltéve, hogy hosszuk 
+      meghaladja a 60 percet.
+    name: Top 250 Horror
+  edgar_wrights_1000_favorites:
+    name: Edgar Wright 1000 Kedvence
+    summary: Ezt a személyes kedvencek listáját Edgar Wright és Sam DiSalle 
+      állította össze 2016 júliusában, és félig rendszeresen frissítik. A filmek
+      év szerint vannak rendezve, és azon belül betűrendben (a mi listánk 
+      megegyezik a MUBI forráslistájának sorrendjével, de néhány film más cím 
+      alatt szerepel).
+  top_250_women_directed:
+    name: 250 Nő Által Rendezett
+    summary: Hivatalos listafejlesztési projekt a Pro és Patron felhasználók 
+      mindenkori statisztikai oldalain! A top 100-ról top 250-re bővült 2022. 
+      szeptember 26-án, a lista 3. évfordulóján.
+  top_100_black_directed:
+    name: 100 Fekete Által Rendezett
+    summary: Átlagos felhasználói értékelés szerint rangsorolva. A lista 
+      kivonatolása nagyrészt a fekete amerikai filmesek által rendezett filmek 
+      megalistájának köszönhetően történt. Havonta frissül. Hivatalos 
+      listafejlesztési projekt a Pro és Patron felhasználók mindenkori 
+      statisztikai oldalain.
+  top_250_most_fans:
+    summary: További kiegészítő Dave Vis listájához, amely a Letterboxd 
+      hivatalos minden idők 250 legjobb filmjét tartalmazza. Havonta egyszer 
+      frissítve. A lista a Letterboxd rajongói számának alapján van rangsorolva.
+      A „rajongó” egy olyan tag, akinek a filmje a négy kedvence között 
+      szerepel.
+    name: 250 Legtöbb Rajongóval
+  roger_eberts_great_movies:
+    name: Roger Ebert Nagy Filmjei
+    summary: Roger Ebert 'Nagy Filmek' esszéinek minden filmje.
+  cannes_palmes_dor_winners:
+    name: Cannes-i Arany Pálma Nyertesei
+    summary: Az „Arany Pálma” a Cannes-i Filmfesztivál legmagasabb díja.
+  top_250_documentaries:
+    summary: Kiegészítő Dave Vis listájához, amely a Letterboxd hivatalos minden
+      idők 250 legjobb filmjét tartalmazza, de kizárja a dokumentumfilmeket a 
+      megfontolásból. Átlagos felhasználói értékelés szerint rangsorolva. Ez a 
+      lista havonta egyszer frissül. Ez egy hivatalos listafejlesztési projekt a
+      Pro és Patron felhasználók mindenkori statisztikai oldalain. A top 100-ról
+      top 250-re bővült 2021. június 27-én, a lista 3. évfordulóján.
+    name: 250 Dokumentumfilm
+  top_100_animation:
+    summary: '100 legjobban értékelt egész estés animációs film a Letterboxd-on. Minimum
+      1000 értékelés. A sorozatok vagy anime sorozatok (japán, amerikai vagy máshonnan
+      származó) folytatásai, amelyekhez nagyobb kontextus szükséges a nézés előtt,
+      nem szerepelnek. Azok, amelyek szerepelnek, önmagukban is élvezhetők - és úgy
+      döntöttem, hogy eltávolítom azokat a filmeket, amelyek csak rövid összefoglalót
+      adnak (mint például a Steven Universe: The Movie) az elején, és amelyek nem
+      biztosítják a szükséges kontextust az élvezethez. Ennek a döntésnek az oka,
+      hogy a nézők anélkül fejezhessék be ezt a listát, hogy számos más epizódot és
+      filmet kellene megnézniük.'
+    name: 100 Animáció
+  imdb_top_250:
+    summary: 'Az IMDB top 250-es listája: egyesek szeretik, mások utálják. Természetesen
+      lehet vitatkozni a filmek sorrendjén és bizonyos címek jelenlétén vagy hiányán.
+      Tény, hogy a valaha volt legelismertebb filmek nagy részét tartalmazza, és az
+      általános minőség meglehetősen magas.'
+    name: IMDb Top 250 (Letterboxd)
+  oscars_best_picture_winners:
+    name: Oscar Legjobb Film Nyertesei
+    summary: Oscar-díj nyertesei a Legjobb Film kategóriában.
+  aspect:
+    name: <<key_name>>
+    summary: A(z) <<key_name>> képaránnyal rendelkező <<library_translationU>>k 
+      gyűjteménye.
