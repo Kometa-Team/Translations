@@ -3,7 +3,7 @@ variables:
     movie: филм
     show: сериал
     artist: изпълнител
-    video: видео
+    video: видеоклипове
     item: елемент
   library_translation2:
     movie: филми
@@ -75,7 +75,7 @@ key_names:
   bosnian: Босненски
   bottom_rated: Най-зле оценени
   box_office: Боксофис
-  boys_love: Boys Love
+  boys_love: Момчешка любов
   brazil: Бразилия
   breton: Бретонски
   bulgaria: България
@@ -213,7 +213,7 @@ key_names:
   kanuri: Канури
   kashmiri: Кашмирски
   kazakh: Казахски
-  kids: Деца
+  kids: Детски
   kids_network: Детски канали
   kikuyu: Кикую
   kinyarwanda: Киняруанда
@@ -256,7 +256,7 @@ key_names:
   memorial_day: Ден на паметта
   mexico: Мексико
   military: Военен
-  mind_bend: Психеделичен
+  mind_bend: Психo
   mind_fuck: Шокиращ
   mind_f**k: Mind F**k
   mini_series: Мини-сериал
@@ -277,7 +277,7 @@ key_names:
   new_episodes: Нови епизоди
   new_premieres: Нови премиери
   new_year: Нова година
-  new_years_day: Нова година
+  new_years_day: Новогодишен ден
   new_zealand: Нова Зеландия
   newly_released_episodes: Току-що пуснати епизоди
   newly_released: Току-що пуснати
@@ -321,7 +321,7 @@ key_names:
   popular: Популярни
   portugal: Португалия
   portugese: Португалски
-  portuguese: Португалски
+  portuguese: Португaлски
   producer: Продуцент
   producers: Продуценти
   psychedelic: Психеделичен
@@ -369,7 +369,7 @@ key_names:
   singapore: Сингапур
   sinhala: Синхалски
   slasher: Слашър
-  slice_of_life: Slice of life
+  slice_of_life: Ежедневие
   slovak: Словашки
   slovenian: Словенски
   soap: Сапунена опера
@@ -543,7 +543,7 @@ key_names:
   cocos_(keeling)_islands: Кокосови (Кийлинг) острови
   colombia: Колумбия
   comoros: Коморски острови
-  congo: Конго
+  congo: Конгo
   cook_islands: Острови Кук
   cuba: Куба
   curaçao: Кюрасао
@@ -732,6 +732,265 @@ key_names:
   seductive: Съблазнителни
   stephen_king: Стивън Кинг
   unexpectedly_amazing: Неочаквано невероятни
+  human_body: Човешкото тяло
+  manufacturing: Производство
+  medical: Медицински
+  mystery_box: Мистериозна кутия
+  plants: Разстения
+  prison: Затвори
+  technology: Технологии
+  the_arts: Изкуство
+  first_responder: Първа помощ
+  fringe: Фриндж
+  top_grossing_films_annually: Най-касови филми годишно
+  top_grossing_films_of_all-time: Най-касови филми за всички времена
+  weather: Времето
+  witch: Вещица
+  south_korea: Южна Корея
+  united_states: Съединени щати
+  returning_soon: Завръщащи се скоро
+  americas: Америка (континент)
+  central_america: Централна Америка
+  australia_and_new_zealand: Австралия и Нова Зеландия
+  democratic_republic_of_the_congo: Демократична република Конго
+  eastern_asia: Източна Азия
+  melanesia: Меланезия
+  northern_europe: Северна Европа
+  polynesia: Полинезия
+  southeastern_asia: Югоизточна Азия
+  southern_asia: Южна Азия
+  southern_europe: Южна Европа
+  sub-saharan_africa: Субсахарска Африка
+  western_asia: Западна Азия
+  western_europe: Западна Европа
+  northern_america: Северна Америка
+  christmas_cartoons: Коледни анимации
+  christmas_episodes: Коледни епизоди
+  absurdism: Абсурдизъм
+  adult_cartoon: Анимация за възрастни
+  alien: Извънземно
+  alternate_history: Алтернативна история
+  animal: Животно
+  animated_short: Късометражна анимация
+  anthology: Антология
+  anti-hero: Антигерой
+  artificial_intelligence: Изкуствен интелект
+  betrayal: Предателство
+  boxing: Бокс
+  bug: Буболечка
+  caper: Обир (комедиен)
+  chick_flick: Женски филм
+  childrens_cartoon: Детска анимация
+  coming_of_age: Съзряване
+  cop: Ченге
+  costume_drama: Костюмна драма
+  courtroom: Съдебна зала
+  cyberpunk: Киберпънк
+  dark_fantasy: Тъмно фентъзи
+  detective: Детективски
+  dinosaur: Динозавър
+  dragon: Дракон
+  dramedy: Драмедия
+  engineering_disaster: Инженерно бедствие
+  epic: Епичен
+  espionage: Шпионаж
+  experimental: Експериментален
+  fairy_tale: Приказка
+  foreign: Чуждестранен
+  fugitive: Беглец
+  ghost: Призрак
+  gothic: Готически
+  heartbreak: Разбито сърце
+  historical_event: Историческо събитие
+  historical_fiction: Историческа фикция
+  hostage: Заложник
+  hustle: Измама
+  melodrama: Мелодрама
+  mockumentary: Мокюментари
+  monster: Чудовище
+  mythology: Митология
+  naval: Военноморски
+  ninja: Нинджа
+  occult: Окултен
+  outlaw: Разбойник
+  period_drama: Епохална драма
+  philosophy: Философия
+  plant: Растение
+  prehistoric: Праисторически
+  religion: Религия
+  remake: Римейк
+  revenge: Отмъщение
+  robot: Робот
+  satire: Сатира
+  space_opera: Космическа опера
+  spaghetti_western: Спагети уестърн
+  splatter: Сплатър
+  steampunk: Стиймпънк
+  stop-motion: Стоп-моушън
+  surrealism: Сюрреализъм
+  swashbuckler: Приключенски (с мечове)
+  sword_sandal: Меч и сандали
+  time_travel: Пътуване във времето
+  treasure_hunt: Лов на съкровища
+  true_crime: Истински престъпления
+  urban_fantasy: Градско фентъзи
+  utopia: Утопия
+  werewolf: Върколак
+  whodunit: Криминална загадка
+  wizardry_witchcraft: Магьосничество и вещерство
+  world_war: Световна война
+  plex_must_see_movies: Задължителни филми
+  plex_must_watch_movies: Задължителни за гледане филми
+  plex_must_see_shows: Задължителни сериали
+  plex_must_watch_shows: Задължителни за гледане сериали
+  plex_personal_movies_picks: Моят личен избор филми
+  plex_personal_shows_picks: Моят личен избор сериали
+  buddy_comedy: Приятелска комедия
+  cyber_thriller: Кибер трилър
+  jungle_adventure: Приключение в джунглата
+  post_apocalyptic: Постапокалиптичен
+  medieval: Средновековен
+  ultimate_bass: Ултимативен бас
+  best_of_britain: Най-доброто от Великобритания
+  based_on_books_and_games: Базирано на книги и игри
+  heroes_and_wizards: Герои и магьосници
+  throwback_thursday: Ретро четвъртък
+  the_justice_system: Правосъдната система
+  mystery_and_drama: Мистерия и драма
+  family_favourites: Любими на семейството
+  this_day_in_history: На този ден в историята
+  this_week_in_history: Тази седмица в историята
+  this_month_in_history: Този месец в историята
+  north_korea: Северна Корея
+  north_macedonia: Северна Македония
+  absurd_comedy: Абсурдна комедия
+  arthouse: Артхаус
+  action_comedy: Екшън комедия
+  exploitation: Експлоатационен филм
+  neo-noir: Нео-ноар
+  body_horror: Телесен ужас
+  crime_comedy: Криминална комедия
+  sexploitation: Сексплоатация
+  cannibal: Канибал
+  extreme: Екстремен
+  creature_feature: Филм с чудовища
+  folk_horror: Фолклорен ужас
+  elevated_horror: Високопарни ужаси
+  fantasy_horror: Фентъзи ужас
+  foreign_giallo: Чуждестранно джало
+  foreign_noir: Чуждестранен ноар
+  horror_parody: Пародия на ужасите
+  found_footage: Found Footage
+  gaijinsploitation: Gaijinsploitation
+  lovecraftian: Лъвкрафтов
+  silent: Ням филм
+  slapstick: Слапстик
+  surreal_comedy: Сюрреалистична комедия
+  sci-fi_horror: Научно-фантастичен ужас
+  pinku: Пинку
+  zombie_comedy: Зомби комедия
+  sleazy: Долнопробен
+  surreal: Сюрреалистичен
+  video_nasty: Video Nasty
+  surreal_horror: Сюрреалистичен ужас
+  zombie: Зомби
+  wuxia: Уся
+  blaxploitation: Блаксплойтейшън
+  east_timor: Източен Тимор
+  turks_and_caicos_islands: Острови Търкс и Кайкос
+  kosovo: Косово
+  papua_new_guinea: Папуа Нова Гвинея
+  saint_kitts_and_nevis: Сейнт Китс и Невис
+  top_1: Топ 1
+  top_2: Топ 2
+  top_3: Топ 3
+  top_4: Топ 4
+  top_8: Топ 8
+  top_5: Топ 5
+  top_6: Топ 6
+  top_7: Топ 7
+  top_9: Топ 9
+  top_11: Топ 11
+  top_13: Топ 13
+  top_12: Топ 12
+  top_16: Топ 16
+  top_15: Топ 15
+  top_21: Топ 21
+  top_14: Топ 14
+  top_19: Топ 19
+  top_20: Топ 20
+  top_18: Топ 18
+  top_17: Топ 17
+  top_22: Топ 22
+  top_27: Топ 27
+  top_23: Топ 23
+  top_24: Топ 24
+  top_25: Топ 25
+  top_30: Топ 30
+  top_26: Топ 26
+  top_28: Топ 28
+  top_29: Топ 29
+  letterboxd_top_250: Letterboxd Топ 250
+  box_office_mojo_all_time_100: Box Office Mojo Топ 100 за всички времена
+  oscars_best_picture_winners: Оскар за най-добър филм
+  sight_and_sound_greatest_films: Sight & Sound Най-великите филми
+  afi_100_years_100_movies: AFI 100 години 100 филма
+  roger_eberts_great_movies: Великите филми на Роджър Ебърт
+  edgar_wrights_1000_favorites: 1000 фаворита на Едгар Райт
+  top_250_most_fans: Топ 250 с най-много фенове
+  top_250_women_directed: Топ 250 режисирани от жени
+  top_250_documentaries: Топ 250 документални
+  imdb_top_250: IMDb Топ 250
+  top_100_black_directed: Топ 100 режисирани от чернокожи
+  top_100_animation: Топ 100 анимация
+  top_250_horror: Топ 250 ужаси
+  cannes_palmes_dor_winners: Победители Златна палма Кан
+  1001_movies_to_see_before_you_die: 1001 филма, които да видите преди да умрете
+  oscars_picture_nomination: Номинации за най-добър филм
+  oscars_director_nomination: Номинации за най-добър режисьор
+  best_director_nomination: Номинации за най-добър режисьор
+  best_picture_nomination: Номинации за най-добър филм
+  all_time: Всички времена
+  guilty_pleasure: Гузно удоволствие
+  visually_insane: Визуално безумни
+  lost_treasure: Изгубено съкровище
+  mojo_top_100: Топ 100 за всички времена
+  shows: Сериали
+  movies: Филми
+  originals: Оригинали
+  cult_classics: Култови класики
+  must_see: Задължителни за гледане
+  certified_fresh: Сертифицирани свежи
+  rated_100: Оценени 100%
+  time_loop: Времева примка
+  next_airing: Следващо излъчване
+  laos: Лаос
+  republic_of_the_congo: Република Конго
+  saint_pierre_and_miquelon: Сен Пиер и Микелон
+  president: Президент
+  best_live_action_short_film_nomination: Номинации за най-добър късометражен 
+    игрален филм
+  best_live_action_short_film_winners: Победители за най-добър късометражен 
+    игрален филм
+  best_animated_feature_film_nomination: Номинации за най-добър пълнометражен 
+    анимационен филм
+  best_animated_feature_film_winners: Победители за най-добър пълнометражен 
+    анимационен филм
+  trains: Влакове
+  disney: Disney
+  pixar: Pixar
+  dreamworks: Dreamworks
+  disney_pixar_dreamworks: Disney Pixar Dreamworks
+  new_years_eve: Новогодишна нощ
+  may_the_fourth: Нека силата бъде с теб (4-ти май)
+  popular_movies: Популярни филми
+  movies_leaving_soon: Филми, изтичащи скоро
+  shows_leaving_soon: Сериали, изтичащи скоро
+  episodes_leaving_soon: Епизоди, изтичащи скоро
+  backroads_horror: Ужаси от задните пътища
+  movies_that_defined_our_childhood: Филми, които определиха детството ни
+  wedding: Сватба
+  bottle: Епизод в бутилка
 collections:
   bafta_best:
     name: BAFTA Най-добър филм
@@ -747,7 +1006,7 @@ collections:
     name: Кан <<key_name>>
     summary: Награда от Кан през <<key_name>>.
   choice_year:
-    name: Critics Choice Awards <<key_name>>
+    name: Награда на Критиците <<key_name>>
     summary: Награди Critics Choice от <<key_name>>.
   emmy_year:
     name: Еми <<key_name>>
@@ -1038,3 +1297,168 @@ collections:
   continent_other:
     name: Други континенти
     summary: <<library_translationU>>, заснети на други необичайни континенти.
+  metacritic_must_see:
+    name: Metacritic Задължителни за гледане
+    summary: Колекция от задължителни за гледане филми според Metacritic.
+  venice_year:
+    name: Венеция <<key_name>>
+    summary: Победители от Венеция през <<key_name>>.
+  berlinale_year:
+    name: Берлинале <<key_name>>
+    summary: Победители от Берлинале през <<key_name>>.
+  razzie_year:
+    name: Златна малинка <<key_name>>
+    summary: Победители на Златна малинка през <<key_name>>.
+  cesar_year:
+    name: Сезар <<key_name>>
+    summary: Победители на Сезар през <<key_name>>.
+  tiff_year:
+    name: Международен филмов фестивал в Торонто <<key_name>>
+    summary: Победители на Международния филмов фестивал в Торонто през 
+      <<key_name>>.
+  nfr_year:
+    name: Национален филмов регистър <<key_name>>
+    summary: Национален филмов регистър <<key_name>>.
+  sag_year:
+    summary: Победители на Гилдията на актьорите през <<key_name>>.
+    name: Награди на Гилдията на актьорите <<key_name>>
+  tiff_best:
+    name: Победители на Наградата на публиката в Торонто
+    summary: Победители на Наградата на публиката на Международния филмов 
+      фестивал в Торонто.
+  sag_best:
+    name: Победители на Наградите на Гилдията на актьорите
+    summary: Победители на Наградите на Гилдията на актьорите.
+  pca_year:
+    name: Изборът на хората <<key_name>>
+    summary: Победители на наградите Изборът на хората през <<key_name>>.
+  pca_best:
+    summary: Победители на наградите Изборът на хората.
+    name: Победители на наградите Изборът на хората
+  nfr_best:
+    name: Национален филмов регистър (всички времена)
+    summary: Национален филмов регистър за всички времена.
+  choice_best:
+    name: Победители Critics Choice за най-добър филм
+    summary: Победители Critics Choice за най-добър филм.
+  emmy_best:
+    name: Еми Победители в най-добрите категории
+    summary: Еми Победители в най-добрите категории.
+  spirit_best:
+    name: Победители Spirit за най-добър пълнометражен филм
+    summary: Победители Spirit за най-добър пълнометражен филм.
+  oscars_picture_nomination:
+    name: Номинации за най-добър филм
+    summary: Номинираните за наградата Оскар за най-добър филм.
+  oscars_director_nomination:
+    name: Номинации за най-добър режисьор
+    summary: Номинираните за наградата Оскар за най-добър режисьор.
+  box_office_mojo_all_time_100:
+    summary: Базирано на топ 100 филма за всички времена по световни приходи 
+      според Box Office Mojo, без корекция за инфлация. Актуализира се 
+      ежемесечно.
+    name: Box Office Mojo Топ 100 за всички времена
+  sight_and_sound_greatest_films:
+    name: Sight & Sound Най-великите филми
+    summary: Всяко десетилетие екипът на Sight and Sound моли критиците да 
+      посочат най-великите филми на всички времена. Ето резултатите от анкетата 
+      през 2022 г. – най-голямата досега, с 1639 критици, програмисти, куратори,
+      архивисти и академици, всеки от които представя своята топ десет бюлетина 
+      – и сега актуализирана с пълния списък.
+  letterboxd_top_250:
+    summary: Топ 250 филма на Letterboxd, базиран на средната претеглена оценка 
+      на всички потребители на Letterboxd. Премахнати са всички стендъп 
+      специални издания, театрални постановки, концертни филми, документални 
+      филми, късометражни филми, „списъци с колекции“ и други „рядкости“, така 
+      че тук са изброени само пълнометражни наративни филми. Филмите трябва да 
+      имат минимум 5000 оценки, за да отговарят на условията за влизане в 
+      списъка.
+    name: Letterboxd Топ 250
+  1001_movies_to_see_before_you_die:
+    name: 1001 филма, които да видите преди да умрете
+    summary: Списък, направен от книгата „1001 филма, които трябва да видите, 
+      преди да умрете“. Този списък е само от изданието за 2021 г., така че няма
+      да видите изтрити филми, както в други списъци. Списъкът е сортиран 
+      наобратно, по-новите филми са първи. Поради популярното търсене - 
+      колекциите, които са използвани в книгата, са превключени само към първия 
+      запис, т.е. Играта на играчките и Задругата на пръстена.
+  afi_100_years_100_movies:
+    summary: AFI’s 100 Years…100 Movies – издание за 10-тата годишнина е 
+      актуализирано издание на AFI’s 100 Years…100 Movies, списък на топ 100 на 
+      най-великите американски филми на всички времена.
+    name: AFI 100 години 100 филма
+  top_250_horror:
+    summary: Придружител към Letterboxd Top 250, който за съжаление съдържа 
+      много малко филми на ужасите. Това са филмите на ужасите в Letterboxd с 
+      най-висока средна оценка. Без късометражни филми, без телевизионни 
+      сериали, без телевизионни филми, без видеоклипове в YouTube, без заснети 
+      сценични продукции, без преиздания, без повторни редакции на съществуващи 
+      кадри, без компилации на трейлъри, без изгубени филми, без документални 
+      филми зад кулисите, нито нещо друго, което не е наистина пълен филм. 
+      Всички записи трябва да са с дължина най-малко 40 минути. Изданията 
+      директно към видео са допустими, при условие че са с дължина над 60 
+      минути.
+    name: Топ 250 ужаси
+  edgar_wrights_1000_favorites:
+    name: 1000 фаворита на Едгар Райт
+    summary: Този списък с лични фаворити е съставен от Едгар Райт и Сам ДиСал 
+      през юли 2016 г. и се актуализира полуредовно. Филмите са подредени по 
+      година и по азбучен ред във всяка година (списъкът ни съвпада с реда на 
+      изходния списък на MUBI, но някои филми са изброени под алтернативни 
+      имена).
+  top_250_women_directed:
+    name: Топ 250 режисирани от жени
+    summary: Официален проект за напредък на списъка на страниците със 
+      статистика за всички времена за Pro и Patron потребители! Разширен от топ 
+      100 до топ 250 на 26 септември 2022 г., на 3-годишнината на списъка.
+  top_100_black_directed:
+    name: Топ 100 режисирани от чернокожи
+    summary: Класирани по средна потребителска оценка. Списъкът е извлечен до 
+      голяма степен благодарение на този мегасписък с филми, режисирани от 
+      чернокожи американски режисьори. Ще се актуализира ежемесечно. Официален 
+      проект за напредък на списъка на страниците със статистика за всички 
+      времена за Pro и Patron потребители.
+  top_250_most_fans:
+    summary: Още едно допълнение към списъка на Дейв Вис с официалните топ 250 
+      филма на всички времена на Letterboxd. Актуализира се веднъж месечно. 
+      Списъкът е класиран по броя на феновете в Letterboxd. „Фен“ е член, който 
+      има конкретен филм като един от четирите си любими.
+    name: Топ 250 с най-много фенове
+  roger_eberts_great_movies:
+    name: Великите филми на Роджър Ебърт
+    summary: Всеки филм от есетата „Великите филми“ на Роджър Ебърт.
+  cannes_palmes_dor_winners:
+    name: Победители Златна палма Кан
+    summary: „Златната палма“ е най-високото отличие на филмовия фестивал в Кан.
+  top_250_documentaries:
+    summary: Придружител към списъка на Дейв Вис с официалните топ 250 филма на 
+      всички времена на Letterboxd, който изключва документалните филми. 
+      Класирани по средна потребителска оценка. Този списък се актуализира 
+      веднъж месечно. Това е официален проект за напредък на списъка на 
+      страниците със статистика за всички времена за Pro и Patron потребители. 
+      Разширен от топ 100 до топ 250 на 27 юни 2021 г., на 3-годишнината на 
+      списъка.
+    name: Топ 250 документални
+  top_100_animation:
+    summary: '100-те най-високо оценени пълнометражни анимационни филма в Letterboxd.
+      Минимум 1000 оценки. Продължения на шоута или аниме сериали – японски, американски
+      или от другаде – които се нуждаят от по-голям контекст преди гледане, не са
+      включени. Тези, които са включени, могат да се гледат самостоятелно – и взех
+      решение да премахна филми, които правят само кратък преглед (като Steven Universe:
+      The Movie) в началото, което може да не даде необходимото качество на контекста
+      за наслада. Обосновката за това решение е зрителите да могат да завършат този
+      списък, без да се налага да гледат множество други епизоди и филми.'
+    name: Топ 100 анимация
+  imdb_top_250:
+    summary: 'Списъкът с топ 250 на IMDB: обичан от едни, мразен от други. Разбира
+      се, можете да спорите за реда на филмите и присъствието или отсъствието на определени
+      заглавия. Фактите остават, че той съдържа голяма част от най-ценените филми
+      на всички времена и цялостното качество е доста високо.'
+    name: IMDb Топ 250 (Letterboxd)
+  oscars_best_picture_winners:
+    name: Оскар за най-добър филм
+    summary: Носители на наградата на Академията за най-добър филм.
+  aspect:
+    name: <<key_name>>
+    summary: Колекция от <<library_translationU>> със съотношение на картината 
+      <<key_name>>.
