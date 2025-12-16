@@ -1,1 +1,1040 @@
-{}
+variables:
+  library_translation:
+    movie: филм
+    show: сериал
+    artist: изпълнител
+    video: видео
+    item: елемент
+  library_translation2:
+    movie: филми
+    show: сериали
+    artist: изпълнители
+    video: видеоклипове
+    item: елементи
+  library_translation3:
+    movie: филм
+    show: сериал
+    artist: изпълнител
+    video: видео
+    item: елемент
+key_names:
+  4/20: 4/20
+  abkhazian: Абхазки
+  action: Екшън
+  action_adventure: Екшън и приключения
+  actor: Актьор
+  actors: Актьори
+  adult: За възрастни
+  adventure: Приключенски
+  afar: Афарски
+  afrikaans: Африкаанс
+  age: Възраст
+  airing_today: Излъчвани днес
+  akan: Акан
+  albanian: Албански
+  amharic: Амхарски
+  animation: Анимация
+  anime: Аниме
+  arabic: Арабски
+  aragonese: Арагонски
+  argentina: Аржентина
+  armenian: Арменски
+  asian_american_pacific_islander_heritage_month: Месец на наследството на 
+    американците от азиатски и тихоокеански произход
+  assamese: Асамски
+  assassin: Убиец
+  audio_language: Аудио език
+  australia: Австралия
+  austria: Австрия
+  avaric: Аварски
+  avestan: Авестийски
+  award: Награда
+  aymara: Аймара
+  azerbaijani: Азербайджански
+  bambara: Бамбара
+  bahamas: Бахамски острови
+  based_on: Базиран на...
+  based_on_a_book: Базиран на книга
+  based_on_a_comic: Базиран на комикс
+  based_on_a_true_story: Базиран на истинска история
+  based_on_a_video_game: Базиран на видеоигра
+  basque: Баски
+  bashkir: Башкирски
+  belarusian: Беларуски
+  belgium: Белгия
+  bengali: Бенгалски
+  best_director_winners: Победители за най-добър режисьор
+  best_picture_winner: Победител за най-добър филм
+  best_picture_winners: Победители за най-добър филм
+  best_of: Най-доброто от
+  biography: Биография
+  biopic: Биографичен
+  bislama: Бислама
+  black_history_month: Месец на чернокожата история
+  book: Книга
+  bosnian: Босненски
+  bottom_rated: Най-зле оценени
+  box_office: Боксофис
+  boys_love: Boys Love
+  brazil: Бразилия
+  breton: Бретонски
+  bulgaria: България
+  bulgarian: Български
+  burmese: Бирмански
+  canada: Канада
+  cars: Коли
+  catalan: Каталонски
+  central_khmer: Кхмерски
+  chamorro: Чаморо
+  chart: Графика
+  chechen: Чеченски
+  chichewa: Чичева
+  children: Деца
+  chile: Чили
+  china: Китай
+  chinese: Китайски
+  christmas: Коледа
+  church_slavic: Църковнославянски
+  chuvash: Чувашки
+  collected: Колекционирани
+  collectionless: Без колекция
+  comedy: Комедия
+  comic: Комикс
+  competition: Състезание
+  con_artist: Измамник
+  content_ratings: Класификация на съдържанието
+  cornish: Корнуолски
+  corsican: Корсикански
+  costa_rica: Коста Рика
+  country: Държава
+  creature_horror: Ужаси с чудовища
+  cree: Кри
+  crime: Криминален
+  croatia: Хърватия
+  croatian: Хърватски
+  czech: Чешки
+  czech_republic: Чехия
+  danish: Датски
+  day_of_persons_with_disabilities: Международен ден на хората с увреждания
+  decade: Десетилетие
+  demons: Демони
+  denmark: Дания
+  director: Режисьор
+  directors: Режисьори
+  divehi: Дивехи
+  documentary: Документален
+  dominican_republic: Доминиканска република
+  drama: Драма
+  dzongkha: Дзонгкха
+  dutch: Холандски
+  easter: Великден
+  ecchi: Ечи
+  egypt: Египет
+  english: Английски
+  erotica: Еротика
+  esperanto: Есперанто
+  estonia: Естония
+  estonian: Естонски
+  ewe: Еве
+  family: Семеен
+  families: Семейства
+  fantasy: Фентъзи
+  faroese: Фарьорски
+  fathers_day: Ден на бащата
+  favorited: Любими
+  fijian: Фиджийски
+  filipino: Филипински
+  film_noir: Филм ноар
+  finland: Финландия
+  finnish: Финландски
+  food: Храна
+  found_footage_horror: Found Footage Ужаси
+  france: Франция
+  franchise: Франчайз
+  french: Френски
+  fulah: Фула
+  gaelic: Галски
+  galician: Галисийски
+  game: Игра
+  game_show: Телевизионна игра
+  ganda: Ганда
+  gangster: Гангстерски
+  genre: Жанр
+  georgian: Грузински
+  german: Немски
+  germany: Германия
+  girls_love: Girls Love
+  gourmet: Гурме
+  grand_jury_winners: Носители на голямата награда на журито
+  greece: Гърция
+  greek: Гръцки
+  guarani: Гуарани
+  gujarati: Гуджарати
+  haitian: Хаитянски креолски
+  halloween: Хелоуин
+  harem: Харем
+  hausa: Хауса
+  hebrew: Иврит
+  heist: Обир
+  hentai: Хентай
+  herero: Хереро
+  hindi: Хинди
+  hiri_motu: Хири моту
+  history: История
+  home_and_garden: Дом и градина
+  hong_kong: Хонконг
+  horror: Ужаси
+  hungarian: Унгарски
+  hungary: Унгария
+  iceland: Исландия
+  icelandic: Исландски
+  ido: Идо
+  igbo: Игбо
+  independence_day: Ден на независимостта
+  india: Индия
+  indie: Инди
+  indonesia: Индонезия
+  indonesian: Индонезийски
+  interlingua: Интерлингва
+  interlingue: Окдентал
+  inuktitut: Инуктитут
+  inupiaq: Инупиак
+  iran: Иран
+  ireland: Ирландия
+  irish: Ирландски
+  israel: Израел
+  italian: Италиански
+  italy: Италия
+  japan: Япония
+  japanese: Японски
+  javanese: Явански
+  kalaallisut: Гренландски
+  kannada: Каннада
+  kanuri: Канури
+  kashmiri: Кашмирски
+  kazakh: Казахски
+  kids: Деца
+  kids_network: Детски канали
+  kikuyu: Кикую
+  kinyarwanda: Киняруанда
+  kirghiz: Киргизки
+  komi: Коми
+  kongo: Конго
+  korea: Корея
+  korean: Корейски
+  kuanyama: Кунаняма
+  kurdish: Кюрдски
+  lgbtq: LGBTQ+
+  lgbtq_pride_month: Месец на LGBTQ+ гордостта
+  labor_day: Ден на труда
+  lao: Лаоски
+  latin: Латински
+  latinx_heritage_month: Месец на латино наследството
+  latvia: Латвия
+  latvian: Латвийски
+  limburgan: Лимбургски
+  lingala: Лингала
+  lithuanian: Литовски
+  luba-katanga: Луба-Катанга
+  luxembourg: Люксембург
+  luxembourgish: Люксембургски
+  lowest_rated: С най-ниска оценка
+  macedonian: Македонски
+  malagasy: Малгашки
+  malay: Малайски
+  malayalam: Малаялам
+  malaysia: Малайзия
+  malaysian: Малайзийски
+  maltese: Малтийски
+  mandarin: Мандарин
+  manx: Мански
+  maori: Маорски
+  marathi: Маратхи
+  martial_arts: Бойни изкуства
+  marshallese: Маршалски
+  mecha: Мека
+  memorial_day: Ден на паметта
+  mexico: Мексико
+  military: Военен
+  mind_bend: Психеделичен
+  mind_fuck: Шокиращ
+  mind_f**k: Mind F**k
+  mini_series: Мини-сериал
+  mongolian: Монголски
+  morocco: Мароко
+  mothers_day: Ден на майката
+  movie_chart: Класация на филми
+  music: Музика
+  musical: Мюзикъл
+  mystery: Мистерия
+  nauru: Науруански
+  navajo: Навахо
+  ndonga: Ндонга
+  nepal: Непал
+  nepali: Непалски
+  netherlands: Нидерландия
+  network: Телевизионна мрежа
+  new_episodes: Нови епизоди
+  new_premieres: Нови премиери
+  new_year: Нова година
+  new_years_day: Нова година
+  new_zealand: Нова Зеландия
+  newly_released_episodes: Току-що пуснати епизоди
+  newly_released: Току-що пуснати
+  news: Новини
+  news_politics: Новини и политика
+  nominations: Номинации
+  not_rated: Без оценка
+  now_playing: В момента
+  north_ndebele: Северен ндебеле
+  northern_sami: Северносаамски
+  norway: Норвегия
+  norwegian: Норвежки
+  norwegian_bokmål: Норвежки (Бокмол)
+  norwegian_nynorsk: Норвежки (Нюнорск)
+  occitan: Окситански
+  ojibwa: Оджибва
+  on_the_air: В ефир
+  oriya: Ория
+  oromo: Оромо
+  ossetian: Осетински
+  other: Други
+  outdoor_adventure: Приключения на открито
+  pakistan: Пакистан
+  pali: Пали
+  panama: Панама
+  parody: Пародия
+  pashto: Пущунски
+  persian: Персийски
+  personal: Лични
+  peru: Перу
+  philippines: Филипини
+  pilots: Пилотни епизоди
+  plex_people_watching: Гледани от потребители на Plex
+  plex_pilots: Plex пилотни
+  plex_popular: Популярни в Plex
+  plex_watched: Гледани в Plex
+  poland: Полша
+  police: Полиция
+  polish: Полски
+  politics: Политика
+  popular: Популярни
+  portugal: Португалия
+  portugese: Португалски
+  portuguese: Португалски
+  producer: Продуцент
+  producers: Продуценти
+  psychedelic: Психеделичен
+  psychological: Психологически
+  psychological_horror: Психологически ужас
+  punjabi: Пенджаби
+  qatar: Катар
+  quechua: Кечуа
+  rated: Оценени
+  ratings: Оценки
+  reality: Риалити
+  recommended: Препоръчани
+  recently_added: Наскоро добавени
+  recently_aired: Наскоро излъчени
+  resolution: Резолюция
+  romance: Романтичен
+  romania: Румъния
+  romanian: Румънски
+  romantic_comedy: Романтична комедия
+  romantic_drama: Романтична драма
+  romansh: Романшки
+  rundi: Рунди
+  russia: Русия
+  russian: Руски
+  samoan: Самоански
+  samurai: Самурай
+  sango: Санго
+  sanskrit: Санскрит
+  sardinian: Сардински
+  saudi_arabia: Саудитска Арабия
+  school: Училище
+  sci-fi_&_fantasy: Научна фантастика и фентъзи
+  science_fiction: Научна фантастика
+  season: Сезон
+  seasonal: Сезонен
+  serbia: Сърбия
+  serbian: Сръбски
+  serial_killer: Сериен убиец
+  shona: Шона
+  short: Късометражен
+  shoujo: Шоужо
+  shounen: Шонен
+  sichuan_yi: Съчуански и
+  sindhi: Синдхи
+  singapore: Сингапур
+  sinhala: Синхалски
+  slasher: Слашър
+  slice_of_life: Slice of life
+  slovak: Словашки
+  slovenian: Словенски
+  soap: Сапунена опера
+  somali: Сомалийски
+  south_africa: Южна Африка
+  south_ndebele: Южен ндебеле
+  southern_sotho: Южен сото
+  space: Космос
+  spain: Испания
+  spanish: Испански
+  sport: Спорт
+  spy: Шпионски
+  sri_lanka: Шри Ланка
+  st_patricks_day: Ден на Свети Патрик
+  stand-up_comedy: Стендъп комедия
+  stevenlu's_popular_movies: Популярни филми на StevenLu
+  stoner_comedy: Стоунър комедия
+  streaming: Стрийминг
+  studio: Студио
+  studio_animation: Анимационно студио
+  subtitle: Субтитри
+  subtitle_language: Език на субтитрите
+  sundanese: Сундански
+  superhero: Супергерой
+  super_power: Суперсили
+  supernatural: Свръхестествено
+  survival: Оцеляване
+  suspense: съспенс
+  swahili: Суахили
+  swati: Свази
+  sweden: Швеция
+  swedish: Шведски
+  switzerland: Швейцария
+  sword_sorcery: Меч и магия
+  tv_chart: Класация на сериали
+  tv_movie: ТВ Филм
+  tagalog: Тагалог
+  tahitian: Таитянски
+  tajik: Таджикски
+  talk_show: Токшоу
+  tamil: Тамилски
+  tatar: Татарски
+  telugu: Телугу
+  thai: Тайландски
+  thailand: Тайланд
+  thanksgiving: Ден на благодарността
+  thriller: Трилър
+  tibetan: Тибетски
+  tigrinya: Тигриня
+  timeline_order: Хронологичен ред
+  tonga: Тонга
+  top_10: Топ 10
+  top_10_pirated: Топ 10 пиратски
+  top_250: Топ 250
+  top_airing: Топ излъчвани
+  top_rated: С най-висока оценка
+  travel: Пътуване
+  true_story: По истински случай
+  trending: В тренда
+  tsonga: Цонга
+  tswana: Цвана
+  turkey: Турция
+  turkish: Турски
+  turkmen: Туркменски
+  twi: Туи
+  uighur: Уйгурски
+  uk_network: Британски канали
+  uk_streaming: Британски стрийминг
+  ukraine: Украйна
+  ukrainian: Украински
+  united_arab_emirates: Обединени арабски емирства
+  united_kingdom: Обединеното кралство
+  united_states_of_america: Съединени американски щати
+  universe: Вселена
+  urdu: Урду
+  us_network: Американски канали
+  us_streaming: Американски стрийминг
+  uzbek: Узбекски
+  valentines_day: Свети Валентин
+  vampire: Вампири
+  venda: Венда
+  video_game: Видеоигра
+  vietnam: Виетнам
+  vietnamese: Виетнамски
+  volapük: Волапюк
+  walloon: Валонски
+  war: Война
+  war_politics: Война и политика
+  watched: Гледани
+  watchlist: Списък за гледане
+  welsh: Уелски
+  western: Уестърн
+  western_frisian: Западнофризийски
+  winners: Победители
+  wolof: Волоф
+  womens_history_month: Месец на женската история
+  writer: Сценарист
+  writers: Сценаристи
+  xhosa: Кхоса
+  year: Година
+  yiddish: Идиш
+  yoruba: Йоруба
+  zhuang: Джуански
+  zombie_horror: Зомби ужаси
+  zulu: Зулу
+  taiwan: Тайван
+  nordic: Скандинавски
+  latin_america: Латинска Америка
+  mma: ММА
+  leaving_soon: Изтичащи скоро
+  new: Нови
+  ended: Приключили
+  ufo: НЛО
+  veterans_day: Ден на ветераните
+  aspect_ratio: Съотношение на картината
+  andean: Андски
+  balkans: Балкани
+  benelux: Бенелюкс
+  caribbean: Кариби
+  caucasus: Кавказ
+  central_africa: Централна Африка
+  central_americas: Централна Америка
+  central_asia: Централна Азия
+  eastern_africa: Източна Африка
+  eastern_europe: Източна Европа
+  iberia: Иберия
+  middle_east: Близък Изток
+  northern_africa: Северна Африка
+  pacific_islands: Тихоокеански острови
+  south_asia: Южна Азия
+  south-east_asia: Югоизточна Азия
+  southern_africa: Южна Африка (регион)
+  southern_cone: Южен конус
+  western_africa: Западна Африка
+  mongolia: Монголия
+  afghanistan: Афганистан
+  åland_islands: Оландски острови
+  albania: Албания
+  algeria: Алжир
+  andorra: Андора
+  angola: Ангола
+  anguilla: Ангуила
+  antarctica: Антарктида
+  antigua: Антигуа
+  armenia: Армения
+  aruba: Аруба
+  azerbaijan: Азербайджан
+  bahrain: Бахрейн
+  bangladesh: Бангладеш
+  barbados: Барбадос
+  belarus: Беларус
+  belize: Белиз
+  benin: Бенин
+  bermuda: Бермудски острови
+  bhutan: Бутан
+  bolivia: Боливия
+  bonaire: Бонер
+  bosnia_and_herzegovina: Босна и Херцеговина
+  botswana: Ботсвана
+  bouvet_island: Остров Буве
+  brunei: Бруней
+  burkina_faso: Буркина Фасо
+  burundi: Бурунди
+  cabo_verde: Кабо Верде
+  cambodia: Камбоджа
+  cameroon: Камерун
+  cayman_islands: Кайманови острови
+  central_african_republic: Централноафриканска република
+  chad: Чад
+  christmas_island: Остров Рождество
+  cocos_(keeling)_islands: Кокосови (Кийлинг) острови
+  colombia: Колумбия
+  comoros: Коморски острови
+  congo: Конго
+  cook_islands: Острови Кук
+  cuba: Куба
+  curaçao: Кюрасао
+  cyprus: Кипър
+  djibouti: Джибути
+  dominica: Доминика
+  ecuador: Еквадор
+  el_salvador: Ел Салвадор
+  equatorial_guinea: Екваториална Гвинея
+  eritrea: Еритрея
+  eswatini: Есватини
+  ethiopia: Етиопия
+  falkland_islands: Фолклендски острови
+  faroe_islands: Фарьорски острови
+  fiji: Фиджи
+  french_guiana: Френска Гвиана
+  french_polynesia: Френска Полинезия
+  gabon: Габон
+  gambia: Гамбия
+  georgia: Грузия
+  ghana: Гана
+  gibraltar: Гибралтар
+  greenland: Гренландия
+  grenada: Гренада
+  guadeloupe: Гваделупа
+  guam: Гуам
+  guatemala: Гватемала
+  guernsey: Гърнси
+  guinea: Гвинея
+  guinea-bissau: Гвинея-Бисау
+  guyana: Гвиана
+  haiti: Хаити
+  holy_see: Светият престол
+  honduras: Хондурас
+  iraq: Ирак
+  isle_of_man: Остров Ман
+  jamaica: Ямайка
+  jersey: Джърси
+  jordan: Йордания
+  kazakhstan: Казахстан
+  kenya: Кения
+  kiribati: Кирибати
+  kuwait: Кувейт
+  kyrgyzstan: Киргизстан
+  lebanon: Ливан
+  lesotho: Лесото
+  liberia: Либерия
+  libya: Либия
+  liechtenstein: Лихтенщайн
+  lithuania: Литва
+  macao: Макао
+  macedonia: Македония
+  madagascar: Мадагаскар
+  malawi: Малави
+  maldives: Малдиви
+  mali: Мали
+  malta: Малта
+  marshall_islands: Маршалови острови
+  martinique: Мартиника
+  mauritania: Мавритания
+  mauritius: Мавриций
+  mayotte: Майот
+  micronesia: Микронезия
+  moldova: Молдова
+  monaco: Монако
+  montenegro: Черна гора
+  montserrat: Монсерат
+  mozambique: Мозамбик
+  myanmar: Мианмар
+  namibia: Намибия
+  new_caledonia: Нова Каледония
+  new_guinea: Нова Гвинея
+  nicaragua: Никарагуа
+  niger: Нигер
+  nigeria: Нигерия
+  niue: Ниуе
+  norfolk_island: Остров Норфолк
+  oman: Оман
+  palau: Палау
+  palestine: Палестина
+  paraguay: Парагвай
+  pitcairn: Питкерн
+  puerto_rico: Пуерто Рико
+  réunion: Реюнион
+  rwanda: Руанда
+  saint_barthélemy: Сен Бартелми
+  saint_lucia: Сейнт Лусия
+  samoa: Самоа
+  san_marino: Сан Марино
+  sao_tome_and_principe: Сао Томе и Принсипи
+  senegal: Сенегал
+  seychelles: Сейшели
+  sierra_leone: Сиера Леоне
+  slovakia: Словакия
+  slovenia: Словения
+  solomon_islands: Соломонови острови
+  somalia: Сомалия
+  south_sudan: Южен Судан
+  sudan: Судан
+  suriname: Суринам
+  syria: Сирия
+  tajikistan: Таджикистан
+  tanzania: Танзания
+  timor-leste: Източен Тимор
+  togo: Того
+  tokelau: Токелау
+  trinidad_and_tobago: Тринидад и Тобаго
+  tunisia: Тунис
+  turkmenistan: Туркменистан
+  turks_and_caicos: Търкс и Кайкос
+  tuvalu: Тувалу
+  uganda: Уганда
+  uruguay: Уругвай
+  uzbekistan: Узбекистан
+  vanuatu: Вануату
+  venezuela: Венецуела
+  yemen: Йемен
+  zambia: Замбия
+  zimbabwe: Зимбабве
+  côte_divoire: Кот д'Ивоар
+  africa: Африка
+  oceania: Океания
+  asia: Азия
+  north_america: Северна Америка
+  south_america: Южна Америка
+  Europe: Европа
+  region: Регион
+  continent: 'Континент '
+  antarctica_region: Регион Антарктика
+  australian: Австралийски
+  balkan: Балкански
+  brazilian: Бразилски
+  canadian: Канадски
+  caucasian: Кавказки
+  central_african: Централноафрикански
+  central_american: Централноамерикански
+  central_asian: Централноазиатски
+  central_european: Централноевропейски
+  chinese_and_mongolian: Китайски и монголски
+  eastern_african: Източноафрикански
+  eastern_european: Източноевропейски
+  hong_kong_and_macao: Хонконг и Макао
+  iberian: Иберийски
+  mexican: Мексикански
+  middle_eastern: Близкоизточен
+  northern_african: Северноафрикански
+  pacific_island: Тихоокеански остров
+  south_asian: Южноазиатски
+  south-east_asian: Югоизточноазиатски
+  southern_african: Южноафрикански
+  taiwanese: Тайвански
+  uk: Великобритания
+  usa: САЩ
+  western_african: Западноафрикански
+  svalbard_and_jan_mayen: Свалбард и Ян Майен
+  mayan: Мая
+  tai: Тай
+  romany: Ромски
+  1001_movies_you_must_see_before_you_die: 1001 филма, които трябва да видите 
+    преди да умрете
+  adult_cartoons: Анимации за възрастни
+  america: Америка
+  animals: Животни
+  animated_shorts: Късометражни анимации
+  apocalypse: Апокалипсис
+  astronaut: Астронавт
+  building: Сграда
+  childrens_cartoons: Детски анимации
+  colorado: Колорадо
+  comedy_horror: Комедиен ужас
+  conspiracy: Конспирация
+  criterion_collection: Колекция Criterion
+  dark_comedy: Черна комедия
+  dinosaurs: Динозаври
+  dystopian: Дистопичен
+  engineering_disasters: Инженерни бедствия
+  engineering: Инженерство
+  football: Футбол
+  funny_sci-fi: Забавна фантастика
+  inspirational: Вдъхновяващи
+  louisiana: Луизиана
+  natural_disaster: Природни бедствия
+  nature: Природа
+  pandemic: Пандемия
+  paranormal: Паранормално
+  seductive: Съблазнителни
+  stephen_king: Стивън Кинг
+  unexpectedly_amazing: Неочаквано невероятни
+collections:
+  bafta_best:
+    name: BAFTA Най-добър филм
+    summary: Победители за най-добър филм на Британската академия за филмово и 
+      телевизионно изкуство.
+  bafta_year:
+    name: BAFTA <<key_name>>
+    summary: Награда BAFTA от <<key_name>>.
+  cannes_best:
+    name: Победители Златна палма Кан
+    summary: Победители на Златна палма в Кан.
+  cannes_year:
+    name: Кан <<key_name>>
+    summary: Награда от Кан през <<key_name>>.
+  choice_year:
+    name: Critics Choice Awards <<key_name>>
+    summary: Награди Critics Choice от <<key_name>>.
+  emmy_year:
+    name: Еми <<key_name>>
+    summary: Победители Еми <<key_name>>.
+  golden_picture:
+    name: Победители Златен глобус за Най-добър филм
+    summary: Победители на Златен глобус за Най-добър филм.
+  golden_director:
+    name: Победители Златен глобус за Най-добър режисьор
+    summary: Победители на Златен глобус за Най-добър режисьор.
+  golden_year:
+    name: Златен глобус <<key_name>>
+    summary: Победители на Златен глобус <<key_name>>.
+  oscars_picture:
+    name: Победители на Оскар за Най-добър филм
+    summary: Наградата Оскар за най-добър филм е една от наградите на 
+      Академията, връчвани ежегодно от Академията за филмови изкуства и науки от
+      дебюта ѝ през 1929 г.
+  oscars_director:
+    name: Победители на Оскар за Най-добър режисьор
+    summary: Наградата Оскар за най-добра режисура е една от наградите на 
+      Академията, връчвани ежегодно от Академията за филмови изкуства и науки от
+      дебюта ѝ през 1929 г.
+  oscars_year:
+    name: Победители на Оскар <<key_name>>
+    summary: Победители на наградите на Академията (Оскар) за <<key_name>>.
+  berlinale_best:
+    name: Златни мечки на Берлинале
+    summary: Всяка година в рамките на публичната програма на Берлинале 
+      (Международен филмов фестивал в Берлин) се прожектират до 400 филма, 
+      повечето от които са световни или европейски премиери. Могат да бъдат 
+      представени филми от всякакъв жанр, дължина и формат. Златната мечка (на 
+      немски Goldener Bär) е най-високото отличие, присъждано на най-добрия 
+      филм, прожектиран по време на фестивала.
+  cesar_best:
+    name: Победители Сезар за Най-добър филм
+    summary: Наградата Сезар е националната филмова награда на Франция, връчена 
+      за първи път през 1975 г. Номинациите се избират от членовете на Académie 
+      des Arts et Techniques du Cinéma. Името на наградата идва от скулптора 
+      Сезар Балдачини. Счита се за френския еквивалент на американските Оскари.
+  razzie_worst:
+    name: Победители Златна малинка
+    summary: Наградата Златна малинка за най-лош филм се връчва на ежегодните 
+      награди Златна малинка за най-лошия филм от изминалата година.
+  venice_best:
+    name: Златни лъвове на Венеция
+    summary: Филмовият фестивал във Венеция е най-старият филмов фестивал в 
+      света. Основан през 1932 г., оттогава се провежда ежегодно във Венеция, 
+      Италия. Той е част от Венецианското биенале, голяма изложба и фестивал за 
+      съвременно изкуство. Златният лъв се присъжда на най-добрия филм, 
+      прожектиран на фестивала.
+  spirit_year:
+    name: Награди Independent Spirit <<key_name>>
+    summary: Награди Independent Spirit от <<key_name>>.
+  sundance_best:
+    name: Победители на голямата награда на журито в Сънданс
+    summary: Филмовият фестивал в Сънданс е филмов фестивал, който се провежда 
+      ежегодно в щата Юта, САЩ. Това е най-големият фестивал за независимо кино 
+      в САЩ. Провежда се през януари и е основната витрина за нови творби на 
+      американски и международни независими режисьори. Фестивалът включва 
+      състезателни секции за американски и международни драматични и 
+      документални филми, както пълнометражни, така и късометражни, както и 
+      група несъстезателни секции.
+  sundance_year:
+    name: Филмов фестивал в Сънданс <<key_name>>
+    summary: Филмов фестивал в Сънданс от <<key_name>>.
+  anilist_popular:
+    name: Популярни в AniList
+    summary: Колекция от най-популярните анимета според AniList.
+  anilist_top_rated:
+    name: С най-висока оценка в AniList
+    summary: Колекция от анимета с най-високи оценки според AniList.
+  anilist_trending:
+    name: В тренда в AniList
+    summary: Колекция от анимета в тренда според AniList.
+  anilist_season:
+    name: Сезон в AniList
+    summary: Колекция от анимета от текущия сезон според AniList.
+  basic_released:
+    name: Току-що пуснати
+    summary: Колекция от току-що пуснати <<library_translation>>.
+  basic_episodes:
+    name: Нови епизоди
+    summary: Колекция от току-що пуснати епизоди.
+  flixpatrol:
+    name: <<key_name>> Топ <<limit>>
+    summary: Топ <<limit>> <<library_translation>> в <<key_name>> според 
+      FlixPatrol.
+  imdb_popular:
+    name: Популярни в IMDb
+    summary: Списък с популярни <<library_translation>> в IMDb.
+  imdb_top:
+    name: IMDb Топ 250
+    summary: Колекция от Топ 250 <<library_translation>> в IMDb.
+  imdb_lowest:
+    name: С най-ниска оценка в IMDb
+    summary: Списък с <<library_translation>> в IMDb с най-ниска оценка.
+  mal_popular:
+    name: Популярни в MyAnimeList
+    summary: Колекция от най-популярните анимета според MyAnimeList.
+  mal_favorited:
+    name: Любими в MyAnimeList
+    summary: Колекция от най-добавяните в любими анимета според MyAnimeList.
+  mal_top:
+    name: С най-висока оценка в MyAnimeList
+    summary: Колекция от анимета с най-високи оценки според MyAnimeList.
+  mal_airing:
+    name: Топ излъчвани в MyAnimeList
+    summary: Колекция от анимета с най-високи оценки, които се излъчват в 
+      момента, според MyAnimeList.
+  mal_season:
+    name: Сезон в MyAnimeList
+    summary: Колекция от анимета от текущия сезон според MyAnimeList.
+  anidb_popular:
+    name: Популярни в AniDB
+    summary: Колекция от популярни анимета в AniDB.
+  commonsense_selection:
+    name: Common Sense
+    summary: Колекция от <<library_translation>> на Common Sense. Признава 
+      изключителното забавление с официален печат за качество и въздействие. 
+      Селекциите включват медии, подходящи за възрастта, които имат потенциала 
+      да предизвикат семейни разговори, да забавляват семейства от всякакъв тип 
+      и да имат положителен и траен ефект върху обществото.
+  stevenlu_popular:
+    name: Популярни филми на StevenLu
+    summary: Колекция от най-популярните филми на StevenLu.
+  pirated_popular:
+    name: Топ 10 пиратски филми за седмицата
+    summary: Седмичният Топ 10 на пиратските филми на TorrentFreak.com.
+  tautulli_popular:
+    name: Популярни в Plex
+    summary: Колекция от популярни <<library_translation>> в Plex.
+  tautulli_watched:
+    name: Гледани в Plex
+    summary: Колекция от най-гледаните <<library_translation>> в Plex.
+  tmdb_airing:
+    name: TMDb Излъчвани днес
+    summary: Колекция от сериали с епизоди, които се излъчват днес.
+  tmdb_air:
+    name: TMDb В ефир
+    summary: Колекция от сериали, които все още са активно в ефир.
+  tmdb_popular:
+    name: Популярни в TMDb
+    summary: Колекция от най-гледаните <<library_translation>> според TMDb.
+  tmdb_top:
+    name: С най-висока оценка в TMDb
+    summary: Колекция от <<library_translation>> с най-високи оценки според 
+      TMDb.
+  tmdb_trending:
+    name: В тренда в TMDb
+    summary: Колекция от <<library_translation>> в тренда в TMDb.
+  trakt_collected:
+    name: Колекция на Trakt
+    summary: Колекция от седмичния списък Trakt Collected на Trakt.
+  trakt_popular:
+    name: Популярни в Trakt
+    summary: Колекция от седмичния списък Trakt Popular.
+  trakt_recommended:
+    name: Препоръчани в Trakt
+    summary: Колекция от седмичния списък Trakt Recommended на Trakt.
+  trakt_trending:
+    name: В тренда в Trakt
+    summary: Колекция от седмичния списък Trakt Trending.
+  trakt_watched:
+    name: Гледани в Trakt
+    summary: Колекция от седмичния списък Trakt Watched.
+  separator:
+    name: Колекции <<key_name>>
+    summary: Разделител на секции за колекциите на <<key_name>>.
+  actor:
+    name: <<key_name>>
+    summary: <<library_translationU>> с участието на <<key_name>>.
+  audio_language:
+    name: Аудио на <<key_name>>
+    summary: <<library_translationU>>, заснети на <<key_name>> език.
+  audio_language_other:
+    name: Други аудио езици
+    summary: <<library_translationU>>, заснети на други необичайни езици.
+  based:
+    name: Базиран на <<key_name>>
+    summary: <<library_translationU>>, чиято история се базира или е вдъхновена 
+      от <<key_name>>.
+  collectionless:
+    name: Без колекция
+    summary: Колекция от <<library_translationU>>, използвана, за да може Plex 
+      да показва елементите правилно.
+  content_rating:
+    name: <<library_translationU>> <<key_name>>
+    summary: <<library_translationU>>, които са класифицирани като <<key_name>>.
+  content_rating_cs:
+    name: Възраст <<key_name>>+ <<library_translationU>>
+    summary: <<library_translationU>>, които са класифицирани като <<key_name>> 
+      според Common Sense Rating System.
+  content_rating_other:
+    name: <<library_translationU>> без класификация
+    summary: <<library_translationU>>, които са без рейтинг, некласифицирани или
+      с необичайни оценки.
+  content_ratings_other:
+    name: Други класификации
+    summary: <<library_translationU>>, които не са класифицирани, са без рейтинг
+      или с други необичайни класификации.
+  country:
+    name: <<key_name>>
+    summary: <<library_translationU>>, заснети в <<key_name>>.
+  country_other:
+    name: Други държави
+    summary: <<library_translationU>>, които са били заснети в други необичайни 
+      държави.
+  decade:
+    name: Най-доброто от <<key_name>>
+    summary: Топ <<limit>> <<library_translation>> от <<key_name>>.
+  decade_other:
+    name: Други десетилетия
+    summary: <<library_translationU>>, пуснати през други десетилетия.
+  director:
+    name: <<key_name>> (Режисьор)
+    summary: <<library_translationU>>, режисирани от <<key_name>>.
+  genre:
+    name: <<library_translationU>> <<key_name>>
+    summary: <<library_translationU>>, които са от жанр <<key_name>>.
+  genre_other:
+    name: Други жанрове
+    summary: <<library_translationU>>, които са от други необичайни жанрове.
+  network:
+    name: <<key_name>>
+    summary: <<library_translationU>>, излъчвани по <<key_name>>.
+  network_other:
+    name: Други телевизионни мрежи
+    summary: <<library_translationU>>, излъчвани по други необичайни мрежи.
+  network_kids_other:
+    name: Други детски канали
+    summary: <<library_translationU>>, излъчвани по други необичайни детски 
+      мрежи.
+  producer:
+    name: <<key_name>> (Продуцент)
+    summary: <<library_translationU>>, продуцирани от <<key_name>>.
+  resolution:
+    name: <<library_translationU>> в <<key_name>>
+    summary: <<library_translationU>> в резолюция <<key_name>>.
+  resolution_other:
+    name: <<library_translationU>> в други резолюции
+    summary: <<library_translationU>> в други необичайни резолюции.
+  resolutions_other:
+    name: Други резолюции
+    summary: <<library_translationU>> в други необичайни резолюции.
+  seasonal:
+    name: <<library_translationU>> за <<key_name>>
+    summary: Колекция от <<library_translation>> за <<key_name>>.
+  streaming:
+    name: <<library_translationU>> в <<key_name>>
+    summary: <<library_translationU>>, стриймвани в <<key_name>>.
+  studio:
+    name: <<key_name>>
+    summary: <<library_translationU>>, продуцирани от <<key_name>>.
+  studio_other:
+    name: Други студия
+    summary: <<library_translationU>>, продуцирани от други необичайни студия.
+  studio_animation_other:
+    name: Други анимационни студия
+    summary: <<library_translationU>>, продуцирани от други необичайни 
+      анимационни студия.
+  subtitle_language:
+    name: Субтитри на <<key_name>>
+    summary: <<library_translationU>> със субтитри на <<key_name>>.
+  subtitle_language_other:
+    name: Други субтитри
+    summary: <<library_translationU>> с други необичайни субтитри.
+  writer:
+    name: <<key_name>> (Сценарист)
+    summary: <<library_translationU>>, написани от <<key_name>>.
+  year:
+    name: Най-доброто от <<key_name>>
+    summary: <<library_translationU>>, пуснати през <<key_name>>.
+  year_other:
+    name: Други години
+    summary: <<library_translationU>>, пуснати през други години.
+  birthday:
+    summary: Роден този месец, <<library_translation>> с участието на 
+      <<key_name>>.
+    name: Рожден ден на <<key_name>>
+  aspect_ratio_other:
+    summary: <<library_translationU>>, заснети в други необичайни съотношения на
+      картината.
+    name: Други съотношения на картината
+  region_other:
+    name: Други региони
+    summary: <<library_translationU>>, заснети в други необичайни региони.
+  continent_other:
+    name: Други континенти
+    summary: <<library_translationU>>, заснети на други необичайни континенти.
