@@ -991,6 +991,8 @@ key_names:
   movies_that_defined_our_childhood: Филми, които определиха детството ни
   wedding: Сватба
   bottle: Епизод в бутилка
+  award_shows: Наградени шоу програми
+  sinister_screens: Зловещи филми
 collections:
   bafta_best:
     name: BAFTA Най-добър филм
