@@ -989,6 +989,11 @@ key_names:
   bottle: Bottle
   award_shows: Award Shows
   sinister_screens: Sinister Screens
+  top_250_international: Top 250 International
+  top_250_sci-fi_films: Top 250 Sci-Fi Films
+  top_100_western_films: Top 100 Western Films
+  top_100_silent_films: Top 100 Silent Films
+  one_million_watched_club: One Million Watched Club
 collections:
   bafta_best:
     name: BAFTA Best Films
