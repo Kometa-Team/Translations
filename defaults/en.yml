@@ -1463,3 +1463,13 @@ collections:
       thanks to this megalist of films directed by Black American filmmakers. It
       will be updated monthly. An official list progress project on all-time 
       stats pages for Pro and Patron users.
+  top_250_international:
+    name: Top 250 International
+  top_250_sci-fi_films:
+    name: Top 250 Sci-Fi Films
+  top_100_western_films:
+    name: Top 100 Western Films
+  top_100_silent_films:
+    name: Top 100 Silent Films
+  one_million_watched_club:
+    name: One Million Watched Club
