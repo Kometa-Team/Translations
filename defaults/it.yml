@@ -273,7 +273,8 @@ key_names:
   con_artist: Truffatore
   content_ratings: Classificazioni dei Contenuti
   cornish: Cornico
-  day_of_persons_with_disabilities: Giornata internazionale delle persone con disabilità
+  day_of_persons_with_disabilities: Giornata internazionale delle persone con 
+    disabilità
   demons: Demoni
   divehi: Maldiviano
   dzongkha: Dzongkha
@@ -364,7 +365,7 @@ key_names:
   somali: Somalo
   southern_sotho: Sotho del Sud
   space: Spazio
-  spy: Spia
+  spy: Spionaggio
   sundanese: Sundanese
   super_power: Super Potere
   supernatural: Soprannaturale
@@ -474,9 +475,9 @@ key_names:
   watchlist: Raccolte
   womens_history_month: Mese della storia delle donne
   not_rated: Non classificato
-  plex_pilots: Plex Piloti
-  asian_american_pacific_islander_heritage_month: Mese del Patrimonio Asiatico Americano
-    e delle Isole del Pacifico
+  plex_pilots: Episodi Pilota su Plex
+  asian_american_pacific_islander_heritage_month: Mese del Patrimonio Asiatico 
+    Americano e delle Isole del Pacifico
   boys_love: L'amore dei ragazzi
   uk_streaming: Streaming del Regno Unito
   ufo: UFO
@@ -712,7 +713,7 @@ key_names:
   childrens_cartoons: Cartoni per bamini
   colorado: Colorado
   comedy_horror: Commedia Horror
-  conspiracy: Conspirazione
+  conspiracy: Cospirazione
   building: Edificio
   criterion_collection: Collezione Criterion
   dark_comedy: Commedia nera
@@ -731,11 +732,13 @@ key_names:
   seductive: Seducenti
   engineering: Ingegneria
   stephen_king: Stephen King
+  united_states: Stati Uniti
+  human_body: Corpo Umano
 collections:
   bafta_best:
     name: BAFTA Miglior Film
-    summary: Accademia Britannica del Cinema e delle Arti Televisive Vincitori del
-      Miglior Film.
+    summary: Accademia Britannica del Cinema e delle Arti Televisive Vincitori 
+      del Miglior Film.
   bafta_year:
     name: BAFTA <<key_name>>
     summary: Premio BAFTA del <<key_name>>.
@@ -762,52 +765,56 @@ collections:
     summary: Vincitori del Golden Globe <<key_name>>.
   oscars_picture:
     name: Vincitori degli Oscar per il Miglior Film
-    summary: Il premio Oscar per il miglior film è uno dei premi Oscar assegnati annualmente
-      dall'Academy of Motion Picture Arts and Sciences sin dal suo debutto nel 1929.
+    summary: Il premio Oscar per il miglior film è uno dei premi Oscar assegnati
+      annualmente dall'Academy of Motion Picture Arts and Sciences sin dal suo 
+      debutto nel 1929.
   oscars_director:
     name: Vincitori degli Oscar come Miglior Regista
-    summary: Il premio Oscar per la miglior regia è uno dei premi Oscar assegnati
-      annualmente dall'Academy of Motion Picture Arts and Sciences sin dal suo debutto
-      nel 1929.
+    summary: Il premio Oscar per la miglior regia è uno dei premi Oscar 
+      assegnati annualmente dall'Academy of Motion Picture Arts and Sciences sin
+      dal suo debutto nel 1929.
   oscars_year:
     name: Vincitori degli Oscar <<key_name>>
     summary: Vincitori degli Academy Awards (Oscar) per <<key_name>>.
   berlinale_best:
     name: Orsi d'oro della Berlinale
-    summary: Ogni anno, nell'ambito del programma pubblico della Berlinale (Festival
-      Internazionale del Cinema di Berlino), vengono proiettati fino a 400 film, la
-      maggior parte dei quali sono anteprime mondiali o europee. Possono essere presentati
-      film di ogni genere, lunghezza e formato. L'Orso d'Oro (in tedesco Goldener
-      Bär) è il premio più alto assegnato al miglior film proiettato durante il festival.
+    summary: Ogni anno, nell'ambito del programma pubblico della Berlinale 
+      (Festival Internazionale del Cinema di Berlino), vengono proiettati fino a
+      400 film, la maggior parte dei quali sono anteprime mondiali o europee. 
+      Possono essere presentati film di ogni genere, lunghezza e formato. L'Orso
+      d'Oro (in tedesco Goldener Bär) è il premio più alto assegnato al miglior 
+      film proiettato durante il festival.
   cesar_best:
     name: Vincitori del César per il miglior film
-    summary: Il Premio César è il premio cinematografico nazionale francese, assegnato
-      per la prima volta nel 1975. Le candidature sono selezionate dai membri dell'Académie
-      des Arts et Techniques du Cinéma. Il nome del premio deriva dallo scultore César
-      Baldaccini. È considerato l'equivalente francese degli Academy Awards americani.
+    summary: Il Premio César è il premio cinematografico nazionale francese, 
+      assegnato per la prima volta nel 1975. Le candidature sono selezionate dai
+      membri dell'Académie des Arts et Techniques du Cinéma. Il nome del premio 
+      deriva dallo scultore César Baldaccini. È considerato l'equivalente 
+      francese degli Academy Awards americani.
   razzie_worst:
     name: Vincitori dei Razzies Golden Raspberry
-    summary: Il Golden Raspberry Award for Worst Picture è un premio assegnato ai
-      Golden Raspberry Awards annuali al peggior film dell'anno passato.
+    summary: Il Golden Raspberry Award for Worst Picture è un premio assegnato 
+      ai Golden Raspberry Awards annuali al peggior film dell'anno passato.
   venice_best:
     name: Leoni d'oro di Venezia
-    summary: La Mostra del Cinema di Venezia è il più antico festival cinematografico
-      del mondo. Fondata nel 1932, da allora si svolge ogni anno a Venezia, in Italia.
-      Fa parte della Biennale di Venezia, una grande mostra e festival biennale di
-      arte contemporanea. Il Leone d'Oro viene assegnato al miglior film proiettato
-      al festival.
+    summary: La Mostra del Cinema di Venezia è il più antico festival 
+      cinematografico del mondo. Fondata nel 1932, da allora si svolge ogni anno
+      a Venezia, in Italia. Fa parte della Biennale di Venezia, una grande 
+      mostra e festival biennale di arte contemporanea. Il Leone d'Oro viene 
+      assegnato al miglior film proiettato al festival.
   spirit_year:
     name: Premi Independent Spirit <<key_name>>
     summary: Independent Spirit Awards del <<key_name>>.
   sundance_best:
     name: Vincitori del Gran Premio della Giuria del Sundance
-    summary: Il Sundance Film Festival è un festival cinematografico che si svolge
-      ogni anno nello stato dello Utah, negli Stati Uniti. È il più grande festival
-      di cinema indipendente degli Stati Uniti. Si tiene a gennaio ed è la principale
-      vetrina per i nuovi lavori di registi indipendenti americani e internazionali.
-      Il festival comprende sezioni competitive per film drammatici e documentari
-      americani e internazionali, sia lungometraggi che cortometraggi, e un gruppo
-      di sezioni vetrina non competitive.
+    summary: Il Sundance Film Festival è un festival cinematografico che si 
+      svolge ogni anno nello stato dello Utah, negli Stati Uniti. È il più 
+      grande festival di cinema indipendente degli Stati Uniti. Si tiene a 
+      gennaio ed è la principale vetrina per i nuovi lavori di registi 
+      indipendenti americani e internazionali. Il festival comprende sezioni 
+      competitive per film drammatici e documentari americani e internazionali, 
+      sia lungometraggi che cortometraggi, e un gruppo di sezioni vetrina non 
+      competitive.
   sundance_year:
     name: Sundance Film Festival <<key_name>>
     summary: Sundance Film Festival di <<key_name>>.
@@ -831,7 +838,8 @@ collections:
     summary: Una raccolta di episodi appena rilasciati.
   flixpatrol:
     name: <<key_name>> Top <<limit>>
-    summary: Top <<limit>> <<library_translation>> su <<key_name>> secondo FlixPatrol.
+    summary: Top <<limit>> <<library_translation>> su <<key_name>> secondo 
+      FlixPatrol.
   imdb_popular:
     name: Popolari su IMDb
     summary: Elenco di <<library_translation>> popolari su IMDb .
@@ -846,14 +854,15 @@ collections:
     summary: Una raccolta degli anime più popolari secondo MyAnimeList.
   mal_favorited:
     name: Preferiti su MyAnimeList
-    summary: Una raccolta degli Anime maggiormente preferiti secondo MyAnimeList.
+    summary: Una raccolta degli Anime maggiormente preferiti secondo 
+      MyAnimeList.
   mal_top:
     name: Voti Migliori su MyAnimeList
     summary: Una raccolta degli anime con i voti più alti secondo MyAnimeList.
   mal_airing:
     name: Top di MyAnimeList in Onda
-    summary: Una raccolta degli anime con i voti più alti attualmente in onda secondo
-      MyAnimeList.
+    summary: Una raccolta degli anime con i voti più alti attualmente in onda 
+      secondo MyAnimeList.
   mal_season:
     name: Stagione su MyAnimeList
     summary: Una raccolta di anime della stagione in corso secondo MyAnimeList.
@@ -862,11 +871,12 @@ collections:
     summary: Una raccolta di anime popolari su AniDB.
   commonsense_selection:
     name: Buon Senso
-    summary: Una raccolta di <<library_translation>> di buon senso. Riconosce l'intrattenimento
-      eccezionale con un sigillo ufficiale di qualità e impatto. Le selezioni includono
-      media adatti all'età, che hanno il potenziale di suscitare conversazioni in
-      famiglia, intrattenere le famiglie di tutti i tipi e avere un effetto positivo
-      e duraturo sulla società.
+    summary: Una raccolta di <<library_translation>> di buon senso. Riconosce 
+      l'intrattenimento eccezionale con un sigillo ufficiale di qualità e 
+      impatto. Le selezioni includono media adatti all'età, che hanno il 
+      potenziale di suscitare conversazioni in famiglia, intrattenere le 
+      famiglie di tutti i tipi e avere un effetto positivo e duraturo sulla 
+      società.
   stevenlu_popular:
     name: Film Popolari di StevenLu
     summary: Una raccolta dei film più popolari di StevenLu.
@@ -890,7 +900,8 @@ collections:
     summary: Una raccolta dei <<library_translation>> più visti secondo TMDb.
   tmdb_top:
     name: Voti Migliori su TMDb
-    summary: Una raccolta di <<library_translation>> con i voti più alti secondo TMDb.
+    summary: Una raccolta di <<library_translation>> con i voti più alti secondo
+      TMDb.
   tmdb_trending:
     name: In Tendenza su TMDb
     summary: Una raccolta di <<library_translation>> in tendenza su TMDb.
@@ -923,25 +934,26 @@ collections:
     summary: <<library_translationU>> girati in altre lingue non comuni.
   collectionless:
     name: Senza collezione
-    summary: Raccolta di <<library_translationU>> utilizzata per far sì che Plex visualizzi
-      correttamente gli elementi.
+    summary: Raccolta di <<library_translationU>> utilizzata per far sì che Plex
+      visualizzi correttamente gli elementi.
   content_rating:
     name: <<library_translationU>> <<key_name>>
     summary: <<library_translationU>> che sono classificati come <<key_name>>.
   content_rating_cs:
     name: Età <<key_name>>+ <<library_translationU>>
-    summary: <<library_translationU>> che sono classificati come <<key_name>> secondo
-      il Common Sense Rating System.
+    summary: <<library_translationU>> che sono classificati come <<key_name>> 
+      secondo il Common Sense Rating System.
   content_rating_other:
     name: <<library_translationU>> Senza Classifica
-    summary: <<library_translationU>> che sono senza rating, non classificati o con
-      valutazioni non comuni.
+    summary: <<library_translationU>> che sono senza rating, non classificati o 
+      con valutazioni non comuni.
   country:
     name: <<key_name>>
     summary: <<library_translationU>> girati in <<key_name>>.
   country_other:
     name: Altri Paesi
-    summary: <<library_translationU>> che sono stati girati in altri Paesi non comuni.
+    summary: <<library_translationU>> che sono stati girati in altri Paesi non 
+      comuni.
   decade:
     name: Il meglio del <<key_name>>
     summary: Top <<limit>> <<library_translation>> del <<key_name>>.
@@ -1004,23 +1016,26 @@ collections:
     summary: <<library_translationU>> che hanno altri generi non comuni.
   based:
     name: Basato su un <<key_name>>
-    summary: <<library_translationU>> la cui storia si basa o prende ispirazione da
-      un <<key_name>>.
+    summary: <<library_translationU>> la cui storia si basa o prende ispirazione
+      da un <<key_name>>.
   content_ratings_other:
     name: Altre Classificazioni
-    summary: <<library_translationU>> che non sono classificati, non classificati
-      o con altre classificazioni non comuni.
+    summary: <<library_translationU>> che non sono classificati, non 
+      classificati o con altre classificazioni non comuni.
   network_other:
     name: Altre Reti Televisive
     summary: <<library_translationU>> trasmesse su altre reti non comuni.
   studio_animation_other:
     name: Altri Studi di Animazione
-    summary: <<library_translationU>> prodotti da altri studi di animazione non comuni.
+    summary: <<library_translationU>> prodotti da altri studi di animazione non 
+      comuni.
   network_kids_other:
     name: Altri Canali per bambini
-    summary: <<library_translationU>> trasmessi su altre reti per bambini non comuni.
+    summary: <<library_translationU>> trasmessi su altre reti per bambini non 
+      comuni.
   aspect_ratio_other:
-    summary: <<library_translationU>>s filmati in altri rapporti d'aspetto non comuni.
+    summary: <<library_translationU>>s filmati in altri rapporti d'aspetto non 
+      comuni.
     name: Altri rapporti di aspetto
   region_other:
     name: Altre regioni
