@@ -995,6 +995,7 @@ key_names:
   top_100_silent_films: Top 100 Silent Films
   one_million_watched_club: One Million Watched Club
   top_250_black_directed: Top 250 Black Directed
+  plex_random: Plex Random
 collections:
   bafta_best:
     name: BAFTA Best Films
@@ -1487,3 +1488,6 @@ collections:
     name: One Million Watched Club
     summary: The official list for Letterboxd's One Million Watched Club with 
       all feature films seen by at least 1,000,000 Letterboxd members.
+  tautulli_random:
+    name: Plex Random
+    summary: A collection of <<library_translation>>s Random on Plex.
