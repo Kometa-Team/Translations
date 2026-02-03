@@ -734,6 +734,209 @@ key_names:
   stephen_king: Stephen King
   united_states: Stati Uniti
   human_body: Corpo Umano
+  first_responder: Primo soccorritore
+  manufacturing: Produzione
+  medical: Medico
+  plants: Piante
+  prison: Prigione
+  technology: Tecnologia
+  weather: Meteo
+  witch: Strega
+  south_korea: Corea del Sud
+  central_america: America centrale
+  americas: Americhe
+  australia_and_new_zealand: Australia e Nuova Zelanda
+  democratic_republic_of_the_congo: Repubblica Democratica del Congo
+  polynesia: Polinesia
+  northern_america: America del nord
+  alien: Alieno
+  animal: Animale
+  anthology: Antologia
+  artificial_intelligence: Intelligenza Artificiale
+  betrayal: Tradimento
+  experimental: Sperimentale
+  foreign: Straniero
+  ghost: Fantasma
+  gothic: Gotico
+  historical_event: Evento Storico
+  hostage: Ostaggio
+  monster: Mostro
+  mythology: Mitologia
+  naval: Navale
+  ninja: Ninja
+  occult: Occulto
+  philosophy: Filosofia
+  plant: Pianta
+  prehistoric: Preistorico
+  religion: Religione
+  revenge: Vendetta
+  satire: Satira
+  surrealism: Surrealismo
+  world_war: Guerra Mondiale
+  fringe: Fringe
+  mystery_box: Mystery Box
+  eastern_asia: Asia orientale
+  melanesia: Melanesia
+  northern_europe: Europa settentrionale
+  southeastern_asia: Sud-est asiatico
+  southern_asia: Asia meridionale
+  southern_europe: Europa meridionale
+  sub-saharan_africa: Africa subsahariana
+  western_asia: Asia occidentale
+  western_europe: Europa occidentale
+  christmas_cartoons: Cartoni animati natalizi
+  christmas_episodes: Episodi natalizi
+  absurdism: Assurdismo
+  adult_cartoon: Cartoni animati per adulti
+  alternate_history: Storia alternativa
+  animated_short: Cortometraggio animato
+  anti-hero: Anti-Hero
+  boxing: Boxing
+  bug: Bug
+  childrens_cartoon: Cartoni animati per bambini
+  costume_drama: Dramma in costume
+  courtroom: Aula di tribunale
+  cyberpunk: Cyberpunk
+  dark_fantasy: Dark Fantasy
+  detective: Detective
+  dinosaur: Dinosauro
+  dragon: Drago
+  engineering_disaster: Disastro ingegneristico
+  espionage: Spionaggio
+  fairy_tale: Fiaba
+  fugitive: Fuggitivo
+  heartbreak: Cuore spezzato
+  historical_fiction: Romanzo storico
+  melodrama: Melodramma
+  outlaw: Fuorilegge
+  period_drama: Dramma storico
+  remake: Remake
+  robot: Robot
+  space_opera: Space Opera
+  splatter: Splatter
+  steampunk: Steampunk
+  stop-motion: Stop-Motion
+  time_travel: Viaggio nel tempo
+  treasure_hunt: Caccia al tesoro
+  true_crime: True Crime
+  utopia: Utopia
+  werewolf: Lupo mannaro
+  wizardry_witchcraft: Magia e stregoneria
+  plex_must_see_movies: Film da non perdere
+  plex_must_watch_movies: Film da non perdere
+  plex_must_see_shows: Serie da non perdere
+  plex_must_watch_shows: Serie da non perdere
+  cyber_thriller: Cyber-Thriller
+  jungle_adventure: Avventura nella giungla
+  post_apocalyptic: Post-apocalittico
+  medieval: Medievale
+  best_of_britain: Il meglio della Gran Bretagna
+  based_on_books_and_games: Basato su libri e giochi
+  heroes_and_wizards: Eroi e maghi
+  the_justice_system: Il sistema giudiziario
+  mystery_and_drama: Mistero e dramma
+  this_day_in_history: Questo giorno nella storia
+  this_week_in_history: Questa settimana nella storia
+  this_month_in_history: Questo mese nella storia
+  north_korea: Corea del Nord
+  north_macedonia: Macedonia del Nord
+  action_comedy: Commedia d'azione
+  exploitation: Sfruttamento
+  neo-noir: Neo-Noir
+  crime_comedy: Commedia poliziesca
+  sexploitation: Sfruttamento sessuale
+  cannibal: Cannibalismo
+  extreme: Estremo
+  fantasy_horror: Fantasy Horror
+  horror_parody: Parodia horror
+  lovecraftian: Lovecraftiano
+  silent: Silenzioso
+  surreal_comedy: Commedia surreale
+  sci-fi_horror: Horror fantascientifico
+  zombie_comedy: Commedia zombie
+  surreal: Surreale
+  surreal_horror: Horror surreale
+  zombie: Zombie
+  turks_and_caicos_islands: Isole Turks e Caicos
+  kosovo: Kosovo
+  papua_new_guinea: Papua Nuova Guinea
+  saint_kitts_and_nevis: Saint Kitts e Nevis
+  top_1: Top 1
+  top_2: Top 2
+  top_3: Top 3
+  top_4: Top 4
+  top_8: Top 8
+  top_5: Top 5
+  top_6: Top 6
+  top_7: Top 7
+  top_9: Top 9
+  top_11: Top 11
+  top_13: Top 13
+  top_12: Top 12
+  top_16: Top 16
+  top_15: Top 15
+  top_21: Top 21
+  top_14: Top 14
+  top_19: Top 19
+  top_20: Top 20
+  top_18: Top 18
+  top_17: Top 17
+  top_22: Top 22
+  top_27: Top 27
+  top_23: Top 23
+  top_24: Top 24
+  top_25: Top 25
+  top_30: Top 30
+  top_26: Top 26
+  top_28: Top 28
+  top_29: Top 29
+  letterboxd_top_250: Letterboxd Top 250
+  oscars_best_picture_winners: Vincitori dell'Oscar al miglior film
+  roger_eberts_great_movies: I grandi film di Roger Ebert
+  edgar_wrights_1000_favorites: I 1.000 preferiti di Edgar Wright
+  top_250_women_directed: Le 250 migliori registe donne
+  top_250_documentaries: I 250 migliori documentari
+  imdb_top_250: IMDb Top 250
+  top_100_black_directed: Top 100 registi neri
+  cannes_palmes_dor_winners: Vincitori della Palma d'Oro a Cannes
+  1001_movies_to_see_before_you_die: 1.001 cose da vedere prima di morire
+  oscars_picture_nomination: Candidati al premio Oscar per il miglior film
+  oscars_director_nomination: Candidati al premio Oscar per il miglior regista
+  best_director_nomination: Candidati al premio Oscar per il miglior regista
+  best_picture_nomination: Candidati al premio Oscar per il miglior film
+  guilty_pleasure: Piacere proibito
+  mojo_top_100: Top 100 di tutti i tempi
+  top_grossing_films_of_all-time: I film di maggior incasso di tutti i tempi
+  top_100_animation: Top 100 Animazione
+  top_250_horror: Top 250 Horror
+  all_time: Tutti i tempi
+  shows: Series
+  movies: Films
+  originals: Originali
+  cult_classics: Classici cult
+  must_see: Da vedere
+  rated_100: Valutato 100%
+  time_loop: Ciclo temporale
+  republic_of_the_congo: Repubblica del Congo
+  saint_pierre_and_miquelon: Saint Pierre e Miquelon
+  president: Presidente
+  best_live_action_short_film_nomination: Nomination al miglior cortometraggio 
+    live action
+  best_live_action_short_film_winners: Vincitori del premio per il miglior 
+    cortometraggio live action
+  best_animated_feature_film_nomination: Candidati al miglior film d'animazione
+  best_animated_feature_film_winners: Vincitori del premio per il miglior film 
+    d'animazione
+  trains: Treni
+  disney: Disney
+  pixar: Pixar
+  dreamworks: Dreamworks
+  disney_pixar_dreamworks: Disney Pixar Dreamworks
+  new_years_eve: Capodanno
+  popular_movies: Film popolari
+  movies_that_defined_our_childhood: I film che hanno segnato la nostra infanzia
+  wedding: Matrimonio
+  bottle: Bottiglia
 collections:
   bafta_best:
     name: BAFTA Miglior Film
@@ -1043,3 +1246,43 @@ collections:
   continent_other:
     name: Altri continenti
     summary: <<library_translationU>>s girato in altri continenti non comuni.
+  metacritic_must_see:
+    summary: Una raccolta dei film da non perdere secondo Metacritic.
+  box_office_mojo_all_time_100:
+    summary: Basato sulla classifica dei 100 film più visti di tutti i tempi 
+      secondo Box Office Mojo, in base agli incassi mondiali, senza adeguamenti 
+      per l'inflazione. Aggiornato mensilmente.
+  sight_and_sound_greatest_films:
+    summary: Ogni dieci anni il team di Sight and Sound chiede ai critici di 
+      nominare i migliori film di tutti i tempi. Ecco i risultati del sondaggio 
+      del 2022, il più grande di sempre, con 1.639 critici, programmatori, 
+      curatori, archivisti e accademici che hanno presentato la loro top ten, 
+      ora aggiornata con l'elenco completo.
+  letterboxd_top_250:
+    summary: I 250 migliori film di Letterboxd, in base alla valutazione media 
+      ponderata di tutti gli utenti di Letterboxd. Sono stati rimossi tutti gli 
+      speciali di stand-up comedy, le rappresentazioni teatrali, i 
+      film-concerto, i documentari, i cortometraggi, le "liste di collezioni" e 
+      altre "rarità", quindi qui sono elencati solo i lungometraggi narrativi. I
+      film devono avere un minimo di 5.000 valutazioni per poter essere inseriti
+      nella lista.
+  1001_movies_to_see_before_you_die:
+    name: 1.001 cose da vedere prima di morire
+    summary: Elenco tratto dal libro 1001 film da vedere prima di morire. Questo
+      elenco proviene solo dall'edizione 2021, quindi non vedrete film 
+      cancellati come in altri elenchi. L'elenco è ordinato al contrario, con i 
+      film più recenti per primi. A grande richiesta, le raccolte utilizzate nel
+      libro sono state spostate alla prima voce, ad esempio Toy Story e Il 
+      Signore degli Anelli.
+  top_250_horror:
+    name: Top 250 Horror
+  edgar_wrights_1000_favorites:
+    name: I 1.000 preferiti di Edgar Wright
+    summary: Questo elenco di preferiti personali è stato compilato da Edgar 
+      Wright e Sam DiSalle nel luglio 2016 e viene aggiornato con cadenza 
+      semi-regolare. I film sono ordinati per anno e in ordine alfabetico 
+      all'interno di ciascun anno (il nostro elenco corrisponde all'ordine 
+      dell'elenco originale di MUBI, ma alcuni film sono elencati con nomi 
+      alternativi).
+  top_250_women_directed:
+    name: Le 250 migliori registe donne
