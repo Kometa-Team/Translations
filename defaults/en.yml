@@ -996,6 +996,7 @@ key_names:
   one_million_watched_club: One Million Watched Club
   top_250_black_directed: Top 250 Black Directed
   plex_random: Plex Random
+  letterboxd_top_500: Letterboxd Top 500
 collections:
   bafta_best:
     name: BAFTA Best Films
@@ -1491,3 +1492,10 @@ collections:
   tautulli_random:
     name: Plex Random
     summary: A collection of <<library_translation>>s Random on Plex.
+  letterboxd_top_500:
+    name: Letterboxd Top 500
+    summary: Letterboxd's Top 500 movies, based on the average weighted rating 
+      of all Letterboxd users. Removed all stand-up specials, stage plays, 
+      concert films, documentaries, shorts, 'collection listings' and other 
+      'rarities', so only feature length narrative movies are listed here. Films
+      should have a minimum of 25,000 ratings to be eligible to enter the list.
