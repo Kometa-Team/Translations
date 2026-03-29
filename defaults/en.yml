@@ -1186,6 +1186,18 @@ collections:
   trakt_watched:
     name: Trakt Watched
     summary: A collection of Trakt's Weekly Trakt Watched List.
+  simkl_trending_today:
+    name: SIMKL Trending Today
+    summary: A collection of SIMKL's Trending Today List.
+  simkl_trending_week:
+    name: SIMKL Trending This Week
+    summary: A collection of SIMKL's Trending This Week List.
+  simkl_trending_month:
+    name: SIMKL Trending This Month
+    summary: A collection of SIMKL's Trending This Month List.
+  simkl_dvd:
+    name: SIMKL Recently Released on DVD
+    summary: A collection of SIMKL's Recently Released on DVD List.
   separator:
     name: <<key_name>> Collections
     summary: Section separator for <<key_name>> Collections.
