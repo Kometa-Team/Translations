@@ -1001,7 +1001,7 @@ key_names:
   simkl_trending_today: Trending Today
   simkl_trending_week: Trending Week
   simkl_trending_month: Trending Month
-  simkl_dvd: DVD
+  simkl_dvd: DVD Release
 collections:
   bafta_best:
     name: BAFTA Best Films
