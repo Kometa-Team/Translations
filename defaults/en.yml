@@ -998,10 +998,10 @@ key_names:
   plex_random: Plex Random
   letterboxd_top_500: Letterboxd Top 500
   top_500: Top 500
-  simkl_trending_today: SIMKL Trending Today
-  simkl_trending_week: SIMKL Trending This Week
-  simkl_trending_month: SIMKL Trending This Month
-  simkl_dvd: SIMKL DVD
+  simkl_trending_today: Trending Today
+  simkl_trending_week: Trending This Week
+  simkl_trending_month: Trending Month
+  simkl_dvd: DVD
 collections:
   bafta_best:
     name: BAFTA Best Films
