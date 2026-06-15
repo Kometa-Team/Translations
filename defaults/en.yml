@@ -1494,9 +1494,8 @@ collections:
       least 100 likes.
   top_100_western_films:
     name: Top 100 Western Films
-    summary: The top 250 western genre films on Letterboxd. Eligible films must 
-      be feature-length, watched by at least 1,000 users, and have at least 100 
-      likes.
+    summary: The top 100 narrative feature films in the Western genre on 
+      Letterboxd by average member rating.
   top_100_silent_films:
     name: Top 100 Silent Films
     summary: The top 250 silent films on Letterboxd. Eligible films must be 
