@@ -21,7 +21,7 @@ key_names:
   action: Action
   action_adventure: Action & Abenteuer
   actors: Schauspieler
-  adult: Erwachsen
+  adult: Erwachsene
   adventure: Abenteuer
   albanian: Albanisch
   animation: Animation
@@ -812,8 +812,8 @@ key_names:
   south_korea: Südkorea
   americas: Amerika
   central_america: Mittelamerika
-  1001_movies_you_must_see_before_you_die: 1001 Filme, die Sie sehen sollten, bevor
-    das Leben vorbei ist
+  1001_movies_you_must_see_before_you_die: 1001 Filme, die du sehen solltest, bevor
+    du stirbst
   building: Gebäude
   engineering_disasters: Technische Katastrophen
   engineering: Ingenieurwesen
@@ -1059,7 +1059,7 @@ collections:
     name: AniList Aktuell Interessant
     summary: Eine Sammlung der laut AniList aktuell interessantesten (Trending) Anime.
   anilist_season:
-    name: AniList Staffel
+    name: AniList Saison
     summary: Eine Sammlung von Anime die laut AniList aus der aktuellen Anime Season
       stammen.
   basic_released:
@@ -1073,7 +1073,7 @@ collections:
     summary: Top <<limit>> <<library_translation2U>> zu <<key_name>> laut FlixPatrol.
   imdb_popular:
     name: IMDb Beliebt
-    summary: Liste von IMDb Beliebt <<library_translation3U>>.
+    summary: Liste von laut IMDb Beliebten <<library_translation3U>>.
   imdb_top:
     name: IMDb Top 250
     summary: Liste von IMDb Top 250 <<library_translation3U>>.
@@ -1091,13 +1091,12 @@ collections:
     summary: Eine Sammlung der laut MyAnimeList best bewertesten Anime.
   mal_airing:
     name: MyAnimeList Top Laufend
-    summary: Eine Sammlung von laut MyAnimeList Animemit besten Bewertungen die aktuall
-      ausgestrahlt werden. A collection of the Top Rated Anime Currently Airing according
-      to MyAnimeList.
+    summary: Eine Sammlung von Animes mit laut MyAnimeList besten Bewertungen die aktuell
+      ausgestrahlt werden.
   mal_season:
-    name: MyAnimeList Staffel
+    name: MyAnimeList Saison
     summary: Eine Sammlung von Anime die laut MyAnimeList aus der aktuellen Anime
-      Season stammen.
+      Saison stammen.
   anidb_popular:
     name: AniDB Beliebt
     summary: Eine Sammlung der laut AniDB beliebtesten Anime.
@@ -1113,13 +1112,12 @@ collections:
     summary: Eine Sammlung von StevenLu's beliebtesten Filmen.
   pirated_popular:
     name: Top 10 Raubkopierte Filme der Woche
-    summary: TorrentFreak.com's Wöchentliche Top Zehn Raubkopierter Filme (Weekly
-      Top Ten Pirated Movies).
+    summary: TorrentFreak.com's Wöchentliche Top Zehn Raubkopierter Filme.
   tautulli_popular:
     name: Plex Beliebt
     summary: Eine Sammlung von beliebten <<library_translation3U>> auf Plex.
   tautulli_watched:
-    name: Plex Geschaut
+    name: Plex Top Geschaut
     summary: Eine Sammlung der top geschauten <<library_translation3U>> auf Plex.
   tmdb_airing:
     name: TMDb Heute Ausgestrahlt
@@ -1129,7 +1127,7 @@ collections:
     summary: Eine Sammlung von Serien die aktiv Episoden veröffentlichen.
   tmdb_popular:
     name: TMDb Beliebt
-    summary: Eine Sammlung der laut TMDb am meisten geschauten <<library_translation2U>>.
+    summary: Eine Sammlung der laut TMDb am meisten geschauten <<library_translation3U>>.
   tmdb_top:
     name: TMDb Beste Bewertung
     summary: Eine Sammlung der laut TMDb am besten bewerteten <<library_translation3U>>.
@@ -1142,7 +1140,7 @@ collections:
       List).
   trakt_popular:
     name: Trakt Beliebt
-    summary: Eine Sammlung der auf Trakt Wöchentlich Beliebt Liste (Weekly Trakt Popular
+    summary: Eine Sammlung der Trakt Wöchentlich Beliebt Liste (Weekly Trakt Popular
       List).
   trakt_recommended:
     name: Trakt Empfohlen
