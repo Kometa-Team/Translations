@@ -1543,6 +1543,3 @@ collections:
     name: Tracearr Most Transcoded
     summary: A collection of <<library_translation>>s with the most Tracearr 
       sessions requiring audio or video transcoding.
-  tracearr_history:
-    summary: A collection of <<library_translation>>s from recent Tracearr watch
-      history.
