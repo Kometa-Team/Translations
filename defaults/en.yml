@@ -1525,12 +1525,12 @@ collections:
       Tracearr sessions.
   tracearr_trending:
     name: Tracearr Trending
-    summary: A collection of recently active <<library_translation>>s from 
-      Tracearr watch history.
+    summary: A collection of the most active <<library_translation>>s from 
+      recent Tracearr watch history.
   tracearr_rewatched:
     name: Tracearr Rewatched
-    summary: A collection of <<library_translation>>s played multiple times in 
-      Tracearr.
+    summary: A collection of <<library_translation>>s repeatedly played by the 
+      same Tracearr user.
   tracearr_completed:
     name: Tracearr Completed
     summary: A collection of the most recently completed 
