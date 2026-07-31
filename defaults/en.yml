@@ -1515,3 +1515,35 @@ collections:
       concert films, documentaries, shorts, 'collection listings' and other 
       'rarities', so only feature length narrative movies are listed here. Films
       should have a minimum of 25,000 ratings to be eligible to enter the list.
+  tracearr_popular:
+    name: Tracearr Popular
+    summary: A collection of <<library_translation>>s watched by the most unique
+      Tracearr users.
+  tracearr_watched:
+    name: Tracearr Watched
+    summary: A collection of <<library_translation>>s with the most completed 
+      Tracearr sessions.
+  tracearr_trending:
+    name: Tracearr Trending
+    summary: A collection of recently active <<library_translation>>s from 
+      Tracearr watch history.
+  tracearr_rewatched:
+    name: Tracearr Rewatched
+    summary: A collection of <<library_translation>>s played multiple times in 
+      Tracearr.
+  tracearr_completed:
+    name: Tracearr Completed
+    summary: A collection of the most recently completed 
+      <<library_translation>>s from Tracearr watch history.
+  tracearr_binged:
+    name: Tracearr Binged
+    summary: A collection of shows with the most distinct completed episodes 
+      watched by a single Tracearr user.
+  tracearr_transcoded:
+    name: Tracearr Most Transcoded
+    summary: A collection of <<library_translation>>s with the most Tracearr 
+      sessions requiring audio or video transcoding.
+  tracearr_history:
+    name: Tracearr History
+    summary: A collection of <<library_translation>>s from recent Tracearr watch
+      history.
