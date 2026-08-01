@@ -995,6 +995,16 @@ key_names:
   one_million_watched_club: Club du million de vues
   top_250_black_directed: Top 250 des réalisateurs noirs
   plex_random: Plex Random
+  sight_and_sound_greatest_films: 'Sight & Sound : Les plus grands films'
+  movies_leaving_soon: Films bientôt disponibles
+  shows_leaving_soon: Affiche « Départ imminent »
+  episodes_leaving_soon: Épisodes bientôt disponibles
+  letterboxd_top_500: Top 500 de Letterboxd
+  top_500: Top 500
+  simkl_trending_today: Tendances du jour
+  simkl_trending_week: Tendances de la semaine
+  simkl_trending_month: Tendance du mois
+  simkl_dvd: Sortie en DVD
 collections:
   bafta_best:
     name: BAFTA Meilleurs films
@@ -1345,7 +1355,7 @@ collections:
     summary: Lauréats des Screen Actors Guild Awards
   nfr_best:
     name: Registre national du film de tous les temps
-    summary: Registre national du film de tous les temps
+    summary: Registre national du cinéma de tous les temps.
   choice_best:
     name: Lauréats du prix Critics Choice du meilleur film
     summary: Lauréats du prix Critics Choice du meilleur film.
@@ -1373,6 +1383,7 @@ collections:
       participé 1 639 critiques, programmateurs, conservateurs, archivistes et 
       universitaires qui ont chacun soumis leur top 10. La liste complète a été 
       mise à jour.
+    name: 'Sight & Sound : Les plus grands films'
   letterboxd_top_250:
     summary: Les 250 meilleurs films de Letterboxd, basés sur la note moyenne 
       pondérée de tous les utilisateurs de Letterboxd. Tous les spectacles 
@@ -1496,9 +1507,8 @@ collections:
       utilisateurs et avoir au moins 100 mentions « J'aime ».
   top_100_western_films:
     name: Top 100 des films occidentaux
-    summary: Les 250 meilleurs films westerns sur Letterboxd. Les films 
-      éligibles doivent être des longs métrages, avoir été visionnés par au 
-      moins 1 000 utilisateurs et avoir reçu au moins 100 likes.
+    summary: Le top 100 des longs métrages de fiction du genre western sur 
+      Letterboxd, classés selon la note moyenne attribuée par les membres.
   top_100_silent_films:
     name: Top 100 des films muets
     summary: Les 250 meilleurs films muets sur Letterboxd. Les films éligibles 
@@ -1506,8 +1516,65 @@ collections:
       avoir une durée d'au moins dix minutes.
   one_million_watched_club:
     name: Club du million de vues
-    summary: La liste officielle du One Million Watched Club de Letterboxd avec 
-      tous les longs métrages vus par au moins 1 000 000 membres de Letterboxd.
+    summary: La liste officielle du « One Million Watched Club » de Letterboxd, 
+      qui répertorie tous les longs métrages vus par au moins 1 000 000 de 
+      membres de Letterboxd.
   tautulli_random:
     name: Plex Random
     summary: Une collection de <<library_translation>>s Random sur Plex.
+  pca_year:
+    name: Prix du public <<key_name>>
+    summary: <<key_name>> Lauréats du Prix du public.
+  pca_best:
+    summary: Lauréats du Prix du public.
+    name: Lauréats du Prix du public
+  letterboxd_top_500:
+    name: Top 500 de Letterboxd
+    summary: Le Top 500 des films de Letterboxd, établi en fonction de la note 
+      moyenne pondérée de tous les utilisateurs de Letterboxd. Tous les 
+      spectacles d'humour, pièces de théâtre, films de concerts, documentaires, 
+      courts-métrages, « listes de collections » et autres « raretés » ont été 
+      retirés ; seuls les longs-métrages narratifs figurent donc dans cette 
+      liste. Pour figurer dans ce classement, les films doivent avoir reçu au 
+      moins 25 000 notes.
+  simkl_trending_today:
+    name: 'SIMKL : Tendances du jour'
+    summary: Une sélection issue de la liste « Tendances du jour » de SIMKL.
+  simkl_trending_week:
+    name: Tendances SIMKL de la semaine
+    summary: Une sélection issue de la liste « Tendances de la semaine » de 
+      SIMKL.
+  simkl_trending_month:
+    name: 'SIMKL : les tendances du mois'
+    summary: Une sélection des tendances du mois de SIMKL.
+  simkl_dvd:
+    name: SIMKL vient de sortir en DVD
+    summary: Une liste des dernières sorties en DVD de SIMKL.
+  tracearr_popular:
+    name: Tracearr Populaire
+    summary: Une collection de <<library_translation>>s consultées par les 
+      utilisateurs les plus actifs de Tracearr.
+  tracearr_watched:
+    name: Tracearr Suivi
+    summary: Une collection de <<library_translation>> comportant les sessions 
+      Tracearr les plus complètes.
+  tracearr_trending:
+    name: Tracearr Tendances
+    summary: Une sélection des <<library_translation>> les plus actives issues 
+      de l'historique récent des suivis de Tracearr.
+  tracearr_rewatched:
+    name: Tracearr Revu
+    summary: Une collection de <<library_translation>>s jouées à plusieurs 
+      reprises par le même utilisateur de Tracearr.
+  tracearr_completed:
+    name: Tracearr Terminé
+    summary: Une liste des dernières traductions de « library_translation » 
+      terminées, issue de l'historique de suivi de Tracearr.
+  tracearr_binged:
+    name: Tracearr Binged
+    summary: Une liste des séries dont un utilisateur de Tracearr a regardé le 
+      plus grand nombre d'épisodes terminés.
+  tracearr_transcoded:
+    name: Tracearr – Les plus transcrits
+    summary: Une collection de <<library_translation>>s comprenant les sessions 
+      Tracearr les plus nombreuses nécessitant un transcodage audio ou vidéo.
