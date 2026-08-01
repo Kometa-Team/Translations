@@ -4,19 +4,19 @@ variables:
     show: مسلسل
     artist: فنان
     video: ڤيديو
-    item: ''
+    item: 'عنصر'
   library_translation2:
     movie: فلم
     show: مسلسل
     artist: فنان
     video: ڤيديو
-    item: ''
+    item: 'عنصر'
   library_translation3:
     movie: فلم
     show: مسلسل
     artist: فنان
     video: ڤيديو
-    item: ''
+    item: 'عنصر'
 key_names:
   arabic: عربي
   argentina: ‏أرجنتينا
@@ -106,10 +106,10 @@ key_names:
   åland_islands: ''
   albania: ''
   algeria: ''
-  4/20: ''
-  abkhazian: ''
-  action: ''
-  action_adventure: ''
+  4/20: '4/20'
+  abkhazian: 'الأبخازية'
+  action: 'الإجراء'
+  action_adventure: 'الحركة والمغامرة'
   actor: ''
   girls_love: ''
   gourmet: ''
