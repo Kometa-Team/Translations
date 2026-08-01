@@ -1002,6 +1002,10 @@ key_names:
   simkl_trending_week: Trending Week
   simkl_trending_month: Trending Month
   simkl_dvd: DVD Release
+  binged: binged
+  rewatched: rewatched
+  most_transcoded: Most Transcoded
+  completed: completed
 collections:
   bafta_best:
     name: BAFTA Best Films
