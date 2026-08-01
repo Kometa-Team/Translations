@@ -239,8 +239,8 @@ key_names:
   year: Año
   4/20: 4/20
   airing_today: Emitiendo Hoy
-  asian_american_pacific_islander_heritage_month: Mes de la Herencia Asiático-Americana
-    y de las Islas del Pacífico
+  asian_american_pacific_islander_heritage_month: Mes de la Herencia 
+    Asiático-Americana y de las Islas del Pacífico
   based_on_a_true_story: Basadas en Hechos Reales
   best_picture_winner: Ganador de la Mejor Película
   central_khmer: Camboyano
@@ -720,7 +720,8 @@ key_names:
   louisiana: Lousiana
   medical: Médica
   pandemic: Pandemia
-  1001_movies_you_must_see_before_you_die: 1001 Películas que debes ver antes de morir
+  1001_movies_you_must_see_before_you_die: 1001 Películas que debes ver antes de
+    morir
   dystopian: Distópico
   human_body: Cuerpo Humano
   manufacturing: Manufactura
@@ -834,9 +835,11 @@ key_names:
   absurd_comedy: Comedia Absurda
   space_opera: Ópera espacial
   top_250_documentaries: Top 250 Documentales
-  best_live_action_short_film_nomination: Nominados al Óscar a Mejor Cortometraje
+  best_live_action_short_film_nomination: Nominados al Óscar a Mejor 
+    Cortometraje
   best_live_action_short_film_winners: Ganadores del Óscar a Mejor Cortometraje
-  best_animated_feature_film_nomination: Nominados al Óscar a Mejor Película de Animación
+  best_animated_feature_film_nomination: Nominados al Óscar a Mejor Película de 
+    Animación
   spaghetti_western: Spaghetti Western
   new_years_eve: Nochevieja
   sexploitation: Sexploitation
@@ -868,7 +871,8 @@ key_names:
   based_on_books_and_games: Basado en libros y juegos
   throwback_thursday: Jueves de recuerdos
   the_justice_system: El sistema de justicia
-  best_animated_feature_film_winners: Ganadores del Óscar a Mejor Película de Animación
+  best_animated_feature_film_winners: Ganadores del Óscar a Mejor Película de 
+    Animación
   engineering_disaster: Catástrofe de ingeniería
   epic: Épico
   hostage: Rehén
@@ -963,8 +967,8 @@ key_names:
   dreamworks: Dreamworks
   president: Presidente
   letterboxd_top_250: Letterboxd Top 250
-  box_office_mojo_all_time_100: Los 100 mejores de todos los tiempos en Box Office
-    Mojo
+  box_office_mojo_all_time_100: Los 100 mejores de todos los tiempos en Box 
+    Office Mojo
   sight_and_sound_greatest_films: Las mejores películas según Sight & Sound
   afi_100_years_100_movies: 100 años, 100 películas del AFI
   top_250_women_directed: Top 250 dirigidas por mujeres
@@ -988,8 +992,8 @@ key_names:
 collections:
   bafta_best:
     name: BAFTA Mejores Películas
-    summary: Ganadores de la Mejor Película de la Academia Británica de las Artes
-      Cinematográficas y de la Televisión.
+    summary: Ganadores de la Mejor Película de la Academia Británica de las 
+      Artes Cinematográficas y de la Televisión.
   bafta_year:
     name: BAFTA <<key_name>>
     summary: Premios BAFTA <<key_name>>.
@@ -1016,55 +1020,58 @@ collections:
     summary: Ganadores del Globo de Oro de <<key_name>>.
   oscars_picture:
     name: Ganadores del Oscar a Mejor película
-    summary: El Premio de la Academia a la Mejor Película es uno de los Premios de
-      la Academia presentados anualmente por la Academia de Artes y Ciencias Cinematográficas
-      desde que los premios debutaron en 1929.
+    summary: El Premio de la Academia a la Mejor Película es uno de los Premios 
+      de la Academia presentados anualmente por la Academia de Artes y Ciencias 
+      Cinematográficas desde que los premios debutaron en 1929.
   oscars_director:
     name: Ganadores de los Oscar a Mejor Director
-    summary: El Premio de la Academia al Mejor Director es uno de los Premios de la
-      Academia presentados anualmente por la Academia de Artes y Ciencias Cinematográficas
-      desde que los premios debutaron en 1929.
+    summary: El Premio de la Academia al Mejor Director es uno de los Premios de
+      la Academia presentados anualmente por la Academia de Artes y Ciencias 
+      Cinematográficas desde que los premios debutaron en 1929.
   oscars_year:
     name: Ganadores de los Oscar <<key_name>>
     summary: Ganadores de los Premios de la Academia (Oscar) de <<key_name>>.
   berlinale_best:
     name: Osos de Oro de la Berlinale
-    summary: Cada año se proyectan hasta 400 películas como parte de la programación
-      pública de la Berlinale (Festival Internacional de Cine de Berlín), la gran
-      mayoría de las cuales son estrenos mundiales o europeos. Se pueden presentar
-      para su consideración películas de todos los géneros, longitudes y formatos.
-      El Oso de Oro (en alemán Goldener Bär) es el máximo galardón que se otorga a
-      la mejor película proyectada durante este festival.
+    summary: Cada año se proyectan hasta 400 películas como parte de la 
+      programación pública de la Berlinale (Festival Internacional de Cine de 
+      Berlín), la gran mayoría de las cuales son estrenos mundiales o europeos. 
+      Se pueden presentar para su consideración películas de todos los géneros, 
+      longitudes y formatos. El Oso de Oro (en alemán Goldener Bär) es el máximo
+      galardón que se otorga a la mejor película proyectada durante este 
+      festival.
   cesar_best:
     name: Ganadores César Mejor Película
-    summary: El Premio César es el premio cinematográfico nacional de Francia, otorgado
-      por primera vez en 1975. Las nominaciones son seleccionadas por los miembros
-      de la Académie des Arts et Techniques du Cinéma. El nombre del premio proviene
-      del escultor César Baldaccini. Se consideran el equivalente francés de los Premios
-      de la Academia Estadounidense.
+    summary: El Premio César es el premio cinematográfico nacional de Francia, 
+      otorgado por primera vez en 1975. Las nominaciones son seleccionadas por 
+      los miembros de la Académie des Arts et Techniques du Cinéma. El nombre 
+      del premio proviene del escultor César Baldaccini. Se consideran el 
+      equivalente francés de los Premios de la Academia Estadounidense.
   razzie_worst:
     name: Ganadores Razzies Frambuesa de Oro
-    summary: El premio Frambuesa de Oro a la peor película es un premio otorgado en
-      los premios anuales a la peor película del año pasado.
+    summary: El premio Frambuesa de Oro a la peor película es un premio otorgado
+      en los premios anuales a la peor película del año pasado.
   venice_best:
     name: Leones de Oro de Venecia
-    summary: El Festival de Cine de Venecia es el festival de cine más antiguo del
-      mundo. Fundado en 1932, el festival se lleva a cabo todos los años desde entonces
-      en Venecia, Italia. Es parte de la Bienal de Venecia, una importante exposición
-      bienal y festival de arte contemporáneo. El Leone d' del festival (León de Oro)
-      se otorga el premio a la mejor película proyectada en el festival.
+    summary: El Festival de Cine de Venecia es el festival de cine más antiguo 
+      del mundo. Fundado en 1932, el festival se lleva a cabo todos los años 
+      desde entonces en Venecia, Italia. Es parte de la Bienal de Venecia, una 
+      importante exposición bienal y festival de arte contemporáneo. El Leone d'
+      del festival (León de Oro) se otorga el premio a la mejor película 
+      proyectada en el festival.
   spirit_year:
     name: Premios Espíritu Independiente <<key_name>>
     summary: Premios Espíritu Independiente de <<key_name>>.
   sundance_best:
     name: Ganadores del Gran Jurado de Sundance
-    summary: El Festival de Cine de Sundance es un festival de cine que se realiza
-      anualmente en el estado de Utah, en los Estados Unidos. Es el festival de cine
-      independiente más grande de los EE. UU. Celebrado en enero, el festival es el
-      principal escaparate de los nuevos trabajos de cineastas independientes estadounidenses
-      e internacionales. El festival comprende secciones competitivas de películas
-      dramáticas y documentales estadounidenses e internacionales, tanto largometrajes
-      como cortometrajes, y un grupo de secciones de exhibición no competitivas.
+    summary: El Festival de Cine de Sundance es un festival de cine que se 
+      realiza anualmente en el estado de Utah, en los Estados Unidos. Es el 
+      festival de cine independiente más grande de los EE. UU. Celebrado en 
+      enero, el festival es el principal escaparate de los nuevos trabajos de 
+      cineastas independientes estadounidenses e internacionales. El festival 
+      comprende secciones competitivas de películas dramáticas y documentales 
+      estadounidenses e internacionales, tanto largometrajes como cortometrajes,
+      y un grupo de secciones de exhibición no competitivas.
   sundance_year:
     name: Festival de Cine de Sundance <<key_name>>
     summary: Festival de Cine de Sundance de <<key_name>>.
@@ -1088,7 +1095,8 @@ collections:
     summary: Una colección de episodios recién estrenados.
   flixpatrol:
     name: <<key_name>> Top <<limit>>
-    summary: Top <<limit>> <<library_translation>>s en <<key_name>> según FlixPatrol.
+    summary: Top <<limit>> <<library_translation>>s en <<key_name>> según 
+      FlixPatrol.
   imdb_popular:
     name: Popular en IMDb
     summary: Lista de IMDb Popular en <<library_translation>>s.
@@ -1097,7 +1105,8 @@ collections:
     summary: Lista de IMDb Top 250 en <<library_translation>>s.
   imdb_lowest:
     name: IMDb Peor Valorados
-    summary: Lista de IMDb con la calificación más baja en <<library_translation>>s.
+    summary: Lista de IMDb con la calificación más baja en 
+      <<library_translation>>s.
   mal_popular:
     name: Popular en MyAnimeList
     summary: Una colección de los Animes más populares según MyAnimeList.
@@ -1118,17 +1127,19 @@ collections:
     summary: Una colección de los Animes más populares según AniDB.
   commonsense_selection:
     name: Selección de Common Sense
-    summary: Una selección de Common Sense en <<library_translation>>s. Common Sense
-      reconoce el entretenimiento destacado con un sello oficial de calidad e impacto.
-      Las selecciones de sentido común incluyen medios apropiados para la edad con
-      el potencial de iniciar conversaciones familiares, entretener a familias de
-      todo tipo y tener un efecto positivo y duradero en la sociedad.
+    summary: Una selección de Common Sense en <<library_translation>>s. Common 
+      Sense reconoce el entretenimiento destacado con un sello oficial de 
+      calidad e impacto. Las selecciones de sentido común incluyen medios 
+      apropiados para la edad con el potencial de iniciar conversaciones 
+      familiares, entretener a familias de todo tipo y tener un efecto positivo 
+      y duradero en la sociedad.
   stevenlu_popular:
     name: Películas Populares de StevenLu
     summary: Una colección de las películas más populares de StevenLu.
   pirated_popular:
     name: Las 10 películas más pirateadas de la semana
-    summary: Las diez mejores películas piratas semanales según TorrentFreak.com.
+    summary: Las diez mejores películas piratas semanales según 
+      TorrentFreak.com.
   tautulli_popular:
     name: Popular en Plex
     summary: Una colección en <<library_translation>>s popular en Plex.
@@ -1140,16 +1151,20 @@ collections:
     summary: Una colección de series y episodios que se han emitidos hoy.
   tmdb_air:
     name: TMDb En el Aire
-    summary: Una colección de series que todavía están emitiendo episodios actualmente.
+    summary: Una colección de series que todavía están emitiendo episodios 
+      actualmente.
   tmdb_popular:
     name: Popular en TMDb
-    summary: Una colección de lo más visto en <<library_translation>>s según TMDb.
+    summary: Una colección de lo más visto en <<library_translation>>s según 
+      TMDb.
   tmdb_top:
     name: TMDb Mejor Valoradas
-    summary: Una colección de las <<library_translation>>s mejor valoradas según TMDb.
+    summary: Una colección de las <<library_translation>>s mejor valoradas según
+      TMDb.
   tmdb_trending:
     name: Tendencia en TMDb
-    summary: Una colección de las <<library_translation>>s en tendencia según TMDb.
+    summary: Una colección de las <<library_translation>>s en tendencia según 
+      TMDb.
   trakt_collected:
     name: Trakt Recopilación
     summary: Una colección de la lista más recopilada de la semana en Trakt.
@@ -1179,19 +1194,19 @@ collections:
     summary: <<library_translationU>>s filmadas en otros idiomas poco comunes.
   collectionless:
     name: Sin Colección
-    summary: Colección de <<library_translationU>>s utilizado para hacer que Plex
-      muestre los elementos correctamente.
+    summary: Colección de <<library_translationU>>s utilizado para hacer que 
+      Plex muestre los elementos correctamente.
   content_rating:
     name: <<key_name>> <<library_translationU>>s
     summary: <<library_translationU>>s que están clasificados <<key_name>>.
   content_rating_cs:
     name: Edad <<key_name>>+ <<library_translationU>>s
-    summary: <<library_translationU>>s que están clasificados <<key_name>> de acuerdo
-      con el Sistema de Calificación Common Sense.
+    summary: <<library_translationU>>s que están clasificados <<key_name>> de 
+      acuerdo con el Sistema de Calificación Common Sense.
   content_rating_other:
     name: No clasificado <<library_translationU>>s
-    summary: <<library_translationU>>s que no están clasificados o cualquier otra
-      clasificación poco común.
+    summary: <<library_translationU>>s que no están clasificados o cualquier 
+      otra clasificación poco común.
   country:
     name: <<key_name>>
     summary: <<library_translationU>>s filmada en <<key_name>>.
@@ -1218,11 +1233,12 @@ collections:
     summary: <<library_translationU>>s que tiene resolución <<key_name>>.
   resolution_other:
     name: Otra Resolución en <<library_translationU>>s
-    summary: <<library_translationU>>s que tienen otras resoluciones poco comunes.
+    summary: <<library_translationU>>s que tienen otras resoluciones poco 
+      comunes.
   seasonal:
     name: <<key_name>> <<library_translationU>>s
-    summary: Una colección de <<key_name>> <<library_translation>>s que puede estar
-      relacionado con la temporada.
+    summary: Una colección de <<key_name>> <<library_translation>>s que puede 
+      estar relacionado con la temporada.
   streaming:
     name: <<key_name>> <<library_translationU>>s
     summary: <<library_translationU>>s en streaming en <<key_name>>.
@@ -1245,42 +1261,45 @@ collections:
     summary: <<library_translationU>>s basadas o inspiradas en <<key_name>>s.
     name: Basadas en <<key_name>>
   content_ratings_other:
-    summary: <<library_translationU>>s que no están Clasificados, No Clasificados
-      o cualquier otra Clasificación poco común.
+    summary: <<library_translationU>>s que no están Clasificados, No 
+      Clasificados o cualquier otra Clasificación poco común.
     name: Otras Calificaciones
   decade_other:
     name: Otras Décadas
     summary: <<library_translationU>>s publicado en otras décadas.
   network_kids_other:
-    summary: <<library_translationU>>s transmitido en otros canales de niños poco
-      comunes.
+    summary: <<library_translationU>>s transmitido en otros canales de niños 
+      poco comunes.
     name: Otras Cadenas para Niños
   genre_other:
     name: Otros Géneros
     summary: <<library_translationU>>s que tienen otros géneros poco comunes.
   network_other:
     name: Otras Cadenas
-    summary: <<library_translationU>>s transmitido en otras cadenas poco comunes.
+    summary: <<library_translationU>>s transmitido en otras cadenas poco 
+      comunes.
   resolutions_other:
     name: Otras Resoluciones
-    summary: <<library_translationU>>s que tienen otras resoluciones poco comunes.
+    summary: <<library_translationU>>s que tienen otras resoluciones poco 
+      comunes.
   studio_other:
     name: Otros Estudios
-    summary: <<library_translationU>>s producido por otros estudios poco comunes.
+    summary: <<library_translationU>>s producido por otros estudios poco 
+      comunes.
   studio_animation_other:
     name: Otros Estudios de Animación
-    summary: <<library_translationU>>s producido por otros estudios de animación poco
-      comunes.
+    summary: <<library_translationU>>s producido por otros estudios de animación
+      poco comunes.
   year_other:
     name: Otros Años
     summary: <<library_translationU>>s publicados en otros años.
   birthday:
-    summary: Nacido este mes, aquí están las <<library_translation>>s en las cuales
-      <<key_name>> ha participado.
+    summary: Nacido este mes, aquí están las <<library_translation>>s en las 
+      cuales <<key_name>> ha participado.
     name: Cumpleaños de <<key_name>>"
   aspect_ratio_other:
-    summary: <<library_translationU>>s filmadas en otras relaciones de aspecto no
-      comunes.
+    summary: <<library_translationU>>s filmadas en otras relaciones de aspecto 
+      no comunes.
     name: Otras Relaciones de Aspecto
   region_other:
     name: Otras Regiones
@@ -1289,33 +1308,35 @@ collections:
     name: Otros Continentes
     summary: <<library_translationU>>s filmadas en otros Continentes no cumnes.
   tiff_best:
-    summary: Ganadores del Premio del Público del Festival Internacional de Cine de
-      Toronto.
+    summary: Ganadores del Premio del Público del Festival Internacional de Cine
+      de Toronto.
     name: Ganadores del Premio del Público de Toronto
   oscars_director_nomination:
     name: Nominados a Mejor Director
     summary: Los nominados al Óscar a Mejor Director.
   letterboxd_top_250:
-    summary: Las 250 mejores películas en Letterboxd, basado en la calificación media
-      ponderada de todos los usuarios. Se excluyen especiales de comedia, obras de
-      teatro, conciertos, documentales, cortos, "listas de colecciones" y otras "rarezas";
-      solo se incluyen largometrajes narrativos. Las películas deben tener un mínimo
-      de 5.000 calificaciones para entrar en la lista.
+    summary: Las 250 mejores películas en Letterboxd, basado en la calificación 
+      media ponderada de todos los usuarios. Se excluyen especiales de comedia, 
+      obras de teatro, conciertos, documentales, cortos, "listas de colecciones"
+      y otras "rarezas"; solo se incluyen largometrajes narrativos. Las 
+      películas deben tener un mínimo de 5.000 calificaciones para entrar en la 
+      lista.
     name: Letterboxd Top 250
   afi_100_years_100_movies:
-    summary: AFI 100 años, 100 películas - Edición del 10° Aniversario es una edición
-      actualizada de AFI 100 años, 100 películas, una lista de las 100 mejores películas
-      estadounidenses de todos los tiempos.
+    summary: AFI 100 años, 100 películas - Edición del 10° Aniversario es una 
+      edición actualizada de AFI 100 años, 100 películas, una lista de las 100 
+      mejores películas estadounidenses de todos los tiempos.
     name: AFI 100 años 100 películas
   sight_and_sound_greatest_films:
-    summary: Cada década, el equipo de Sight & Sound pide a los críticos que nombren
-      las mejores películas de todos los tiempos. Estos son los resultados de la encuesta
-      de 2022, la más grande hasta ahora, con 1,639 críticos, programadores, curadores,
-      archivistas y académicos que enviaron su lista de las diez mejores, ahora actualizada
-      con la lista completa.
+    summary: Cada década, el equipo de Sight & Sound pide a los críticos que 
+      nombren las mejores películas de todos los tiempos. Estos son los 
+      resultados de la encuesta de 2022, la más grande hasta ahora, con 1,639 
+      críticos, programadores, curadores, archivistas y académicos que enviaron 
+      su lista de las diez mejores, ahora actualizada con la lista completa.
     name: Las mejores películas según Sight & Sound
   roger_eberts_great_movies:
-    summary: Todas las películas de los ensayos «Grandes películas» de Roger Ebert.
+    summary: Todas las películas de los ensayos «Grandes películas» de Roger 
+      Ebert.
     name: Las grandes películas de Roger Ebert
   cannes_palmes_dor_winners:
     summary: La «Palma de Oro» es el máximo galardón del Festival de Cannes.
@@ -1327,17 +1348,21 @@ collections:
     name: Ganadores del Premio del Sindicato de Actores
     summary: Ganadores del Premio del Sindicato de Actores.
   choice_best:
-    summary: Ganadores de los premios de la Crítica Cinematográfica a Mejor Película.
-    name: Ganadores de los premios de la Crítica Cinematográfica a Mejor Película
+    summary: Ganadores de los premios de la Crítica Cinematográfica a Mejor 
+      Película.
+    name: Ganadores de los premios de la Crítica Cinematográfica a Mejor 
+      Película
   top_250_horror:
-    summary: Un complemento al Top 250 de Letterboxd, que lamentablemente incluye
-      muy pocas películas de terror. Estas son las películas de terror con la calificación
-      promedio más alta en Letterboxd. No se incluyen cortometrajes, series de televisión,
-      películas para televisión, videos de YouTube, producciones teatrales filmadas,
-      reediciones, reediciones de metraje existente, compilaciones de tráileres, películas
-      perdidas, documentales detrás de cámaras ni nada que no sea una película completa.
-      Todas las entradas deben tener al menos 40 minutos de duración. Las producciones
-      lanzadas directamente en video son elegibles siempre que superen los 60 minutos.
+    summary: Un complemento al Top 250 de Letterboxd, que lamentablemente 
+      incluye muy pocas películas de terror. Estas son las películas de terror 
+      con la calificación promedio más alta en Letterboxd. No se incluyen 
+      cortometrajes, series de televisión, películas para televisión, videos de 
+      YouTube, producciones teatrales filmadas, reediciones, reediciones de 
+      metraje existente, compilaciones de tráileres, películas perdidas, 
+      documentales detrás de cámaras ni nada que no sea una película completa. 
+      Todas las entradas deben tener al menos 40 minutos de duración. Las 
+      producciones lanzadas directamente en video son elegibles siempre que 
+      superen los 60 minutos.
     name: Top 250 Terror
   nfr_best:
     name: 'National Film Registry: Todos los Tiempos'
@@ -1354,22 +1379,24 @@ collections:
       y películas.'
     name: Top 100 Animación
   box_office_mojo_all_time_100:
-    summary: Basada en las 100 películas con mayor recaudación mundial, según Box
-      Office Mojo, sin ajuste por inflación. Actualizada mensualmente.
+    summary: Basada en las 100 películas con mayor recaudación mundial, según 
+      Box Office Mojo, sin ajuste por inflación. Actualizada mensualmente.
     name: Las 100 mejores de todos los tiempos en Box Office Mojo
   top_250_documentaries:
-    summary: Un complemento a la lista oficial de Dave Vis de las 250 mejores películas
-      de todos los tiempos de Letterboxd, que excluye los documentales. Ordenada por
-      puntuación media de los usuarios. Esta lista se actualiza una vez al mes. Este
-      es un proyecto oficial de lista basado en las estadísticas de todos los tiempos
-      de los usuarios Pro y Patron. Ampliación de la lista de las 100 mejores a las
-      250 mejores el 27 de junio de 2021, en el tercer aniversario de la lista.
+    summary: Un complemento a la lista oficial de Dave Vis de las 250 mejores 
+      películas de todos los tiempos de Letterboxd, que excluye los 
+      documentales. Ordenada por puntuación media de los usuarios. Esta lista se
+      actualiza una vez al mes. Este es un proyecto oficial de lista basado en 
+      las estadísticas de todos los tiempos de los usuarios Pro y Patron. 
+      Ampliación de la lista de las 100 mejores a las 250 mejores el 27 de junio
+      de 2021, en el tercer aniversario de la lista.
     name: Top 250 Documentales
   edgar_wrights_1000_favorites:
-    summary: Esta lista de favoritos personales fue creada por Edgar Wright y Sam
-      DiSalle en julio de 2016, y se actualiza periódicamente. Las películas están
-      ordenadas por año y alfabéticamente dentro de cada año (nuestra lista coincide
-      con el orden de MUBI, aunque algunas películas figuran con nombres alternativos).
+    summary: Esta lista de favoritos personales fue creada por Edgar Wright y 
+      Sam DiSalle en julio de 2016, y se actualiza periódicamente. Las películas
+      están ordenadas por año y alfabéticamente dentro de cada año (nuestra 
+      lista coincide con el orden de MUBI, aunque algunas películas figuran con 
+      nombres alternativos).
     name: Las 1.000 favoritas de Edgar Wright
   oscars_picture_nomination:
     summary: Nominadas al Óscar a Mejor Película.
@@ -1379,24 +1406,26 @@ collections:
     summary: <<key_name>> Ganadores del Premio del Sindicato de Actores.
   top_100_black_directed:
     name: Top 100 dirigidas por afroamericanos
-    summary: Ordenado por la calificación promedio de los usuarios. La lista se generó
-      principalmente gracias a esta mega lista de películas dirigidas por cineastas
-      afroamericanos. Se actualizará mensualmente. Como un proyecto de lista oficial
-      basado en las estadísticas de los usuarios Pro y Patron.
+    summary: Ordenado por la calificación promedio de los usuarios. La lista se 
+      generó principalmente gracias a esta mega lista de películas dirigidas por
+      cineastas afroamericanos. Se actualizará mensualmente. Como un proyecto de
+      lista oficial basado en las estadísticas de los usuarios Pro y Patron.
   top_250_women_directed:
-    summary: Un proyecto oficial de lista basado en las estadísticas de los usuarios
-      Pro y Patron. Se amplió del top 100 al top 250 el 26 de septiembre de 2022,
-      en el tercer aniversario de la lista.
+    summary: Un proyecto oficial de lista basado en las estadísticas de los 
+      usuarios Pro y Patron. Se amplió del top 100 al top 250 el 26 de 
+      septiembre de 2022, en el tercer aniversario de la lista.
     name: Top 250 dirigidas por mujeres
   top_250_most_fans:
     name: Top 250 con más fans
-    summary: Otra pieza complementaria a la lista de Dave Vis, Top 250 de mejores
-      películas de todos los tiempos en Letterboxd. Se actualizará una vez al mes.
-      La lista está ordenada según el número de fans en Letterboxd. Un “fan” es un
-      miembro que tiene una película en particular como una de sus cuatro favoritas.
+    summary: Otra pieza complementaria a la lista de Dave Vis, Top 250 de 
+      mejores películas de todos los tiempos en Letterboxd. Se actualizará una 
+      vez al mes. La lista está ordenada según el número de fans en Letterboxd. 
+      Un “fan” es un miembro que tiene una película en particular como una de 
+      sus cuatro favoritas.
   venice_year:
     name: Festival Internacional de Cine de Venecia <<key_name>>
-    summary: <<key_name>> Ganadorees en el Festival Internacional de Cine de Venecia.
+    summary: <<key_name>> Ganadorees en el Festival Internacional de Cine de 
+      Venecia.
   berlinale_year:
     name: Berlinale <<key_name>>
     summary: <<key_name>> Ganadores del Premio Berlinale.
@@ -1408,8 +1437,8 @@ collections:
     summary: <<key_name>> Ganadores del Premio César.
   tiff_year:
     name: Festival Internacional de Cine de Toronto <<key_name>>
-    summary: <<key_name>> Ganadores del Premio en el Festival Internacional de Cine
-      de Toronto.
+    summary: <<key_name>> Ganadores del Premio en el Festival Internacional de 
+      Cine de Toronto.
   pca_year:
     name: Premios del Público <<key_name>>
     summary: <<key_name>> Ganadores de los People's Choice Awards.
@@ -1424,11 +1453,12 @@ collections:
     summary: Ganadores del Premio Spirit a Mejor Película.
   1001_movies_to_see_before_you_die:
     name: Las 1,001 que hay que ver antes de morir
-    summary: Lista basada en el libro 1001 Movies You Must See Before You Die. Esta
-      lista corresponde a la edición de 2021, así que no verás películas eliminadas
-      en otras listas. La lista está ordenada al revés, primero las películas más
-      recientes. Por demanda popular, las colecciones mencionadas en el libro fueron
-      reemplazadas por una sola entrada, como Toy Story y La Comunidad del Anillo.
+    summary: Lista basada en el libro 1001 Movies You Must See Before You Die. 
+      Esta lista corresponde a la edición de 2021, así que no verás películas 
+      eliminadas en otras listas. La lista está ordenada al revés, primero las 
+      películas más recientes. Por demanda popular, las colecciones mencionadas 
+      en el libro fueron reemplazadas por una sola entrada, como Toy Story y La 
+      Comunidad del Anillo.
   imdb_top_250:
     summary: 'La lista de las 250 mejores películas de IMDB: amada por unos, odiada
       por otros. Por supuesto, se puede discutir sobre el orden de las películas y
@@ -1444,5 +1474,33 @@ collections:
     summary: Una colección de las películas imprescindibles de Metacritic.
   aspect:
     name: <<key_name>>
-    summary: Una colección de <<library_translationU>> con una relación de aspecto
-      de <<key_name>>.
+    summary: Una colección de <<library_translationU>> con una relación de 
+      aspecto de <<key_name>>.
+  tracearr_popular:
+    name: Tracearr Popular
+    summary: Una recopilación de <<library_translation>>s seguidas por los 
+      usuarios más singulares de Tracearr.
+  tracearr_watched:
+    name: Tracearr Seguido
+    summary: Una recopilación de <<library_translation>> con las sesiones de 
+      Tracearr más completas.
+  tracearr_trending:
+    name: Tracearr Tendencias
+    summary: Una recopilación de las <<library_translation>> más activas del 
+      historial reciente de seguimiento de Tracearr.
+  tracearr_rewatched:
+    name: Tracearr Visto de nuevo
+    summary: Una colección de <<library_translation>> reproducidas repetidamente
+      por el mismo usuario de Tracearr.
+  tracearr_completed:
+    name: Tracearr Completado
+    summary: Una recopilación de las <<library_translation>> más recientes 
+      completadas, extraídas del historial de seguimiento de Tracearr.
+  tracearr_binged:
+    name: Tracearr Binged
+    summary: Una recopilación de series con el mayor número de episodios 
+      completos vistos por un único usuario de Tracearr.
+  tracearr_transcoded:
+    name: 'Tracearr: los más transcodificados'
+    summary: Una recopilación de <<library_translation>> con el mayor número de 
+      sesiones de Tracearr que requieren transcodificación de audio o vídeo.
