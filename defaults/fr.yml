@@ -1305,8 +1305,7 @@ collections:
     summary: <<library_translationU>>s sortis au cours d'autres années.
   based:
     name: Basé sur un <<key_name>>
-    summary: <<library_translationU>>s basé sur ou inspiré par 
-      <<translated_key_name>>s.
+    summary: <<library_translationU>>s basé sur ou inspiré par <<key_name>>s.
   birthday:
     name: Anniversaire de <<key_name>>
     summary: Né ce mois-ci, voici les <<library_translation>>s auxquels 
