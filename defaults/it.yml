@@ -937,6 +937,10 @@ key_names:
   movies_that_defined_our_childhood: I film che hanno segnato la nostra infanzia
   wedding: Matrimonio
   bottle: Bottiglia
+  simkl_trending_month: In Tendenza questo Mese
+  simkl_trending_today: In Tendenza Oggi
+  simkl_trending_week: In Tendenza questa Settimana
+  simkl_dvd: Uscite in DVD
 collections:
   bafta_best:
     name: BAFTA Miglior Film
@@ -1286,3 +1290,17 @@ collections:
       alternativi).
   top_250_women_directed:
     name: Le 250 migliori registe donne
+  simkl_trending_today:
+    name: In Tendenza Oggi su SIMKL
+    summary: Una raccolta di <<library_translation>> in tendenza oggi su SIMKL.
+  simkl_trending_week:
+    name: In Tendenza questa Settimana su SIMKL
+    summary: Una raccolta di <<library_translation>> in tendenza questa 
+      settimana su SIMKL.
+  simkl_trending_month:
+    name: In Tendenza questo Mese su SIMKL
+    summary: Una raccolta di <<library_translation>> in tendenza questo mese su 
+      SIMKL.
+  simkl_dvd:
+    name: Uscite Recenti in DVD su SIMKL
+    summary: Una raccolta delle ultime uscite in DVD secondo SIMKL.
