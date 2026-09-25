@@ -1252,6 +1252,7 @@ collections:
     summary: <<library_translationU>>s girato in altri continenti non comuni.
   metacritic_must_see:
     summary: Una raccolta dei film da non perdere secondo Metacritic.
+    name: Da Non Perdere su Metacritic
   box_office_mojo_all_time_100:
     summary: Basato sulla classifica dei 100 film più visti di tutti i tempi 
       secondo Box Office Mojo, in base agli incassi mondiali, senza adeguamenti 
@@ -1304,3 +1305,34 @@ collections:
   simkl_dvd:
     name: Uscite Recenti in DVD su SIMKL
     summary: Una raccolta delle ultime uscite in DVD secondo SIMKL.
+  emmy_best:
+    name: Vincitori degli Emmy per Categoria
+    summary: Vincitori degli Emmy per Categoria.
+  tracearr_popular:
+    name: Popolari su Tracearr
+    summary: Una raccolta di <<library_translation>> con il maggior numero di 
+      spettatori diversi su Tracearr.
+  tracearr_watched:
+    name: Guardati su Tracearr
+    summary: Una raccolta di <<library_translation>> con il maggior numero di 
+      visioni complete su Tracearr.
+  tracearr_trending:
+    name: In Tendenza su Tracearr
+    summary: Una raccolta di <<library_translation>> con più attività nella 
+      cronologia recente di Tracearr.
+  tracearr_rewatched:
+    name: Riguardati su Tracearr
+    summary: Una raccolta di <<library_translation>> che lo stesso utente ha 
+      riprodotto più volte su Tracearr.
+  tracearr_completed:
+    name: Completati su Tracearr
+    summary: Una raccolta di <<library_translation>> dalle visioni completate 
+      più di recente su Tracearr.
+  tracearr_binged:
+    name: Maratone su Tracearr
+    summary: Una raccolta di serie con più episodi diversi completati da un solo
+      utente su Tracearr.
+  tracearr_transcoded:
+    name: Più Transcodificati su Tracearr
+    summary: Una raccolta di <<library_translation>> con il maggior numero di 
+      sessioni Tracearr in transcodifica audio o video.
