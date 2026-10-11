@@ -1006,6 +1006,7 @@ key_names:
   rewatched: rewatched
   most_transcoded: Most Transcoded
   completed: completed
+  top_250_animation: Top 250 Animation
 collections:
   bafta_best:
     name: BAFTA Best Films
@@ -1547,3 +1548,13 @@ collections:
     name: Tracearr Most Transcoded
     summary: A collection of <<library_translation>>s with the most Tracearr 
       sessions requiring audio or video transcoding.
+  top_250_animation:
+    summary: "250 highest-rated feature-length animated films on Letterboxd. Minimum
+      1,000 ratings. Sequels to shows or anime series—Japanese, American or from elsewhere—that
+      need greater context before watching are not included. Those that are included
+      can be enjoyed on a standalone basis—and I've taken the decision to remove films
+      that only do a brief recap (such as Steven Universe: The Movie) at the beginning
+      that may not give the quality of context necessary for enjoyment. The rationale
+      for this decision is so that viewers can finish this list without having to
+      see a multitude of other episodes and films."
+    name: Top 250 Animation
