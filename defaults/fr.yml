@@ -942,7 +942,8 @@ key_names:
   top_250_documentaries: Top 250 des documentaires
   imdb_top_250: Top 250 IMDb
   top_100_black_directed: Top 100 des réalisateurs noirs
-  top_100_animation: Top 100 Animation
+  top_250_animation: Top 250 Animation
+  top_100_animation: Top 250 Animation
   top_250_horror: Top 250 Horreur
   cannes_palmes_dor_winners: Lauréats de la Palme d'or à Cannes
   1001_movies_to_see_before_you_die: 1 001 choses à voir avant de mourir
@@ -1462,8 +1463,8 @@ collections:
       temps pour les utilisateurs Pro et Patron. Elle est passée de 100 à 250 
       films le 27 juin 2021, à l'occasion du troisième anniversaire de la liste.
     name: Top 250 des documentaires
-  top_100_animation:
-    summary: "Les 100 longs métrages d'animation les mieux notés sur Letterboxd. Minimum
+  top_250_animation:
+    summary: "Les 250 longs métrages d'animation les mieux notés sur Letterboxd. Minimum
       1 000 notes. Les suites de séries ou d'animes japonais, américains ou autres
       qui nécessitent un contexte plus large avant d'être visionnées ne sont pas incluses.
       Ceux qui sont inclus peuvent être appréciés de manière autonome. J'ai pris la
@@ -1472,7 +1473,18 @@ collections:
       pour en profiter pleinement. La raison de cette décision est de permettre aux
       spectateurs de terminer cette liste sans avoir à regarder une multitude d'autres
       épisodes et films."
-    name: Top 100 Animation
+    name: Top 250 Animation
+  top_100_animation:
+    summary: "Les 250 longs métrages d'animation les mieux notés sur Letterboxd. Minimum
+      1 000 notes. Les suites de séries ou d'animes japonais, américains ou autres
+      qui nécessitent un contexte plus large avant d'être visionnées ne sont pas incluses.
+      Ceux qui sont inclus peuvent être appréciés de manière autonome. J'ai pris la
+      décision de supprimer les films qui ne font qu'un bref résumé (comme Steven
+      Universe: The Movie) au début et qui ne fournissent pas le contexte nécessaire
+      pour en profiter pleinement. La raison de cette décision est de permettre aux
+      spectateurs de terminer cette liste sans avoir à regarder une multitude d'autres
+      épisodes et films."
+    name: Top 250 Animation
   imdb_top_250:
     summary: "Le top 250 d'IMDB : adoré par certains, détesté par d'autres. Bien sûr,
       on peut discuter de l'ordre des films et de la présence ou de l'absence de certains

@@ -953,7 +953,8 @@ key_names:
   top_250_women_directed: Top 250 von Regisseurinnen
   imdb_top_250: IMDb Top 250
   top_100_black_directed: Top 100 von Schwarzen Regisseuren
-  top_100_animation: Top 100 Animationsfilme
+  top_250_animation: Top 250 Animationsfilme
+  top_100_animation: Top 250 Animationsfilme
   top_250_horror: Top 250 Horror
   oscars_director_nomination: Best Director Nominierungen
   best_director_nomination: Best Director Nominierungen
@@ -1488,9 +1489,20 @@ collections:
     name: <<key_name>>
     summary: Eine Sammlung von <<library_translationU>>s im Seitenverhältnis von
       <<key_name>>.
+  top_250_animation:
+    name: Top 250 Animationsfilme
+    summary: 'Die 250 höchstbewerteten Spielfilme im Bereich Animation auf Letterboxd.
+      Mindestens 1.000 Bewertungen. Fortsetzungen von Shows oder Anime-Serien – japanisch,
+      amerikanisch oder aus anderen Ländern – die mehr Kontext erfordern, bevor man
+      sie schaut, sind nicht enthalten. Die enthaltenen Filme können eigenständig
+      genossen werden. Es wurden Filme entfernt, die nur eine kurze Zusammenfassung
+      bieten (wie *Steven Universe: The Movie*), da diese möglicherweise nicht den
+      nötigen Kontext für ein vollständiges Verständnis bieten. Die Entscheidung wurde
+      getroffen, damit Zuschauer diese Liste abschließen können, ohne eine Vielzahl
+      anderer Episoden und Filme sehen zu müssen.'
   top_100_animation:
-    name: Top 100 Animationsfilme
-    summary: 'Die 100 höchstbewerteten Spielfilme im Bereich Animation auf Letterboxd.
+    name: Top 250 Animationsfilme
+    summary: 'Die 250 höchstbewerteten Spielfilme im Bereich Animation auf Letterboxd.
       Mindestens 1.000 Bewertungen. Fortsetzungen von Shows oder Anime-Serien – japanisch,
       amerikanisch oder aus anderen Ländern – die mehr Kontext erfordern, bevor man
       sie schaut, sind nicht enthalten. Die enthaltenen Filme können eigenständig

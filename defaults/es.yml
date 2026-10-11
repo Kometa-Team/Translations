@@ -973,7 +973,8 @@ key_names:
   afi_100_years_100_movies: 100 años, 100 películas del AFI
   top_250_women_directed: Top 250 dirigidas por mujeres
   top_100_black_directed: Top 100 dirigidas por afroamericanos
-  top_100_animation: Top 100 películas de animación
+  top_250_animation: Top 250 películas de animación
+  top_100_animation: Top 250 películas de animación
   top_250_horror: Top 250 Terror
   best_director_nomination: Nominados al Óscar a Mejor Director
   best_picture_nomination: Nominadas al Óscar a Mejor Película
@@ -1367,8 +1368,8 @@ collections:
   nfr_best:
     name: 'National Film Registry: Todos los Tiempos'
     summary: 'National Film Registry: Todos los Tiempos.'
-  top_100_animation:
-    summary: 'Las 100 películas de animación mejor valoradas en Letterboxd. Mínimo
+  top_250_animation:
+    summary: 'Las 250 películas de animación mejor valoradas en Letterboxd. Mínimo
       1.000 valoraciones. No se han incluido secuelas de series de anime japonesas,
       estadounidenses o de otros países que necesiten un mayor contexto antes de verlas.
       Las que se incluyen se pueden disfrutar de forma independiente, y he tomado
@@ -1377,7 +1378,18 @@ collections:
       necesario para el disfrute. La razón de esta decisión es que los espectadores
       puedan terminar está lista sin tener que ver una multitud de otros episodios
       y películas.'
-    name: Top 100 Animación
+    name: Top 250 Animación
+  top_100_animation:
+    summary: 'Las 250 películas de animación mejor valoradas en Letterboxd. Mínimo
+      1.000 valoraciones. No se han incluido secuelas de series de anime japonesas,
+      estadounidenses o de otros países que necesiten un mayor contexto antes de verlas.
+      Las que se incluyen se pueden disfrutar de forma independiente, y he tomado
+      la decisión de eliminar las películas que solo hacen un breve resumen (como
+      Steven Universe: The Movie) al principio, que puede no dar la calidad del contexto
+      necesario para el disfrute. La razón de esta decisión es que los espectadores
+      puedan terminar está lista sin tener que ver una multitud de otros episodios
+      y películas.'
+    name: Top 250 Animación
   box_office_mojo_all_time_100:
     summary: Basada en las 100 películas con mayor recaudación mundial, según 
       Box Office Mojo, sin ajuste por inflación. Actualizada mensualmente.

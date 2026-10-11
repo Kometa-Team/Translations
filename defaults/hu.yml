@@ -942,7 +942,8 @@ key_names:
   top_250_documentaries: 250 Dokumentumfilm
   imdb_top_250: IMDb Top 250
   top_100_black_directed: 100 Fekete Által Rendezett
-  top_100_animation: 100 Animáció
+  top_250_animation: 250 Animáció
+  top_100_animation: 250 Animáció
   top_250_horror: 250 Horror
   cannes_palmes_dor_winners: Cannes-i Arany Pálma Nyertesei
   1001_movies_to_see_before_you_die: 1001 Film, Amit Látnod Kell, Mielőtt 
@@ -1438,8 +1439,8 @@ collections:
       Pro és Patron felhasználók mindenkori statisztikai oldalain. A top 100-ról
       top 250-re bővült 2021. június 27-én, a lista 3. évfordulóján.
     name: 250 Dokumentumfilm
-  top_100_animation:
-    summary: '100 legjobban értékelt egész estés animációs film a Letterboxd-on. Minimum
+  top_250_animation:
+    summary: '250 legjobban értékelt egész estés animációs film a Letterboxd-on. Minimum
       1000 értékelés. A sorozatok vagy anime sorozatok (japán, amerikai vagy máshonnan
       származó) folytatásai, amelyekhez nagyobb kontextus szükséges a nézés előtt,
       nem szerepelnek. Azok, amelyek szerepelnek, önmagukban is élvezhetők - és úgy
@@ -1448,7 +1449,18 @@ collections:
       biztosítják a szükséges kontextust az élvezethez. Ennek a döntésnek az oka,
       hogy a nézők anélkül fejezhessék be ezt a listát, hogy számos más epizódot és
       filmet kellene megnézniük.'
-    name: 100 Animáció
+    name: 250 Animáció
+  top_100_animation:
+    summary: '250 legjobban értékelt egész estés animációs film a Letterboxd-on. Minimum
+      1000 értékelés. A sorozatok vagy anime sorozatok (japán, amerikai vagy máshonnan
+      származó) folytatásai, amelyekhez nagyobb kontextus szükséges a nézés előtt,
+      nem szerepelnek. Azok, amelyek szerepelnek, önmagukban is élvezhetők - és úgy
+      döntöttem, hogy eltávolítom azokat a filmeket, amelyek csak rövid összefoglalót
+      adnak (mint például a Steven Universe: The Movie) az elején, és amelyek nem
+      biztosítják a szükséges kontextust az élvezethez. Ennek a döntésnek az oka,
+      hogy a nézők anélkül fejezhessék be ezt a listát, hogy számos más epizódot és
+      filmet kellene megnézniük.'
+    name: 250 Animáció
   imdb_top_250:
     summary: 'Az IMDB top 250-es listája: egyesek szeretik, mások utálják. Természetesen
       lehet vitatkozni a filmek sorrendjén és bizonyos címek jelenlétén vagy hiányán.

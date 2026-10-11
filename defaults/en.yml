@@ -942,7 +942,8 @@ key_names:
   top_250_documentaries: Top 250 Documentaries
   imdb_top_250: IMDb Top 250
   top_100_black_directed: Top 100 Black Directed
-  top_100_animation: Top 100 Animation
+  top_250_animation: Top 250 Animation
+  top_100_animation: Top 250 Animation
   top_250_horror: Top 250 Horror
   cannes_palmes_dor_winners: Cannes Palme d'Or Winners
   1001_movies_to_see_before_you_die: 1,001 To See Before You Die
@@ -1457,8 +1458,8 @@ collections:
       Patron users. Expanded from a top 100 to a top 250 on June 27th, 2021, on 
       the list's 3-year anniversary.
     name: Top 250 Documentaries
-  top_100_animation:
-    summary: "100 highest-rated feature-length animated films on Letterboxd. Minimum
+  top_250_animation:
+    summary: "250 highest-rated feature-length animated films on Letterboxd. Minimum
       1,000 ratings. Sequels to shows or anime series—Japanese, American or from elsewhere—that
       need greater context before watching are not included. Those that are included
       can be enjoyed on a standalone basis—and I've taken the decision to remove films
@@ -1466,7 +1467,17 @@ collections:
       that may not give the quality of context necessary for enjoyment. The rationale
       for this decision is so that viewers can finish this list without having to
       see a multitude of other episodes and films."
-    name: Top 100 Animation
+    name: Top 250 Animation
+  top_100_animation:
+    summary: "250 highest-rated feature-length animated films on Letterboxd. Minimum
+      1,000 ratings. Sequels to shows or anime series—Japanese, American or from elsewhere—that
+      need greater context before watching are not included. Those that are included
+      can be enjoyed on a standalone basis—and I've taken the decision to remove films
+      that only do a brief recap (such as Steven Universe: The Movie) at the beginning
+      that may not give the quality of context necessary for enjoyment. The rationale
+      for this decision is so that viewers can finish this list without having to
+      see a multitude of other episodes and films."
+    name: Top 250 Animation
   imdb_top_250:
     summary: "IMDB's top 250 list: loved by some, hated by others. Of course you can
       argue about the order of movies and the presence or absence of certain titles.

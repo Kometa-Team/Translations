@@ -873,7 +873,8 @@ key_names:
   top_13: Topp 13
   top_12: Topp 12
   top_26: Topp 26
-  top_100_animation: Topp 100 Tecknat
+  top_250_animation: Topp 250 Tecknat
+  top_100_animation: Topp 250 Tecknat
   originals: Original
   president: President
   afi_100_years_100_movies: AFI 100 år 100 filmer
@@ -1241,7 +1242,9 @@ collections:
     name: Topp 250 Flest Fans
   top_250_documentaries:
     name: Topp 250 Dokumentärer
+  top_250_animation:
+    name: Topp 250 Tecknat
   top_100_animation:
-    name: Topp 100 Tecknat
+    name: Topp 250 Tecknat
   imdb_top_250:
     name: IMDb Topp 250 (Letterboxd)
