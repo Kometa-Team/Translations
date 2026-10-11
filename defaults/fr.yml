@@ -1005,6 +1005,11 @@ key_names:
   simkl_trending_week: Tendances de la semaine
   simkl_trending_month: Tendance du mois
   simkl_dvd: Sortie en DVD
+  completed: terminé
+  top_250_animation: Top 250 des animations
+  binged: binged
+  rewatched: revu
+  most_transcoded: Les plus transcodés
 collections:
   bafta_best:
     name: BAFTA Meilleurs films
@@ -1577,3 +1582,14 @@ collections:
     name: Tracearr – Les plus transcrits
     summary: Une collection de <<library_translation>>s comprenant les sessions 
       Tracearr les plus nombreuses nécessitant un transcodage audio ou vidéo.
+  top_250_animation:
+    summary: "Les 250 longs métrages d'animation les mieux notés sur Letterboxd. Minimum
+      1 000 notes. Les suites de séries ou d'animes japonais, américains ou autres
+      qui nécessitent un contexte plus large avant d'être visionnées ne sont pas incluses.
+      Ceux qui sont inclus peuvent être appréciés de manière autonome. J'ai pris la
+      décision de supprimer les films qui ne font qu'un bref résumé (comme Steven
+      Universe: The Movie) au début et qui ne fournissent pas le contexte nécessaire
+      pour en profiter pleinement. La raison de cette décision est de permettre aux
+      spectateurs de terminer cette liste sans avoir à regarder une multitude d'autres
+      épisodes et films."
+    name: Top 250 des animations
