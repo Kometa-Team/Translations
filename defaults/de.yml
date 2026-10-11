@@ -1006,6 +1006,10 @@ key_names:
   simkl_trending_week: Trend der Woche
   simkl_trending_month: Trend des Monats
   simkl_dvd: DVD Veröffentlichung
+  rewatched: noch einmal angesehen
+  most_transcoded: Am häufigsten transkodiert
+  completed: fertiggestellt
+  top_250_animation: Top 250 Animationen
 collections:
   bafta_best:
     name: BAFTA Beste Filme
@@ -1557,3 +1561,42 @@ collections:
       und andere „Raritäten“ wurden entfernt, sodass hier ausschließlich 
       Spielfilme in Spielfilmlänge aufgeführt sind. Filme müssen mindestens 
       25.000 Bewertungen haben, um in die Liste aufgenommen zu werden.
+  tracearr_popular:
+    name: Tracearr Beliebt
+    summary: Eine Sammlung von <<library_translation>>s, die von den meisten 
+      einzigartigen Tracearr-Nutzern angesehen wurden.
+  tracearr_watched:
+    name: Tracearr Beobachtet
+    summary: Eine Sammlung von <<library_translation>>s mit den am 
+      vollständigsten ausgeführten Tracearr-Sitzungen.
+  tracearr_trending:
+    name: Tracearr Trending
+    summary: Eine Sammlung der aktivsten <<library_translation>>s aus dem 
+      aktuellen Tracearr-Beobachtungsverlauf.
+  tracearr_rewatched:
+    name: Tracearr Erneut angesehen
+    summary: Eine Sammlung von <<library_translation>>s, die wiederholt vom 
+      selben Tracearr-Benutzer abgespielt wurden.
+  tracearr_completed:
+    name: Tracearr Abgeschlossen
+    summary: Eine Sammlung der zuletzt abgeschlossenen <<library_translation>>s 
+      aus dem Tracearr-Änderungsverlauf.
+  tracearr_binged:
+    summary: Eine Sammlung von Serien mit den meisten verschiedenen 
+      abgeschlossenen Episoden, die von einem einzelnen Tracearr-Nutzer 
+      angesehen wurden.
+  tracearr_transcoded:
+    name: Tracearr – Am häufigsten transkodiert
+    summary: Eine Sammlung von <<library_translation>>s mit den meisten 
+      Tracearr-Sitzungen, die eine Audio- oder Videotranskodierung erfordern.
+  top_250_animation:
+    summary: 'Die 250 höchstbewerteten Spielfilme im Bereich Animation auf Letterboxd.
+      Mindestens 1.000 Bewertungen. Fortsetzungen von Shows oder Anime-Serien – japanisch,
+      amerikanisch oder aus anderen Ländern – die mehr Kontext erfordern, bevor man
+      sie schaut, sind nicht enthalten. Die enthaltenen Filme können eigenständig
+      genossen werden. Es wurden Filme entfernt, die nur eine kurze Zusammenfassung
+      bieten (wie *Steven Universe: The Movie*), da diese möglicherweise nicht den
+      nötigen Kontext für ein vollständiges Verständnis bieten. Die Entscheidung wurde
+      getroffen, damit Zuschauer diese Liste abschließen können, ohne eine Vielzahl
+      anderer Episoden und Filme sehen zu müssen.'
+    name: Top 250 Animationen
