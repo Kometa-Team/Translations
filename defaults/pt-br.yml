@@ -6,17 +6,17 @@ variables:
     video: vídeo
     item: itens
   library_translation2:
-    movie: ''
-    artist: ''
-    video: ''
-    item: ''
-    show: ''
+    movie: 'filme'
+    artist: 'artista'
+    video: 'vídeo'
+    item: 'itens'
+    show: 'séries'
   library_translation3:
-    movie: ''
-    show: ''
-    artist: ''
-    video: ''
-    item: ''
+    movie: 'filme'
+    show: 'séries'
+    artist: 'artista'
+    video: 'vídeo'
+    item: 'itens'
 key_names:
   action: Ação
   action_adventure: Ação e Aventura
@@ -240,21 +240,22 @@ key_names:
   afghanistan: ''
   tonga: ''
   winners: ''
-  aragonese: ''
-  armenian: ''
-  asian_american_pacific_islander_heritage_month: ''
-  assamese: ''
-  assassin: ''
-  avaric: ''
-  avestan: ''
-  aymara: ''
-  azerbaijani: ''
-  bambara: ''
-  based_on: ''
-  based_on_a_book: ''
-  based_on_a_comic: ''
-  based_on_a_true_story: ''
-  based_on_a_video_game: ''
+  aragonese: 'Aragonês'
+  armenian: 'Armênio'
+  asian_american_pacific_islander_heritage_month: 'Mês da Herança Asiático-Americana
+    e das Ilhas do Pacífico'
+  assamese: 'Assamês'
+  assassin: 'Assassino'
+  avaric: 'Avaric'
+  avestan: 'avéstico'
+  aymara: 'Aymara'
+  azerbaijani: 'Azerbaijano'
+  bambara: 'Bambara'
+  based_on: 'Com base em...'
+  based_on_a_book: 'Baseado em um livro'
+  based_on_a_comic: 'Baseado em uma história em quadrinhos'
+  based_on_a_true_story: 'Baseado em uma história real'
+  based_on_a_video_game: 'Baseado em um videogame'
   content_ratings: ''
   cornish: ''
   franchise: ''
@@ -264,23 +265,23 @@ key_names:
   irish: ''
   rundi: ''
   subtitle: ''
-  4/20: ''
-  abkhazian: ''
-  actor: ''
-  afar: ''
-  afrikaans: ''
-  age: ''
-  airing_today: ''
-  akan: ''
-  amharic: ''
+  4/20: '4/20'
+  abkhazian: 'Abcásio'
+  actor: 'Ator'
+  afar: 'Afar'
+  afrikaans: 'afrikaans'
+  age: 'Idade'
+  airing_today: 'No ar hoje'
+  akan: 'Akan'
+  amharic: 'Amárico'
   shona: ''
   volapük: ''
   walloon: ''
   war: ''
-  bashkir: ''
-  belarusian: ''
-  best_director_winners: ''
-  best_picture_winner: ''
+  bashkir: 'Bashkir'
+  belarusian: 'bielorrusso'
+  best_director_winners: 'Vencedores na categoria de Melhor Diretor'
+  best_picture_winner: 'Vencedor do prêmio de Melhor Filme'
   best_picture_winners: ''
   best_of: ''
   bislama: ''
@@ -511,8 +512,8 @@ key_names:
 collections:
   bafta_best:
     name: Melhores Filmes BAFTA
-    summary: Vencedores do Melhor Filme da Academia Britânica de Artes Cinematográficas
-      e Televisão.
+    summary: Vencedores do Melhor Filme da Academia Britânica de Artes 
+      Cinematográficas e Televisão.
   bafta_year:
     name: BAFTA <<key_name>>
     summary: <<key_name>> Prêmio BAFTA.
@@ -539,52 +540,55 @@ collections:
     summary: <<key_name>> Vencedores do Globo de Ouro.
   oscars_picture:
     name: Vencedores do Oscar de Melhor Filme
-    summary: O Oscar de Melhor Filme é um dos prêmios da Academia apresentados anualmente
-      pela Academia de Artes e Ciências Cinematográficas desde que os prêmios estreou
-      em 1929.
+    summary: O Oscar de Melhor Filme é um dos prêmios da Academia apresentados 
+      anualmente pela Academia de Artes e Ciências Cinematográficas desde que os
+      prêmios estreou em 1929.
   oscars_director:
     name: Vencedores do Oscar de Melhor Diretor
-    summary: O Oscar de Melhor Diretor é um dos prêmios da Academia apresentados anualmente
-      pela Academia de Artes e Ciências Cinematográficas desde que os prêmios estreou
-      em 1929.
+    summary: O Oscar de Melhor Diretor é um dos prêmios da Academia apresentados
+      anualmente pela Academia de Artes e Ciências Cinematográficas desde que os
+      prêmios estreou em 1929.
   oscars_year:
     name: Vencedores do Oscar <<key_name>>
     summary: Vencedores da Academia do Oscar de <<key_name>>.
   berlinale_best:
     name: Prêmio Berlinale Golden Bears
-    summary: Até 400 filmes são exibidos todos os anos como parte do programa público
-      da Berlinale (Festival Internacional de Cinema de Berlim), a grande maioria
-      dos quais são estreias mundiais ou europeias. Filmes de todos os gêneros, duração
-      e formato podem ser enviados para consideração. O Urso de Ouro (Goldener Bär
-      alemão) é o maior prêmio concedido ao melhor filme exibido durante este festival.
+    summary: Até 400 filmes são exibidos todos os anos como parte do programa 
+      público da Berlinale (Festival Internacional de Cinema de Berlim), a 
+      grande maioria dos quais são estreias mundiais ou europeias. Filmes de 
+      todos os gêneros, duração e formato podem ser enviados para consideração. 
+      O Urso de Ouro (Goldener Bär alemão) é o maior prêmio concedido ao melhor 
+      filme exibido durante este festival.
   cesar_best:
     name: Vencedores do Prêmio César de Melhor Filme
-    summary: O Prêmio César é o prêmio nacional de cinema da França, concedido pela
-      primeira vez em 1975. As indicações são selecionadas pelos membros da Académie
-      des Arts et Techniques du Cinéma. O nome do prêmio vem do escultor César Baldaccini.
-      Eles são considerados o equivalente francês do American Academy Awards.
+    summary: O Prêmio César é o prêmio nacional de cinema da França, concedido 
+      pela primeira vez em 1975. As indicações são selecionadas pelos membros da
+      Académie des Arts et Techniques du Cinéma. O nome do prêmio vem do 
+      escultor César Baldaccini. Eles são considerados o equivalente francês do 
+      American Academy Awards.
   razzie_worst:
     name: Vencedores do Prêmio Razzies Golden Raspberry
-    summary: O Prêmio Framboesa de Ouro de Pior Filme é um prêmio concedido no prêmio
-      anual Framboesa de Ouro ao pior filme do ano passado.
+    summary: O Prêmio Framboesa de Ouro de Pior Filme é um prêmio concedido no 
+      prêmio anual Framboesa de Ouro ao pior filme do ano passado.
   venice_best:
     name: Prêmio Venice Golden Lions
-    summary: O Festival de Cinema de Veneza é o festival de cinema mais antigo do
-      mundo. Fundado em 1932, o festival acontece todos os anos em Veneza, na Itália.
-      Faz parte da Bienal de Veneza, uma grande exposição bienal e festival de arte
-      contemporânea. O prêmio Leone d'Oro (Leão de Ouro) do festival é concedido ao
-      melhor filme exibido no festival.
+    summary: O Festival de Cinema de Veneza é o festival de cinema mais antigo 
+      do mundo. Fundado em 1932, o festival acontece todos os anos em Veneza, na
+      Itália. Faz parte da Bienal de Veneza, uma grande exposição bienal e 
+      festival de arte contemporânea. O prêmio Leone d'Oro (Leão de Ouro) do 
+      festival é concedido ao melhor filme exibido no festival.
   spirit_year:
     name: Prêmio Independent Spirit <<key_name>>
     summary: <<key_name>> Prêmio Independent Spirit.
   sundance_best:
     name: Vencedores Prêmio do Sundance Grand Jury
-    summary: O Sundance Film Festival é um festival de cinema que acontece anualmente
-      no estado de Utah, nos Estados Unidos. É o maior festival de cinema independente
-      dos EUA Realizado em janeiro, o festival é a principal vitrine para novos trabalhos
-      de cineastas independentes americanos e internacionais. O festival compreende
-      seções competitivas para filmes dramáticos e documentários americanos e internacionais,
-      longas-metragens e curtas-metragens, e um grupo de seções de exibição não competitivas.
+    summary: O Sundance Film Festival é um festival de cinema que acontece 
+      anualmente no estado de Utah, nos Estados Unidos. É o maior festival de 
+      cinema independente dos EUA Realizado em janeiro, o festival é a principal
+      vitrine para novos trabalhos de cineastas independentes americanos e 
+      internacionais. O festival compreende seções competitivas para filmes 
+      dramáticos e documentários americanos e internacionais, longas-metragens e
+      curtas-metragens, e um grupo de seções de exibição não competitivas.
   sundance_year:
     name: Festival de Cinema de Sundance <<key_name>>
     summary: Festival de Cinema de Sundance de <<key_name>>.
@@ -608,17 +612,19 @@ collections:
     summary: Uma coleção de episódios recém-lançados <<library_translation>>s.
   flixpatrol:
     name: <<key_name>> Top <<limit>>
-    summary: Top <<limit>> <<library_translation>>s da <<key_name>> de acordo com
-      FlixPatrol.
+    summary: Top <<limit>> <<library_translation>>s da <<key_name>> de acordo 
+      com FlixPatrol.
   imdb_popular:
     name: Popular no IMDb
-    summary: Lista dos mais populares de acordo com IMDb <<library_translation>>s.
+    summary: Lista dos mais populares de acordo com IMDb 
+      <<library_translation>>s.
   imdb_top:
     name: Top 250 no IMDb
     summary: Lista dos Top 250 de acordo com IMDb <<library_translation>>s.
   imdb_lowest:
     name: Classificação baixa no IMDb
-    summary: Lista com classificação mais baixa de acordo com IMDb <<library_translation>>s.
+    summary: Lista com classificação mais baixa de acordo com IMDb 
+      <<library_translation>>s.
   mal_popular:
     name: Popular no MyAnimeList
     summary: Uma coleção dos animes mais populares de acordo com MyAnimeList.
@@ -630,20 +636,22 @@ collections:
     summary: Uma coleção dos animes mais votado de acordo com MyAnimeList.
   mal_airing:
     name: Melhores em exibição no MyAnimeList
-    summary: Uma coleção dos animes mais votado atualmente no ar de acordo com MyAnimeList.
+    summary: Uma coleção dos animes mais votado atualmente no ar de acordo com 
+      MyAnimeList.
   mal_season:
     name: Temporada Atual no MyAnimeList
-    summary: Uma coleção dos Animes da Atual Temporada de acordo com MyAnimeList.
+    summary: Uma coleção dos Animes da Atual Temporada de acordo com 
+      MyAnimeList.
   anidb_popular:
     name: Popular no AniDB
     summary: Uma coleção dos animes mais populares no AniDB.
   commonsense_selection:
     name: Uma Seleção de Common Sense
-    summary: Uma coleção de Common Sense <<library_translation>>s. Common Sense reconhece
-      o entretenimento excepcional com um selo oficial de qualidade e impacto. As
-      seleções de Common Sense incluem mídia apropriada para a idade com o potencial
-      de desencadear conversas em família, entreter famílias de todos os tipos e ter
-      um efeito positivo e duradouro na sociedade.
+    summary: Uma coleção de Common Sense <<library_translation>>s. Common Sense 
+      reconhece o entretenimento excepcional com um selo oficial de qualidade e 
+      impacto. As seleções de Common Sense incluem mídia apropriada para a idade
+      com o potencial de desencadear conversas em família, entreter famílias de 
+      todos os tipos e ter um efeito positivo e duradouro na sociedade.
   stevenlu_popular:
     name: Filmes populares de StevenLu's
     summary: Uma coleção de filmes mais populares de StevenLu's.
@@ -661,13 +669,16 @@ collections:
     summary: Uma coleção de Séries com episódios que vão ao ar hoje.
   tmdb_air:
     name: No ar TMDb
-    summary: Uma coleção de Séries que ainda estão exibindo episódios atualmente.
+    summary: Uma coleção de Séries que ainda estão exibindo episódios 
+      atualmente.
   tmdb_popular:
     name: Popular no TMDb
-    summary: Uma coleção dos mais vistos <<library_translation>>s de acordo com TMDb.
+    summary: Uma coleção dos mais vistos <<library_translation>>s de acordo com 
+      TMDb.
   tmdb_top:
     name: Mais votado no TMDb
-    summary: Uma coleção dos mais votados <<library_translation>>s de acordo com TMDb.
+    summary: Uma coleção dos mais votados <<library_translation>>s de acordo com
+      TMDb.
   tmdb_trending:
     name: Tendência no TMDb
     summary: Uma coleção de <<library_translation>>s em tendência no TMDb.
@@ -700,19 +711,19 @@ collections:
     summary: <<library_translationU>>s filmado em outras línguas.
   collectionless:
     name: Sem coleção
-    summary: <<library_translationU>>s usado apenas para fazer com que o Plex exiba
-      itens corretamente.
+    summary: <<library_translationU>>s usado apenas para fazer com que o Plex 
+      exiba itens corretamente.
   content_rating:
     name: <<key_name>> <<library_translationU>>s
     summary: <<library_translationU>>s que são classificados <<key_name>>.
   content_rating_cs:
     name: Idade <<key_name>>+ <<library_translationU>>s
-    summary: <<library_translationU>>s que são classificados <<key_name>> de acordo
-      com Sistema de classificação do Common Sense .
+    summary: <<library_translationU>>s que são classificados <<key_name>> de 
+      acordo com Sistema de classificação do Common Sense .
   content_rating_other:
     name: Não avaliado <<library_translationU>>s
-    summary: <<library_translationU>>s que estão sem classificação ou quaisquer outras
-      classificações.
+    summary: <<library_translationU>>s que estão sem classificação ou quaisquer 
+      outras classificações.
   country:
     name: <<key_name>>
     summary: <<library_translationU>>s filmado no <<key_name>>.
@@ -742,8 +753,8 @@ collections:
     summary: <<library_translationU>>s que têm outras resoluções.
   seasonal:
     name: <<key_name>> <<library_translationU>>s
-    summary: Uma coleção de <<key_name>> <<library_translation>>s que podem estar
-      relacionados com a temporada.
+    summary: Uma coleção de <<key_name>> <<library_translation>>s que podem 
+      estar relacionados com a temporada.
   streaming:
     name: <<key_name>> <<library_translationU>>s
     summary: <<library_translationU>>s transmitindo por <<key_name>>.
