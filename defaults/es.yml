@@ -989,6 +989,30 @@ key_names:
   backroads_horror: Terror en Caminos Rurales
   movies_leaving_soon: Películas que dejarán de estar disponibles pronto
   popular_movies: Películas Populares
+  movies_that_defined_our_childhood: Películas que marcaron nuestra infancia
+  wedding: Boda
+  bottle: Botella
+  award_shows: Galas de premios
+  sinister_screens: Pantallas siniestras
+  top_250_international: Las 250 principales a nivel internacional
+  top_250_sci-fi_films: Las 250 mejores películas de ciencia ficción
+  top_100_western_films: Las 100 mejores películas del Oeste
+  top_100_silent_films: Las 100 mejores películas mudas
+  one_million_watched_club: Club del Millón de Visitas
+  top_250_black_directed: Las 250 mejores películas dirigidas por directores 
+    negros
+  plex_random: Plex Random
+  letterboxd_top_500: Letterboxd Top 250
+  top_500: Top 500
+  simkl_trending_today: Tendencias de hoy
+  simkl_trending_week: Tendencias de la semana
+  simkl_trending_month: Tendencias del mes
+  simkl_dvd: Lanzamiento en DVD
+  binged: binged
+  rewatched: volví a verlo
+  most_transcoded: Más transcodificados
+  completed: Completado
+  top_250_animation: Las 250 mejores animaciones
 collections:
   bafta_best:
     name: BAFTA Mejores Películas
@@ -1504,3 +1528,68 @@ collections:
     name: 'Tracearr: los más transcodificados'
     summary: Una recopilación de <<library_translation>> con el mayor número de 
       sesiones de Tracearr que requieren transcodificación de audio o vídeo.
+  simkl_trending_today:
+    name: 'SIMKL: Tendencias de hoy'
+    summary: Una recopilación de la lista «Tendencias de hoy» de SIMKL.
+  simkl_trending_week:
+    name: Tendencias de SIMKL esta semana
+    summary: Una recopilación de la lista de tendencias de esta semana de SIMKL.
+  simkl_trending_month:
+    name: Tendencias de SIMKL este mes
+    summary: Una recopilación de la lista de tendencias de este mes de SIMKL.
+  simkl_dvd:
+    name: SIMKL, recientemente lanzado en DVD
+    summary: Una recopilación de la lista de títulos de SIMKL lanzados 
+      recientemente en DVD.
+  top_250_black_directed:
+    name: Las 250 mejores películas dirigidas por directores negros
+    summary: Ordenado por la calificación promedio de los usuarios. La lista se 
+      generó principalmente gracias a esta mega lista de películas dirigidas por
+      cineastas afroamericanos. Se actualizará mensualmente. Como un proyecto de
+      lista oficial basado en las estadísticas de los usuarios Pro y Patron.
+  top_250_international:
+    name: Las 250 principales a nivel internacional
+    summary: Las 250 mejores películas de acción real no anglófonas en 
+      Letterboxd. Las películas elegibles deben tener al menos 2.500 
+      valoraciones y se excluyen las miniseries, los documentales, las películas
+      de animación y los cortometrajes.
+  top_250_sci-fi_films:
+    name: Las 250 mejores películas de ciencia ficción
+    summary: Las 250 mejores películas de ciencia ficción en Letterboxd. Las 
+      películas deben ser largometrajes, haber sido valoradas por al menos 3.000
+      usuarios y tener al menos 100 «me gusta».
+  top_100_western_films:
+    name: Las 100 mejores películas del Oeste
+    summary: Las 100 mejores películas narrativas del género western en 
+      Letterboxd según la puntuación media de los usuarios.
+  top_100_silent_films:
+    name: Las 100 mejores películas mudas
+    summary: Las 250 mejores películas mudas en Letterboxd. Las películas deben 
+      ser mudas, haber sido valoradas por al menos 1.000 usuarios y tener una 
+      duración de diez minutos o más.
+  one_million_watched_club:
+    name: Club del Millón de Visitas
+    summary: La lista oficial del «One Million Watched Club» de Letterboxd, con 
+      todos los largometrajes que han visto al menos 1 000 000 de miembros de 
+      Letterboxd.
+  tautulli_random:
+    summary: Una recopilación de <<library_translation>>s aleatorios en Plex.
+  letterboxd_top_500:
+    summary: Las 500 mejores películas de Letterboxd, según la puntuación media 
+      ponderada de todos los usuarios de Letterboxd. Se han eliminado todos los 
+      especiales de monólogos, obras de teatro, películas de conciertos, 
+      documentales, cortometrajes, «listas de colecciones» y otras «rarezas», 
+      por lo que aquí solo aparecen largometrajes narrativos. Las películas 
+      deben tener un mínimo de 25 000 valoraciones para poder entrar en la 
+      lista.
+  top_250_animation:
+    summary: 'Las 250 películas de animación de larga duración mejor valoradas en
+      Letterboxd. Mínimo de 1.000 valoraciones. No se incluyen las secuelas de series
+      o animes —japoneses, estadounidenses o de cualquier otro lugar— que requieran
+      un mayor contexto antes de verlas. Las que sí se incluyen pueden disfrutarse
+      de forma independiente, y he tomado la decisión de eliminar aquellas películas
+      que solo ofrecen un breve resumen al principio (como *Steven Universe: La película*),
+      lo que podría no proporcionar el contexto necesario para disfrutarlas plenamente.
+      El motivo de esta decisión es que los espectadores puedan completar esta lista
+      sin tener que ver multitud de otros episodios y películas.'
+    name: Las 250 mejores animaciones
