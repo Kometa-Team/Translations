@@ -945,6 +945,8 @@ key_names:
   top_grossing_films_annually: Film con il maggior incasso ogni anno
   returning_soon: A presto
   caper: Caper
+  chick_flick: Film per ragazze
+  coming_of_age: Il passaggio all'età adulta
 collections:
   bafta_best:
     name: BAFTA Miglior Film
