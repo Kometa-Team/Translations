@@ -807,7 +807,7 @@ key_names:
   pandemic: Pandemie
   paranormal: Paranormal
   top_grossing_films_of_all-time: FIlme mit den höchsten Einspielergebnissen 
-    aller Zeiten
+    allerzeiten
   weather: Wetter
   witch: Hexe
   south_korea: Südkorea
@@ -1010,6 +1010,7 @@ key_names:
   most_transcoded: Am häufigsten transkodiert
   completed: fertiggestellt
   top_250_animation: Top 250 Animationen
+  binged: binged
 collections:
   bafta_best:
     name: BAFTA Beste Filme
@@ -1393,7 +1394,7 @@ collections:
     name: Metacritic - Unbedingt ansehen
   venice_year:
     summary: <<key_name>> Venice Award Gewinner.
-    name: Venice <<key_name>>
+    name: Venedig <<key_name>>
   tiff_year:
     name: Toronto International Film Festival <<key_name>>
     summary: <<key_name>> Toronto International Film Festival Award Gewinner.
@@ -1585,6 +1586,7 @@ collections:
     summary: Eine Sammlung von Serien mit den meisten verschiedenen 
       abgeschlossenen Episoden, die von einem einzelnen Tracearr-Nutzer 
       angesehen wurden.
+    name: Tracearr Binged
   tracearr_transcoded:
     name: Tracearr – Am häufigsten transkodiert
     summary: Eine Sammlung von <<library_translation>>s mit den meisten 
