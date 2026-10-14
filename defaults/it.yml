@@ -941,6 +941,10 @@ key_names:
   simkl_trending_today: In Tendenza Oggi
   simkl_trending_week: In Tendenza questa Settimana
   simkl_dvd: Uscite in DVD
+  the_arts: Le arti
+  top_grossing_films_annually: Film con il maggior incasso ogni anno
+  returning_soon: A presto
+  caper: Caper
 collections:
   bafta_best:
     name: BAFTA Miglior Film
